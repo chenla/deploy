@@ -1,0 +1,68 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Deploy
+#+STARTUP: showall
+#+PROPERTY: filename 
+#+INCLUDE: ./inc/head.org
+#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/deerpig/deerpig-install/index.org
+  :Created: 2016-08-20T16:40@Wat Phnom (11.5733N17-104.925295W)
+  :ID: 5995dc73-91da-4940-bae1-efb75ce040d4
+  :URL:
+  :END:
+#+INCLUDE: ./inc/macros.org
+#+INCLUDE: ./inc/links.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* About these pages
+
+#+begin_quote
+Deploy is basically taking all the work in the prolog,
+primer, bmf and the hoard; then config, build and deploy to
+create a functioning distributed technological society.
+
+It's not a plan, and it's not top down -- it is a bottom up
+iterative process -- which mostly likely /won't work/, but
+perhaps will result in some useful things that can be used
+and are useful.
+#+end_quote
+
+* Recent Activity
+
+Recent change activity on http://github.com/deerpig/deerpig-install
+
+#+BEGIN_SRC sh :exports results :results silent
+githubchart -u deerpig ~/proj/img/contrib.svg
+#+END_SRC
+
+#+RESULTS:
+
+[[~/proj/img/contrib.svg]]
+
+#+HTML: <div class="contrib-legend text-small text-muted" title="A summary of pull requests, issues opened, and commits to the default and gh-pages branches.">
+#+HTML:  <span>Less</span>
+#+HTML:   <ul class="legend">
+#+HTML:     <li style="background-color: #eee"></li>
+#+HTML:     <li style="background-color: #d6e685"></li>
+#+HTML:     <li style="background-color: #8cc665"></li>
+#+HTML:     <li style="background-color: #44a340"></li>
+#+HTML:     <li style="background-color: #1e6823"></li>
+#+HTML:   </ul>
+#+HTML:  <span>More</span>
+#+HTML: </div>
+
+* Table of Contents
+
+ - [[./deloy-movement.org][Movement]]
+ - Mythos
+ - Community
+ - [[./deploy-calendar.org][Calendar]]
+ - Infrastructure
