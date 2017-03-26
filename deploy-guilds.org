@@ -62,6 +62,12 @@ will be coordinated by networks
 
 People will belong to and have equity in multiple overlapping Shops of
 2-20 people -- orders will come in on the network which they bid on.
+Each shop will leverage information and robotics to automate wherever
+is practical.  This will make it possible for small human scale
+enterprises to be able to produce goods and services at scales that
+would be otherwise impossible.  In this way we can support a
+technologically advanced civlization with a shrinking population and
+civilization become distributed.
 
 Production chains will be organized into guilds of shops that are
 interdependent.  But there are also other types of guilds --
@@ -70,6 +76,12 @@ something similar to each other everywhere -- they provide R&D,
 education and quality control as well as seed new shops in bioregions
 that need them -- they are the keepers of the knowledge for that class
 of shops.
+
+
+This design doesn't address how massive infrastructure projects are
+completed -- like bridges, dams, jumbo-jets, or massive buildings like
+airports or stadiums.  This will require another class of enterprise
+that isn't obvious to me right now.  Working on that....
 
 
 * Guilds
