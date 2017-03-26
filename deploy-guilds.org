@@ -48,6 +48,30 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+The big picture goes something like this:
+
+Planets are divided into bioregions of about 2m each, these are
+largely self-sustaining areas adapted to a specific environment.
+
+The bioregion has a distributed mesh network that provides
+communication, a fnord-chain (or whatever that's gonna be called) and
+a token system based on energy.
+
+Governance, Infrastructure, Supply Chains, Production and Logistics
+will be coordinated by networks
+
+People will belong to and have equity in multiple overlapping Shops of
+2-20 people -- orders will come in on the network which they bid on.
+
+Production chains will be organized into guilds of shops that are
+interdependent.  But there are also other types of guilds --
+professional guilds which are global, that connect all shops that do
+something similar to each other everywhere -- they provide R&D,
+education and quality control as well as seed new shops in bioregions
+that need them -- they are the keepers of the knowledge for that class
+of shops.
+
+
 * Guilds
 
 There are two kinds of guilds,  are often defined as an association of
