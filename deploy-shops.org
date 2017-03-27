@@ -53,7 +53,6 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
   - [[https://en.wikipedia.org/wiki/Laboratory][Laboratory]]  | Wikipedia
   - [[https://en.wikipedia.org/wiki/Hackerspace][Hackerspace]] | Wikipedia
 
-
   - the right size
   - standardization
   - modular
@@ -74,7 +73,14 @@ Things are produced that are high in quality, often bespoke, and
 artisanal.
 
 
-shops are also called studios, and workshops.  I like the french word
+shops short for workshop.  I like the french word
 /atelier/ because of its connotations with being the home of an
 alchemist of wizard (wikipedia: studio).
+
+other terms such as studio and laboratory are also shops but don't
+have the retail or commercial connotation that shop has.
+
+more recently the term hackspace has emerged -- which is sort of part
+workshop, office, and classroom.
+
 
