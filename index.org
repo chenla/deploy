@@ -66,4 +66,5 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - Community
  - [[./deploy-calendar.org][Calendar]]
  - Infrastructure
+ - [[./deploy-shops.org][Shops]]
  - [[./deploy-guilds.org][Guilds]]
