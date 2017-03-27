@@ -48,6 +48,12 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+  - [[https://en.wikipedia.org/wiki/Workshop][Workshop]]    | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Studio][Studio]]      | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Laboratory][Laboratory]]  | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Hackerspace][Hackerspace]] | Wikipedia
+
+
   - the right size
   - standardization
   - modular
@@ -56,3 +62,19 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 I've certainly been thinking about this a very long time, and yet here
 I am trying to write it all out and I'm a little at a loss.
+
+When I say shop here, I don't mean a retail store, though many shops
+will also have a retail front end, like a bakery, deli, repair shop.  But
+many shops don't premake retail goods.
+
+A shop is a place where things are made, usually with a master and a
+small number of employees and a long time ago, apprentices.
+
+Things are produced that are high in quality, often bespoke, and
+artisanal.
+
+
+shops are also called studios, and workshops.  I like the french word
+/atelier/ because of its connotations with being the home of an
+alchemist of wizard (wikipedia: studio).
+
