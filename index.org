@@ -69,3 +69,4 @@ githubchart -u deerpig ~/proj/img/contrib.svg
  - [[./deploy-shops.org][Shops]]
  - [[./deploy-guilds.org][Guilds]]
  - [[./deploy-health.org][Health]]
+ - [[./deploy-social.org][Social Structures]]
