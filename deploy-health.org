@@ -56,6 +56,8 @@ but we need to get started on it asap.
 Everyone is entitled to full healthcare from cradle to grave -- no
 exceptions.
 
+* Problems
+
 Healthcare is a mess for any number of reasons:
 
   - it's being done for profit (hospitals, insurance companies & doctors)
@@ -68,3 +70,32 @@ Healthcare is a mess for any number of reasons:
   - politics, inequality, racism, sexism and religious boneheads
   - patents patents patents
 
+* Brainstorming
+
+The following is nothing more than brainstorming, to come up with
+ideas that could be developed further.
+
+The first line of defence is the pharmacies -- add them to the
+network, and give them a terminal so they can look up patient records
+and make first-pass diagnosis -- should have bloodpressure, heart
+monitor, and temp -- patient comes in and takes all three, it's fed
+into their record and pharmacist makes decision to provide medication
+or send them to clinic.  Collective buys drugs in bulk and sells at
+cost to pharmacies -- people are given vouchers for getting free
+medications if they go through the testing system first.
+
+Build modular clinics that are distributed around bioregions -- they
+are designed to monitor and manage health -- and deal with minor
+illness and injury.
+
+If more advanced expertise is required -- tele-presense can bring in
+expert consultation.
+
+Small drones can pick up samples and brought to labs for testing.
+
+More advanced testing -- MRIs etc can be brought by drone dropships --
+used and then picked up and moved to the next location.
+
+Eventually, surgery will be completely replaced by robots -- robots
+will be far better and cheaper than people ever could be.  Robotic
+surgeries could even be mobile 
