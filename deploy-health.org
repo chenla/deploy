@@ -1,0 +1,70 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Healthcare
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/deploy/deploy-health.org
+  :Created: 2017-03-28T10:51@Prek Leap (11.642600N-104.919210W)
+  :ID: 68902717-01c2-44ca-b017-b8a3558ae3b9
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+Remember -- no promises -- deliver on day one.
+
+Healthcare is a difficult subject that I've not really begun to tackle
+but we need to get started on it asap.
+
+Everyone is entitled to full healthcare from cradle to grave -- no
+exceptions.
+
+Healthcare is a mess for any number of reasons:
+
+  - it's being done for profit (hospitals, insurance companies & doctors)
+  - equipment is made for profit
+  - drugs are made for profit
+  - it's not evenly distributed
+  - little attempt to keep people healthy instead of waiting until
+    they get sick -- would save a lot of resouces.
+  - governments are inefficient - but are better than for-profit orgs
+  - politics, inequality, racism, sexism and religious boneheads
+  - patents patents patents
+
