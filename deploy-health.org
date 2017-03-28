@@ -99,3 +99,11 @@ used and then picked up and moved to the next location.
 Eventually, surgery will be completely replaced by robots -- robots
 will be far better and cheaper than people ever could be.  Robotic
 surgeries could even be mobile 
+
+* MRI
+
+ - [[http://www.opensourceimaging.org/][Open Source Imaging]] 
+ - [[http://hackaday.com/2015/05/04/hackaday-prize-entry-a-low-cost-open-source-mri/][Hackaday Prize Entry: A Low Cost, Open Source MRI]] | Hackaday
+ - [[https://hackaday.io/project/5030-low-field-mri][low-field MRI]] | Hackaday.io
+
+ - [[http://www.tricorderproject.org/blog/towards-an-inexpensive-open-source-desktop-ct-scanner/][Towards an inexpensive open-source desktop CT scanner]] | the Tricorder project
