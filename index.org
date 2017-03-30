@@ -47,7 +47,7 @@ still don't know how all of this will shape up.  Time will tell.
 
 * Recent Activity
 
-Recent change activity on http://github.com/deerpig/deerpig-install
+Recent change activity on http://github.com/chenla/deploy
 
 #+BEGIN_SRC sh :exports results :results silent
 githubchart -u deerpig ~/proj/img/contrib.svg
