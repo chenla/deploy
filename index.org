@@ -33,6 +33,16 @@ It's not a plan, and it's not top down -- it is a bottom up
 iterative process -- which mostly likely /won't work/, but
 perhaps will result in some useful things that can be used
 and are useful.
+
+Files have different prefixes:
+
+  - deploy :: general concepts & design
+  - shop   :: specific shop
+  - guild  :: specific guild
+  - lab    :: b>i laboratories
+
+We may have to split these up into different repos, but I
+still don't know how all of this will shape up.  Time will tell.
 #+end_quote
 
 * Recent Activity
