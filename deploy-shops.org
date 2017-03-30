@@ -58,3 +58,75 @@ more recently the term hackspace has emerged -- which is sort of part
 workshop, office, and classroom.
 
 
+* Shops and Labs
+
+Text based on:  NOTES <2015-11-22 Sun 13:33> Modules -- Shops and Institutes
+
+Since we are trying to build a civilization here -- we need to keep
+focused on production -- that means we identify professions which are
+made up of a number of specialties, processes and outputs.
+
+So in a way we need to start with workshops -- and what each will
+produce, what tools they will use, what processes are used to do
+production and then what they can output -- and the goal here is for
+each shop to support a bootstrap community of 3-5,000 individuals
+which are broken into 30 dunbar unit villages.  That's not right --
+each dunbar unit should be of working individuals -- and not count
+small children, the ill or elderly who are no longer a productive
+segment of society.  At any one time it will also include working
+individuals who are taking leave for child rearing, or sabbaticals
+etc.
+
+So in a sense we are starting with the plan of St Gall -- with all of
+the shops and other organization, and use this as a baseline, sort of
+like Websters Dict was used by the OED...
+
+  - Bamboo
+  - Concrete & Artifical Stones
+    - Cements (portand, roman)
+    - Pipes, Posts, Beams
+    - Slabs
+    - Blocks, cinder,
+
+  - Rammed Earth, Clays, Ceramics
+    - Walls, floors, footings
+    - Bricks & Paving Tiles
+    - Firebricks, bricks
+    - Roof tiles, glazed tiles
+    - Pottery
+      - wheels, ropes
+      - glazes
+      - containers, pots, jars
+      - plates, cups
+      - pipes
+    - Glass
+
+
+  - Anaerobic Processes
+    - Charcoal Production
+    - Kilns
+    - Gasification
+    - Lime?
+
+  - Stone
+    - quarried
+    - cut
+    - crushed
+    - carved
+
+--------
+
+  - 3D Scanner -- large format
+  - CADD Software OSS
+  - Book Scanner
+  - CNC Plasma/Laser Cutter
+  - CNC Mill
+
+  - IRC Server
+  - PNCA Web Site
+  - Kinto Web Site
+    - NGO Package
+    - SMB Package
+  - The Knowledge: Applied
+    - Essential Tools -- kevin kelly
+
