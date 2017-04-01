@@ -40,6 +40,7 @@ Files have different prefixes:
   - shop   :: specific shop
   - guild  :: specific guild
   - lab    :: b>i laboratories
+  - solar  :: planets for man
 
 We may have to split these up into different repos, but I
 still don't know how all of this will shape up.  Time will tell.
@@ -52,6 +53,8 @@ Recent change activity can be found at http://github.com/chenla/deploy
 
 * Table of Contents
 
+** Deploy
+
  - [[./deploy-movement.org][Movement]]
  - Mythos
  - Community
@@ -61,3 +64,11 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-guilds.org][Guilds]]
  - [[./deploy-health.org][Health]]
  - [[./deploy-social.org][Social Structures]]
+
+** Shops
+** Labs
+** Solar Civilization
+
+ - [[./solar-mars.org][Mars]]
+ - Luna
+ - Belt
