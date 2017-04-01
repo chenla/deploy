@@ -20,6 +20,9 @@
 
 #+TOC: headlines 4
 
+This file may not belong in deploy....
+
+
 * Introduction
 
 Principles are sort of cardinal patterns
