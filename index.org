@@ -58,6 +58,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-movement.org][Movement]]
  - Mythos
  - Community
+ - [[./deploy-principles.org][Principles]]
  - [[./deploy-calendar.org][Calendar]]
  - Infrastructure
  - [[./deploy-shops.org][Shops]]
