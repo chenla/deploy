@@ -22,3 +22,18 @@
 
 * Introduction
 
+Principles are sort of cardinal patterns
+
+** Design
+  - distributed
+  - human readable
+  - homoiconographic
+  - gracefully degrade
+  - standardized parts
+  - modular (as in unix pipes)
+  - repairable
+  - upgradable
+  - longevity (as a design principle)
+** Social
+  - golden rule
+
