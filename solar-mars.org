@@ -66,3 +66,10 @@ thousands of people to the planet.
 
   - I lost the reference to this quote...
 #+END_QUOTE
+
+
+* Facts on the Ground
+
+  #+CAPTION: Source [[http://www.space.com/27202-living-on-mars-conditions-infographic.html][Living on Mars]]
+  [[./img/mars/mars-infographic.jpg]]
+
