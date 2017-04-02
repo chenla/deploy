@@ -73,7 +73,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - Tools
  - Energy
  - Ecosystems
- - Permaculture (danger using the p word)
+ - Polyculture
 
 ** Shops
 ** Guilds
