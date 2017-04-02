@@ -24,7 +24,18 @@
 
 ** division of labor
 
-  -- [[https://en.wikipedia.org/wiki/%C3%89mile_Durkheim][Émile Durkheim]] - Wikipedia
+  - [[https://en.wikipedia.org/wiki/%C3%89mile_Durkheim][Émile Durkheim]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/The_Division_of_Labour_in_Society][The Division of Labour in Society]] | Wikipedia
+  
+#+BEGIN_QUOTE
+In Durkheim's view, traditional religions often provided the basis for
+the shared values which the anomic individual lacks. Furthermore, he
+argued that the division of labor that had been prevalent in economic
+life since the Industrial Revolution led individuals to pursue
+egoistic ends rather than seeking the good of a larger community.
+-- [[https://en.wikipedia.org/wiki/Anomie][Anomie]] | Wikipedia, accessed <2013-02-03>
+   The article text has changed since I quoted it in 2013.
+#+END_QUOTE
 
 #+begin_quote
 Since a body of rules is the definite form which
