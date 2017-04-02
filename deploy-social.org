@@ -22,6 +22,38 @@
 
 * Introduction
 
+** division of labor
+
+#+begin_quote
+Since a body of rules is the definite form which
+spontaneously established relations between social functions
+take in the course of time, we can say, a priori,that the
+state of anomy is impossible wherever solidary organs are
+sufficiently in contact or sufficiently prolonged. In
+effect, being contiguous, they are quickly warned, in each
+circumstance, of the need which they have of one another,
+and, consequently, they have a lively and continuous
+sentiment of their mutual dependence. For the same reason
+that exchanges take place among them easily, they take place
+frequently; being regular, they regularize themselves
+accordingly, and in time the work of consolidation is
+achieved. Finally, because the smallest reaction can be felt
+from one part to another, the rules which are thus
+formulated carry this imprint; that is to say, they foresee
+and fix, in detail, the conditions of equilibrium. But, on
+the contrary, if some opaque environment is interposed, then
+only stimuli of a certain intensity can be communicated from
+one organ to another.  Relations, being rare, are not
+repeated enough to be determined; each time there ensues new
+groping.
+
+-- The Division of Labor in Society, The MacMillan Co. 1933, Free
+   Press edition, 1964
+#+end_quote
+
+
+
+
 ** the doomed
 
 The present generation or two is likely lost, people can
