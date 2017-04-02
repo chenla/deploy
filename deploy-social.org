@@ -26,16 +26,43 @@
 
   - [[https://en.wikipedia.org/wiki/%C3%89mile_Durkheim][Émile Durkheim]] | Wikipedia
   - [[https://en.wikipedia.org/wiki/The_Division_of_Labour_in_Society][The Division of Labour in Society]] | Wikipedia
-  
-#+BEGIN_QUOTE
-In Durkheim's view, traditional religions often provided the basis for
-the shared values which the anomic individual lacks. Furthermore, he
-argued that the division of labor that had been prevalent in economic
-life since the Industrial Revolution led individuals to pursue
-egoistic ends rather than seeking the good of a larger community.
+
+That's the model that I've using for quite some time now
+goes something like this:
+
+The industrial revolution produced more goods, more
+efficiently than could be consumed by markets.  People
+bought what they needed, so once everyone had bought
+something demand dropped and limited growth for large
+companies even in very large markets.
+
+Consumerism was industry's answer to this problem.  It
+encouraged people to purchase things for egocentric rather
+than utilitarian reasons and for goods to be made to fail or
+wear out predictably, so that they would have to be replaced
+with different models that appealed to the individual's ego.
+
+This model still holds up, but it is not the only way of
+looking at the problem.  The French sociologist Émile
+Durkheim saw the problem from a different perspective.
+
+#+begin_quote
+In Durkheim's view, traditional religions often provided the
+basis for the shared values which the anomic individual
+lacks. Furthermore, he argued that the division of labor
+that had been prevalent in economic life since the
+Industrial Revolution led individuals to pursue egoistic
+ends rather than seeking the good of a larger community.
+
 -- [[https://en.wikipedia.org/wiki/Anomie][Anomie]] | Wikipedia, accessed <2013-02-03>
    The article text has changed since I quoted it in 2013.
-#+END_QUOTE
+#+end_quote
+
+If different "social functions" are in contact with each
+other, then when something changes, those changes propagate
+through out the entire system.  But when that contact is
+broken communication between the parts only large changes
+get transmitted.
 
 #+begin_quote
 Since a body of rules is the definite form which
@@ -64,6 +91,15 @@ groping.
    [[https://en.wikipedia.org/wiki/%C3%89mile_Durkheim][Émile Durkheim]], The MacMillan Co. 1933, Free
    Press edition, 1964
 #+end_quote
+
+In effect, the amount of information that is transfered
+between the parts is not only decreased but is far less
+detailed.  This makes the system less responsive and
+efficient.
+
+Durkheim argued that when production was located in the same
+place as consumption there was a feedback loop that kept
+production and consumption in equilibrium.
 
 #+begin_quote
 This is what happens in the cases we are discussing. In so
