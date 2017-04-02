@@ -22,3 +22,32 @@
 
 * Introduction
 
+Goals are meaningless unless they have scope with an explicit POV, ROC
+and LOD.....
+
+
+* Big Picture
+
+ #+begin_comment
+ from: NOTES <2014-12-01 Mon 19:06> 
+ #+end_comment
+
+  - drake's equation and the value of L
+  - earth has an expiration date -- 1 billion years -- this is the
+    ultimate practical scope for humans.
+  - our first scope will be for technological civilization to survive
+    the 10ky
+  - undertake vast million year projects to move both mars and venus
+    into better orbits, give them new, large moons and terraform them
+    -- the lack of a magnetic field will be tricky though....
+  - all heavy industry needs to move off planet, where resources are
+    plentiful and energy easier to generate. 
+  - establish a time keeping system based on seconds from epoch, which
+    we can arbitrarily start from our present year 2000.
+
+
+We need to spread out throughout the solar system and keep each
+settlement small >2M, each has to be energy self-sufficient -- keep
+movement to a minimum by making it largely unnecessary -- and maintain
+large wilderness buffer zone that helps to regulate climate and
+maintain biodiversity.
