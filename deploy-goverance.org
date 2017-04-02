@@ -1,0 +1,25 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Governance
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/deploy/deploy-goverance.org
+  :Created: 2017-04-02T17:49@Prek Leap (11.642600N-104.919210W)
+  :ID: b5c1cdd5-01a5-40f8-be37-e006d380371b
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
+
