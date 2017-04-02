@@ -65,3 +65,41 @@ Microseasons!
 
 The Chinese 1-day per page -- almanack-calendar is where we
 want to go with this...
+
+
+* Time
+
+Time is almost as confusing as dates.
+
+* Epoch
+
+
+
+
+* Charlie Stross's second-based time system
+
+#+begin_comment
+NOTES <2013-02-15 Fri 17:41> Stross's second-based time system
+#+end_comment
+
+** One second
+One second, the time taken for light to travel 299,792,458 meters in a
+vacuum.
+** One kilosecond
+Archiac: 16 minutes
+** One hundred kiloseconds (1 diurn)
+Archiac: 27 hours, 1 day and three hours
+** One megasecond (1 cycle)
+Ten diurns.  
+Archaic: eleven days and six hours
+** Thirty Megaseconds (1 m-year)
+300 diurns 
+Archiac: 337 Earth days (11 months)
+** One gigasecond
+Archaic: approximately 31 Earth Years
+** One Terasecond
+Archaic: approximately 31,000 Earth years (half the age of the human
+race)
+** One petasecond
+Archaic: approximately 31,000,000,000 Earth years (half elapsed time
+since end of the Cretaceous era).
