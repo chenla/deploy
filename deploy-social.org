@@ -22,12 +22,49 @@
 
 * Introduction
 
+#+begin_quote
+For if society lacks the unity that derives from the fact
+that the relationships between its parts are exactly
+regulated, that unity resulting from the harmonious
+articulation of its various functions assured by effective
+discipline and if, in addition, society lacks the unity
+based upon the commitment of men's wills to a common
+objective, then it is no more than a pile of sand that the
+least jolt or the slightest puff will suffice to scatter.
+
+— Émile Durkheim
+  quoted in [[https://en.wikipedia.org/wiki/%C3%89mile_Durkheim#cite_note-23][Émile Durkheim]] | Wikipedia
+#+end_quote
+
+It's clear that modern technological society is rapidly
+becoming disfunctional as the social institutions and
+structures that evolved to make the industrial revolution
+possible crumble around us.  
+
+We don't have any functional family structures left, no
+concept of /home/ that provides an anchor from which
+everything else is founded on.  Instead we invent
+"identities" which are little more than cultural fads.  The
+nation state continues to reinforce a sense of national
+identity, but States are now too big for such identities to
+be very useful.  Increasingly there is little more to
+collectively identify with other than sports teams, which
+originaly were tools to build a shared identity around
+something else, a state, a town, a school, a company... but
+increasingly the teams that people are supposed to rally
+around have become unmoored, becoming consumer brands, and
+moving from place to place according to the financial whim
+of the owners.  The team and sport have become identities in
+their own right, no longer an activity that brings together
+a community.
+
+
 ** division of labor
 
   - [[https://en.wikipedia.org/wiki/%C3%89mile_Durkheim][Émile Durkheim]] | Wikipedia
   - [[https://en.wikipedia.org/wiki/The_Division_of_Labour_in_Society][The Division of Labour in Society]] | Wikipedia
 
-That's the model that I've using for quite some time now
+The model that I've using for quite some time now
 goes something like this:
 
 The industrial revolution produced more goods, more
