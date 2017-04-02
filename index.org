@@ -65,6 +65,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-guilds.org][Guilds]]
  - [[./deploy-health.org][Health]]
  - [[./deploy-social.org][Social Structures]]
+ - [[./deploy-goverance.org][Governance]]
  - Network
  - Education
  - Infrastructure
