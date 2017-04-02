@@ -103,3 +103,64 @@ race)
 ** One petasecond
 Archaic: approximately 31,000,000,000 Earth years (half elapsed time
 since end of the Cretaceous era).
+
+* Scopic Clock
+
+#+begin_center
+NOTES <2014-06-08 Sun 17:26> The Clock of Arc Nong Pao
+#+end_center
+
+The more I think about the clock for Arc Nong Pao, the more
+I think about ritual and participation in the clock, so that
+the clock is the accumulation of something done by thousands
+of people over hundreds or thousands of generations.
+
+It should be something that people participate in, in a way
+that forces them to contemplate time, and how each of their
+small efforts contribute to something that is larger then
+themselves.
+
+We don't need a mechanical clock to do this.
+
+Imagine a large stepped circle in the middle of a grand
+cloister.  The top circle step which is at ground level is
+divided into 1,000 segments, with deep, wide groove at each
+segment.  In one of these segments sits a large polished
+stone ball, perhaps two or three meters in diameter.  The
+next step down is another segmented step with a smaller
+ball, and a third step with a still smaller ball.
+
+In the middle of this is a 10 meter deep round pit.  At the
+bottom of the pit is a penrose tiling.  The penrose tiling
+take place over roughly years time.  The year is broken down
+in seconds, so the bottom ring represents 1 million seconds.
+So the lowest ball is moved to a new segment every million
+seconds, or roughly three times a year.
+
+After the lowest ball has moved 1000 times, the second ball,
+which represents billions of seconds is moved to the second
+grove.  And the cycle repeats on the third step.  After some
+360 years, the second ball has completed a full cycle and
+the top ball moves to the first second.  The top ball will
+move three segments in a thousand years.  At which, the
+tiling pit, will have completely filled to ground level.
+Tiles are 1 centimeter in thickness, so it will take a
+thousand years to fill a ten meter deep pit.
+
+If the clock is still being maintained at this point, a
+second it is excavated and the process continues.
+
+The tiles are formed, dried, glazed and baked in a kiln at
+the end of each year in preparation for the next layer.
+
+Tile patterns and colors will change every year, and it is
+hoped that a great deal of effort will be spent in
+developing new tilings.
+
+There will also be solar based terrestrial mechanical
+clocks, that will be based on astronomical cycles.
+
+When man becomes a multi-planet species, the long clock will
+sync with any other clock on any other world that is within
+the same light cone, so long as time is counted from the
+same epoch.
