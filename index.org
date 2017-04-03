@@ -72,7 +72,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - Network
  - Education
  - Infrastructure
- - Structures
+ - [[./deploy-structures.org][Structures]]
  - Tools
  - Energy
  - Ecosystems
