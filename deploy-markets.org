@@ -149,6 +149,15 @@ everything for the week in one place.
  - vegetables & fruit
  - restaurants
 
+ - Sanitation and food saftey is important, but also needs to be in
+   perspective.  There should be a distinction between guidelines and
+   rules.  It's more important that things work without unreasonable
+   requirements while people following good practice and the spirit of
+   the rules, than over regulation that increases costs and makes it
+   more difficult for shops.
+
+
+
 * 大排檔 (Dai Pai Dong)
 
   - [[https://en.wikipedia.org/wiki/Dai_pai_dong][Dai pai dong]] | Wikipedia
@@ -161,6 +170,9 @@ Street food/food stalls are different - based on pushcarts with no
 dining area.
 
 Modern manifestions -- singapore
+
+Thai and Cambodian food courts are another manifestation -- with
+shared seating.... people buying tickets instead of paying cash.
 
 
 #+begin_quote
