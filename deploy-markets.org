@@ -144,6 +144,41 @@ everything for the week in one place.
  - cooked food
  - meat and fish
  - vegetables & fruit
+ - restaurants
+
+* 大 排 檔 (Dai Pai Dong)
+
+  - [[https://en.wikipedia.org/wiki/Dai_pai_dong][Dai pai dong]] | Wikipedia
+
+
+#+begin_quote
+Features:
+
+  - One can order tailor-made dishes.
+  - It is customary to have to share tables with complete strangers
+    when there is a shortage of seating.
+  - Unlike cha chaan teng, most dai pai dong do not provide set meals.
+  - "Cross-stall ordering" is possible: for instance, when one is
+    sitting and eating in a stall selling noodles, he or she can order
+    a cup of milk tea from another stall, which may be several stalls
+    away.
+  - The stalls can be roughly divided into those operating in daytime
+    and those doing business at night. The dai pai dong which operate
+    at night usually sell seafood and other more costly dishes: one
+    dish usually costs from HKD$40–70. The day-time dai pai dong, on
+    the contrary, provide cheap food including:
+    - Congee and youtiao (aka yau cha kwai);
+    - Milk tea, toasts, sandwiches and instant noodles with ham, egg,
+      luncheon meat or sausage;
+    - rice or noodles with siu mei (燒味 roasted meats);
+    - fried rice and dip tau fan (碟頭飯 rice plates);
+    - Chiuchow-style noodles (潮州粉麵).
+
+-- [[https://en.wikipedia.org/wiki/Dai_pai_dong][Dai pai dong]] | Wikipedia
+#+end_quote
+
+
+
 
 
 * APL: Market of Many Shops
