@@ -217,9 +217,6 @@ Features:
 #+end_quote
 
 
-
-
-
 * APL: Market of Many Shops
 
 #+begin_quote
@@ -352,3 +349,19 @@ Seattle, Washington.
 
 -- A Pattern Lanaguage: Market of Many Shops
 #+end_quote
+
+
+* shop container system
+
+ - [[https://en.wikipedia.org/wiki/Unit_load_device][Unit load device]] | Wikipedia
+
+It would be interesting if we came up with a standard shop container,
+that would work like /unit load devices/ for air cargo.  An hour
+before a market opens, a tractor with trailors goes through the market
+and wheels off each shops's container. Then an hour after closing the
+containers are collected, and the containers for the next market are
+rolled in.  It would make it easier for seasonal sellers to be able to
+participate along side regular daily stalls.
+
+Containers can be refrigerated as well as set up to keep live seafood
+overnight.
