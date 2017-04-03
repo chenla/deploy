@@ -50,3 +50,23 @@ brick?' Brick says, 'I like an arch.'"
 
 -- [[https://en.wikipedia.org/wiki/Louis_Kahn][Louis Kahn]] - Wikipedia
 #+end_quote
+
+#+begin_quote
+Drawing on speeches and letters from Kahn's time in Dhaka supervising
+the construction of his design for the National Assembly Building of
+Bangladesh, Lesser suggests that he saw the project not merely as
+providing a site for the young nation's parliament to meet but as
+physically establishing democracy there—as if the spatial
+configuration of his building would bear as much responsibility for
+good governance as the legal structure of a constitution.
+
+For Kahn, the ultimate source of architecture's power was its ability
+to communicate. He believed that buildings are composed of "universal
+elements" that have remained essentially unchanged throughout the
+ages, and so constitute a kind of ancestral spatial language shared by
+all of humanity.
+
+- [[http://www.bookforum.com/inprint/024_01/17556][If These Walls Could Talk]] | bookforum.com, Julian Rose, 2017
+  book review of You Say to Brick, The Life of Louis Kahn
+#+end_quote
+
