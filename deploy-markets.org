@@ -365,3 +365,39 @@ participate along side regular daily stalls.
 
 Containers can be refrigerated as well as set up to keep live seafood
 overnight.
+
+** tiffin box model
+
+look up the Indian name.... dabba wallah?
+
+Use these containers as a foundation for everything -- supply chain --
+do local processing, load it into a container and it get's picked up,
+and passed around link Bombay tiffin boxes -- then get processed more,
+then get split up to other containers which are sent to other
+locations and processed more. Containers keep getting split up and
+repacked into other containers which are sent forward towards their
+destination.
+
+Some end up in other shops who process further -- others end up in big
+city markets -- and then final products which are delivered to a
+location to be picked up or sent on to final delivery.  Eventually the
+whole thing is done autonomously as a physical manifestion of the
+market.
+
+You don't call for a pickup, the network knows the progress of what
+you are doing and you seal a container and put it out for pickup like
+empty milk bottles for the milkman in the morning.
+
+but it's the same principle -- pick something up, see where it is
+going and drop it off at the nearest point towards it's destination
+where it is picked up again and again until it reaches its
+destination.
+
+This is the opposite of the FedEx or Amazon model because it cuts out
+the distribution centers -- the network becomes the distribution
+center and everything is far more efficient.
+
+This is not for any one company -- it is part of the public
+infrastructure.
+
+
