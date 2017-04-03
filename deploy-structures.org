@@ -25,3 +25,18 @@
 
 * Introduction
 
+#+begin_quote
+... the contrast between these two buildings in fact offers a
+brilliantly concrete demonstration of the dual premises that underlie
+her book. The first is that architecture possesses what she describes
+as a profound capacity to "make a difference"—to exert a fundamental
+influence on our quality of life by literally shaping our activities
+and experiences. The second is that this capacity is best understood
+not in the abstract terms of aesthetics or history but by looking
+closely at the actual mechanics of our daily interactions with
+buildings; by trying to understand how we live in and move through
+them.
+
+- [[http://www.bookforum.com/inprint/024_01/17556][If These Walls Could Talk]] | bookforum.com, Julian Rose, 2017
+  book review of You Say ti Brick, The Life of Louis Kahn
+#+end_quote
