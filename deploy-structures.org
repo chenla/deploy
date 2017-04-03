@@ -40,3 +40,13 @@ them.
 - [[http://www.bookforum.com/inprint/024_01/17556][If These Walls Could Talk]] | bookforum.com, Julian Rose, 2017
   book review of You Say to Brick, The Life of Louis Kahn
 #+end_quote
+
+
+#+begin_quote
+"You say to brick, 'What do you want, brick?' . . . Brick says to you,
+'I like an arch.' If you say to brick, 'Arches are expensive, and I
+can use a concrete lintel over an opening. What do you think of that,
+brick?' Brick says, 'I like an arch.'"
+
+-- [[https://en.wikipedia.org/wiki/Louis_Kahn][Louis Kahn]] - Wikipedia
+#+end_quote
