@@ -38,5 +38,5 @@ buildings; by trying to understand how we live in and move through
 them.
 
 - [[http://www.bookforum.com/inprint/024_01/17556][If These Walls Could Talk]] | bookforum.com, Julian Rose, 2017
-  book review of You Say ti Brick, The Life of Louis Kahn
+  book review of You Say to Brick, The Life of Louis Kahn
 #+end_quote
