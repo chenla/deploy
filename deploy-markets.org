@@ -22,3 +22,113 @@
 
 * Introduction
 
+#+begin_comment
+from: NOTES <2013-01-17 Thu 09:28> A supermarket free of consumerism
+#+end_comment
+
+
+Packaged food and the modern supermarket has turned food from a
+commodity into a consumer product.
+
+We must eat food to live.  It's one of the pillars of Maslov's
+hierarchy of needs.
+
+As Braudel pointed out, it's also true that historically, that diet
+has been monumentally monotonous.  This was in large part because food
+for the poor has been a matter of survival.
+
+This changed in the 20th century, when dropping food prices was
+matched up in countries like the United States with a wholesale
+abandonment of traditional food markets and grocery stores which were
+replaced by supermarkets.  This has gone so far that people had to
+reinvent the word for the traditional wet market which were typically
+outside markets with stalls selling fresh produce, meat and seafood.
+They are now called "farmer's markets" because they were originally
+billed as places where farmers could sell their produce directly to
+the public.
+
+The old system was actually not too bad.  You had grocers, a word that
+came from Middle English for "a person who sold things in the gross".
+Which were typically small family run affairs.  Then you had morning
+and afternoon/evening markets.  The morning markets would sell
+different things from the afternoon and evening markets. In south east
+asia, you see morning and afternoon markets selling produce and meat
+for cooking that day's meals.  Evening markets focused more on fruit
+and cooked food.  You would by fresh noodles, yellow or red curry
+paste from big tubs, you would get coconut milk from a stall with a
+machine that would rim out the coconut in front of you, and press the
+milk out into one bag, give you a second bag of water and a third of
+the coconut meat.  You didn't have to buy prepackaged sizes, you could
+buy by price or weight and ask for 10 baht of red chilies, or 1 kilo
+of pork.
+
+So in the evening you would buy fried chicken, hargao (a type of
+chinese pork or prawn dim sum).
+
+I think the name of the game here is to move production as close to
+where it is sold as possible, and to leverage logistics and collective
+purchasing and logistics using the network.  This will make them
+collectively competitive with the supermarket, while improving the
+quality of food, and life.
+
+So a supermarket becomes not only a place for the individual to
+purchase food for their cooking, but a collective for people producing
+cooked and prepared foods to purchase raw materials and then, in turn,
+have a place where they can sell their goods.
+
+Eliminate all branded food -- and push people to use
+reuseable-containers when purchasing.  So you would have two oil
+bottles.  When you need oil you bring in the empty one and fill it up
+from a barrel.  Hell, the place could even clean the one you bring in
+first.
+
+Move, whenever possible, vegitables and fruit sales back outside, and
+get people to start having a relationship with the people they
+purchase from.  Bakeries, butchers, fish mongers, bakers and dairies
+are all good things.  The supermarket has robbed us of that and
+replaced it with plastic wrapped mass market crap.
+
+But none of this will work in a car-centric culture where you spend a
+large part of your life driving from one place to another.  America
+has zoned itself into hell and requires you to own a car to get from
+one zone to another.
+
+When you have to spend an hour or more to get to a job in a
+centralized office or factory that runs on strict hours you don't have
+time to go to the market before, or after work.  You have to do your
+shopping at a supermarket where you can park your car and buy
+everything for the week in one place.
+
+
+** functional requirements
+
+  - ban vehicles in the market, especially motorbikes.  Instead create
+    a delivery system to get goods from a loading area to the shops.
+    ideally this should be automated -- robots!
+
+  - most shops will be part-time enterprises, in mornings and
+    afternoons and then special weekend markets.  The same location
+    can be used for all, by creating multiple sets of storage lockers,
+    so that one person could do the morning market, another the
+    evening market and then another still for the weekend night
+    market.
+
+  - lot's of natural light, shade and cooling
+  - drainage drainage drainage
+  - toilets and showers
+  - stainless steel for surfaces that have food
+  - refrigeration
+  - air-pumps for seafood
+  - network access, and docking stations for each booth
+  - displays for each booth
+  - weights & measures inspection and standards for all scales and
+    measures
+  - store value payment or cash
+  - secure parking
+  - security & measures against thieves and pickpockets
+  - high-pressure cleaning between markets
+  - discourage corruption
+    - rents and fees paid at town centre
+    - clear rent agreements
+    - rent control
+    - stalls rented by lottery
