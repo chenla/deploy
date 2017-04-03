@@ -160,6 +160,12 @@ everything for the week in one place.
    market is responsible for providing basic facilities for different
    kinds of shops.
 
+ - don't allow branded goods unless they conform to local practices.
+   So Coke can set up a mini-bottling plant but must use same
+   glassware as everyone else.  Soap companies can sell their products
+   so long as it is provided in bulk and sold in local reusable pump
+   bottles and refile containers.
+
 
 * 大排檔 (Dai Pai Dong)
 
