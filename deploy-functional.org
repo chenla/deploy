@@ -23,3 +23,50 @@
 
 * Introduction
 
+#+begin_comment
+from: NOTES <2016-07-29 Fri 17:13> Functional Requirements for the Next 50 Years
+
+#+end_comment
+
+*** Civilization
+  - distributed
+  - documented
+    - observed
+    - recorded
+    - understood
+    - descriptive & prescriptive
+  - extensible
+  - degradable
+    - 
+  - externalized
+    - memory
+    - cognition
+    - muscle
+  - networked
+  - rational
+    - enlightened self-interest
+  - balanced
+  - inclusive
+  - transparent
+  - collective
+  - accountable
+  - intentional
+    - purpose
+    - intended
+  - reflective
+  - critical
+    - question      :: another aspect of the scientific method
+    - ducks         :: what is it
+    - canaries      :: 
+    - you are wrong :: 
+  - generative
+    - executable
+  - scopic
+*** Organizations
+*** Groups
+*** Individuals
+  - learning how to learn
+  - rationality
+  - life-long learning
+  - enlightened self
+  - 
