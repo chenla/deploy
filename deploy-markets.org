@@ -357,8 +357,9 @@ Seattle, Washington.
  - [[https://web.archive.org/web/20070821010626/http://www.ibafreightservices.com/aircontainers.shtml][Air Containers]] | I.B.A Freight Services
  - [[https://www.iso.org/committee/46564/x/catalogue/][Air cargo and ground equipment]] | ISO/TC 20/SC 9
  - [[http://haec.cn/en/products_96_79.html][Pallet Dolly_DOLLY]] | HRH AVIATION EQUIPMENT CO.,LTD
- - [[http://www.airport-technology.com/contractors/baggage/bt-bearing/bt-bearing1.html][Heavy Duty Ball Transfer units (BTUs)]] | Airport Technology
-
+ - [[http://www.airport-technology.com/contractors/baggage/bt-bearing/bt-bearing1.html][Heavy Duty Ball Transfer units (BTUs)]] | Airport Technology 
+ - [[bib:levinson2006box][The Box]] |  Marc Levinson
+ - 
 
 It would be interesting if we came up with a standard shop container,
 that would work like /unit load devices/ for air cargo.  An hour
