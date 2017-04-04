@@ -419,7 +419,18 @@ infrastructure.
 
 If this is going to be a system that can be used globally....
 
-I like the the bicon, tricoms and quadcons -- but they should be
+I like the the bicon, tricons and quadcons -- but they should be
 reserved for transport outside of a bioregion.  We need something more
 lightweight that can be used within a bioregion that is closer to the
 aluminum aircraft containers.
+
+I like the rolldown for quadcons, this would be ideal for markets.
+
+But we still need to work out about very small shipments, daily
+shipments and how to deal with local routing.  Anything long distance
+is relatively easy if we can repack containers easily -- and this
+seems to all come down to robots.  If the network can think 20 steps
+ahead of everything -- and repacking is all planned out before it is
+even picked up....
+
+
