@@ -413,3 +413,11 @@ This is not for any one company -- it is part of the public
 infrastructure.
 
 
+** what and where
+
+If this is going to be a system that can be used globally....
+
+I like the the bicon, tricoms and quadcons -- but they should be
+reserved for transport outside of a bioregion.  We need something more
+lightweight that can be used within a bioregion that is closer to the
+aluminum aircraft containers.
