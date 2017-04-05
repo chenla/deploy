@@ -22,7 +22,45 @@
 
 * Introduction
 
-Markets, in many respects are the heart of any community.
+Wet Markets, in many respects are the heart of their community.
+A Wet Market should not be confused with 'Farmers Markets"
+or other kinds of open markets which are made up of many
+self-owned shops.
+
+
+   - they are periodic -- only open set hours (less than
+     half a day at most).
+   - they are intensely social -- 
+   - they are dominated by women, both shoppers and sellers
+   - they are small scale -- only stocked for the day
+   - prices are relatively consistent throughout the market
+     (people don't shop for bargins, there are no sales).
+   - service is very personal, and customers form
+     relationships with shop owners that last years or even
+     decades.
+   - often the best markets are tightly packed to the point
+     of being claustrophobic -- with narrow paths that snake
+     through in a very organic manner.
+   - they are clean -- you don't see flies on the meat,
+     though it is all out in the open with no refrigeration,
+     the fish are alive, in tin boxes that either have
+     bubblers, or had come from aerated water a short time
+     before.  nothing smells bad or off.
+   - they are peppered with noodle and congee shops, and
+     puncuated with shops selling charcoal, plastic goods,
+     soaps, dishes, knives, cheap clothing (usually at the
+     extremes for the very young or late middle aged).
+   - people don't go to wet markets to 'stock up', they buy
+     what they need for the day, and come back every day...
+
+
+This is a different relationship to traditional local
+european shops like bakeries, delis, groceries who also have
+very personal relationships with their customers, because
+they /will/ have specials, and typically are the one of only
+one or a handful of such shops in an area.  In asia, (at
+least modern) Japan seems to be closer to the european model
+than you see throughout the region.
 
 #+begin_quote
 Mr. Loh also spoke confidently that he think “ wet market
@@ -39,6 +77,10 @@ platform for community to come together and bond.
 
 
  - [[https://en.wikipedia.org/wiki/Wet_market][Wet market]] | Wikipedia
+
+
+
+
  - [[https://en.wikipedia.org/wiki/Farmers%27_market][Farmers' market]] | Wikipedia (also Green Market)
  - [[https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market][Chatuchak Weekend Market]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Central_Market,_Phnom_Penh][Central Market, Phnom Penh]] | Wikipedia
