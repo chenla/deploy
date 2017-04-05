@@ -350,6 +350,12 @@ Seattle, Washington.
 -- A Pattern Lanaguage: Market of Many Shops
 #+end_quote
 
+* FAO Retail Markets and Planning Guide
+
+ - [[http://www.fao.org/docrep/v8390e/V8390E00.htm#Contents][Retail Markets and Planning Guide]] | FAO
+
+
+
 
 * shop container system
 
