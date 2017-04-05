@@ -68,7 +68,7 @@ self-owned shops.
      well as larger proper shops selling tools, hardware,
      and small appliances.  There are pawn shops, who often
      do money transfer services as well.  There are beverage
-     shops selling beer, soda, sweet salty snacks, phone
+     shops selling beer, soda, sweet & salty snacks, phone
      cards and instant noodles.
 
 So every market can be thought of as having concentric rings
@@ -79,9 +79,9 @@ This is a different relationship to traditional local
 european shops like bakeries, delis, groceries who also have
 very personal relationships with their customers, because
 they /will/ have specials, and typically are the one of only
-one or a handful of such shops in an area.  In asia, (at
-least modern) Japan seems to be closer to the european model
-than you see throughout the region.
+a handful of such shops in an area.  In asia, (at least
+modern) Japan seems to be closer to the european model than
+you see throughout the region.
 
 The european model is robust, but the asian model is
 anti-fragile and as Christopher Alexandar would say, has
