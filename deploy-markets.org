@@ -22,6 +22,22 @@
 
 * Introduction
 
+Markets, in many respects are the heart of any community.
+
+#+begin_quote
+Mr. Loh also spoke confidently that he think “ wet market
+will still be around and would die for the next 20-30 years
+at least, as my generation of hawkers are still around, as
+long as we are around, we will continue doing and selling,
+it is a lifelong trade that we are passionate and proud of.”
+He believes that wet market will stay to be relevant as a
+platform for community to come together and bond.
+
+-- [[http://www.asianurbanepicenters.com/?p=2218][The Future of Our Traditional Wet Market? Part Two]] | Asian Urban Epicenters
+#+end_quote
+
+
+
  - [[https://en.wikipedia.org/wiki/Wet_market][Wet market]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Farmers%27_market][Farmers' market]] | Wikipedia (also Green Market)
  - [[https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market][Chatuchak Weekend Market]] | Wikipedia
