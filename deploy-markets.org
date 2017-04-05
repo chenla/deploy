@@ -354,15 +354,40 @@ Seattle, Washington.
 
  - [[http://www.fao.org/docrep/v8390e/V8390E00.htm#Contents][Retail Markets and Planning Guide]] | FAO
 
-Master Plan
+  * The Market Master Plan
 
- - General Principles Of Market Layouts
-   - The process of market development
-   - Vehicle access and traffic circulation
-   - The market as a public space
-   - The organization of market land uses
+    - General Principles Of Market Layouts
+    - The process of market development
+    - Vehicle access and traffic circulation
+    - The market as a public space
+    - The organization of market land uses
 
 
+    - market development as a socio-economic process;
+    - markets as flow systems for goods and people;
+    - markets as expressions of public interaction; and
+    - markets as organizations for the sale of goods.
+
+    - does the plan provide the basis for creating an
+      attractive and comfortable environment for shoppers,
+      which will allow the market to compete with other
+      retail outlets?
+    - does the plan reflect the perceived needs of the
+      market users?
+    - is the market suitable for the income and expenditure
+      habits of the existing and potential users?
+    - does the plan reflect the market's overall management
+      system?
+    - are the financial constraints under which the plan
+      will have to operate recognized?
+    - are minimum development standards applied?
+      (e.g. health standards)
+    - does the plan observe the general principles of good
+      layout?  (such as the relation to climate, site
+      geometry, optimum stall size and simple circulation
+      patterns)
+    - does it provide sufficient space for vehicle parking,
+      including cycles and motorcycles?
 
 
 * shop container system
