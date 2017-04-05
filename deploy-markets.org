@@ -157,6 +157,8 @@ everything for the week in one place.
  - banking services
  - postal/shipping & delivery services
  
+ - pushcart (hand & moto)
+ - fixed stall
 
  - Sanitation and food saftey is important, but also needs to be in
    perspective.  There should be a distinction between guidelines and
@@ -173,7 +175,7 @@ everything for the week in one place.
    So Coke can set up a mini-bottling plant but must use same
    glassware as everyone else.  Soap companies can sell their products
    so long as it is provided in bulk and sold in local reusable pump
-   bottles and refile containers.
+   bottles and refill containers.
 
 
 * Types of markets
@@ -515,4 +517,14 @@ seems to all come down to robots.  If the network can think 20 steps
 ahead of everything -- and repacking is all planned out before it is
 even picked up....
 
+
+* Health & Safety
+
+  - [[http://www.who.int/foodsafety/publications/capacity/healthymarket_guide.pdf][healthymarket_guide.pdf]] | WHO
+
+
+  - hazzards:
+    - biological
+    - chemical
+    - physical
 
