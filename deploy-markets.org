@@ -154,6 +154,9 @@ everything for the week in one place.
  - meat and fish
  - vegetables & fruit
  - restaurants
+ - banking services
+ - postal/shipping & delivery services
+ 
 
  - Sanitation and food saftey is important, but also needs to be in
    perspective.  There should be a distinction between guidelines and
@@ -173,6 +176,13 @@ everything for the week in one place.
    bottles and refile containers.
 
 
+
+
+
+
+
+
+
 * 大排檔 (Dai Pai Dong)
 
   - [[https://en.wikipedia.org/wiki/Dai_pai_dong][Dai pai dong]] | Wikipedia
@@ -184,7 +194,7 @@ Japan food stalls
 Street food/food stalls are different - based on pushcarts with no
 dining area.
 
-Modern manifestions -- singapore
+Modern manifestations -- singapore
 
 Thai and Cambodian food courts are another manifestation -- with
 shared seating.... people buying tickets instead of paying cash.
