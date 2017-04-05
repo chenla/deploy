@@ -390,6 +390,28 @@ Seattle, Washington.
       including cycles and motorcycles?
 
 
+| Function                                         | Personnel              | Equipment                 |
+|--------------------------------------------------+------------------------+---------------------------|
+| 1. Market management and support                 | 1 market supervisor    | one 5-8 ton truck         |
+| 1 operator                                       | Marketing equipment    |                           |
+| 1 driver                                         | one 3-wheel vehicle    |                           |
+| 2. Basic assistance & veterinary dispensary      | 1 technical officer    | one equipped van          |
+| 3. Rural credit                                  | 1 government           | official one equipped van |
+| 4. Postage and savings accounts                  | 1 government           | official one equipped van |
+| 5. Health service                                | 1 health official      | one equipped van          |
+| 6. General information/entertainment             | 1 government           | official one equipped van |
+| 7. Veterinary service                            | 1 veterinary assistant | one equipped van          |
+| 8. Banking services                              | 1 bank official        | one equipped van          |
+| 9. Handicraft promotion and assistance           | 1 or 2 community       | one equipped van          |
+| to women's development groups                    | workers                | one motorcycle            |
+| 10. Small enterprise promotion                   | not defined            | not defined               |
+| 11. Marketing of agricultural products           | not determined         | one pick-up               |
+| (Information, transport, storage, quality, etc.) |                        | three motorcycles         |
+| 12.Training of farmers                           | 1 extension officer    | one motorcycle            |
+| 13. Livestock marketing                          | not defined            | not defined               |
+
+
+
 * shop container system
 
  - [[https://en.wikipedia.org/wiki/Unit_load_device][Unit load device]] | Wikipedia
