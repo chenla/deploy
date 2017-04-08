@@ -122,12 +122,12 @@ Pattern Language/ became one of the largest selling books on
 architecture in history.  APL is a singular masterpiece,
 that should have sparked an architectural revolution that
 changes the direction of modern architecture.  But the
-buildings that were building using APL, if anything were as
-bad or worse than what he wanted to replace.  People treated
-the work as a cookbook of ideas, that they could dip into
-here and there and make a building.  It turns out that there
-were far deeper things happening in good buildings that
-people had forgotten.
+buildings that were built using APL, if anything were as bad
+or worse than what they were supposed to replace.  People
+treated the work as a cookbook of ideas, that they could dip
+into here and there and make a building.  It turns out that
+there were far deeper things happening in good buildings
+that people had forgotten.
 
 Over the next decades Alexandar dedicated to discovering
 what those deeper patterns were, and how to create buildinds
@@ -150,6 +150,28 @@ enquiry was wildly off the mark.  But Hooke, like Alexandar
 laid the groundwork for the hundreds of thousands who would
 come afterwords and build on his work.
 
+There are two reasons that I will be spending so much time
+on structures.  First, when people feel connected to the
+environment they live in, their priorities are very
+different from people who live in sterile environments that
+pretend they are not part of the world.  The latter group of
+people see no problem with denying climate change, and
+poisoning the air they breath and the water they drink.  And
+they can't even imagine living in a world that wasn't like
+the one they live in now.  They are the frogs slowly boiling
+alive in a pan on the burner, and will die not know that
+they were the ones that had been turning up the flame all
+along.  The second is that when Mankind makes the transition
+from being an Earth based species to a Solar-based species,
+we will really be an indoor species, because we can't
+survive outside.  The brief bits of fresh air, and natural
+breeze, the odd holiday at te beach, are physically and
+psychologically important for our species.  If we are going
+to condemn a large percentage of our fellow man to spend
+centuries or even millennia indoors as we terraform other
+places in the solar system we better get damn good at
+makeing the indoors we will be stuck in, really really good,
+because we sure suck at it today...
 
 * ----
 
