@@ -49,7 +49,22 @@ in any subtle senses either.
 #+end_quote
 
 
+#+begin_quote
+This gradual, steady deterioration of environmental quality
+has been occuring all over the world, on every continent, in
+every society, and in every nation state.
 
+The extent of this loss can hardly be exaggerated.  For at
+least a thousand years, and probably three or four times
+that length of time there was a universal regard for the
+importance and beauty of the buildings that were made.  For
+those who had money, the money was lavished on the most
+beautiful paintings and ornaments, on the magnificence of
+harmony and proportion.  For those who had little money,
+they used their own hands.  Even in buildings made of mud
+and straw or snow, people used their own hands to make
+something beautiful that would be cherished.
+#+end_quote
 
 * Introduction
 
