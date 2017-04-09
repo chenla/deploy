@@ -174,7 +174,13 @@ mess we've made of Earth's climate, we better get damn good at
 makeing the indoors we will be stuck in, really really good,
 because we sure suck at it today...
 
-* ----
+
+* Shearing Layers
+
+#+CAPTION: Shearing Layers
+[[./img/structures/brand--shearing-layers.jpg]]
+
+* You Say to Brick
 
 #+begin_quote
 ... the contrast between these two buildings in fact offers
