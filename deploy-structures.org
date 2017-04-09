@@ -177,6 +177,17 @@ because we sure suck at it today...
 
 * Shearing Layers
 
+ - [[https://en.wikipedia.org/wiki/Shearing_layers][Shearing layers]]  Wikipedia
+ - [[https://en.wikipedia.org/wiki/How_Buildings_Learn][How Buildings Learn]] - Wikipedia
+
+
+The idea was first coined by Frank Duffy and further
+elaborated by Stewart Brand in [[https://en.wikipedia.org/wiki/How_Buildings_Learn][How Buildings Learn: What
+Happens After They’re Built]] as the idea that buildings are
+composed of multiple layers that each tend to change over
+time at different rates of change.
+
+
 #+CAPTION: Shearing Layers
 [[./img/structures/brand--shearing-layers.jpg]]
 
