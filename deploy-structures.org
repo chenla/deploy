@@ -64,6 +64,8 @@ harmony and proportion.  For those who had little money,
 they used their own hands.  Even in buildings made of mud
 and straw or snow, people used their own hands to make
 something beautiful that would be cherished.
+
+-- Battle | Preface, Christopher Alexander
 #+end_quote
 
 * Introduction
@@ -216,6 +218,22 @@ places in the solar system, and re-terraform the fucking
 mess we've made of Earth's climate, we better get damn good at
 makeing the indoors we will be stuck in, really really good,
 because we sure suck at it today...
+
+
+* Outline
+
+  - matrix to determine environmental needs:: atmosphere,
+    pressure, gravity, temperature
+  - habitat
+    - artificial habitats -- on most of earth artifical
+      habitats (other than buildings) are not required
+      unless you are in the antarctic, or underwater, but
+      everywhere else you need to bring a pressurized,
+      temperature controlled atmosphere that replicates the
+      functions of a self-regulating ecosystem -- don't
+      forget light!
+    - natural habitats -- are broken down into bioregions
+
 
 
 * Shearing Layers
