@@ -223,8 +223,10 @@ because we sure suck at it today...
 * Outline
 
   - matrix to determine environmental needs:: atmosphere,
-    pressure, gravity, temperature
-  - habitat
+    pressure, gravity, temperature, light, radiation, etc.
+  - habitat -- a habitat is both structure, atmosphere,
+    climate and ecosystem.
+
     - artificial habitats -- on most of earth artifical
       habitats (other than buildings) are not required
       unless you are in the antarctic, or underwater, but
@@ -233,8 +235,14 @@ because we sure suck at it today...
       functions of a self-regulating ecosystem -- don't
       forget light!
     - natural habitats -- are broken down into bioregions
-
-
+  - process -- buildings have a beginning, but initial
+    construction is just a fraction of what will
+    eventually be constructed over time
+  - maintenance
+  - infrastructure
+  - transportation
+  - structures (buildings, bridges, dams etc) 
+  - earthworks -- tunnels, contouring, reclamation
 
 * Shearing Layers
 
@@ -247,6 +255,13 @@ elaborated by Stewart Brand in [[https://en.wikipedia.org/wiki/How_Buildings_Lea
 Happens After They’re Built]] as the idea that buildings are
 composed of multiple layers that each tend to change over
 time at different rates of change.
+
+  - stuff
+  - space (layout/plan)
+  - services
+  - skin
+  - structure
+  - sit
 
 
 #+CAPTION: Shearing Layers
