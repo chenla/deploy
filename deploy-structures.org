@@ -222,27 +222,58 @@ because we sure suck at it today...
 
 * Outline
 
-  - matrix to determine environmental needs:: atmosphere,
+  - matrix to determine environmental needs :: atmosphere,
     pressure, gravity, temperature, light, radiation, etc.
   - habitat -- a habitat is both structure, atmosphere,
     climate and ecosystem.
 
-    - artificial habitats -- on most of earth artifical
-      habitats (other than buildings) are not required
-      unless you are in the antarctic, or underwater, but
-      everywhere else you need to bring a pressurized,
-      temperature controlled atmosphere that replicates the
-      functions of a self-regulating ecosystem -- don't
-      forget light!
-    - natural habitats -- are broken down into bioregions
-  - process -- buildings have a beginning, but initial
+    - artificial habitats :: on most of earth artifical
+         habitats (other than buildings) are not required
+         unless you are in the antarctic, or underwater, but
+         everywhere else you need to bring with you a
+         pressurized, temperature controlled atmosphere that
+         replicates the functions of a self-regulating
+         ecosystem -- don't forget light!
+    - natural habitats :: are broken down into bioregions
+  - process :: buildings have a beginning, but initial
     construction is just a fraction of what will
     eventually be constructed over time
-  - maintenance
-  - infrastructure
-  - transportation
-  - structures (buildings, bridges, dams etc) 
-  - earthworks -- tunnels, contouring, reclamation
+  - maintenance ::
+  - infrastructure ::
+  - transportation ::
+  - structures :: (buildings, bridges, dams etc) 
+  - earthworks ::  tunnels, contouring, reclamation
+
+
+* Alexander's Nine Principles
+
+#+begin_quote
+1. Fundementally, architecture ia and must be an art of
+   making.  The impetus for wholeness guides everything, and
+   is the driving force of all construction activity.
+   Adaptation is a neccessary aspect of design.  The entire
+   productionof buildings must be an ongoing, dynamic
+   process, alive to the circomstances that emerge day by
+   day, and able to develop opportunities and events that
+   come to light.
+
+2. In support of this new production system, there will need
+   to be sweeping changes in human organization.  These
+   changes of organization will provide for involvement and
+   coordination among the interested people and skilled
+   workers, and thus give a level of deep involvement in
+   decision-making by all concerned.  Together, they will
+   act on adaptation.
+
+3. A new approach to the management of money will do away
+   with the mercenary and profit-driven foundations of the
+   building industry.  Money management will need to be
+   controlled via non-profit organizations.
+
+
+#+end_quote
+
+
 
 * Shearing Layers
 
@@ -261,7 +292,7 @@ time at different rates of change.
   - services
   - skin
   - structure
-  - sit
+  - site
 
 
 #+CAPTION: Shearing Layers
