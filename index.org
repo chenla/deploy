@@ -76,7 +76,6 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-markets.org][Markets]]
  - Tools
  - Energy
- - Ecosystems
  - [[./deploy-ecosystem.org][Ecosystem]]
 
 ** Shops
