@@ -27,7 +27,7 @@ I was originally going to break this up into /ecosystems/ and
 larger context, polyculture is simply a more complex means of what
 early North American inhabitants did, they managed ecosystems.
 European farming is based on monocultures that ignore that they are
-part of a larger ecosystem.  Polyculture is meant at best, integrate
+part of a larger ecosystem.  Polyculture at its best, integrates 
 with and manage local ecosystems.  At worst Polyculture at least
 attempts to mimic natural ecosystems and create far more robust
 interdependent systems than monocultures do.
