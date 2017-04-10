@@ -270,7 +270,40 @@ because we sure suck at it today...
    building industry.  Money management will need to be
    controlled via non-profit organizations.
 
+4. A major focus on the fragility of human beings and
+   whatever enhances their well-being will be respected.
+   This will be treated as a major emphasis, and will always
+   be considered as a source of feedback and evaluation.
 
+5. So, too, care must be given to all animals, insects, and
+   plants, meadows, forests, ice-floes, and other natural
+   habitats.  This intense care for all living beings
+   and systems will be a priority.
+
+6. The land, (urban and rural) -- its shape, its character
+   -- will provide the context for every building project in
+   a way that is conscious and careful.  Land configurations
+   and old buildings will provide the primary origin of
+   buildings and new construction.
+
+7. The shaping of buildings and parts of buildings will
+   always be through works of craft, made by human hands
+   (though it may include many small prefabricated
+   components).  As a whole, every effort is to be
+   understood to bea full-fledged work of art.
+
+8. A generative process (something like a pattern language)
+   will always be seen as the key dynamic framework that
+   gives generic instructions for all planning, design and
+   construction.
+
+9. Something we may loosely call "spirit" will be the
+   underlying foundation of the work of building.  This
+   "spirit" will be held in common, and because of this, the
+   buildings we produce will be endowed with spirit
+   themselves.
+
+-- Battle pg7-8 | Christopher Alexander
 #+end_quote
 
 
