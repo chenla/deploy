@@ -306,8 +306,6 @@ because we sure suck at it today...
 -- Battle pg7-8 | Christopher Alexander
 #+end_quote
 
-
-
 * Shearing Layers
 
  - [[https://en.wikipedia.org/wiki/Shearing_layers][Shearing layers]]  Wikipedia
