@@ -23,16 +23,35 @@
 * Introduction
 
 I was originally going to break this up into /ecosystems/ and
-/polyculture/ (can't use the fucking 'P' word now can we).  But in a
-larger context, polyculture is simply a more complex means of what
-early North American inhabitants did, they managed ecosystems.
-European farming is based on monocultures that ignore that they are
-part of a larger ecosystem.  Polyculture at its best, integrates 
-with and manage local ecosystems.  At worst Polyculture at least
-attempts to mimic natural ecosystems and create far more robust
-interdependent systems than monocultures do.
+/polyculture/.  But in a larger context, polyculture is simply a more
+complex means of what early North American inhabitants did; manage
+ecosystems.  European farming is based on the concept of
+specialization, of focusing on a subset or part of a whole and largely
+excluding the role that that part plays in the whole.  It is a holon
+that only looks inward, as a complete whole, rather than as a part of
+something larger than itself.  In the heat of the exponential
+explosion of science, technology and innovation in the 19th and 20th
+centuries this was as much a coping mechanism as it was a failing.
+There was too much happening all at once, and the tools available to
+manage the flood of information weren't much changed from the 19th
+century beyond the introduction of the technology like the typewriter,
+mimeograph and later photocopy machines.
+
+Monoculture agriculture is a perfect example of late 19th and 20th
+century specialization that ignored that a giant field of corn was
+still just a small part that depended on a far larger ecosystem.
+
+Polyculture at its best, integrates with and manages local ecosystems.
+At worst Polyculture at least attempts to mimic natural ecosystems and
+create far more robust interdependent systems than monocultures do.
 
 Natural systems are certainly not perfect, they are constantly going
 in and out of balance as climate and environmental factors change.
 Animals and plants succeed, die off and eventually go extinct through
-all of this.
+all of this.  In retrospect, the periods when systems were in relative
+equilibrium were short to the point that they were almost aberrations.
+
+Civilization was built during one of these aberrations, which mankind
+has done its level best to destroy.  We are now at the very beginning
+of what will be centuries of instability.  That is the new norm, and
+we better get very good at managing it.
