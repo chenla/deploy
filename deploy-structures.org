@@ -259,12 +259,41 @@ mess we've made of Earth's climate, we better get damn good at
 makeing the indoors we will be stuck in, really really good,
 because we sure suck at it today...
 
+* Habitability Matrix
+
+It's critical that we don't loose sight of the fact that no
+matter where we are, we still have the same matrix of basic
+environmental needs for humans to be able to survive.
+
+ - atmosphere
+ - pressure
+ - gravity
+ - temperature
+ - light
+ - radiation
+
+And that even when we are building things on earth we can
+not take them as being givens, because a lot of things we
+take for granted in terms of temperature and atmosphere will
+change rapidly in the next century.  We will need to think
+of the earth as far more hostile to human life than we think
+of it now -- we won't be camping on the beach like Ulysses,
+we're going to head straight into the cozy warm and safe
+beer hall.
+
+So every time we build or design something, we must be
+consciously aware of the environmental parameters that the
+design requires to support life.  It will seem strange at
+first, but it's a first step towards being a solar species
+and civilization.
 
 * Outline
 
-  - matrix to determine environmental needs :: atmosphere,
-    pressure, gravity, temperature, light, radiation, etc.
-  - habitat -- a habitat is both structure, atmosphere,
+  
+
+
+   
+  - habitat :: a habitat is both structure, atmosphere,
     climate and ecosystem.
 
     - artificial habitats :: on most of earth artifical
