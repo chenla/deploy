@@ -68,6 +68,32 @@ something beautiful that would be cherished.
 -- Battle | Preface, Christopher Alexander
 #+end_quote
 
+#+begin_comment
+The following quote doesn't belong here -- but I'm parking
+it here until I work out where to use it.
+#+end_comment
+
+#+begin_quote
+The organization of nature is not modular in the sense that
+modern architecture has been made from prefabricated modular
+components.  Someone may ask, what about atoms, what about
+molecures, making the false assumption that electrons,
+atoms, and molecules are modular and identical.  But this is
+altogether mistaken.  The discipline of quantum mechanics
+established many decades ago that the quantum field sets up
+special, effective conditions that make each atom become
+unique under the influence of its quantum field.  Hence any
+two electrons are different, according to time and place,
+thus always depending on their context.
+
+What is more to the point is that the reality of things --
+what I call the reality -- comes from the structure of
+something which /at every level/ is highly complex and
+unique.
+
+-- Battle | Preface, Christopher Alexander
+#+end_quote
+
 * Introduction
 
 Building structures that provide shelter is certainly
