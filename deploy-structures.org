@@ -288,11 +288,11 @@ because we sure suck at it today...
 * Alexander's Nine Principles
 
 #+begin_quote
-1. Fundementally, architecture ia and must be an art of
+1. Fundementally, architecture is and must be an art of
    making.  The impetus for wholeness guides everything, and
    is the driving force of all construction activity.
    Adaptation is a neccessary aspect of design.  The entire
-   productionof buildings must be an ongoing, dynamic
+   production of buildings must be an ongoing, dynamic
    process, alive to the circumstances that emerge day by
    day, and able to develop opportunities and events that
    come to light.
