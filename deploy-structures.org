@@ -94,6 +94,20 @@ unique.
 -- Battle pg45 |  Christopher Alexander
 #+end_quote
 
+
+#+begin_quote
+Architecture is now only transmitted /through drawings/.
+The typical architect does not personally know how to make
+anything -- not buildings, not windows, not floors or
+ceilings.  He or she draws drawings.  We are, by now, so
+deeply enmeshed in this way of thinking, that it doesn't
+sound like idiocy.  It sounds like a very practical thing to
+do.  But it is, in fact, idiocy.  Mass production has turned
+architecture on its head!!
+
+-- Battle pg45 |  Christopher Alexander
+#+end_quote
+
 * Introduction
 
 Building structures that provide shelter is certainly
