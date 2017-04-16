@@ -48,6 +48,206 @@ respect make us feel like you really care.
    [[https://www.youtube.com/watch?v=VPCvyBJjmVk][Dr. David Dao's Lawyers Speak to the Press]] | YouTube
 #+end_quote
 
+Mollison's final section of PDM (Permaculture A Designer's
+Manual) was devoted to /Strategies for An Alternate Nation/
+in which he outlined in some detail how to built communities
+and whole economies based on the Permaculture concepts laid
+out in the book.  There are some very good ideas, mostly
+based in practical experience of things that have worked
+before.
+
+We will use this part of the Primer to do the same, but it
+will include actual designs, code, and models that can be
+used for planning and eventually as a foundation for
+building and governing Scopic Distributed Communities.
+
+When I first approached the problem of how to build a new
+civilization I basically passed on the idea.  It was too
+big, and it was utter hubris to think that a civilization
+could be designed top down.  So I concentrated on the idea
+of building a distributed group of small communities that
+were designed collectively to become caretakers of mankind's
+collective memory and experience.  When things got bad,
+these communities could then come in and restore knowledge
+whenever and wherever it was lost.  The model that was at
+the back of my mind was the medieval monastary.  These were
+and still are today stable communities that have survived
+centuries and have indeed been the last refuge of much of
+mankind's recorded knowledge that was preserved through
+centuries of darkness.  There is a reason these centuries
+were called the Dark Ages.  And every civilization has gone
+through numerous dark Ages.  Greek Civilization emerged from
+such a Dark Age and the Illiad and Odyssey are both works
+describing the civilization that existed hundreds of years
+before Homer.  The Chinese have a long history of periodic
+and devestating self-inflicted Darkness.  It seems to be a
+fundemental part of the human character to periodically go
+collectively insane and self-destruct.
+
+#+begin_quote
+James Clement van Pelt, co-founder of Yale's Initiative in
+Religion, Science & Technology, suggests that Sisyphus also
+personifies humanity and its disastrous pursuit of
+perfection by any means necessary, in which the great rock
+repeatedly rushing down the mount symbolizes the
+accelerating pace of unsustainable civilization toward
+cataclysmic collapse and cultural oblivion that ends each
+historical age and restarts the sisyphean cycle.
+
+-- [[https://en.wikipedia.org/wiki/Sisyphus#cite_note-24][Sisyphus]] - Wikipedia
+   [[bib:jochemsen:2010different]]
+#+end_quote
+
+But the more I studied the model of monastic estates, the
+more I became disillusioned with the idea.  By setting
+yourself apart from the rest of the culture and civilization
+you are there to help preserve you become a perpetual target
+-- humans are wired to catagorize each other as either
+belonging to your group -- one of us -- and everyone else,
+who are outsiders or others.  We find it easy to believe
+that anyone who is not one of us, is not just different, and
+not even an enemy, but evil or not even human and not
+deserving of being treated even as well as an animal.  This
+is how we rationalize slavery, racism, sexism and
+xenophobia.
+
+Universities emerged from the monastic tradition, and
+continued many traditions and even titles from european
+monastaries even today.  Titles like rector, xxxxxxx
+xxxxxxxx xxxxxxx echo the universities monastic ancestry.
+
+Universities have often been thought of as /others/ in their
+neighboring communities.  The /Town-Gown/ rivalry is as old
+as Universities themselves.  The /Latin Quarter/ in Paris, a
+part of the city which became the proto-model for the modern
+university before they were granted their own land to create
+campuses had any number of problems with the rest of the
+city.  Teachers were granted special legal status, teachers
+and students spoke /latin/, which before then had only been
+spoken by the clergy, and only heard by commoners during
+mass.  No one could read, write or speak latin unless you
+joined the church or went to school.  That set them apart.
+Because educated people are /educated/, they sometimes tend
+to dispense with many common social customs, and
+superstitions.  That set them apart.  They even dressed
+strangely, in gowns (robes) which definately set them apart.
+
+It's no surprise that whenever populism or a populist
+movement is on the rise, there is a backlash against the
+educated and especially against educational institutions.
+Time and time again, Univeristies have been the place where
+it is thought where uprisings are incubated and civil unrest
+instigated.  Purges and even wholesale slaughter of people
+in Universities are a far too common occurance throughout
+history.  I am writing this in an office of a Univeristy
+that had all but two of it's PhDs murdered in my lifetime.
+Turkey is the most recent place to see mass arrests across
+the country.  The Americans haven't yet commited broadscale
+universicide but events like the Kent State Masacre and
+before that the darkness of the McCarthy era witch hunts
+show that they are not the exception to the rule.
+
+People fear the /other/, so if we are trying to provide very
+long term safeguards against our own darker natures the
+monastic, temple or university model has almost as many
+things going for it as it does against it.
+
+Even if we put aside these misgivings about monastic models,
+if our goal is to preserve and safeguard civilization it
+will always be a /descriptive/ record.  Knowledge is not
+just what is in a book, it's information that has been woven
+into a person's brain -- knowledge is always a living thing.
+Recorded knowledge, once it has passed out of living memory
+is in a sense, lost.  It has to be reinvented in your head
+and in your hands from the pages of a book -- weaving that
+information into your brain through constant reinforcement
+and practice.
+
+If you have to choose between rebooting a collapsed
+civilization from a neighboring civilization or from a
+library of books that have been unearthed after the collapse
+that recorded what has been lost, rebooting from the
+neighbor is a far better option.
+
+This is where the /distributed/ comes in.  The idea of
+LOCKSS, /lot's of copies keep stuff staff/[fn:1] works well
+here.  Throughout the last ten thousand years or so since
+the emergance of cilvization there have always been multiple
+civilzations on the planet.  Civilization has always been a
+bit like [[https://en.wikipedia.org/wiki/Whac-A-Mole][Whack-A-Mole]].  Knock down one and another pops up
+elsewhere.[fn:2]
+
+#+CAPTION: Sisypher dwarves by Tomasz Moczek (pl) in Wrocław
+#+ATTR_ORG: width="500px"
+[[./img/strategies/Syzyfki_(Sisyphers)_Wroclaw_dwarf_02.jpg]]
+
+#+begin_comment
+Image Credit: [[https://commons.wikimedia.org/wiki/File%3ASyzyfki_(Sisyphers)_Wroclaw_dwarf_01.JPG][Sisypher dwarves]] by Tomasz Moczek (pl) in Wrocław By
+Tomasz MoczekPnapora [[http://creativecommons.org/licenses/by-sa/3.0][CC BY-SA 3.0]], via Wikimedia Commons
+#+end_comment
+
+This has worked so far, even though at any one time there
+may have never been more than half a dozen or so
+civilizations on the planet at any given time.
+
+There is no real going back -- civilization crossed a
+threshold when it became dependent on technological
+innovation in order to survive.  Once you have become a
+technological civilization there is no going back, it's
+either forward or collapse.  And once you've collapsed you
+have to start from square one, and since the biggest factor
+that made it possible to build a technological civilization
+was access to easily accessable raw materials and energy.
+Since we've exhausted all the easily mined and drilled
+resources it would make it several or orders of magnitude to
+rebuild without access to those resouces using early
+industrial technology.
+
+It's been said that it takes an industrial civilization to
+build an industrial civilization.  If we don't have another
+civilization to reboot from, then without easy energy and
+materials it might not be possible to sustain a large enough
+population for mankind to be able to do it a second time.
+
+It's this thinking that is behind the argument for mankind
+to become a multi-planet species.  If civilization is
+global, in order for us to reboot from another civilization,
+we will need another globe.
+
+This only get's us part of the way there.  Having two or
+perhaps even three or four instances of civilization in the
+Solar System is still only slightly better than what we have
+now.  Mankind is infinately ingenious in devising methods of
+destroying itself.  Having two precariously balanced
+instances of civilization is not enough.  If lots of copies
+keep stuff safe, I would argue that no one would agree that
+two of something consitutes a /lot of copies/.
+
+What is needed is to build in massive redundancies into the
+fabric and structure of civilization, so that it mimics the
+most massively redundent information, DNA. every cell of
+every living thing carries the full blueprint of how to make
+a copy of itself.  And the DNA of any one creature contains
+most of the code required to build most other creatures on
+the planet.  The only hope for Mankind to preserve itself
+and it's civilization is mimic that kind of redundancy as
+much as possible.  This means in effect that a global (or
+solar) distributed civilization is actually made of up of
+hundreds of thousands or even millions of copies of itself,
+each one capable of rebuilding all of civilization on its
+own.
+
+This is the goal of the Sisyphean task that we have given
+ourselves because it can never be complete, it can only be
+repeated over and over until our species finally is wiped
+out by natural forces beyond humanity's ability to recover
+from.  That end is inevitable, the only question is how long
+we can forstall it and, as I like to say, keep the
+experiment going a little longer still.
+
+
+
+----
 
 It's clear that modern technological society is rapidly
 becoming disfunctional as the social institutions and
