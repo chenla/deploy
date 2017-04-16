@@ -199,6 +199,45 @@ equilibrated.
 
 ** the doomed
 
+#+begin_quote
+Dr. Hunter S. Thompson: Hi sir, it's Harris from the
+Post. Can I get you anything sir?
+
+Candidate: How's the family Harris?
+
+Dr. Hunter S. Thompson: Oh the family, well that's bad
+news. The screwheads finally came and took my daughter
+away. Let me ask you a question sir, what is this country
+doing for the doomed? There are two kinds of people in this
+country, the doomed and the screwheads. Savage tribal thugs
+who live off their legal incomes, brow deep out there; no
+respect for human dignity. They don't know what you and I
+understand, you know what I mean.
+
+Candidate: You ever play football, Harris?
+
+Dr. Hunter S. Thompson: Yes sir, thank you sir. I played in
+college, and they're gonna get your daughter too sir. I've
+heard their rallies, they like Julie but Tricia... and they
+really hate you sir. You know that one and a half of the
+State Senate of Utah are screwheads. You know I was never
+really frightened by the bopheads and the potheads with
+their silliness never really frightened me either, but these
+goddam screwheads, they terrify me. And the poor doomed, the
+young, and the silly, the honest, the weak, the
+Italians... they're doomed, they're lost, they're helpless,
+they're somebody else's meal, they're like pigs in the
+wilderness.
+
+Candidate: Come here Harris, come here. Fuck the doomed! 
+
+-- [[https://en.wikipedia.org/wiki/Where_the_Buffalo_Roam][Where the Buffalo Roam]] | Conversation between Hunter
+Thompson and Richard Nixon in public rest room.
+
+#+end_quote
+
+
+
 The present generation or two is likely lost, people can
 only change so much over a lifetime and what we are asking
 of people is beyond the cognitive capability for most
