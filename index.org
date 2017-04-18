@@ -80,6 +80,11 @@ Recent change activity can be found at http://github.com/chenla/deploy
 
 ** Shops
 ** Guilds
+ files prefix: 'guild'
+
+ - Domain  :: human
+ - [[./guild-proces.org][Process Guilds]] :: guilds of automated infrastructure
+
 ** Labs
 ** Solar Civilization
 
