@@ -85,9 +85,68 @@ The present system does not factor in real total costs, which include
 availability of natural resources, infrastructure for much of the
 system including transportation, electricity and fuel, or the
 environmental impact. The present system is not-sustainable and is
-designed to largely benifit a small percentage of wealthy land and
+designed to largely benefit a small percentage of wealthy land and
 corporate owners at the expense of everyone else.
 
+* Process Guild
+
+We use the word /guild/ to mean a group of interdendent parts that
+must work together, in the sense of the permaculture concept of /crop
+guilds/.  We use the word process as in a business process that is
+modeled in an ERP software system.  A guild is a holon, in that it can
+be seen as a complete semi-autonomous whole, which is made up of parts
+which are themselves semi-autonomous wholes.  The structure is in
+theory nearly infinitely nestable, so that any process guild may
+itself be a part of a larger process guild, and contain parts which
+are themselves process guilds as well.  Finally any part of a guild,
+be it a mutually exclusive atom (not made up of other parts) or some
+global spanning [[https://en.wikipedia.org/wiki/Matryoshka_doll][matryoshka]] guild can overlap and be part of any other
+guild at the same time, forming an overlapping interwoven [[https://en.wikipedia.org/wiki/Rhizome_(philosophy)][rhizomatic]]
+structure in which any one point may or may not be connected to any
+other point.  Got your head around that yet?  No? Think about it a
+while and come back when your ready.  Good now?  Let's continue.
+
+We are used to thinking of business in terms of distinct parts which
+happen separately from each other.
+
+  - procurement
+  - production
+  - logistics
+
+You procure materials that are used in production. Something that is a
+material in one context is a product to another.  To a corn farmer,
+corn is a product, while water, soil, sunlight fertilizers etc are
+material inputs.  To a company that makes cornbread, corn, turned to
+cornmeal is a material.
+
+Logistics includes the coordination of transporation physical things
+and information from place to place, the farther that something needs
+to be moved the more complex -- moving something from Battanbang to
+Phnom Penh will typically take place in a single hop, from city to
+city, though even then it may go from the sender, to a transporation
+company which aggregates multiple items that are destined for Phnom
+Penh take them as a single shipment to Phnom Pehn and then arrange to
+have them individually picked up and delievered to different
+addresses.  In this scenario, it would require three or more hops at
+least to reach its destination though it is only moving hundreds of
+kilometers.  Most of the cost involved in logistics is taken up in
+transfer of goods from different modes of transport between hops, and
+the overhead added by each independent operator in the logistic
+chain.  This is why intermodal transport has had such an enormous
+impact on global commerce -- it effectively slashed 75% or more of
+costs of interhop transfer.
+
+
+
+
+So a process guild can be thought of as a temporary or long term chain
+of interdependent relationships that form a complete end-to-end
+business process.
+
+
+
+
+* It-Torrents
 
 
 * Discuss
