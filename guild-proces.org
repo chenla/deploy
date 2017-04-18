@@ -22,9 +22,68 @@
 
 * Introduction
 
-* Not In My Backyard
+A process guild is automated network that combines, distributes,
+federates, and automates many aspects of modern palletized,
+containerized supply chains and logistics with the idea of distributed
+cascading production that displaces centralized factory production.
+
+Palletization and Containerization removed many steps of loading and
+unloading of goods from source to destination.  It was neccessary to
+load and uload trucks, train cars, planes and ships, by hand.  This
+not only took a gret deal of time, but was messy and resulted in many
+goods being damaged or stolen along the way.
+
+The system transformed production and international trade, but it
+favoured scale.  Production needed to produce goods that could fill
+pallets and containers to be economical.  This meant farms needed to
+produce a large amount of a few or even a single crop.  Factories
+needed to produce many identical copies of the same item.  This has
+resulted in the mass-market factory goods that define modern
+civilization.
+
+Anything that is custom made must use a far more expensive postal or
+delivery network that is designed for end-users and last-mile
+delivery.  These have become astonishingly expensive in recent years
+as governments no longer treat such services as a public service and
+as a for-profit business.  The commerical delivery networks charge
+even higher rates on the promise of speed.  For individual delivery,
+fast and good has replaced good and cheap.
+
+However, computers, AI and robotics make it possible to add new layers
+to the existing logistics and transportation networks that promise to
+make small production as if not more efficient than the present
+system, and for the goods resulting from the new production processes
+to be individually custom made and of far higher quality than is true
+today.
+
+Today, we live in a want-based dispsable consumer economy which uses
+the enormous savings that assembly lines, palletization and
+containerization have made possible to build things that only last a
+few years at most and then need to be replaced.  This has degraded
+people's lives as much if not more than has given them access to goods
+that were out of reach for those with lower income.  And has not
+significantly changed their situation because the goods they purchase
+must be replaced on a regular bases, which spread over time results in
+them spending far more than if they were had a reasonable means of
+purchasing high quality goods that would last decades or longer.
 
 #+begin_comment
+need to work out how much waste is being caused in the present system
+-- for example, if an old Maytag Washing Machine used to last 20-30
+years, but is now replaced every 3-4 years you need to buy nearly 10
+washing machines over the same period, and for most of that time they
+are not working properly because they are designed to fail...
+
+Supermarkets have enormous amounts of waste, especially in perishible
+goods.  Compare that to a wet market where there are many sellers with
+only a small amount to sell each, when they sell out they go home.
+I'd love to do a study on how efficient such markets are in places
+like Thailand, Vietnam and Cambodia.
+#+end_comment
+
+
+* Discuss
+
 This needs to be moved -- to Process Guilds (need to create)
 
 I think it fits with Alexander's idea of communities
@@ -72,7 +131,9 @@ away, "what a world, what a world"....
 
 The girl at i-Cafe with the pig farm -- how cold guild-nets
 solve her problem and stave off bastards like CP?
-#+end_comment
+
+
+* Not In My Backyard
 
 When people say "not in my backyard" they are playing with
 fire.  Everything is in someone's backyard, by pushing
