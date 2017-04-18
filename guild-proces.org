@@ -81,6 +81,14 @@ I'd love to do a study on how efficient such markets are in places
 like Thailand, Vietnam and Cambodia.
 #+end_comment
 
+The present system does not factor in real total costs, which include
+availability of natural resources, infrastructure for much of the
+system including transportation, electricity and fuel, or the
+environmental impact. The present system is not-sustainable and is
+designed to largely benifit a small percentage of wealthy land and
+corporate owners at the expense of everyone else.
+
+
 
 * Discuss
 
