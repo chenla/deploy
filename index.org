@@ -77,7 +77,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - Tools
  - Energy
  - [[./deploy-ecosystem.org][Ecosystem]]
- - [[./deploy-degrade.org][Gracefully Degrade]]
+ - [[./deploy-degrade.org][Gracefully Degradation]]
  - [[./deploy-reproducibility.org][Reproducibility]]
 
 ** Shops
