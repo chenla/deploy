@@ -26,8 +26,8 @@
 
 
 #+begin_quote
-A system that is designed to experience graceful degradation, or to
-fail soft (used in computing, similar to "fail safe"[3]) operates at a
+A system that is designed to experience *graceful degradation*, or to
+fail soft (used in computing, similar to "fail safe") operates at a
 reduced level of performance after some component failures. For
 example, a building may operate lighting at reduced levels and
 elevators at reduced speeds if grid power fails, rather than either
@@ -44,7 +44,24 @@ technologies or that have a larger display available.
 -- [[https://en.wikipedia.org/wiki/Fault_tolerance][Fault tolerance]] | Wikipedia
 #+end_quote
 
+This is not the same as providing redundancy, or making systems
+fault-tolerant which are a means of maintaining operability.
 
+For example, if you have a house full of appliances that are part of
+the IOT, and there is a network failure, those devices will no longer
+work.  But they could then revert to an 'electronic' level of
+functionality so that they continue to work as a basic electronic
+device.  But if the electronics are fried from a line spike during an
+electrical storm they will no longer work, so they could then revert
+to an electrical level which doesn't rely on the electronics and
+mechanical switches could then operate the device so long as their is
+a current.  Concievably, for some devices, if the electricity goes
+down, you could connect the device to a non electrical source of
+energy -- such as a bicycle turning a belt.  In this way, the systems
+will continue to work, but at increasingly less efficiency, and with
+less and less fine-control and ease of use.
+
+* Systems
 
 prinicple of things gracefully degrading
 
@@ -103,6 +120,14 @@ will still work, if the electronic layer breaks then the electrical
 layer will still work, and if the electrical breaks, the mechanical
 still works.
 
+
+* Civilization
+
+  - Digital info-centric technological
+  - Industrial Electrical
+  - Neo-Edwardian Mechanical/Electrical
+  - Pre-Industrial Mechanical
+  - Mad Max tool-based hunter-gatherer
 
 * Core devices
 
