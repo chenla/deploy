@@ -22,3 +22,95 @@
 
 * Introduction
 
+- [[http://www.catb.org/esr/writings/taoup/html/ch01s06.html][Basics of the Unix Philosophy]]
+
+
+#+begin_quote
+A system that is designed to experience graceful degradation, or to
+fail soft (used in computing, similar to "fail safe"[3]) operates at a
+reduced level of performance after some component failures. For
+example, a building may operate lighting at reduced levels and
+elevators at reduced speeds if grid power fails, rather than either
+trapping people in the dark completely or continuing to operate at
+full power. In computing an example of graceful degradation is that if
+insufficient network bandwidth is available to stream an online video,
+a lower-resolution version might be streamed in place of the
+high-resolution version. Progressive enhancement is an example in
+computing, where web pages are available in a basic functional format
+for older, small-screen, or limited-capability web browsers, but in an
+enhanced version for browsers capable of handling additional
+technologies or that have a larger display available.
+
+-- [[https://en.wikipedia.org/wiki/Fault_tolerance][Fault tolerance]] | Wikipedia
+#+end_quote
+
+
+
+prinicple of things gracefully degrading
+
+- software interfaces
+  - GUI
+  - CLI
+
+- Documents
+  - Rendered
+  - Source (syntax hi-light etc)
+  - Plain Text
+
+- Storage
+  - Cloud
+  - Local
+
+- Network
+  - Internet
+  - Mesh
+  - LAN
+  - Sneakernet (point-to-point/store-and-forward)
+
+- Processing
+  - cloud - CPU/GPU
+  - local
+  - device
+
+- Electricity
+  - Grid
+  - Local
+  - Device
+
+* Machines & Devices
+
+Needs to be thought of in terms of shearing layers, in that rather
+than replace the whole device you replace different layers of the
+device.
+
+  - digital :: 
+    - sensor package
+    - interface
+    - processing
+    - network interface
+  - electronic :: basic
+    - switches
+  - electrical ::  
+    - power source
+  - mechanical :: 
+    - moving parts : parts that wear out
+    - gears, pumps, fans, bearings, washers, belts, plugs
+  - skin :: can be changed frequently 
+  - chasis :: lasts lifetime of device
+
+The idea is that if the digital layer breaks, the electronic layer
+will still work, if the electronic layer breaks then the electrical
+layer will still work, and if the electrical breaks, the mechanical
+still works.
+
+
+* Core devices
+
+
+  - lamp
+  - fan
+  - rice cooker/slow cooker/pressure cooker
+  - water cooker
+  - cooker
+  - washing machine
+  - refrigerator
