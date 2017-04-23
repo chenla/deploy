@@ -1,0 +1,24 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Gracefully Degrade
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/deploy/deploy-degrade.org
+  :Created: 2017-04-23T10:44@Prek Leap (11.642600N-104.919210W)
+  :ID: 30823928-8d2a-49da-80aa-b1d6d34b7a4e
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
