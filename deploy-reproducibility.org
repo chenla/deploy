@@ -22,3 +22,37 @@
 
 * Introduction
 
+The problem with text in most scientific papers and books is it is
+descriptive -- it doesn't do anything.
+
+We need to spend as much effort on proscriptive texts that are used to
+support descriptive texts.  This means not only proscriptive prose,
+but CAD files that can be sent to a CNC router or milling or laser
+cutting machine.  It means including the code that is used to do the
+work, as well as the code used to analyze the data and barf out graphs
+and conclusions.  And it means videos (yes, you heard me right) that
+document how all of the descriptive and proscriptive materials were
+put together and used to do something.
+
+Doesn't matter if you are talking about candle making or reproducing
+the double-slit experiment...  first you need a laser that can do
+x,y,z.  Here is all the information you need to build a laser that can
+meet these requirements, and this is a YouTube video of me making the
+laser and testing it....
+
+I hope that this is what the prolog, primer and hoard will do that no
+one has done before.
+
+I loved Dartnell's "The Knowledge" but it would be a lot more useful
+if everything he talks about included descriptive and proscriptive
+information that shows people how to actually do these things under
+different conditions....
+
+
+
+* Reproducibility
+
+ - open designs
+ - open experiments
+ - open code
+ - open data
