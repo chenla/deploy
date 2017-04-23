@@ -56,3 +56,5 @@ different conditions....
  - open experiments
  - open code
  - open data
+
+* Literate Computing & Devops
