@@ -43,7 +43,23 @@ Classification is about finding things
 
 We label things because you can't see what's inside
 
+Information arrchitecture is Social Architecture
 
+hierarchy is a subset of tagging -- if use facets
+
+tagging works when magnitude of the number of time an item has tagged
+-- so this works collectively but not individually -- how to apply
+outside of the community?
+
+   - how to identify communities
+   - thesaurus problem (aka roget)
+   - can apply to navigation?
+   - how to handle popularity risk -- brittle can't handle edge cases
+   - detect concept rot -- can things stink when they look bad?
+   - spam....
+
+
+Tags Are Fnords!!!!
 
 * Copyright
 
