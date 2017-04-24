@@ -69,7 +69,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-social.org][Social Structures]]
  - [[./deploy-goverance.org][Governance]]
 
- - Territory   : man is a territorial animal who conflates
+ - [[./social-territory.org][Territory]]   : man is a territorial animal who conflates
                  control with ownership
  - Sovereignty : control of territory and peoples that is
                  reciprocated by other groups claiming sovereignty
