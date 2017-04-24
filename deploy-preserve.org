@@ -45,3 +45,32 @@ We label things because you can't see what's inside
 
 
 
+* Copyright
+
+#+begin_comment
+Doesn't belong here
+#+end_comment
+
+
+
+People conflate many things with ownership
+
+  sovereignty is not some magical power -- it is a recipricol social
+  contract, if there are two countries and one believes it has
+  sovereignty and the other doesn't, then there is no sovereignty
+
+Copyright is a social contract that states that all creative and
+intellectual works belong to the public commons, (public domain) but
+in order to encourage the production of creative works, states grant
+temporary monopolies on the right to reproduce or copy those materials
+to the parties that hold the copyright on those works.  These
+monopolies are not absolute -- and there are exceptions -- fair use is
+the most important.  But there are others -- for example, in United
+States law, copyright wasn't always automatically added -- it had to
+be claimed, and two copies of the work had to be given to the library
+of congress.
+
+However, some individuals, and corporations believe that copyright =
+absolute ownership and are basically screwing over everyone else by
+doing all sorts of evil crap to cheat on the social contract that
+gives them the monopoly.
