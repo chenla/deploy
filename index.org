@@ -92,6 +92,8 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-degrade.org][Gracefully Degradation]]
  - [[./deploy-reproducibility.org][Reproducibility]]
 
+ - [[./deploy-preserve.org][Preservation]]
+
 ** Shops
 ** Guilds
  files prefix: 'guild'
