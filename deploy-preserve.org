@@ -22,9 +22,9 @@
 
 * Introduction
 
-Clay Shirky's SALT talk on preservation
+Clay Shirky's SALT talk on preservation:
 
-  - [[https://www.youtube.com/watch?v=ujMgQqp8YSY][Making Digital Durable]] | Clay Shirky | SALT | YouTube
+  - [[https://www.youtube.com/watch?v=ujMgQqp8YSY][Making Digital Durable]] | Clay Shirky | SALT (2005) | YouTube
 
 Shearing layer problem
 
@@ -37,13 +37,15 @@ Shearing layer problem
   - Media
 
 
+The bulk of the talk concerned classification and tags
+
 Preservation descisions are made in at the edge of networks.
 
 Classification is about finding things
 
 We label things because you can't see what's inside
 
-Information arrchitecture is Social Architecture
+Information architecture is Social Architecture
 
 hierarchy is a subset of tagging -- if use facets
 
