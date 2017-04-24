@@ -22,3 +22,17 @@
 
 * Introduction
 
+Clay Shirky's SALT talk on preservation
+
+  - [[https://www.youtube.com/watch?v=ujMgQqp8YSY][Making Digital Durable]] | Clay Shirky | SALT | YouTube
+
+Shearing layer problem
+
+  - Power
+  - Architecture
+  - OS
+  - Dependencies
+  - Interpreter
+  - Format
+  - Media
+
