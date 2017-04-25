@@ -26,11 +26,15 @@
  - [[https://en.wikipedia.org/wiki/Tribe][Tribe]] | Wikipedia
  - Tribes | Joel Kotkin (1992)
  - [[https://en.wikipedia.org/wiki/Joel_Kotkin][Joel Kotkin]] | Wikipedia
- - Fried, Morton H. 1975. The notion of tribe. Menlo Park, Calif:
-   Cummings Pub. Co.
+ - The Notion of Tribe | Cummings Pub. (1975)
  - [[https://en.wikipedia.org/wiki/Morton_Fried][Morton Fried]] | Wikipedia
 
  - Constant Battles: Why We Fight | Steven LeBlanc (2004)
+
+ - How War Began | Keith Otterbein
+ - War Before Civilization | Lawrence Keeley
+ 
+
 
  - [[https://en.wikipedia.org/wiki/The_World_Until_Yesterday][The World Until Yesterday]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Jared_Diamond][Jared Diamond]] | Wikipedia
@@ -63,5 +67,3 @@ warfare.
 -- Fried, Morton H. 1975. The notion of tribe. Menlo Park, Calif:
     Cummings Pub. Co.
 #+end_quote
-
-A 
