@@ -58,7 +58,25 @@ We need to work out how to bring earth with us everywhere we go and we
 simply don't know how to do it.
 #+end_comment
 
-
+#+begin_comment
+Our brains have always been black boxes -- just like the emerging AI
+systems we are building.   Stop worrying about not knowing what
+happens inside the black box so much as worrying about how the black
+boxes will externalize and communicate and remember the shit that
+comes out of the box.  Treat AI's as the same as our brains and
+construct tools that extend those black boxes so that other AIs and
+humans can work out what is good and bad and bullshit and the rest.
+The collective is the best means of checking and balancing -- not
+handicapping.  Shit goes in and shit goes out and you deal with what
+comes out and don't work so much about what happens in between.  If
+someone goes off the rails then they are cut out.  It's the system
+that has to regulate -- there won't be any one AI that could dominate
+and do what people are scared of at the moment, unless we don't even
+try to pay attention to the shit that comes out.  This is not magic,
+it's how everything works in nature.  It's why scientists who work in
+biotech aren't worried about gray goo -- nature is far more robust
+than we think -- and that's how we have to build AI.
+#+end_comment
 
 
  - [[https://en.wikipedia.org/wiki/Tribe][Tribe]] | Wikipedia
