@@ -35,7 +35,11 @@ fences and lines on maps...
     activities moving to social media like instagram (look
     up link)
 
-  - welcome to... sign (population xxx)
+    - [[http://www.vocativ.com/420143/instagram-killing-graffiti-artists/][Is Instagram Killing The Graffiti Artist?]] | Vocativ
+    - [[https://www.britsoc.co.uk/about/latest-news/2017/april/instagram-killed-the-graffiti-star-as-rich-kids-take-their-art-online/][‘Instagram killed the graffiti star’ as rich kids take
+      their art online]] | British Sociologial Association
+
+  - welcome to...
 
 
 #+CAPTION: Bruce Edwards of Magi-Graphics on the side of Twede's Cafe in North Bend, Washington.
