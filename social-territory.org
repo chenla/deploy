@@ -62,9 +62,8 @@ Twede's Cafe in North Bend, Washington.
 #+end_comment
 
 
-  - Picture of Queen Elizabeth I (or was it Victoria?) with
-    her hand on the Globe -- there is no question, it is
-    /her/ globe
+  - Picture of Queen Elizabeth I with her hand on the Globe
+    -- there is no question, it is /her/ globe
 
 #+CAPTION: Elizabeth I (Armada Portrait)
 [[./img/territories/300px-Elizabeth_I_(Armada_Portrait).jpg]]
