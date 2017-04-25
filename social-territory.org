@@ -39,7 +39,7 @@ fences and lines on maps...
 
   - picture of Buzz Aldrin on Moon with Flag
 
-#+CAPTION: Buzz Aldrin Salutes US Flag on Moon
+#+CAPTION: Buzz Aldrin Salutes US gFlag on Moon
 [[./img/territories/238px-Buzz_salutes_the_U.S._Flag.jpg]]
 
 
