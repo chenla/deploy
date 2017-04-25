@@ -41,6 +41,24 @@ eventually will fail, but it will fail as a holon, not because
 different parts of the holon fails -- that IS fucking antifragile,!
 #+end_comment
 
+#+begin_comment
+A million people is not just a million people -- it must include a
+whole ecosystem that is complex enough to be able to self-correct,
+that includes everything from microbes to mega-fuana -- this will be
+the biggest challenge -- the biosphere experiments are many orders of
+magnitude too simple.  It's not just creating a pressurized breathable
+atmosphere, that is easy at small scales, but it won't scale.  That
+was the whole point of Robinson's critique of generation ships -- that
+the ecosystems in the ships will be too simple to be antifragile --
+there are too many things that will knock them out of wack and cascade
+and collapse.  At scale it will all end very badly with the approaches
+we are using at the moment.  The sum of our parts is larger than
+ourselves, from the microbes in our guts to fucking knows what else.
+We need to work out how to bring earth with us everywhere we go and we
+simply don't know how to do it.
+#+end_comment
+
+
 
 
  - [[https://en.wikipedia.org/wiki/Tribe][Tribe]] | Wikipedia
