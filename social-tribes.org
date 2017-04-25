@@ -44,7 +44,7 @@ different parts of the holon fails -- that IS fucking antifragile,!
 #+begin_comment
 A million people is not just a million people -- it must include a
 whole ecosystem that is complex enough to be able to self-correct,
-that includes everything from microbes to mega-fuana -- this will be
+that includes everything from microbes to mega-fauna -- this will be
 the biggest challenge -- the biosphere experiments are many orders of
 magnitude too simple.  It's not just creating a pressurized breathable
 atmosphere, that is easy at small scales, but it won't scale.  That
