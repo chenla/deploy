@@ -37,8 +37,24 @@ fences and lines on maps...
 
   - welcome to... sign (population xxx)
 
-  - picture of Neal Armstrong on Moon with Flag
+  - picture of Buzz Aldrin on Moon with Flag
+
+#+CAPTION: Buzz Aldrin Salutes US Flag on Moon
+[[./img/territories/238px-Buzz_salutes_the_U.S._Flag.jpg]]
+
+
+#+begin_comment
+[[https://commons.wikimedia.org/wiki/File:Buzz_salutes_the_U.S._Flag.jpg][File:Buzz salutes the U.S. Flag.jpg]] | Wikimedia Commons
+#+end_comment
+
 
   - Picture of Queen Elizabeth I (or was it Victoria?) with
     her hand on the Globe -- there is no question, it is
     /her/ globe
+
+#+CAPTION: Elizabeth I (Armada Portrait)
+[[./img/territories/300px-Elizabeth_I_(Armada_Portrait).jpg]]
+
+#+begin_comment
+[[https://en.wikipedia.org/wiki/File:Elizabeth_I_(Armada_Portrait).jpg][File:Elizabeth I (Armada Portrait).jpg]] | Wikipedia
+#+end_comment
