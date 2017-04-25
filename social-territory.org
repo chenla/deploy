@@ -37,6 +37,16 @@ fences and lines on maps...
 
   - welcome to... sign (population xxx)
 
+
+#+CAPTION: Bruce Edwards of Magi-Graphics on the side of Twede's Cafe in North Bend, Washington.
+[[./img/territories/Welcome-to-twin-peaks-mural.jpg]]
+
+#+begin_comment
+Mural by Bruce Edwards of Magi-Graphics on the side of
+Twede's Cafe in North Bend, Washington.
+#+end_comment
+
+
   - picture of Buzz Aldrin on Moon with Flag
 
 #+CAPTION: Buzz Aldrin Salutes US gFlag on Moon
