@@ -24,24 +24,6 @@
 
 
 #+begin_comment
-
-  Shearing Layers tear things apart
-
-  Pace Layers are self-reinforcing
-
-
-perhaps this means that shearing layers are disfunctional pace layers
-and that when you figure out what is tearing things apart, the shear
-becomes pace and reinforces -- becomes antifragile
-
-do buildings tear themselves apart? -- not if they are understood as
-pace layers, designed to work at different speeds -- then the overall
-design with all layers, will fall into a larger scope -- which can and
-eventually will fail, but it will fail as a holon, not because
-different parts of the holon fails -- that IS fucking antifragile,!
-#+end_comment
-
-#+begin_comment
 A million people is not just a million people -- it must include a
 whole ecosystem that is complex enough to be able to self-correct,
 that includes everything from microbes to mega-fauna -- this will be
