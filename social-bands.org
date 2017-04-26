@@ -22,3 +22,31 @@
 
 * Introduction
 
+
+  - [[https://en.wikipedia.org/wiki/Band_society][Band society]]   | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Egalitarianism][Egalitarianism]] | Wikipedia
+
+
+Bands are an important demarcation, in that they are the ideal and
+natural size for egaltarian societies of 100 or less individuals.
+
+
+#+begin_quote
+In his 1972 study, /The Notion of the Tribe/, Morton Fried defined bands
+as small, mobile, and fluid social formations with weak leadership
+that do not generate surpluses, pay taxes nor support a standing army.
+
+Bands are distinguished from tribes in that tribes are generally
+larger, consisting of many families. Tribes have more social
+institutions, such as a chief, big man, or elders. Tribes are also
+more permanent than bands; a band can cease to exist if only a small
+group splits off or dies. Many tribes are sub-divided into
+bands.  Historically, some tribes were formed from bands that came
+together from time to time for religious ceremonies, hunting, or
+warfare.
+
+-- Fried, Morton H. 1975. The notion of tribe. Menlo Park, Calif:
+    Cummings Pub. Co.
+#+end_quote
+
+
