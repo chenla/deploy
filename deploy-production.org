@@ -21,3 +21,73 @@
 #+TOC: headlines 4
 
 * Introduction
+
+
+
+ - Industrial Revolution
+ - Transport Revolution 1840-1890
+ - Science Revolution 1860-1930
+
+ - Cybernetic Revolution
+ - 
+
+
+ - learning curve
+ - experience curve
+
+#+begin_quote
+Generally the production of any good or service shows the
+experience curve effect. Each time cumulative volume
+doubles, value added costs (including administration,
+marketing, distribution, and manufacturing) fall by a
+constant percentage.
+#+end_quote
+   
+
+#+begin_quote
+Machines with interchangeable parts can now be constructed
+with great economy of effort . . . [A radio set] is made by
+the hundred million, tossed about in packages, plugged into
+sockets – and it works! Its gossamer parts, the precise
+location and alignment involved in its construction would
+have occupied a master craftsman of the guild for months;
+now it is built for thirty cents. The world has arrived at
+an age of cheap, complex devices of great reliability; and
+something is bound to come of it.
+
+-- Vannevar Bush, ‘As we may think’, The Atlantic, July 1945.
+#+end_quote
+
+#+begin_quote
+What constitutes a successful manufacturer is also being
+redefined. Up to about 1990, production was considered by
+far the most important part of the work of a manufacturing
+business. Parcelling this out for other companies to take
+care of was rarely contemplated. But in the early years of
+the twenty-first century, the realization grew that making
+products is just one part of the ‘value chain’ of company
+operations. Others include design and development, and the
+way products are maintained or ‘serviced’ after
+installation. To be considered a great manufacturer, compa-
+nies do not now need to make anything, even though they will
+almost certainly know a lot about what this
+entails. Increasingly, elements of the value chain are being
+left to a variety of businesses in different countries.  The
+management of this mix is becoming a highly prized skill.
+In many product areas, opportunities are opening up as a
+result of
+
+-- [[bib:marsh:2012new][The New Industrial Revolution]] pg17 | Peter Marsh (2012)
+#+end_quote
+
+The important word here is skill -- companies like Apple
+Computer don't do their own production any longer.  They
+design products and then piece together the supply and
+production chains.
+
+What if what Tim Cook does effectively becomes a utility?
+
+
+   [[https://en.wikipedia.org/wiki/Experience_curve_effects][Experience curve effects]] | Wikipedia]
+   [[https://www.bcgperspectives.com/content/classics/corporate_finance_corporate_strategy_portfolio_management_the_experience_curve_reviewed_history/][The Experience Curve—Reviewed (Part II)]] | bcg.perspectives
+   [[bib:marsh:2012new][The New Industrial Revolution]] | Peter Marsh (2012)
