@@ -96,12 +96,16 @@ Recent change activity can be found at http://github.com/chenla/deploy
 
  - [[./deploy-preserve.org][Preservation]]
 
+ - [[./deploy-production.org][Production]] 
+
 ** Shops
 ** Guilds
  files prefix: 'guild'
 
- - Domain  :: human
+ - Domain  Guilds :: human
  - [[./guild-process.org][Process Guilds]] :: guilds of automated infrastructure
+
+
 ** Labs
 ** Solar Civilization
 prefix: 'solar'
