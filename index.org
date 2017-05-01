@@ -104,7 +104,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
 
  - Domain  Guilds :: human
  - [[./guild-process.org][Process Guilds]] :: guilds of automated infrastructure
-
+ - Biological Guilds    :: argricultural and ecosystem 
 
 ** Labs
 ** Solar Civilization
