@@ -32,8 +32,78 @@
  - 
 
 
+
+
+
+
+
  - learning curve
  - experience curve
+
+Peter Drucker -- flexible manufacturing
+
+#+begin_quote
+In manufacturing, affordable choice has taken a long time to
+evolve. It has passed through four distinct stages, and is
+now in a fifth. The different stages have always been based
+on a balance between two approaches – customization and
+standardization – and whether goods are made in small or
+large amounts.
+
+The /first/ of these phases was ‘low-volume customization’.
+The period coincided with early glass-making. It involved
+the first rudimentary processes to make products from other
+materials such as wood, clay and metals. For the sake of
+simplicity, this era can be said to have started with the
+beginning of the Iron Age. It lasted for nearly 3,000 years,
+until roughly 1500 ce.
+
+....  the /second/ phase of manufacturing processes:
+‘low-volume standardization’.  The period enabled production
+workers to start making their goods on more of a repeatable,
+consistent basis. Starting in 1500 in the Venice shipyard,
+the era continued for 400 years. In interchangeable parts
+production, groups of components are divided into
+families. Inside each family, parts are identical.
+Components made in this way are easier to assemble into a
+product than parts made in a non-standard fashion. Parts of
+this kind also lend themselves – at least in theory – to use
+in production systems, permitting a lot of variation.
+
+.... ‘high-volume standardization’ – the /third/ key stage for
+manufacturing processes. The period lasted from 1900
+to 1980.
+
+.... Drucker’s term of flexible mass production means the
+same as ‘high-volume customization’. This is the name given
+to the process that features in the /fourth/ phase of
+manufacturing. It started in 1980, a few years after Drucker
+published his book. High-volume customization is also
+sometimes referred to as ‘lean production’, or ‘mass
+customization’. /The Machine That Changed the World/, a book
+about the automotive industry, concen- trates on lean
+production, a term coined in 1988 by Massachusetts Institute
+of Technology researcher John Krafcik.18 In the book, Jim
+Womack and his fellow authors define lean production as
+combining ‘the advantages of craft production and
+[inflexible] mass production, while avoiding the high cost
+of the former and rigidity of the latter’. Lean production,
+they say, employs ‘teams of multi-skilled workers at all
+levels of the organization and [uses] highly flexible,
+increasingly automated machines to produce volumes of
+products in enormous variety’.19 A key concept is to
+eliminate waste in terms of unnecessary stocks of spare
+parts or complete products. Instead of having buffer
+supplies of components throughout the process, parts ‘flow’
+through the system – either by automated transfer mechanisms
+or (more commonly) through people moving the components
+around.20 They arrive at specific produc-
+
+-- [[bib:marsh:2012new][The New Industrial Revolution]] | Peter Marsh (2012)
+#+end_quote
+
+ - /The Machine That Changed the World/ | Jim Womack
+ - [[https://en.wikipedia.org/wiki/Lean_production][Lean manufacturing]] - Wikipedia
 
 #+begin_quote
 Generally the production of any good or service shows the
