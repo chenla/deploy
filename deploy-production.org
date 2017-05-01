@@ -101,7 +101,14 @@ around.20 They arrive at specific produc-
  - [[https://en.wikipedia.org/wiki/Just-in-time_manufacturing][Just-in-time manufacturing]] | Wikipedia
 
 Of course, just-in-time is nearly the polar opposite of
-anti-fragile -- but how to reconcile?
+anti-fragile -- but how to reconcile?  We have to rethink
+how materials and goods are cached in the network.  Bangkok
+floods disrupted subassemblies going to Japan, and final
+products in the flood region.  It also cut off transport to
+the provinces.  The network needs to somehow provide
+inventories, that can last when something is disrupted, but
+also be a futures market that orders and purchases in
+advance.
 
 #+begin_quote
 Sepheri provides a list of methodologies of JIT
@@ -129,6 +136,11 @@ manufacturing that "are important but not exhaustive":[40]
 
 This is actually a good list -- which we can apply to
 small-volume distributed manufacturing.
+
+But this essentially needs to be handed over to AI and
+robots.
+
+I like Supplier networks -- extensions of the factory...
 
  - Sepheri, M. (1986). How kanban system is used in an
    American Toyota motor facility. Industrial Engineering,
