@@ -104,6 +104,12 @@ around.20 They arrive at specific produc-
 
  - /The Machine That Changed the World/ | Jim Womack
  - [[https://en.wikipedia.org/wiki/Lean_production][Lean manufacturing]] - Wikipedia
+ - [[https://en.wikipedia.org/wiki/Just-in-time_manufacturing][Just-in-time manufacturing]] | Wikipedia
+
+ - Sepheri, M. (1986). How kanban system is used in an
+   American Toyota motor facility. Industrial Engineering,
+   17(2), 50–56.
+
 
 #+begin_quote
 Generally the production of any good or service shows the
