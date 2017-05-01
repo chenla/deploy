@@ -31,13 +31,7 @@
  - Cybernetic Revolution
  - 
 
-
-
-
-
-
-
- - learning curve
+- learning curve
  - experience curve
 
 Peter Drucker -- flexible manufacturing
@@ -105,6 +99,36 @@ around.20 They arrive at specific produc-
  - /The Machine That Changed the World/ | Jim Womack
  - [[https://en.wikipedia.org/wiki/Lean_production][Lean manufacturing]] - Wikipedia
  - [[https://en.wikipedia.org/wiki/Just-in-time_manufacturing][Just-in-time manufacturing]] | Wikipedia
+
+Of course, just-in-time is nearly the polar opposite of
+anti-fragile -- but how to reconcile?
+
+#+begin_quote
+Sepheri provides a list of methodologies of JIT
+manufacturing that "are important but not exhaustive":[40]
+
+ - Housekeeping – physical organization and discipline.
+ - Make it right the first time – elimination of defects.
+ - Setup reduction – flexible changeover approaches.
+ - Lot sizes of one – the ultimate lot size and flexibility.
+ - Uniform plant load – leveling as a control mechanism.
+ - Balanced flow – organizing flow scheduling throughput.
+ - Skill diversification – multi-functional workers.
+ - Control by visibility – communication media for activity.
+ - Preventive maintenance – flawless running, no defects.
+ - Fitness for use – producibility, design for process.
+ - Compact plant layout – product-oriented design.
+ - Streamlining movements – smoothing materials handling.
+ - Supplier networks – extensions of the factory.
+ - Worker involvement – small group improvement activities.
+ - Cellular manufacturing – production methods for flow.
+ - Pull system – signal [kanban] replenishment/resupply systems.
+
+-- [[https://en.wikipedia.org/wiki/Just-in-time_manufacturing][Just-in-time manufacturing]] - Wikipedia
+#+end_quote
+
+This is actually a good list -- which we can apply to
+small-volume distributed manufacturing.
 
  - Sepheri, M. (1986). How kanban system is used in an
    American Toyota motor facility. Industrial Engineering,
