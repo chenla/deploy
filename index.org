@@ -81,6 +81,9 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./social-nation.org][Nation]]      : group identity encompassing culture,
                  language, mythology and often racial ethnic
                  groups
+ - [[./social-tribes.org][Tribes]]      : In many respects they will be the same as a Guild.
+
+
 
  - Bioregions
  - Network
