@@ -70,6 +70,106 @@ population.
 Since taxation and suppression of regime change is the only real
 purpose for land and population registration.
 
+For this to work, the State needed a number of things we take for
+granted today but are actually only historically recent in many parts
+of the world:
+
+  - surnames: given names were often chosen from a small set of names.
+    The Christians had names used in the old and new testaments etc.
+    Surnames were often based on occupation, and or where someone
+    lived, or based on a nickname that was given from a particular
+    incident or proclivity or attribute.  Charles the Fat, Vlad the
+    Impaler (:)).  But these were not official, and it was commong for
+    people to be known by multiple names.  In some places in the world
+    just as Jamaica, it is thought that knowing someone's true name
+    gave magical power over that person, so it was common for people
+    to be known by a nickname, so that in some cases you might know
+    someone your whole life and never know that person's real name.
+    My father is a case in point.  He was the baby of a large New
+    England farm family, who named him George, because of family
+    politics.  But no one in the family liked the name.  So his father
+    took to calling him "Bud" which is short for "Buddy" which during
+    Depression and World War II Era America was the equivilient of the
+    term "Dude" in recent decades.  I never heard my mother or any of
+    his family or friends refer to him as anything else than Bud
+    Collins.  And to my cousins, he was always "Uncle Buddy".  After
+    teaching at a school in Massachusetts for 20 something years, a
+    phone call came through for my father (this is before mobile
+    phones, so a primary school might have no more than 1-2 telephone
+    lines).  When the secretary came into the teachers room she said
+    "There is a call for George Collins".  My father stood up and one
+    of the teachers, looking incredulous said, "his name is not George
+    it's Bud!".  In a simular way, my first name is James, which was
+    given to me because of family politics, but my father wanted to
+    call me Bradford, which became my middle name and everyone who
+    knows me, knows me only as Brad.  Many people assume it is short
+    for the more common name Bradley.  Children who are given their
+    father's name often are known by most people by a knickname.  A
+    recent famous example of this are the father-son American
+    Presidents, George Bush and his somewhat challenged son, George W
+    Bush.  Most people who know him call him Dubya [fn:1] based on the
+    Texas pronunciation of the letter 'W'.
+
+  - measurement : this is a biiiiiig topic [which we will expand (to
+    use a Trumpism, Bigly] -- but paying taxes were often based on
+    percentges of what say a farmer produced.  So if the tax was 10
+    baskets of wheat.  How big are the baskets? Are they heaped or
+    leveled flat.  Are they filled by pouring from the waste or from
+    the shoulder etc.  Measurement pretty much touches on every aspect
+    of life from distances, to the age of a child (when a child is one
+    year old is defined differently in different cultures), to how big
+    a pint of lager is.  What is a pinch of salt, a dash of sherry,
+    how tall is knee-high by the fourth of july?  When does a day
+    begin or end?  At dawn and sunset?  Or by the amount of time the
+    planet takes to rotate once?  What is a day on mars?  Or if you
+    are living in a hollowed out rock in the asteroid belt, or on the
+    moon?  How do you express how far something is?  Scott mentioned
+    that in parts of Malaysia a village might be refered to as "three
+    rice cookings" away.  And these non-precise measurements should
+    not be dismissed out of hand -- they often communicate information
+    that is far more useful than it would be using the standard metric
+    system.  And our precious /precise/ measuring standards are often
+    still expressed relative to and based on concepts no longer used
+    any more.  We still refer to car engines in terms of multiples of
+    /horse power/.  The english pound was originally calculated by
+    weighing a pound of penny coins.  These are very human ways of
+    relating to and understanding the world -- which still are
+    important, and for good reason.  But as we will see later, it will
+    be difficult to render such measurement systems machine legible
+    unless AI advances to the point where such fungible measurements
+    can not only be translated into metric standards, but the range of
+    information that such measurements encompass.
+
+  - citizenship : which is an attempt to make the very subjective
+    concept of who belongs in a place and or as part of a group and
+    who does not.  This is a very difficult and complex metric to pin
+    down.  Does a woman who came from Harbin, who moved and married a
+    man in Guangzhou belong in Harbin or Guangzhou?  Before or after
+    she's bourne children?  How many years must you live in Kyoto
+    before Kyoto people accept you as /being/ from Kyoto.  I was once
+    told by a person who had lived in Kyoto 25 years that he was
+    amazed that people there almost treated him the same as someone
+    born in Kyoto....  In almost every place on the planet, the color
+    of your skin, and often your religion are major factors in being
+    accepted or not.  I was born in Germany where my parents had been
+    working as teachers for the United States army.  My father's
+    family was on the first ship of settlers that founded Plymouth
+    Colony over 300 years ago.  And yet, because my passport gives my
+    place of birth as Germany, I have been told that I was not a
+    /real/ American by immigration and American consulate staff on
+    multiple occasions.  I've been also asked when I became an
+    American citizen.  And yet, if I obtained German citizenship, no
+    German would ever mistake me, or my family name, as being German.
+    Concepts like citizen, resident, tourist etc are highly simplified
+    legible labels that only express a very small subset of how people
+    are accepted and become part of different societies and different
+    cultures around the planet.  The nation state has now been with
+    us for two centuries (more if you count back to Westphalia) but
+    the legible system that has now become the norm for nation-states
+    still falls far short of the range of ways that people identify
+    themselves and how others identify others.  
+
+
 * Transactional Legibility
 
 
@@ -87,3 +187,10 @@ reasonable expectation of privicy -- this is the panopticon problem.
 * Community Legibility
 
 * Private Legibility
+
+* Footnotes
+
+[fn:1]  Grimes, David (1 Feb 2001). "Dubya's nickname could be
+worse". The Oklahoma City Journal Record. Retrieved 25 Mar 2010.
+
+Cited by : [[https://en.wikipedia.org/wiki/List_of_nicknames_of_Presidents_of_the_United_States#cite_note-Grimes-117][List of nicknames of Presidents of the United States]] | Wikipedia
