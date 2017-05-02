@@ -22,6 +22,39 @@
 
 * Introduction
 
+ - [[https://en.wikipedia.org/wiki/Seeing_Like_a_State][Seeing Like a State]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Panopticism][Panopticism]] | Wikipedia
+
+ - [[https://en.wikipedia.org/wiki/Seeing_Like_a_State][Seeing Like a State]] - Wikipedia
+ - [[https://www.cato-unbound.org/issues/september-2010/seeing-state-conversation-james-c-scott][September 2010: Seeing Like a State: A Conversation with James C. Scott]] | Cato Unbound
+
+
+
+Legibility is a term (that may have been) coined by James Scott, which
+refers to the mapping of land parcels, organizations and people for
+the purpose of making them knowable by the State.
+
+I will make the argument that in the machine and computer age making
+things legible is no longer an imposition by States on traditional
+complex societies, but is something that needs to be done and used by
+everyone, and that a fine-grained, multi-layer, distributed,
+federated, and transparent map that provides for a reasonable
+expectation (as opposed to absolute) of privacy must become one of the
+fundemental cornerstones of a technologically advanced civilization.
+When such maps become the proprietary data hoards of the state and
+monster companies like Google and Facebook, it will inevitably lead to
+power and wealth ibalences that can not be corrected short of
+extraordinary measures.  In fact, Google and Facebook arguably know
+more about us than the state.  It recently was revealed that Facebook
+now is selling advertising based on the emotional state of mind of
+teens.  Much of this is because it is not longer enough for
+institutions to require legible maps, but any organization and
+individual needs them as well which are also legible to all cognitive
+machine systems.
+
+
+* State Legibility
+
 As Scott lays out, in meticulous detail, legibility is all about
 States and how they levy taxes, conscript soldiers
 
@@ -29,8 +62,9 @@ To do this they create cadastral maps that indicate property
 boundries.  Each property is then entered into a land registry which
 is used to levy taxes.  
 
-The second tool us registration and taking regular census of the
+The second tool is registration and taking regular census of the
 population.
 
 Since taxation and suppression of regime change is the only real
-purpose for land and population registration
+purpose for land and population registration.
+
