@@ -175,9 +175,12 @@ of the world:
 vico -- birth death coming of age, marriage, death
 
   - birth certificate
-  - diploma/s
+  - diploma/s  -- including licenses -- driver's license etc
   - marriage certificate
   - death certificate
+
+
+
 
 
 ** Insane State Legibility
