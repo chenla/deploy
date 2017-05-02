@@ -22,3 +22,16 @@
 
 * Introduction
 
+  - [[bib:cole:2016land][Land Tenure, Boundary Surveys, and Cadastral Systems]] | George Cole (2016)
+  - Seeing Like a State | Scott
+  - [[https://en.wikipedia.org/wiki/Cadastre][Cadastre]] | Wikipedia
+  
+  - [[https://en.wikipedia.org/wiki/Land_tenure][Land tenure]] | Wikipedia
+
+  - [[https://www.cryptocoinsnews.com/sweden-tests-blockchain-based-land-registry/][Sweden Tests Blockchain-Based Land Registry]] | CryptoCoinsNews
+  - [[https://chromaway.com/papers/Blockchain_Landregistry_Report_2017.pdf][The Land Registry in the blockchain - testbed]] | Kairos (2017)
+
+  - [[http://in.reuters.com/article/usa-honduras-technology-idINKBN0O01V720150515][Honduras to build land title registry using bitcoin technology]] | Reuters
+  - [[http://www.coindesk.com/bitfury-working-with-georgian-government-on-blockchain-land-registry/][Republic of Georgia to Develop Blockchain Land Registry]] | CoinDesk
+
+
