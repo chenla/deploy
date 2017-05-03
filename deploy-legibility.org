@@ -197,6 +197,34 @@ population in line.
 -- [[https://www.cato-unbound.org/2010/09/10/donald-j-boudreaux/promiscuous-productive-ideas][Promiscuous, Productive Ideas]] | Cato Unbound
 #+end_quote
 
+
+J. Bradford DeLong makes the argument that :
+
+#+begin_quote
+Thus when James C. Scott speaks of how local knowledge and local
+arrangements having the ability to protect the people of civil society
+from an overmighty, blundering state, I say “perhaps” and I say
+“sometimes.”
+
+-- [[https://www.cato-unbound.org/2010/09/16/j-bradford-delong/perhaps-sometimes][Perhaps. And Sometimes.]] | Cato Unbound
+#+end_quote
+
+When there are are parts of a state which are illegible, it is not
+uncommon for bad actors to move in and ride roughshod over the
+population.
+
+#+begin_quote
+A state that makes civil society legible to itself cannot protect us
+from its own fits of ideological terror, or even clumsy
+thumb-fingeredness. A state to which civil society is illegible cannot
+help curb roving bandits or local notables. And neither type of state
+has proved terribly effective at constraining its own functionaries.
+
+-- [[https://www.cato-unbound.org/2010/09/16/j-bradford-delong/perhaps-sometimes][Perhaps. And Sometimes.]] | Cato Unbound
+#+end_quote
+
+
+
 ** Insane State Legibility
 
 It shouldn't be forgotten that state legibility has been the hallmark
