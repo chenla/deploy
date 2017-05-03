@@ -190,10 +190,17 @@ institutions of birth, death, marriage and burial...
 -- [[./bib:mchugh:1980annotations][Anotations to Finnegans Wake]] pg.v. | Roland McHugh
 #+end_quote
 
+States strive to make people legible by documenting the different
+stages of people's lives: birth, coming of age, marriage, and death.
 
--- birth death coming of age, marriage, death
+Birth certificates are used as a marker of when a new person enters
+the world, the registered name of the newborn, date and time of the
+birth, the place of the birth and the parents of the newborn.  In this
+way, everyone in the state becomes legible at the moment of birth
+which is recorded in a registry, often with some additional
+information such as biometric hand and foot prints.
 
-  - birth certificate
+
   - diploma/s  -- including licenses -- driver's license etc
   - marriage certificate
   - death certificate
