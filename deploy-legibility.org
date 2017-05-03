@@ -180,8 +180,22 @@ vico -- birth death coming of age, marriage, death
   - death certificate
 
 
+** pooh-bah legibility
 
+#+begin_quote
+Marauders can instead be what Mancur Olson called “stationary bandits”
+— powerful pooh-bahs or other officials who (for whatever reason)
+enjoy the allegiance of organized groups of men specialized in using
+physical force. (These specialized groups are indeed overwhelmingly
+made up of men — mostly young men.) Each stationary bandit, be it an
+individual or a team, relies upon these groups to gather resources
+from the population and to suppress insurrection. The more synoptic
+are the names of roads, bridges, valleys, villages, and the like, the
+better able are stationary bandits and their troops to keep the local
+population in line.
 
+-- [[https://www.cato-unbound.org/2010/09/10/donald-j-boudreaux/promiscuous-productive-ideas][Promiscuous, Productive Ideas]] | Cato Unbound
+#+end_quote
 
 ** Insane State Legibility
 
