@@ -198,10 +198,28 @@ the world, the registered name of the newborn, date and time of the
 birth, the place of the birth and the parents of the newborn.  In this
 way, everyone in the state becomes legible at the moment of birth
 which is recorded in a registry, often with some additional
-information such as biometric hand and foot prints.
+information such as biometric hand and foot prints.  Religious
+institutions also keep their own registry of newborn children through
+devices such as batismal registries.  Before birth registries became
+ubiquitious, it was common for the only record of birth to be kept by
+the Church.
+
+Coming of age rituals are not strictly speaking, registered by the
+state because they are often defined in law to be a statutory age that
+grants them the rights and obligations of an adult.  For the state
+this is the point when people are expected to pay taxes and are
+subject to conscription.  However, there are a number of orthoganal
+registrations that are important to the state.  In modern states the
+two most important of these are institutional educational diplomas,
+certificates and degrees, which are meant to allow the state to know
+what level of education and or skills an individual has.  The second,
+is the driver's licence (and or id card).  In industrial societies
+these were needed to determine if people where qualified to work in
+factories or offices.
 
 
-  - diploma/s  -- including licenses -- driver's license etc
+
+
   - marriage certificate
   - death certificate
 
