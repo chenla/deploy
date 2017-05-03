@@ -172,7 +172,26 @@ of the world:
 
 ** mapping to stages of life
 
-vico -- birth death coming of age, marriage, death
+In [[https://en.wikipedia.org/wiki/The_New_Science][Scienza Nuova]] (The New Science) Giambattista Vico argued that
+history could be seen as a cyclical in nature:
+
+#+begin_quote
+Giambattista Vico (1668-1774) is the author of /Principi di Scienza
+Nuova/ (The New Science), in which is expounded his theory that a
+common cyclical pattern identifies the histories of diverse nations.
+The cycle consists of (i) the age of the gods, represented in
+primitive society by the family life of the cave, to which God's
+thunder had driven man; (ii) the age of heroes, characterised by the
+continual revolutionary movements of the plebians against the
+patricians; (iii) the age of people, the final consequence of the
+leveling influence of revolutions.  The three ages are typified by the
+institutions of birth, death, marriage and burial...
+
+-- Anotations to Finnegans Wake pg.v. | Roland McHugh
+#+end_quote
+
+
+-- birth death coming of age, marriage, death
 
   - birth certificate
   - diploma/s  -- including licenses -- driver's license etc
@@ -222,8 +241,6 @@ has proved terribly effective at constraining its own functionaries.
 
 -- [[https://www.cato-unbound.org/2010/09/16/j-bradford-delong/perhaps-sometimes][Perhaps. And Sometimes.]] | Cato Unbound
 #+end_quote
-
-
 
 ** Insane State Legibility
 
