@@ -54,6 +54,17 @@ longer enough for institutions to require legible maps, but every
 organization and individual needs them as well which are also legible
 to all cognitive machine systems.
 
+--- 
+
+As many of the functions of the State are being replaced by commercial
+corporate entities, it is interesting to see that corporations have
+the same problem of legibility that the state does.  Companies need to
+make their production as well as their customers legible.  So it is
+not surprising that companies such as Google and Facebook collect as
+much information about their users as the States people live in.  In
+many respects such recorded surviellance surpasses the wildest
+paranoid fantasies of States....
+
 
 * State Legibility
 
@@ -330,6 +341,32 @@ the same things that had led to all of these horrors desperately try
 to deny that these things had happened before, or that they are
 advocating such actions.
 
+
+** causal legibility
+
+In many respects, legibility is not far more important to non-state
+institutions and then to the state.  States still don't need much more
+legibility today than they did during the industrial revolution taxes,
+conscription and repressing insurrection are still pretty much the
+same.
+
+Repressing insurrection has now been largely combined with control of
+borders and repelling invading forces who wish to conquer the state.
+And this is where things become interesting.  It has only been very
+recently that states have felt the need to make individuals from other
+States as legible as their own citizens.  Percieved existential
+threats to a state may take the form of small bands of indivduals who
+are responsible for removing wealth from a country without paying
+taxes, importing banned goods, and ideas into a state, and intentional
+violent acts on citizens and organizations from a state both inside
+and outside the state.  In a word, surveillance.
+
+Mapping the causal chains of what people do, has now become standard
+practice for both states and private organizations.
+
+
+
+
 * Transactional Legibility
 
 
@@ -339,6 +376,8 @@ are not public in the large, transactions in these domains have a
 reasonable expectation of privicy -- this is the panopticon problem.
 
 * Machine Legibility
+
+
 
 * Human Legibility
 
