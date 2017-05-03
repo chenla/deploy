@@ -187,7 +187,7 @@ patricians; (iii) the age of people, the final consequence of the
 leveling influence of revolutions.  The three ages are typified by the
 institutions of birth, death, marriage and burial...
 
--- Anotations to Finnegans Wake pg.v. | Roland McHugh
+-- [[./bib:mchugh:1980annotations][Anotations to Finnegans Wake]] pg.v. | Roland McHugh
 #+end_quote
 
 
