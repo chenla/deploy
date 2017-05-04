@@ -50,6 +50,7 @@ from: NOTES <2016-07-29 Fri 17:13> Functional Requirements for the Next 50 Years
   - transparent
   - collective
   - accountable
+  - legible
   - intentional
     - purpose
     - intended
