@@ -32,38 +32,44 @@
 
  - [[https://en.wikipedia.org/wiki/Cellular_democracy][Cellular democracy]] | Wikipedia
 
-Legibility is a term (that may have been) coined by James Scott, which
-refers to the mapping of land parcels, organizations and people for
-the purpose of making them knowable by the State.
+Legibility is a term (that may have been) coined by James
+Scott, which refers to the mapping of land parcels,
+organizations and people for the purpose of making them
+knowable by the State.
 
-I will make the argument that in the machine and computer age making
-things legible is no longer /only/ an imposition by States on
-traditional complex societies, but is something that needs to be done
-and used by everyone, and that a fine-grained, multi-layer,
-distributed, federated, and transparent map that provides for a
-reasonable expectation (as opposed to absolute) of privacy must become
-one of the fundemental cornerstones of a technologically advanced
-civilization.  When such maps become the proprietary data hoards of
-the state and monster companies like Google and Facebook, it will
-inevitably lead to power and wealth ibalences that can not be
-corrected short of extraordinary measures.  In fact, Google and
-Facebook arguably know more about us than the state.  It recently was
-revealed that Facebook now is selling advertising based on the
-emotional state of mind of teens.  Much of this is because it is no
-longer enough for institutions to require legible maps, but every 
-organization and individual needs them as well which are also legible
-to all cognitive machine systems.
+I will make the argument that in the machine and computer
+age making things legible is no longer /only/ an imposition
+by States on traditional complex societies, but is something
+that needs to be done and used by everyone, and that a
+fine-grained, multi-layer, distributed, federated, and
+transparent map that provides for a reasonable expectation
+(as opposed to absolute) of privacy must become one of the
+fundemental cornerstones of a technologically advanced
+civilization.  When such maps become the proprietary data
+hoards of the state and monster companies like Google and
+Facebook, it will inevitably lead to power and wealth
+ibalences that can not be corrected short of extraordinary
+measures.  In fact, Google and Facebook arguably know more
+about us than the state.  It recently was revealed that
+Facebook now is selling advertising based on the emotional
+state of mind of teens.  Much of this is because it is no
+longer enough for institutions to require legible maps, but
+every organization and individual needs them as well which
+are also legible to all cognitive machine systems.
 
 --- 
 
-As many of the functions of the State are being replaced by commercial
-corporate entities, it is interesting to see that corporations have
-the same problem of legibility that the state does.  Companies need to
-make their production as well as their customers legible.  So it is
-not surprising that companies such as Google and Facebook collect as
-much information about their users as the States people live in.  In
-many respects such recorded surviellance surpasses the wildest
-paranoid fantasies of States....
+As many of the functions of the State are being replaced by
+commercial corporate entities, it is interesting to see that
+corporations have the same problem of legibility that the
+state does.  Companies need to make their production as well
+as their customers legible.  So it is not surprising that
+companies such as Google and Facebook collect as much
+information about their users as the States people live in.
+In many respects such recorded surviellance surpasses the
+wildest paranoid fantasies of States....
+
+
 
 
 * A broader concept of legibility
@@ -73,24 +79,42 @@ of the point.  The pre-industrial state was legible at local
 scales, but because there was no standardization across all
 locations, it didn't scale at all at the state level.
 
-So legibility is closer to physical maps that show different
-detail at different scales.  To those of with an
+So legibility is closer to physical paper maps that show
+different detail at different scales.  To those wtih an
 administrative mind, the ideal is that the same standards
 apply across all scales.  But that's where we run into
 trouble because we're talking about maps, and maps are as
 much about what is left out as they are about what is put
 in.
 
-The problem is that administrative mindset's see the map as
-the territory, they ignore what isn't included because their
-objectives are narrow and clear.  However, the world is not
-narrow and it is not clear and it is always in the process
-of becoming something else.  Maps are simplified snapshots
-that illustrate patterns.  This is an incredibly powerful
-tool.  But again, the map can never be the territory.  So
-legibility can not be seen as an end in itself, it can never
-be complete, and once you make the mistake of thinking it
-is, things start going very wrong.
+The problem is that the administrative mindset sees the map
+as the territory, they ignore what isn't included because
+their objectives are narrow and clear.  However, the world
+is not narrow and it is not clear and it is always in the
+process of becoming something else.  Maps are simplified
+snapshots that illustrate patterns.  This is an incredibly
+powerful tool.  But again, the map can never be the
+territory.  So legibility can not be seen as an end in
+itself, it can never be complete, and once you make the
+mistake of thinking it is, things start going very wrong.
+
+In the map-territory relation, the map is expressed as
+legibility, an overlay of labels over a representation of a
+territory.  Man has always had a strong belief that naming
+something gives you power over the thing named.  This goes
+to the heart of those who crave power, who are often
+portrayed pouring over their maps and globes -- as if the
+maps themselves game them dominion over the things that they
+represent.  This is the very essence of the concept of
+sovereignty of ownership that binds together all of those
+who will do violence on their behalf.  But all the soldiers,
+police, jackboots, thugs, mandarins and civil servants as
+well as the ships, planes, artilery, factories, cities and
+the subjects that man or inhabit them are just abstract
+statistics to those at the top.  For them, all there is, is
+their maps and the whispers in ears of how they want their
+sovereign leader what is represented in the map.
+
 
 The contradiction between map and territory goes to the
 heart of administration -- when an administrator begins to
@@ -109,7 +133,15 @@ true in the moment of observation, even as the shearing
 layers are ripping it all apart into a new fleeting
 configuration.
 
-
+In the end, I believe that the problem of legibility
+demonstrates how large something can scale before those at
+the top are hopelessly out of touch with those at the
+bottom.  These are very real cognitive boundries -- we can
+only relate to people a few degrees of separation from us at
+most.  Once you have passed beyond two to three levels the
+system has lost its humanity.  We need to recognize and
+organize ourselves at human scales.  This is not just true
+of states, but of corporations, and institutions.
 
 * State Legibility
 
