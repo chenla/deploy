@@ -364,20 +364,23 @@ and outside the state.  In a word, surveillance.
 Mapping the causal chains of what people do, has now become standard
 practice for both states and private organizations.
 
-
-
-
 * Transactional Legibility
 
+That transactions need to be legible, unstrusted,
+transparent, and, public.  but since there are any number of
+roles in our lives which are not public in the large,
+transactions in these domains have a reasonable expectation
+of privicy -- this is the panopticon problem.
 
-that transactions are largely legible, unstrusted, transparent, and,
-public.  but since there are any number of roles in our lives which
-are not public in the large, transactions in these domains have a
-reasonable expectation of privicy -- this is the panopticon problem.
+
+
+
 
 * Machine Legibility
 
-
+To machines, the world is pretty much completely illegible
+beyond the /very/ simple vocabulary and base knowledge that
+it has to work with.
 
 * Human Legibility
 
