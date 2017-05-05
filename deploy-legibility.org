@@ -115,6 +115,20 @@ statistics to those at the top.  For them, all there is, is
 their maps and the whispers of what their sovereign leader
 should see in the map.
 
+#+begin_quote
+The cadastral map is an instrument of control which both
+reflects and consolidates the power of those who commission
+it.... The cadastral map is partisan: where knowledge is
+power, it provides comprehensive information to be used to
+the advantage of some and the detriment of others, as rulers
+and ruled were well aware in the tax struggles of the 18th
+and 19th centuries. Finally, the cadastral map is active: in
+portraying one reality, as in the settlement of the new
+world or in India, it helps obliterate the old.
+
+-- Roger J. P Kain and Elizabeth Baigent, The Cadastral Map
+   quoted in Seeing Like A State
+#+end_quote
 
 The contradiction between map and territory goes to the
 heart of administration -- when an administrator begins to
