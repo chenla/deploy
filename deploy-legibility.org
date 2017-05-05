@@ -20,7 +20,7 @@
 
 #+TOC: headlines 4
 
-* Introduction
+* Introduction 🌿
 
  - [[https://en.wikipedia.org/wiki/Seeing_Like_a_State][Seeing Like a State]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Panopticism][Panopticism]] | Wikipedia
