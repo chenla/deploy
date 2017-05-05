@@ -133,6 +133,27 @@ true in the moment of observation, even as the shearing
 layers are ripping it all apart into a new fleeting
 configuration.
 
+#+begin_quote
+The cadastral map is very much like a still photograph of
+the current in a river. It represents the parcels of land as
+they were arranged and owned at the moment the survey was
+conducted. But the current is always moving, and in periods
+of major social upheaval and growth, a cadastral survey may
+freeze a scene of great turbulence. Changes are taking
+place on field boundaries; land is being subdivided or
+consolidated by inheritance or purchase; new canals, roads,
+and railways are being cut; land use is changing; and so
+forth. Inasmuch as these particular changes directly affect
+tax assessments, there are provisions for recording them on
+the map or in a title register. The accumulation of
+annotations and marginalia at some point render the map
+illegible, whereupon a more up-to-date but still static map
+must be drawn and the process repeated.
+
+-- Seeing Like A State | Scott
+#+end_quote
+
+
 In the end, I believe that the problem of legibility
 demonstrates how large something can scale before those at
 the top are hopelessly out of touch with those at the
