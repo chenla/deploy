@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: 
+#+TITLE: Distributed
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
