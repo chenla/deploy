@@ -25,3 +25,21 @@
 
 * Introduction
 
+  - [[https://solarsystem.nasa.gov/planets/asteroids/indepth][Asteroids - In Depth | Planets - NASA Solar System Exploration]] 
+
+* Asteroid classes
+
+  - C-type (chondrite) most common, clay and silicate rocks, 
+    and are dark in appearance.
+  - S-types ("stony") silicate materials and nickel-iron.
+  - M-types are metallic (nickel-iron)
+
+
+  Main asteroid belt -- swath of asteroids between Mars and Jupiter,
+  thoght to contain 1.1-1.9M asteroids larger than 1km in diameter.
+
+  Trojans -- share orbit with a larger planet but do not collide, they
+  are located at L4 andL5 lagrange points which are balanced between
+  the planet and sun's gravitational field.
+
+  Near Earth asteroids -- asteroids that pass close to the earth
