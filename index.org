@@ -63,6 +63,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-principles.org][Principles]] 
  - [[./deploy-calendar.org][Calendar]]
  - Infrastructure
+ - [[./deploy-distributed.org][Distributed]]
  - [[./deploy-shops.org][Shops]]
  - [[./deploy-guilds.org][Guilds]]
  - [[./deploy-health.org][Health]]
