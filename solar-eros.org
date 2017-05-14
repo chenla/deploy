@@ -1,0 +1,28 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Eros (nearEarth asteroid)
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: Eros_(deploy)
+  :Name:      /home/deerpig/proj/chenla/deploy/solar-eros.org
+  :Created:   2017-05-14T09:21@Prek Leap (11.642600N-104.919210W)
+  :ID:        0b810766-5c11-45a4-af6e-06707de9c079
+  :VER:       548000571.689383605
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj/FCU8-4804
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
+
