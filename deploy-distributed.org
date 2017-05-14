@@ -25,3 +25,14 @@
 
 * Introduction
 
+
+
+* Internet
+
+ - [[http://spectrum.ieee.org/view-from-the-valley/telecom/internet/hbos-silicon-valley-joins-the-push-for-a-decentralized-web][HBO’s Silicon Valley Joins the Push for a Decentralized Web]] | IEEE
+   Spectrum
+ - [[http://spectrum.ieee.org/view-from-the-valley/telecom/internet/the-fathers-of-the-internet-revolution-urge-todays-pioneers-to-reinvent-the-web][The Fathers of the Internet Revolution Urge Today’s Software
+   Engineers to Reinvent the Web]] | IEEE Spectrum
+ - [[http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/][Locking the Web Open: A Call for a Decentralized Web]] | Brewster
+   Kahle's Blog
+
