@@ -116,5 +116,7 @@ prefix: 'solar'
 
  - [[./solar-mars.org][Mars]]
  - Luna
+ - [[./solar-eros.org][Eros]]
+ - 
  - Belt
  - [[./solar-titan.org][Titan]]
