@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: 
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: Titan_(deploy)
+  :Name:      /home/deerpig/proj/chenla/deploy/solar-titan.org
+  :Created:   2017-05-14T08:34@Prek Leap (11.642600N-104.919210W)
+  :ID:        0abc1d39-597d-4bd0-b56e-b04d5e4cd264
+  :VER:       547997718.482716503
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:YQP3-6853
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
