@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Belt
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: Asteroid_belt_(deploy) 
+  :Name:      /home/deerpig/proj/chenla/deploy/solar-belt.org
+  :Created:   2017-05-14T09:40@Prek Leap (11.642600N-104.919210W)
+  :ID:        f7d36b37-97b2-4bdf-934e-f0fb8defd96c
+  :VER:       548001709.478770206
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:RLE8-2054
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
