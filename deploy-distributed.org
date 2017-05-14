@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: 
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/deploy/deploy-distributed.org
+  :Created:   2017-05-14T19:13@Prek Leap (11.642600N-104.919210W)
+  :ID:        2ed1c23f-4cc3-456b-980e-68e0ea2b2cec
+  :VER:       548036082.339342102
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:IMB1-3550
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
