@@ -118,5 +118,5 @@ prefix: 'solar'
  - Luna
  - [[./solar-eros.org][Eros]]
  - 
- - Belt
+ - [[./solar-belt.org][Belt]]
  - [[./solar-titan.org][Titan]]
