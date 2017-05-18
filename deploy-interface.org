@@ -28,3 +28,33 @@
 * Application
 * Descriptive & Proscriptive
 
+ - [[https://craigmod.com/sputnik/as_we_may_read/][As we may read]] | Craig Mod
+ - [[https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print][Stagnant and dull, can digital books ever replace print?]] | Aeon
+   Essays
+
+
+There is a reason that we switched from the scroll to codex.  The
+scroll is a terrible interface and it's no different for physical
+scrolls or web pages.  We still don't understand that yet.  Scrolls
+really do suck at a lot of very basic things that for the codex is
+easy.
+
+Do books have branding on every page of the book, other than the
+title?  Is the publisher's logo anywhere to be seen except on the
+spine and cover page?  Then why subject us to logos on every web page
+of a site?  The same goes for author info, links to other services,
+like buttons or any crap in a persistent column.
+
+Ebooks keep the clutter down to what it should be.  The iPad
+interface, where you can  tap a page to show navigation and where you
+are overall in the text is good (needs to be improved but it's good)
+
+The biggest single factor working against ebooks and web pages is that
+they are designed to reflow to fit the container that they are in.
+Display device makers don't seem to put /any/ thought about how the
+size of a screen effects the content shown on it because the web has
+separated form factor from content.
+
+
+The texinfo hypertext interface got a lot of things right that the web
+did not.
