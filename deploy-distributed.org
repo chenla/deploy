@@ -7,7 +7,7 @@
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-distributed.org
   :Created:   2017-05-14T19:13@Prek Leap (11.642600N-104.919210W)
   :ID:        2ed1c23f-4cc3-456b-980e-68e0ea2b2cec
-  :VER:       548036082.339342102
+  :STAMP:     548036082.339342102
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:IMB1-3550
   :END:
@@ -25,6 +25,27 @@
 
 * Introduction
 
+The thing is that it's natural to think that this is a zero-sum game
+-- that if we break up the centralized web, that you won't be able to
+make money.  The opposite is true-- right now VCs are putting money
+into the building up existing companies -- that's the shell game they
+were meant to play.  Angels are putting money into startups but they
+are also small companies who want to be big centralized playas.  
+
+Belong to the network -- and the money you make is amplified.  You
+don't need millions -- make hundreds of thousands and the network will
+make it functionally the same as millions -- but without the shallow
+consumerism, without the brutal hours -- you won't have to be a
+corporate employee drone and you won't have to be a wanker scrambling
+after a hoard of ducets at the expense of others.  A good life is a
+good payout.
+
+It's not a utopia but we can at least shoot for something that is at
+least egalitarian.  And those who don't want to, or can't play the
+game should at least be able to maintain a basic existence -- with
+food, shelter, education and medical care. Because that gives us
+stability and a means for people to do different things at different
+times in their lives.
 
 
 * Internet
