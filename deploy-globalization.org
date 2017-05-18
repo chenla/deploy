@@ -75,177 +75,163 @@ physically unbundled from laborers.
 don't know where this belongs:
 
 #+begin_quote
-Summary of the “three cascading constraints” view of
-globalization.
+Summary of the “three cascading constraints” view of globalization.
 
-When horse carts and sailing ships were high-tech, goods,
-ideas, and people mostly stayed put. For the vast majority
-of humanity, economic life was orga nized at the village
-level (top panel).
+When horse carts and sailing ships were high-tech, goods, ideas, and
+people mostly stayed put. For the vast majority of humanity, economic
+life was orga nized at the village level (top panel).
 
-Steamships and railroads radically lowered the cost of
-long-distance trade, allowing production and consumption to
-separate in what could be called globalization’s fi rst
-unbundling ( middle panel). But relaxing the shipping
-constraint did not make the world flat since the
+Steamships and railroads radically lowered the cost of long-distance
+trade, allowing production and consumption to separate in what could
+be called globalization’s fi rst unbundling ( middle panel). But
+relaxing the shipping constraint did not make the world flat since the
 communication and face-to-face constraints were still in
-evidence. Indeed, even as production moved away from
-consumption, manufacturing gathered into factories and
-industrial districts — not to economize on trade costs, but
-rather to save on communication and face-to-face costs.
+evidence. Indeed, even as production moved away from consumption,
+manufacturing gathered into factories and industrial districts — not
+to economize on trade costs, but rather to save on communication and
+face-to-face costs.
 
-This microclustering spurred innovation in industrializing
-nations, and the innovations stayed local due to the high
-cost of moving ideas. The result was that know-how-per-
-worker rose much faster in the North than it did in the
-South. Ultimately, this is what created the great
-North-South income divide known as the Great Divergence.
+This microclustering spurred innovation in industrializing nations,
+and the innovations stayed local due to the high cost of moving
+ideas. The result was that know-how-per- worker rose much faster in
+the North than it did in the South. Ultimately, this is what created
+the great North-South income divide known as the Great Divergence.
 
-Globalization’s second unbundling (bottom panel) became
-economical when revolutionary advances in information and
-communication technology made it possible to organize
-complex production processes even when they were separated
-internationally. When this technical possibility became a
-real ity, low wages in developing nations enticed G7 firms
-to offshore some labor-intensive stages of production. Since
-the production stages that were offshored still had to fit
-flawlessly with those left onshore, the offshoring firms
-sent their know-how along with the jobs. In this way, the
-flows of knowledge that used to happen only inside G7
-factories became a key player in globalization (light
-bulbs in bottom panel).
+Globalization’s second unbundling (bottom panel) became economical
+when revolutionary advances in information and communication
+technology made it possible to organize complex production processes
+even when they were separated internationally. When this technical
+possibility became a real ity, low wages in developing nations enticed
+G7 firms to offshore some labor-intensive stages of production. Since
+the production stages that were offshored still had to fit flawlessly
+with those left onshore, the offshoring firms sent their know-how
+along with the jobs. In this way, the flows of knowledge that used to
+happen only inside G7 factories became a key player in globalization
+(light bulbs in bottom panel).
 
-These new information flows allowed a handful of developing
-nations to industrialize at a dizzying pace — resulting in a
-massive shift of industry from the North to the South. This
-Southern industrialization — together with the commodity
-super-cycle it launched — propelled emerging market income
-growth rates to unprecedented levels.  The result was the
-“shocking share shift ” shown in Figure 1.
+These new information flows allowed a handful of developing nations to
+industrialize at a dizzying pace — resulting in a massive shift of
+industry from the North to the South. This Southern industrialization
+— together with the commodity super-cycle it launched — propelled
+emerging market income growth rates to unprecedented levels.  The
+result was the “shocking share shift ” shown in Figure 1.
 
 In a nutshell, this is how the ICT revolution transformed
-globalization and its impact on the world economy; up to
-1990, globalization was mostly about goods crossing borders;
-now it is also about know-how crossing borders.
+globalization and its impact on the world economy; up to 1990,
+globalization was mostly about goods crossing borders; now it is also
+about know-how crossing borders.
 
 -- [[bib:baldwin:2016great][The Great Convergence]] pg8 | Richard Baldwin (2016)
 #+end_quote
 
 
 
-the second unbundling favored 6 countries -- not the whole
-world.  This is because knowledge from the developed world
-decided where their manufacturing was going to go and for a
-variety of reasons -- fear of those countries learning what
-they knew, and perhaps these countries were easier to deal
-with in the ways that were needed -- but if "labour is
-unbundled from labourers" things could change.
+the second unbundling favored 6 countries -- not the whole world.
+This is because knowledge from the developed world decided where their
+manufacturing was going to go and for a variety of reasons -- fear of
+those countries learning what they knew, and perhaps these countries
+were easier to deal with in the ways that were needed -- but if
+"labour is unbundled from labourers" things could change.
 
-I'm positing several things -- the transporation revolution
-is not complete -- automation will change the economics of
-transporation and transhipment (moving goods from one form
-of transport to another -- unloading and loading) to negate
-the present advantage of economies of scale -- the lower
-limit is now set basically at the size of a standard
-shipping contain and/or pallet.  These are the atomic units
-of globalized transporation -- if that size shrinks, then we
-will see smaller shops being able to compete in ways that
-they can't now.
+I'm positing several things -- the transporation revolution is not
+complete -- automation will change the economics of transporation and
+transhipment (moving goods from one form of transport to another --
+unloading and loading) to negate the present advantage of economies of
+scale -- the lower limit is now set basically at the size of a
+standard shipping contain and/or pallet.  These are the atomic units
+of globalized transporation -- if that size shrinks, then we will see
+smaller shops being able to compete in ways that they can't now.
 
-Second -- robotics amplifies the labor of a single person.
-One person can control a dozen or more robots, so a shop
-with 10 people can control 100 robots that are more
-efficient and don't sleep.  So a small shop will be able to
-produce what 100 or more people are needed to do today.
+Second -- robotics amplifies the labor of a single person.  One person
+can control a dozen or more robots, so a shop with 10 people can
+control 100 robots that are more efficient and don't sleep.  So a
+small shop will be able to produce what 100 or more people are needed
+to do today.
 
-Robots are now pretty much only used in large production
-environments -- they are expensive and difficult to
-program.  But there are a lot of startups that are aiming to
-change that in a big way.  These startups will sell to small
-shops to automate -- they will cost thousands or tens of
-thousands of dollars, not hundreds of thousands or
-millions.  They will be flexible, smart, capable of
-learning, working along side humans safely and be able to do
-multiple tasks.  They will be networked and plugged directly
-into ERP and transportation systems.  The robot will know
-that a self-driving truck will arrive at 10am to pick up an
-order, so the robot will know to prioritize work on that
-order and ensure that it is ready.  So each part of the
-system is not only aware of it's task, but is able to
-coordinate with other robots and the ERP system to change
-it's behavior.  People won't have to tell every robot what
-to do, they will only have to monitor overall processes, and
-do the bits that their robots can't do until a robot is
-brought in that can do those tasks as well.
+Robots are now pretty much only used in large production environments
+-- they are expensive and difficult to program.  But there are a lot
+of startups that are aiming to change that in a big way.  These
+startups will sell to small shops to automate -- they will cost
+thousands or tens of thousands of dollars, not hundreds of thousands
+or millions.  They will be flexible, smart, capable of learning,
+working along side humans safely and be able to do multiple tasks.
+They will be networked and plugged directly into ERP and
+transportation systems.  The robot will know that a self-driving truck
+will arrive at 10am to pick up an order, so the robot will know to
+prioritize work on that order and ensure that it is ready.  So each
+part of the system is not only aware of it's task, but is able to
+coordinate with other robots and the ERP system to change it's
+behavior.  People won't have to tell every robot what to do, they will
+only have to monitor overall processes, and do the bits that their
+robots can't do until a robot is brought in that can do those tasks as
+well.
 
-Middlemen will be eaten by ICT and AI -- sales, marketing,
-inventory, back office stuff will all be taken over by ERP
-AI systems.
+Middlemen will be eaten by ICT and AI -- sales, marketing, inventory,
+back office stuff will all be taken over by ERP AI systems.
 
-Automation will allow far more customzation, and make it
-possible for shops to produce a wider variety of goods.
-Retooling and setting up production will eventually become a
-mouseclick away.  Ten customers send 50 CAD files, and you
-still only need a handful of people to manage the robots to
-produce the goods and then hand them off to an automated
-Dabbawallah sneakernet that will route each item to the next
+Automation will allow far more customzation, and make it possible for
+shops to produce a wider variety of goods.  Retooling and setting up
+production will eventually become a mouseclick away.  Ten customers
+send 50 CAD files, and you still only need a handful of people to
+manage the robots to produce the goods and then hand them off to an
+automated Dabbawallah sneakernet that will route each item to the next
 stage of production or the final product to the end user.
 
-Production chains can be built for production of single
-items.  
+Production chains can be built for production of single items.
 
-More efficient production-to-recycle tracking of items will
-mean that a significant amount of raw materials will be from
-recycled goods.  So, a network of automated local recycling
-will dissasemble, and recover raw materials and reship to
-local production instead of it going to waste or only a
-small amount of it going to big operators who can do it at
-scale.  This will take some of the load off of the problem
-of waste management, and mining and refining raw materials.
+More efficient production-to-recycle tracking of items will mean that
+a significant amount of raw materials will be from recycled goods.
+So, a network of automated local recycling will dissasemble, and
+recover raw materials and reship to local production instead of it
+going to waste or only a small amount of it going to big operators who
+can do it at scale.  This will take some of the load off of the
+problem of waste management, and mining and refining raw materials.
 There will be limits to how far this can go -- but it would
-interesting to see how far it /could/ go.  This will not
-happen because it is the "right" thing to do, or because
-it's green or because it is mandated by the state -- all of
-which might or might not also be true -- people will do it
-if it is good business.
+interesting to see how far it /could/ go.  This will not happen
+because it is the "right" thing to do, or because it's green or
+because it is mandated by the state -- all of which might or might not
+also be true -- people will do it if it is good business.
 
-Part of the problem is that disassembly is adhoc -- goods
-today aren't being built to be repaired, so aren't built to
-be repaired, let alone recycled.  If regulations are put
-into place that require all goods to be repairable with
-clear machine understandable methods for disassembly, the
-amount of materials recovered would likely be far higher.
-Companies like Apple are notorious for this -- even going to
-the extreme of using fasteners that require special tools
-that only apple repair shops have access to.
+Part of the problem is that disassembly is adhoc -- goods today aren't
+being built to be repaired, so aren't built to be repaired, let alone
+recycled.  If regulations are put into place that require all goods to
+be repairable with clear machine understandable methods for
+disassembly, the amount of materials recovered would likely be far
+higher.  Companies like Apple are notorious for this -- even going to
+the extreme of using fasteners that require special tools that only
+apple repair shops have access to.
 
-I do believe that telepresence and video conferencing will
-improve dramatically over the next decade -- but this may
-well not be so important as Baldwin thinks, if the changes I
-outlined above take place.  If know-how is now confined to a
-handful of large players -- and much of that is still
-confined in developed countries, with manufacturing knowhow
-increasingly being confined to the six second unbundled
-winners, where will the knowhow come from for the newly
-empowered smaller shops around the world to obtain the
-knowledge they need to play the game?
+So what we need is to require that goods be repairable in a
+standardized way so we can automate disassembly.  Once the network
+becomes big enough we can actually put a tax on any products that
+don't conform to the standards -- which is fair because if they don't
+follow the standards they need to pay for the additional costs
+associated with recyling and disposal.
 
-One scenario is that they will initially be locked out, so
-instead they will drive an opensource movement to replicate
-all of this specialized knowledge and share it.  If you are
-a small player this makes a lot of sense -- use open source
-and contribute back and you get all of the advantages of
-other people developing for you.  If you are primarily
-selling in local production chains then you aren't even
+I do believe that telepresence and video conferencing will improve
+dramatically over the next decade -- but this may well not be so
+important as Baldwin thinks, if the changes I outlined above take
+place.  If know-how is now confined to a handful of large players --
+and much of that is still confined in developed countries, with
+manufacturing knowhow increasingly being confined to the six second
+unbundled winners, where will the knowhow come from for the newly
+empowered smaller shops around the world to obtain the knowledge they
+need to play the game?
+
+One scenario is that they will initially be locked out, so instead
+they will drive an opensource movement to replicate all of this
+specialized knowledge and share it.  If you are a small player this
+makes a lot of sense -- use open source and contribute back and you
+get all of the advantages of other people developing for you.  If you
+are primarily selling in local production chains then you aren't even
 worried about this helping your competition....
 
-This will also only be able to happen if it can emerge
-bottom up.  It won't happen as part of state inititives, and
-there will likely be a lot of blowback from the state and
-from big corporate players -- because first it will be
-amusing and dismissed, then it will be annoying, then they
-will take it seriously and see it as a threat and fight back
-by trying to stop the inevitable.  Then you win.
+This will also only be able to happen if it can emerge bottom up.  It
+won't happen as part of state inititives, and there will likely be a
+lot of blowback from the state and from big corporate players --
+because first it will be amusing and dismissed, then it will be
+annoying, then they will take it seriously and see it as a threat and
+fight back by trying to stop the inevitable.  Then you win.
 
 
 
