@@ -70,7 +70,7 @@ Recent change activity can be found at http://github.com/chenla/deploy
  - [[./deploy-social.org][Social Structures]]
  - [[./deploy-goverance.org][Governance]]
  - [[./deploy-legibility.org][Legibility]]
-
+ - [[./deploy-interface.org][Interfaces]]
  - [[./social-bands.org][Bands]]       : 
  - [[./social-territory.org][Territory]]   : man is a territorial animal who conflates
                  control with ownership
