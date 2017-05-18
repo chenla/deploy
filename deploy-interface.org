@@ -53,7 +53,26 @@ The biggest single factor working against ebooks and web pages is that
 they are designed to reflow to fit the container that they are in.
 Display device makers don't seem to put /any/ thought about how the
 size of a screen effects the content shown on it because the web has
-separated form factor from content.
+separated form factor from content.  This was not always so.
+
+Plain text email is a case in point.  Email messages are written in
+plain text with a monospaced font that is typically composed at about
+60 characters per line.  This line length worked well in most
+terminals and terminal emulators.
+
+
+Desktop web browsers can be resized to anything the user wants -- so
+we get a lot of people who for some reason think it's a good idea to
+maximize every window, even if the display is 30" wide and the content
+is only a third of that.  Even worse are web sites that will allow
+lines to be infinitely long so you get 50 words to a line.  So you
+have this perfect storm where the devices are all different sizes, the
+windows on those devices are resized indiscriminately and the content
+makers each decide what form factor they design for.  These are
+unforced errors -- and it results in really crappy interfaces and
+reading experiences.  And most important of all, it makes it nearly
+impossible to take advantage of the most powerful features that the
+codex gives us.
 
 
 The texinfo hypertext interface got a lot of things right that the web
