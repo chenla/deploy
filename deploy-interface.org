@@ -204,3 +204,18 @@ layout, typography and design of the words and images on each page.
     on A4 paper or on A5,  This would give us a very nice range of
     form factors for different uses.
 
+*** the tyranny of A4 and the ghost of typewriters past
+
+A4 is an artifact of the typewriter, when people needed the space to
+copyedit physical pages.  You typed doublespaced, so that there was
+room between lines for copyediting.  These were then sent to a
+typesetter who set single spaced lines in a smaller form factor which
+was more readable.  A4 is not a codex.  When formating texts for A4,
+and using single line spacing, and a small font, the lines are too
+long and it's easy to loose your place on the page.  Scientific and
+technical papers solve this by using two text columns, and this is
+marginally better.  But not by much.  And the A4 nightmare has become
+the norm in business, legal professions, marketing and education.
+Word processors and desktop printing has not made the world a better
+place.
+
