@@ -80,6 +80,20 @@ fit things onto tiny screens that don't and won't and can never fit.
 people are being told that you can do everything on your mobile device
 -- they are wrong in the worst way possible.
 
+** Hypercard
 
-The texinfo hypertext interface got a lot of things right that the web
-did not.
+ - [[https://en.wikipedia.org/wiki/Hypercard][HyperCard]] | Wikipedia
+ - [[https://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/][25 years of HyperCard—the missing link to the Web]] | Ars Technica
+
+The original Mac Hypercard got paging right -- there was no scroll
+only pages.  This was largely possible because each screen was
+designed to fit in the original Macintoshes tiny display.
+
+** Plain Text Hypertext
+
+The texinfo hypertext interface (and perhaps gopher, but I can't
+remember) got a lot of things right that the web did not.
+
+There is /some/ scrolling but there is definately a page model where
+text is broken down into small chunks -- you don't get enormous
+scrolls.
