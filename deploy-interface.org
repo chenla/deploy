@@ -32,6 +32,7 @@
  - [[https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print][Stagnant and dull, can digital books ever replace print?]] | Aeon
    Essays
 
+** Digital Texts
 
 There is a reason that we switched from the scroll to codex.  The
 scroll is a terrible interface and it's no different for physical
@@ -59,7 +60,6 @@ Plain text email is a case in point.  Email messages are written in
 plain text with a monospaced font that is typically composed at about
 60 characters per line.  This line length worked well in most
 terminals and terminal emulators.
-
 
 Desktop web browsers can be resized to anything the user wants -- so
 we get a lot of people who for some reason think it's a good idea to
@@ -138,3 +138,37 @@ remember) got a lot of things right that the web did not.
 There is /some/ scrolling but there is definately a page model where
 text is broken down into small chunks -- you don't get enormous
 scrolls.
+
+** Paging
+
+The codex is all about pages.  Not pages in the web sense, but
+physical pages that can be taken in at a glance.  In scrolls, we have
+to mentally buffer what was above the screen and maintain a mental
+model of what is below.  A page doesn't tax the brain in this way.
+You look at the page as a whole, and perhaps the facing page, and you
+can see at a glance the overall structure and context of what you are
+looking at.  In most cases the text correponds to any charts or
+graphics on the same or facing pages.  In a well designed book the
+chapter title is a running header at the top.  There is a page number
+indicating what page you are looking at (the total number of pages is
+implied by the thickness of the book).  You can see the body of text
+and if there are any illustrations.  Footnotes are at the bottom in a
+smaller font size and in some cases there might be a running
+commentary or notes in a column to one side.
+
+There are no publisher logos or branding on every page (sadly there
+are exceptions to this), no icons pointing to other functions or
+services.  No copyright notices, or menus or search bars.  No login or
+registration links.  And no barrage of popups telling you to turn off
+ad blockers, or asking you to sign up for things or to fill out a
+survey or any of a hundred other distractions.
+
+Paper magazines and newspapers have traditionally had display
+advertising, but when done right they do not jar the eye, or take away
+from the reading experience.  Good magazines will not have advertising
+on at least the first and sometimes even the first several pages,
+allowing the reader time to get into the text, and load it in their
+brains.  It is only the later parts of articles which may have ads in
+them but by then they are only a minor distraction if you are
+engrossed in the article and if you are loosing interest then the ads
+serve to draw the attention of the reader and help pay the bills.
