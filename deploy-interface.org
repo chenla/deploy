@@ -235,3 +235,12 @@ toggled on or off.
 Text editors scroll, which somewhat makes sense when writing code --
 but is that really true?  What if we had paged-org that made it easy
 to compose paged media?
+
+The nice thing about large screens today is that you can get two
+descent size windows in a single frame.  With space for margins, and
+footnotes etc.  What if you were confined to that page while you
+wrote, and then had to do something like M-Return to start a new page?
+It would have to be smart to be able move content to new pages as you
+added and moved things, but that may not be so bad.  You also will
+have to deal with widows and orphans.
+
