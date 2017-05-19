@@ -225,6 +225,62 @@ Can we somehow manage to create page references that are tied to pages
 but not to screens?
 
 *** Source code is important
+
+ - [[https://en.wikipedia.org/wiki/WordStar][WordStar]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/WordPerfect][WordPerfect]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/LaTeX][LaTeX]] | Wikipedia
+
+In the 1980's, before the macintosh or windows, the two dominate word
+processors were WordStar and WordPerfect.  WordPerfect was the
+Microsoft Word of the DOS era.  Even many law firms and US government
+departments would only accept files in WordPerfect format.  It was
+later ported to Windows, and even had a port for the Steve Job's NeXT
+computer.
+ 
+WordPerfect started as a plain-text based program that was one of the
+most advanced of its time, in 1983 it could do mail merge, footnotes, 
+macros, find-and-replace, bold and underline display, and automatic
+paragraph reflow.  But to my mind the best feature of all, and one
+still missing from any commercial word processor that I am aware of is
+that you could switch to a view that showed the source code for the
+file.  Word processors tend to add a lot of crud to files that undergo
+a lot of editing.  Eventually this crud ends up overwhelming the
+ability of the software to render the file properly.  Microsoft Word
+is especially notorious for this problem.  But there is no real fix in
+Word.  But in WordPerfect you could view source and delete the crud,
+which was all clustered at the top of the file and you were good to
+go.  It seldom effected much of your formating and reduced the file
+size.  This was especially important in the old world of DOS when
+computers came with two 5.25" floppy disk drives.  You loaded the
+operating system when you started the machine with one floppy, then
+removed it and replaced it with the application floppy.  The second
+floppy is where you stored your files.
+
+Being able to not only view but edit source files is critically
+important, not only to be able to fix things that are broken, but to
+recover things when they are so broken they can't be fixed.  You can
+optimise source by hand to do fine-grained things that you could never
+do using menus or a point and click GUI.
+
+This is why the LaTeX typesetting language and system is so powerful.
+LaTeX is still widely used for technical and scientific papers, in
+large part because of it's powerful tools for formating mathematical
+formulas.  And yet, LaTeX is not a WordProcesser, it is a language
+written in plain text that you process to create PDFs (after being
+converted to PostScript, or to Texinfo (a hypertext documentation
+system for Unix and Unix-like operating systems like Linux) or HTML.
+
+#+begin_comment
+There is a point to all of this, but I haven't gotten there yet.  I
+think it will eventually lead into Markdown/Orgmode Wiki formats used
+as source -- which then render as html or pdfs or something....
+
+This is where I will then go into how we need an alternate Web of
+documents which are literate-programing/computing/devops....
+#+end_comment
+
+
+
 *** Scrolling for composition, Pages for layout
 
 I think we need to start rethinking how we compose text on screens --
