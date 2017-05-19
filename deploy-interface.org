@@ -74,11 +74,52 @@ reading experiences.  And most important of all, it makes it nearly
 impossible to take advantage of the most powerful features that the
 codex gives us.
 
+** WTF Mobile
 
-mobile devices are a round peg in a square hole -- we are trying to
+Mobile devices are a round peg in a square hole -- we are trying to
 fit things onto tiny screens that don't and won't and can never fit.
 people are being told that you can do everything on your mobile device
 -- they are wrong in the worst way possible.
+
+Small form factor displays are excellant for a number of things, they
+are good as remote controls, dashboards, alerts, instant messaging,
+headline news, short videos etc.
+
+But they are not good for providing anything in depth or requiring
+long periods of concentration (unless it's a game).
+
+There are any number of people who claim that they happily read whole
+novels on their iPhone, but I don't buy it.  These people are deluding
+themselves.  Small screens have a very low LOD.  Semantically, you are
+seeing things from very far away at low resolution -- there simply is
+not enough space to see all of the information that is there.  There
+is also no space for providing any context.
+
+I was once asked to build an ERP system in which everything in the
+system could be done on mobile phones as well as on laptop and desktop
+machines.  
+
+Watching a movie made for the cinema, or reading something that takes
+some effort like Gravity's Rainbow will not just a poor experience,
+you will get less out of it than if you read or watched it as
+intended.
+
+Having everything instantly available everywhere is not always a good
+thing, when everywhere mostly means on a tiny screen with tiny
+speakers.  Look up clips from the movie or a quote from GR when you
+are trying to settle an argument in a bar.  Use the device to make a
+note or annotation of something you are watching on a larger display.
+But let's stop trying to fit /everything/ into mobile.  It ill-serves
+us, and leaves us impoverished.  Waiting is a good thing when done
+right.  Anticipation, preparing for something to come allows us to
+frame questions, work out what we are looking for.  And waiting is
+/very/ important in communications.  There is a world of difference
+between an emotional response and a considered reply.  It takes time
+for new information to be integrated into our brains, put into context
+and letting our limbic system calm down and get out of the way before
+we respond to most things.  Email can be checked from mobile devices
+and used to send replies in a pinch -- but it should not be the
+primary interface used for reading and writing email.
 
 ** Hypercard
 
