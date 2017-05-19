@@ -75,5 +75,11 @@ impossible to take advantage of the most powerful features that the
 codex gives us.
 
 
+mobile devices are a round peg in a square hole -- we are trying to
+fit things onto tiny screens that don't and won't and can never fit.
+people are being told that you can do everything on your mobile device
+-- they are wrong in the worst way possible.
+
+
 The texinfo hypertext interface got a lot of things right that the web
 did not.
