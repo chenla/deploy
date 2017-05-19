@@ -219,3 +219,19 @@ the norm in business, legal professions, marketing and education.
 Word processors and desktop printing has not made the world a better
 place.
 
+*** Fixed references for different form factor
+
+Can we somehow manage to create page references that are tied to pages
+but not to screens?
+
+*** Source code is important
+*** Scrolling for composition, Pages for layout
+
+I think we need to start rethinking how we compose text on screens --
+at the moment we use a scroll for editing -- though some wysiwyg 
+word processors show page breaks (A4) as you type, but this can be
+toggled on or off.
+
+Text editors scroll, which somewhat makes sense when writing code --
+but is that really true?  What if we had paged-org that made it easy
+to compose paged media?
