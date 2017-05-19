@@ -179,3 +179,28 @@ additional context and background.  Whole sections of newspapers are
 largely devoted to advertising, supermarket specials, classified ads,
 auto dealer ads, cinema listings, and ads, sports scores and ads and
 ads and ads.
+
+** Rethinking Digital Paged Media
+
+So now that we've looked at the strengths and weaknesses of print and
+digital media, is there a way we can put together a means of producing
+both that will work better than what we have now?
+
+The solution has to look at both hardware, interface and content, with
+the hardware being physical paper or a display device, interface being
+the devices for navigation around the text, be it page numbers, tables
+of contents, indexes, search, annotation etc and content is the
+layout, typography and design of the words and images on each page.
+
+  - establish canonical device form factors and get device
+    manufacturers to stick with them.  These don't have to be exact,
+    but there should be the equivalent of a handheld display,
+    paperback sized display, hardcover sized display, and large format
+    display -- something like A3 that would become the digital
+    broadsheet.  You may notice that A4 is not in the list -- I think
+    we seriously need to rethink A4 as a default for physical paper.
+    We would be better off moving to A5 as a standard form factor for
+    pages and then have the option of printing facing pages together
+    on A4 paper or on A5,  This would give us a very nice range of
+    form factors for different uses.
+
