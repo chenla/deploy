@@ -300,3 +300,75 @@ It would have to be smart to be able move content to new pages as you
 added and moved things, but that may not be so bad.  You also will
 have to deal with widows and orphans.
 
+
+* Frightening Search
+
+
+ - [[http://www.paulgraham.com/ambitious.html][Frighteningly Ambitious Startup Ideas]] | Paul Graham (2017)
+
+perhaps that is the way to go --
+
+the search engine I want is one that searches everything --
+not just the web, but books, movies, tech and scientific
+papers, images -- and include my stuff -- email, notes todo,
+drafts etc.  I want it to work across everything -- in a
+terminal, browser, web
+
+I want to know relationships between all of this stuff --
+and that will happen only as people participate and
+contribute.
+
+I want a history that is useful -- that is integrated into a
+meta history of everything I do, not just browse
+
+I want to be able to link and cite anything I find
+
+I want to be able to annotate anything I am looking at
+
+I want to quote anything I am looking at
+
+I want the search engine to be aware of what I am doing, but
+not try to give me what it thinks I want based on history --
+
+---
+
+To to this... it won't be a cloud service -- it has to be
+distributed, with every user in control of their own data --
+perhaps in a container that is always running, listening,
+and aggregating.
+
+It means that all users are contributing, actively and
+through use to the community -- a bit like delicious
+folksonomies so that each person only needs to contribute
+here and there, the more people contribute the less that any
+one person has to contribute.  we get smarter together
+
+it has to be extensible -- like emacs -- so that anyone can
+extend it to scratch any itch they need to itch.  And this
+can't be a DSL extension language that talks to the
+application via an API -- it has to become part of the code
+base like emacs.
+
+-- 
+
+everything is a message, so todo, search items, email,
+everything is your email
+
+the interface is like helm and elfeed
+
+I want crud free content
+
+I want to annotate crud free versions of the web
+
+I want literate computing/programing/devops
+
+--- 
+
+I'm not trying to get rich -- I do want to make a living and
+make it happen.
+
+All of this is just one part of what I want to build
+
+I don' need much money to do it, but I do need /some/ money.
+
+
