@@ -299,8 +299,6 @@ wrote, and then had to do something like M-Return to start a new page?
 It would have to be smart to be able move content to new pages as you
 added and moved things, but that may not be so bad.  You also will
 have to deal with widows and orphans.
-
-
 * Frightening Search
 
 
