@@ -25,15 +25,39 @@
   - rules for radicals
   - methodist movement
 
+It's not enough to build something -- you have to put just
+as much effort in to getting people to adopt it and then to
+act as mid-wife to see it though long enough for it to hit
+its tipping point and take on a life of its own.
+
 * Stupid TedTalk Video
 
   - [[http://www.ted.com/talks/derek_sivers_how_to_start_a_movement][Derek Sivers: How to start a movement]] | TED Talk
+
+* Difussion of Innovation
+
+ - [[https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action#t-1065553][Simon Sinek: How great leaders inspire action]] | TED Talk
+ - [[bib:rogers:2003diffusion][Diffusion of Innovations]] | Everett Rogers, (2003) 5th Ed 
+ - [[https://en.wikipedia.org/wiki/Diffusion_of_innovations][Diffusion of innovations]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Everett_Rogers][Everett Rogers]] | Wikipedia
+
+* Tipping Point
+
+- The Tipping Point | Malcom Gladwell
+
+Connectors, Mavens, and Persuaders
+
 
 
 * What we can learn from religion
 
 TEDTalk: Alain de Bottom: Atheism 2.0
-:url: http://www.ted.com/talks/alain_de_botton_atheism_2_0.html
+:url: 
+
+ - [[bib:debottom:2012religion][Religion for Atheists]] | Alain De Botton
+ - [[https://www.ted.com/talks/alain_de_botton_atheism_2_0][Alain de Botton: Atheism 2.0]] | TED Talk
+ - [[http://www.ted.com/talks/alain_de_botton_atheism_2_0.html][Alain de Botton: Atheism 2.0]] | TED Talk (transcript)
+
 
 Notes:
 
