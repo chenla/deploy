@@ -22,9 +22,6 @@
 
 * Introduction
 
-
-
-
 It's not enough to build something -- you have to put just
 as much effort in to getting people to adopt it and then to
 act as mid-wife to see it though long enough for it to hit
@@ -34,9 +31,9 @@ its tipping point and take on a life of its own.
 
   - [[bib:alinsky:1989rules][Rules For Radicals]] | Saul Alinsky (1971)
   - [[https://en.wikipedia.org/wiki/Rules_for_Radicals][Rules for Radicals]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Saul_Alinsky][Saul Alinsky]]       | Wikipedia
 
 #+begin_quote
-
    1. "Power is not only what you have, but what the enemy
       thinks you have." Power is derived from 2 main sources
       – money and people. "Have-Nots" must build power from
