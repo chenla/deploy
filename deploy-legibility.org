@@ -74,6 +74,20 @@ wildest paranoid fantasies of States....
 
 * A broader concept of legibility
 
+#+begin_quote
+Before, the local Shaman told you your sheep died because
+some dirty witch on the mountain hexed it with her Evil Eye,
+but now there's an Imam and a Priest and a Monsanto ad and a
+PETA advocate and Russia Today all offering competing
+explanations for why your sheep is dying.
+
+You did not ever have an accurate map of the territory; the
+difference now is you have more than one map.
+
+-- [[https://www.reddit.com/r/slatestarcodex/comments/6e53jy/the_war_on_sensemaking/][The War on Sensemaking]] | r/slatestarcodex 
+#+end_quote
+
+
 Legibility doesn't work at all scales, but then that's sort
 of the point.  The pre-industrial state was legible at local
 scales, but because there was no standardization across all
