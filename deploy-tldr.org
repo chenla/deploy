@@ -23,14 +23,29 @@
 
 #+TOC: headlines 4
 
-* Title Page
+* Cover
 
-TL;DR 
 Chenla
-Center for Distributed Civilization
+TL;DR 
+
+by Brad Collins
+
 
 2017
 
 Chenla Scopic Press
 Prek Leap
+
+
+* Title Page
+
+Chenla Scopic Press
+
+        &
+
+The Chenla Institute Center for Distributed Civilization
+
+Prek Leap, Cambodia
+
+&copy; 2017 The Chenla Institute
 
