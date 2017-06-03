@@ -55,6 +55,8 @@ Recent change activity can be found at http://github.com/chenla/deploy
 
 ** Deploy
 
+ - [[./deploy-tldr.org][TL;DR]]
+
  - [[./deploy-goals.org][Goals]]
  - [[./deploy-functional.org][Functional Requirements]]
  - [[./deploy-movement.org][Movement]]
