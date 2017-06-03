@@ -68,13 +68,19 @@ I set out now, in a box apon the sea
 
 * Preface
 
-TL;DR circa 2017, was a common abbrieviation on the Internet
-for "too long; didn't read."  It's an interesting concept,
-because it is simular to, but not the same as the older
-established terms "executive summary", "synopsis" or "scope
-note" which are themselves all slightly different as well.
+** TL;DR
 
-We have appropriated the term as a name for /Chenla TL;DRs/
+The term /TL;DR/ was (circa 2017) a common abbrieviation on
+the Internet for "too long; didn't read."  It's an
+interesting concept, because it is simular to, but not the
+same as the older established terms "executive summary",
+"synopsis" or "scope note" which are themselves all slightly
+different as well.  It may well be a summary, but it also
+serves as a brief introduction to longer form content to
+provide readers with enough information to read more or move
+on.
+
+We have appropriated the term as a term for /Chenla TL;DRs/
 which provide a jumping off point for understanding an idea,
 work, proposal, design or process and then providing
 doorways (links) that allows the reader to dig deeper into
@@ -85,27 +91,30 @@ down into or not.  An option poor Alice was never afforded.
 In a very real sense -- the Chenla Institute's primary
 activity is creating entrances to a myriad of rhizomatic
 rabbit holes that taken together constitute the knowledge to
-build and maintain a distributed technological civilization.
+build and maintain a distributed technological civilization
+YMMV.
 
 In summary, Chenla TL;DRs are:
 
   - *stubs* that frame an idea or project that provide enough
     information to get the base idea as well as enough to
-    get started learning more.
-  - *nested* - so that any part of a TL;DR may become a
-    separate independent TL;DR at some time in the future.
-    This section is at this stage a preface, but it will be
-    expanded and released as it's own TL;DR in the future. 
-  - *overlap* -- TL;DRs are not meant to be mutually
+    information to get started and learn more.
+  - *nested* - any part of a TL;DR may fork as an
+    independent TL;DR at some time in the future.  For
+    exmple, this section is (at this stage) a preface, but
+    it will be expanded and released as it's own TL;DR in
+    the future.
+  - *overlap* -- TL;DRs are /not/ meant to be mutually
     exclusive, they embrace contradiction, duality and
     complexity so are more /messy/ than /cannonical/.
     Cannonical references and works will be defined using
     other mechanisms -- further down different rabbit holes.
-  - *imutable* - each TL;DR is an imutable namespace so that
-    the TL;DR as a concept is imutable, but the expressions,
-    manifestations and instances of the TL;DR are mutable
-    over time.  And you will always be able to find the
-    latest version of a TL;DR via this imutable namespace.
+  - *imutable* - each TL;DR has its own imutable namespace
+    so that the TL;DR as a concept is imutable, but the
+    expressions, manifestations and instances of the TL;DR
+    are mutable over time.  The reader will always be able to
+    find the latest version of a TL;DR via this imutable
+    namespace.
 
 TL;DRs will be publish digitally as they are completed and
 collected together into an annual volume that will be
@@ -118,7 +127,7 @@ etc. but the TL;DR will remain as the portal to all other
 work.
 
 
- - A Scopic Press
+**  Scopic Press
 
    provenance : all versions
 
@@ -134,6 +143,7 @@ work.
 
    lod, pov, roc
 
+   released under free and open licences
 
 * TL;TD I : The Yellow Brick Road
 
