@@ -117,3 +117,66 @@ Singularity; a future that we can not predict or even imagine today.
  - maps
  - duck tests
  - guilds
+
+* Opportunities
+
+* Towards a Distributed Civilization
+
+* Primer
+
+ - Descriptive
+ - Proscriptive
+ - Tools
+ - Materials
+
+* The Chenla Institute
+
+
+Establishing the institute
+
+A distributed (as MIT MediaLab puts it) anti-disciplinary
+research institute incorporated in Singapore, Germany and
+France ??? with it's first campus located at Prek Leap
+National College of Agriculture in Cambodia.
+
+The Institute's mandate is to develop, document and deploy
+the descriptive and proscriptive information, code, designs,
+and ideas needed to establish a highly distributed
+civilization for Mankind.
+
+The Institute will work with governments, NGOs and industry
+to to understand and adapt to the radical changes that will
+reshape our civilization in the coming decades, and to spin
+off commerical and non-profit organizations and companies
+that will implement the technologies developed at the
+Institute.
+
+The Institute is commited to openess and transparency.  All
+works will be released under open source/content/design
+licences.
+
+
+  - organization & legal
+    - Administrative office
+    - Centre for Distributed Civilization
+    - b>i Research Group
+    - Chenla Scopic Press
+
+  - facilities: 
+    - viz centre : collaboration and conference space
+    - Fab Lab : tool & machine fabrication
+    - Map Lab : content & code
+    - Wet Lab : Gene Splicing & Agricultural Biotech
+
+  - people:
+    - faculty 
+    - sabbatical program
+    - fellowship program
+    - internship program
+
+  - Conferences, Symposia, & Summits
+
+  - Sponsorship
+    - Commercial Sponsors
+    - Endowments
+    - Network Membership
