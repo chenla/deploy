@@ -47,6 +47,8 @@ The Chenla Institute Centre for Distributed Civilization
 
 Prek Leap, Cambodia
 
+Volume 1, Issue 1
+
 &copy; 2017 The Chenla Institute
 
 * Plan of the Work
@@ -55,15 +57,45 @@ Prek Leap, Cambodia
 
 * Preface
 
+TL;DR circa 2017, was a common abbrieviation on the Internet
+for "too long; didn't read."  It's an interesting concept,
+because it is simular to, but not the same as the older term
+"executive summary", "synopsis" or "scope note" which are
+themselves all slightly different concepts.
+
+We have appropriated the term as a name for /Chenla TL;DRs/
+which provide a jumping off point for understanding an idea,
+work, proposal, design or process and then providing
+doorways (links) that allows the reader to dig deeper into
+the subject, or not.  In otherwords, TL;DRs are the entrance
+to rabbit holes which help you descide if you wish to tumble
+down into or not.
+
+In a very real sense -- the Chenla Institute's primary
+activity is creating entrances to a myriad of rabbit holes
+that taken together constitute a distributed technological
+civilization.
+
+
  - Chenla TL;DRs
 
   - these are stubs that frame an idea or project
-  - provide enough to get the idea
-  - provide enough to get started
-  - multiple editions over time
+  - enough to get the idea
+  - enough to get started
+  - nested - so that any part of a TL;DR may become a
+    separate independent TL;DR at some time in the future.
+    This section is at this stage a preface, but it will be
+    expanded and released as it's own TL;DR in the future. 
+  - each TL;DR is an imutable namespace so that the TL;DR as
+    a concept is imutable, but the expressions,
+    manifestations and instances of the TL;RD are mutable
+    over time.
 
-we will publish these online as they are complete
-and collected together into an annual volume that will be
+
+
+
+Chenla will publish these online as they are complete and
+collected together into an annual volume that will be
 printed as a physical book
 
 followed up by and expanded as in-depth proposals,
@@ -82,7 +114,7 @@ narratives, research, code, designs etc.
  
    not all form factors are created equal
   
-   source, content and surrounding, supporting context
+   source, content, surrounding & supporting context
 
    lod, pov, roc
 
