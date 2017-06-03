@@ -56,7 +56,7 @@ Prek Leap, Cambodia
 * Preface
 
  - Chenla TL;DRs
- - Scopic Presses
+ - A Scopic Press
 
 * Part I : The Yellow Brick Road
 
@@ -67,36 +67,39 @@ Prek Leap, Cambodia
  - Decentralized
  - Distributed
 
-Technological revolutions break up centralized systems into a
-distributed system where the power is at the edge of the networks.
-Over time, consolidation occurs into a decentralized network made up
-of a large number of medium sized organizations.  Finally these
-mid-sized organizations consolidate into a handful or even a single
-organization that monopolizes the network.
+Technological revolutions break up centralized systems into
+a distributed system where the power is at the edge of the
+networks.  Over time, consolidation occurs into a
+decentralized network made up of a large number of medium
+sized organizations.  Finally these mid-sized organizations
+consolidate into a handful or even a single organization
+that monopolizes the network.
 
-As networks consolidate into decentralized and then centralized
-systems, innovation slows down, creating a power-wealth-value
-imbalance that is not sustainable.
+As networks consolidate into decentralized and then
+centralized systems, innovation slows down, creating a
+power-wealth-value imbalance that is not sustainable.
 
-In 2017 the Internet & The Web, which started as a distributed
-network, consolidated to the point where the number of players can
-almost be counted on one hand.
+In 2017 the Internet & The Web, which started as a
+distributed network, consolidated to the point where the
+number of players can almost be counted on one hand.
 
-We are at the beginning of no less than five revolutions; artificial
-intelligence, robotics, nanotech, distributed trustless networks
-(based on cryptography, merkle trees and distributed ledgers) and a
-biological revolution based on genetic gene splicing technologies like
-CRSPR. 
+We are at the beginning of no less than five revolutions;
+artificial intelligence, robotics, nanotech, trustless
+distributed networks (based on cryptography, hashes, and
+distributed ledgers) and a biological revolution based on
+gene splicing technologies such as CRSPR.
 
-Any one of these technologies alone would contitute change at the same
-scale as Gutenberg's Press, The Industrial Revolution, The Computer
-and Internet Revolutions.  Taken together each of these revolutions
-will amplify, and reinforce each other.  The next 5-20 years will
+Any one of these technologies alone would constitute change
+at the same scale as Gutenberg's Press, The Industrial
+Revolution, The Computer and Internet Revolutions.  Taken
+together each of these revolutions will amplify, and
+reinforce each other.  The next 5-20 years will
 fundamentally reshape business, finance, manufacturing,
-transportation, energy, agriculture, medicine, education, government
-and the world order.  Simply put, we are seeing changes that will
-transform human civilization to the point that is can be called a
-Singularity; a future that we can not predict or even imagine today.
+transportation, energy, agriculture, medicine, education,
+government and the world order.  Simply put, we are seeing
+changes that will transform human civilization to the point
+that it can be called a Singularity; a future that we can
+not predict or even imagine today.
 
 
 ** Towards a Distributed Civilization
@@ -172,14 +175,32 @@ licences and made availble as widely as possible.
 
 ** Facilities
 
-  - facilities @prekleap campus
-    - exisiting buildings
+- Viz Centre : collaboration and conference space
+- Fab Lab    : tool & machine fabrication
+- Map Lab    : content & code
+- Wet Lab    : Gene Splicing & Agricultural Biotech
+- DataCenter : Containerized Process Cluster
 
-    - Viz Centre : collaboration and conference space
-    - Fab Lab    : tool & machine fabrication
-    - Map Lab    : content & code
-    - Wet Lab    : Gene Splicing & Agricultural Biotech
-    - DataCenter : Containerized 
+Renovation of existing structures @prekleap 
+ - exisiting buildings
+ - riverfront erosion control & development
+ - modular containerized data center
+ - solar & gasification electrical generation
+
+Equipment List
+ 
+ - servers and routers
+ - converted 20 foot ISO shipping containers
+
+ - CNC milling, router & plasma cutters
+ - 3D Printing
+ - Metal/Machine Shop
+ - Wood Shop
+ - Electrical/Electronics Shop     
+
+ - CRSPR gene splicers
+ - tissue culture lab
+ - 
 
 ** People
 
@@ -199,10 +220,16 @@ licences and made availble as widely as possible.
 
 ** Financial
 
-  - Sponsorship
-    - Commercial Sponsors
-    - Endowments
-    - Network Membership
+While we will actively seek our and apply for grants,
+relying on grants for funding, or any one source of revenue
+is not sustainable.
+
+  - Corporate Sponsorship
+  - Endowments
+  - Consulting Services
+  - In-Kind Donations
+
+
 
 * Part III : Implementation
 
@@ -212,15 +239,15 @@ licences and made availble as widely as possible.
 The work of the institute is meant to be both deployable as
 well as academic and scientific.  It's been said that it
 takes an industrial civilization to build an industrial
-civilization.  The same is true for developing a distributed
-civilization as well.  The Institute will build and work
+civilization.  The same is true for distributed
+civilizations as well.  The Institute will build and work
 using distributed infrastructure which will be a combination
-of technologies that are already in development around the
-planet, as well as our own implementation of the pieces that
-are still missing but will be required to truely be
-distributed in practice as well as in theory.  This section
-outlines these technologies and the pieces that we will
-develop at the Institute.
+of existing technologies, as well as our own implementation
+of the pieces that are still missing but will be required
+for the infrastructure to work in practice as well as it
+does in theory.  This section outlines the technologies that
+we and the missing pieces that we complete development at
+the Institute.
 
 ** A New Distributed Network Layer 
 
@@ -237,7 +264,7 @@ develop at the Institute.
 - Codex.d: distributed publication
 - Sneaker Net of Things (SNOT)
 
-** Saltmine (our implementation)
+** Implementation
   
  - hoards
  - horcruxes
