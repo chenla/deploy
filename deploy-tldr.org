@@ -43,7 +43,7 @@ Chenla Scopic Press
 
         &
 
-The Chenla Institute Center for Distributed Civilization
+The Chenla Institute Centre for Distributed Civilization
 
 Prek Leap, Cambodia
 
@@ -274,7 +274,17 @@ the Institute.
 
 * Part IV : The Primer
 
+   Content, Rules & Index  |   Cognitive Back Box   |   Map
+   -------------------------------------------------------------
  - Descriptive
  - Proscriptive
  - Tools
  - Materials
+
+* Part V : Research Themes
+
+ - Tropical Savannah
+ - Bamboo Process Guild : OpenDesk and Mark's Bamboo Guy
+ - Legible Land  : land titles, and satellite maps
+ - Crucial Tools : critical tools and machines : kevin kelly
+   & Open Ecology
