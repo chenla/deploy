@@ -25,16 +25,16 @@
 
 * Cover
 
-Chenla
-TL;DR 
+    CHENLA
+     TL;DR
+     2017
+
 
 by Brad Collins
 
 
-2017
-
 Chenla Scopic Press
-Prek Leap
+     Prek Leap
 
 
 * Title Page
@@ -56,9 +56,38 @@ Prek Leap, Cambodia
 * Preface
 
  - Chenla TL;DRs
+
+  - these are stubs that frame an idea or project
+  - provide enough to get the idea
+  - provide enough to get started
+  - multiple editions over time
+
+we will publish these online as they are complete
+and collected together into an annual volume that will be
+printed as a physical book
+
+followed up by and expanded as in-depth proposals,
+narratives, research, code, designs etc.
+
+
  - A Scopic Press
 
-* Part I : The Yellow Brick Road
+   provenance : all versions
+
+   literate reproducible colophon : 
+   everything is released with source, and toolchain for
+   building - including the OS, languages, fonts etc.
+
+   everything is indexed and digitally signed
+ 
+   not all form factors are created equal
+  
+   source, content and surrounding, supporting context
+
+   lod, pov, roc
+
+
+* TL;TD I : The Yellow Brick Road
 
 ** Table of Contents
 ** Revolutionary Cycles
@@ -66,6 +95,8 @@ Prek Leap, Cambodia
  - Centralized
  - Decentralized
  - Distributed
+
+ - Timeline
 
 Technological revolutions break up centralized systems into
 a distributed system where the power is at the edge of the
@@ -137,7 +168,7 @@ not predict or even imagine today.
    depend on us getting this right.
 
 
-* Part II : The Chenla Bluebook
+* TL;TD II : The Chenla Bluebook
 
 ** Table of Contents
 
@@ -229,9 +260,7 @@ is not sustainable.
   - Consulting Services
   - In-Kind Donations
 
-
-
-* Part III : Implementation
+* TL;TD III : Implementation
 
 ** Table of Contents
 ** Introduction
@@ -246,7 +275,7 @@ of existing technologies, as well as our own implementation
 of the pieces that are still missing but will be required
 for the infrastructure to work in practice as well as it
 does in theory.  This section outlines the technologies that
-we and the missing pieces that we complete development at
+we and the missing pieces that we will complete development at
 the Institute.
 
 ** A New Distributed Network Layer 
@@ -272,7 +301,7 @@ the Institute.
  - duck tests
  - process guilds
 
-* Part IV : The Primer
+* TL;TD IV : The Primer
 
    Content, Rules & Index  |   Cognitive Back Box   |   Map
    -------------------------------------------------------------
@@ -280,8 +309,9 @@ the Institute.
  - Proscriptive
  - Tools
  - Materials
+ - Structures
 
-* Part V : Research Themes
+* TL;TD V : 2017 Research Themes
 
  - Tropical Savannah
  - Bamboo Process Guild : OpenDesk and Mark's Bamboo Guy
