@@ -95,4 +95,25 @@ and the world order.  Simply put, we are seeing changes that will
 transform human civilization to the point that is can be called a
 Singularity; a future that we can not predict or even imagine today.
 
-* 
+* A New Distributed Network Layer 
+
+* Interplanetary File System
+
+* Cryptocurrencies
+
+* Neural Nets
+
+* Missing Pieces
+
+- Identity Model
+- Fnords: acertaining certainty
+- Codex.d: distributed publication
+- Sneaker Net of Things (SNOT)
+
+* Saltmine (our implementation)
+  
+ - hoards
+ - horcruxes
+ - maps
+ - duck tests
+ - guilds
