@@ -49,7 +49,7 @@ Prek Leap, Cambodia
 
 &copy; 2017 The Chenla Institute
 
-* Contents
+* Plan of the Work
 
   [ *Contents* ] 
 
@@ -58,7 +58,10 @@ Prek Leap, Cambodia
  - Chenla TL;DRs
  - Scopic Presses
 
-* Revolutionary Cycles
+* Part I : The Yellow Brick Road
+
+** Table of Contents
+** Revolutionary Cycles
 
  - Centralized
  - Decentralized
@@ -95,44 +98,47 @@ and the world order.  Simply put, we are seeing changes that will
 transform human civilization to the point that is can be called a
 Singularity; a future that we can not predict or even imagine today.
 
-* A New Distributed Network Layer 
 
-* Interplanetary File System
+** Towards a Distributed Civilization
 
-* Cryptocurrencies
+ - more than resilient : develop infrastructure that is not
+   only resilient to catastrophe, but is anti-fragile, that
+   becomes stronger, the more it is challenged.  At the
+   heart of this is ensuring that the knowledge and
+   experience to build and maintain our civilization is
+   distributed as widely, in time and space as possible.
+   Publication is not enough, living knowlege and experience
+   is as important as any recorded publication.
 
-* Neural Nets
+ - empowering the edges : ensure that everyone has access
+   and opportunitiy to use all of these technologies to
+   build and maintain a good life for their families and
+   future generations.
 
-* Missing Pieces
+ - the long now, and big here : thinking and acting over
+   very long time frames through the development of
+   sustainable and balanced systems that work in the real
+   world, not just in academic books and scientific papers.
 
-- Identity Model
-- Fnords: acertaining certainty
-- Codex.d: distributed publication
-- Sneaker Net of Things (SNOT)
-
-* Saltmine (our implementation)
-  
- - hoards
- - horcruxes
- - maps
- - duck tests
- - guilds
-
-* Opportunities
-
-* Towards a Distributed Civilization
-
-* Primer
-
- - Descriptive
- - Proscriptive
- - Tools
- - Materials
-
-* The Chenla Institute
+ - managing climate & ecosystems : unintentionally, man has
+   brought the xx millenia of the interglacial period that
+   has provided mankind with a mild and hospitible climate.
+   Climate change will pose momumental challenges for our
+   species and the planet.  We must stop thinking that man
+   is not part of the natural world, without the natural
+   world, we would be extinct. To this end we must learn to
+   become respnsible stewards of the climate and ecosystems
+   that give us life.  This goes beyond reversing or just
+   mitigating climate change, it has to become a core part
+   of our self identity and understanding that our lives
+   depend on us getting this right.
 
 
-Establishing the institute
+* Part II : The Chenla Bluebook
+
+** Table of Contents
+
+** The Chenla Institute
 
 A distributed (as MIT MediaLab puts it) anti-disciplinary
 research institute incorporated in Singapore, Germany and
@@ -155,20 +161,27 @@ The Institute is commited to openess and transparency.  All
 works will be released under open source/content/design
 licences and made availble as widely as possible.
 
+** Organization
 
-  - organization & legal
+ - organization & legal
     - Administrative office
     - Centre for Distributed Civilization
     - b>i Research Group
     - Chenla Scopic Press
     - Dabbawallah Cluster : computational and storage services
 
+** Facilities
+
   - facilities @prekleap campus
+    - exisiting buildings
+
     - Viz Centre : collaboration and conference space
     - Fab Lab    : tool & machine fabrication
     - Map Lab    : content & code
     - Wet Lab    : Gene Splicing & Agricultural Biotech
-    - DataCenter : 
+    - DataCenter : Containerized 
+
+** People
 
   - people:
     - faculty 
@@ -177,10 +190,64 @@ licences and made availble as widely as possible.
     - internship program
     - tutorial program
 
+** Events & Publications
+
   - Conferences, Symposia, & Summits
+  - Journal, Books -- original works and reprinting
+    important works that are crucial to building and
+    maintaining a distributed civilization.
+
+** Financial
 
   - Sponsorship
     - Commercial Sponsors
     - Endowments
     - Network Membership
 
+* Part III : Implementation
+
+** Table of Contents
+** Introduction
+
+The work of the institute is meant to be both deployable as
+well as academic and scientific.  It's been said that it
+takes an industrial civilization to build an industrial
+civilization.  The same is true for developing a distributed
+civilization as well.  The Institute will build and work
+using distributed infrastructure which will be a combination
+of technologies that are already in development around the
+planet, as well as our own implementation of the pieces that
+are still missing but will be required to truely be
+distributed in practice as well as in theory.  This section
+outlines these technologies and the pieces that we will
+develop at the Institute.
+
+** A New Distributed Network Layer 
+
+** Interplanetary File System
+
+** Cryptocurrencies
+
+** Neural Nets
+
+** Missing Pieces
+
+- Identity Model
+- Fnords: acertaining certainty
+- Codex.d: distributed publication
+- Sneaker Net of Things (SNOT)
+
+** Saltmine (our implementation)
+  
+ - hoards
+ - horcruxes
+ - maps
+ - duck tests
+ - process guilds
+
+* Part IV : The Primer
+
+ - Descriptive
+ - Proscriptive
+ - Tools
+ - Materials
