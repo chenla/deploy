@@ -63,6 +63,9 @@ two text boxes, later three
 
 Published under a CC attribution, share-alike licence
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
 * Plan of the Work
 
   [ *Contents* ] 
@@ -78,7 +81,16 @@ I set out now, in a box apon the sea
 
 ** TL;DR
 
-The term /TL;DR/ was (circa 2017) a common abbrieviation on
+Chenla TL;DRs are cautonary gateways.  And like the second
+law of thermodynamics, they are one-way processes, you can't
+unstir a rabbit hole, once you have entered.  A TL;DR is the
+entrance to a rabbit hole which helps you decide if you wish
+to tumble down into or not.  An option poor Alice was never
+afforded.
+
+---
+
+The term /TL;DR/ (ca 2013) is a common abbrieviation on
 the Internet for "too long; didn't read."  It's an
 interesting concept, because it is simular to, but not the
 same as the older established terms "executive summary",
@@ -94,18 +106,22 @@ work, proposal, design or process and then providing
 doorways (links) that allows the reader to dig deeper into
 the subject, or not.  
 
-Chenla TL;DRs are cautonary gateways.  And like the second
-law of thermodynamics, they are one-way processes, you can't
-unstir a rabbit hole, once you have entered.  A TL;DR is the
-entrance to a rabbit hole which helps you decide if you wish
-to tumble down into or not.  An option poor Alice was never
-afforded.
-
 In a very real sense -- the Chenla Institute's primary
 activity is creating entrances to a myriad of rhizomatic
 rabbit holes that taken together constitute the knowledge to
 build and maintain a distributed technological civilization
 YMMV.
+
+TL;DRs will be publish digitally as they are completed and
+collected together into an annual volume that will be
+printed as a physical dead tree book which acts as both
+snapshot and physical artifact.
+
+Any TL;DR may or may not be followed up by and expanded as
+in-depth proposals, narratives, research, code, designs
+etc. but the TL;DR will remain as the portal to all other
+work.
+
 
 In summary, Chenla TL;DRs are:
 
@@ -129,15 +145,7 @@ In summary, Chenla TL;DRs are:
     find the latest version of a TL;DR via this imutable
     namespace.
 
-TL;DRs will be publish digitally as they are completed and
-collected together into an annual volume that will be
-printed as a physical dead tree book which acts as both
-snapshot and physical artifact.
 
-Any TL;DR may or may not be followed up by and expanded as
-in-depth proposals, narratives, research, code, designs
-etc. but the TL;DR will remain as the portal to all other
-work.
 
 ----
 
@@ -151,11 +159,12 @@ tried to look down and make out what she was coming to, but
 it was too dark to see anything: then she looked at the
 sides of the well, and noticed that they were filled with
 cupboards and book-shelves: here and there she saw maps and
-pictur es hung upon pegs. She took down a jar from one of
+pictures hung upon pegs. She took down a jar from one of
 the shelves as she passed...
 
 -- Lewis Carrol, Alice's Adventures in Wonderland
 #+end_quote
+
 **  Scopic Press
 
    provenance : all versions
