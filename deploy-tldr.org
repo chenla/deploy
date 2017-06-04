@@ -47,8 +47,6 @@ The Chenla Institute Centre for Distributed Civilization
 
 Prek Leap, Cambodia
 
-Volume 1, Issue 1
-
 #+begin_comment
 two text boxes, later three
 
@@ -97,7 +95,7 @@ it was too long.  But it has also come to mean a summary to
 provide context for an post or article for those who don't
 intend to read the article refered to.  It is sometimes
 inferred that the refered article is not only too long but
-needlessly too long and that a summary provides a suficient
+needlessly too long and that a summary provides sufficient
 information so that there is no need to read the referenced
 item.
 
@@ -171,6 +169,21 @@ the shelves as she passed...
 
 -- Lewis Carrol, Alice's Adventures in Wonderland
 #+end_quote
+
+
+** TL;DR Acknowledgements
+
+I would like to thank the support and facilties provided by
+Prek Leap National College of Agriculture.  Without their
+help this work would not be possible.
+
+I would also like to posthumously thank Hume Henderson for
+our flapper era Alice from the Roaring Twenties, her Alice
+would have been considered stylish indeed.  You can see all
+of his illustrations for Alice's Adventures in Wonderland
+at the University of Florida Digital Collections:
+     
+    http://ufdc.ufl.edu/UF00076830/00001
 
 **  Scopic Press
 
