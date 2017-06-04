@@ -90,32 +90,39 @@ afforded.
 
 ---
 
-The term /TL;DR/ (ca 2013) is a common abbrieviation on
-the Internet for "too long; didn't read."  It's an
-interesting concept, because it is simular to, but not the
-same as the older established terms "executive summary",
-"synopsis" or "scope note" which are themselves all slightly
-different as well.  It may well be a summary, but it also
-serves as a brief introduction to longer form content to
-provide readers with enough information to read more or move
-on.
+The term /TL;DR/ (ca 2013) is a common Internet
+abbrieviation for "too long; didn't read" to explain that
+the author did not read the entire text referenced because
+it was too long.  But it has also come to mean a summary to
+provide context for an post or article for those who don't
+intend to read the article refered to.  It is sometimes
+inferred that the refered article is not only too long but
+needlessly too long and that a summary provides a suficient
+information so that there is no need to read the referenced
+item.
+
+It's an interesting concept, because it is simular to, but
+not the same as the older established terms "executive
+summary", "synopsis" or occasionally "scope note" which are
+themselves all slightly different as well.
 
 We have appropriated the term as a term for /Chenla TL;DRs/
 which provide a jumping off point for understanding an idea,
 work, proposal, design or process and then providing
-doorways (links) that allows the reader to dig deeper into
-the subject, or not.  
+doorways (links) that allow the reader to dig deeper into
+the subject, or not.  A TL;DR is meant to stand on its own,
+as a brief definition, introduction or summary, but they are
+also meant to entice readers to explore further.
 
 In a very real sense -- the Chenla Institute's primary
 activity is creating entrances to a myriad of rhizomatic
-rabbit holes that taken together constitute the knowledge to
-build and maintain a distributed technological civilization
-YMMV.
+rabbit holes that taken together comprise the knowledge to
+build and maintain a distributed technological civilization.
 
-TL;DRs will be publish digitally as they are completed and
-collected together into an annual volume that will be
-printed as a physical dead tree book which acts as both
-snapshot and physical artifact.
+Chenla TL;DRs will be publish digitally as they are
+completed and collected together into an annual volume that
+will be printed as a physical dead tree book which acts as
+both snapshot and physical artifact.
 
 Any TL;DR may or may not be followed up by and expanded as
 in-depth proposals, narratives, research, code, designs
