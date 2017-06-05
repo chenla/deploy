@@ -150,6 +150,51 @@ In summary, Chenla TL;DRs are:
     to find the latest version of a TL;DR via this immutable
     namespace.
 
+⤶ ⤷ ⤴ ⤵ 
+🢔 🢖 🢕 🢗 
+⤳ ⇝ ⟿ ↩  
+▪ ▫ ⧆
+↭ 
+🗈 🗉 🗊 🗋 🗌 🗍 🗎 🗏
+
+
+↰ 
+↱ 
+↲ 
+↳ 
+↴ 
+↵ 
+
+Relationship Tree
+
+↱ [[Victorian Novelists]]
+↱ [[English Novelist]]
+  ▪ [[Charles Dickens]] 
+    ▫ Boz
+  ↪ [[Nineteenth Century]]
+  ↳ [[Christmas Carol]] (novel)
+  ↳ [[Great Expectations]] (novel)
+
+Inline Relationship Links
+
+Not surprisingly, this doesn't work well with monospace
+fonts....
+
+   Among Victorian Novelists[[↱]], [[Charles Dickens]]⇲ stands out
+   as perhaps the best known [[English Novelist]]↱ of the
+   [[Nineteenth Century]]↪, who is known for his novela [[A
+   Christmas Carol]]↳ and his novel [[Great Expectations]]↳.
+ 
+                          ❦
+What I would rather use is a puctionation space or thin
+space between the word and the icon....
+
+
+
+links  
+  - [["web link"]]⇱
+  - [[/ipls/blah.org]["ipfs link"]]⇲
+
 
 
 ----
