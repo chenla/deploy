@@ -143,11 +143,11 @@ In summary, Chenla TL;DRs are:
     complexity so are more /messy/ than /cannonical/.
     Cannonical references and works will be defined using
     other mechanisms -- further down different rabbit holes.
-  - *imutable* - each TL;DR has its own imutable namespace
-    so that the TL;DR as a concept is imutable, but the
+  - *immutable* - each TL;DR has its own immutable namespace
+    so that the TL;DR as a concept is immutable, but the
     expressions, manifestations and instances of the TL;DR
-    are mutable over time.  The reader will always be able to
-    find the latest version of a TL;DR via this imutable
+    are mutable over time.  The reader will always be able
+    to find the latest version of a TL;DR via this immutable
     namespace.
 
 
