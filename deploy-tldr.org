@@ -84,51 +84,7 @@ links
 
 ----
 
-* TL;TD I : The Yellow Brick Road
-
-** Table of Contents
-** Revolutionary Cycles
-
- - Centralized
- - Decentralized
- - Distributed
-
- - Timeline
-
-Technological revolutions break up centralized systems into
-a distributed system where the power is at the edge of the
-networks.  Over time, consolidation occurs into a
-decentralized network made up of a large number of medium
-sized organizations.  Finally these mid-sized organizations
-consolidate into a handful or even a single organization
-that monopolizes the network.
-
-As networks consolidate into decentralized and then
-centralized systems, innovation slows down, creating a
-power-wealth-value imbalance that is not sustainable.
-
-In 2017 the Internet & The Web, which started as a
-distributed network, consolidated to the point where the
-number of players can almost be counted on one hand.
-
-We are at the beginning of no less than five revolutions;
-artificial intelligence, robotics, nanotech, trustless
-distributed networks (based on cryptography, hashes, and
-distributed ledgers) and a biological revolution based on
-gene splicing technologies such as CRSPR.
-
-Any one of these technologies alone would constitute change
-at the same scale as Gutenberg's Press, The Industrial
-Revolution, The Computer and Internet Revolutions.  Taken
-together each of these revolutions will amplify, and
-reinforce each other.  The next 5-20 years will
-fundamentally reshape business, finance, manufacturing,
-transportation, energy, agriculture, medicine, education,
-government and the world order.  Simply put, we are seeing
-changes that will transform human civilization to the point
-that it can be called a Singularity; a future that we can
-not predict or even imagine today.
-
+* The Yellow Brick Road
 
 ** Towards a Distributed Civilization
 
@@ -206,20 +162,4 @@ the Institute.
  - duck tests
  - process guilds
 
-* TL;TD IV : The Primer
 
-   Content, Rules & Index  |   Cognitive Back Box   |   Map
-   -------------------------------------------------------------
- - Descriptive
- - Proscriptive
- - Tools
- - Materials
- - Structures
-
-* TL;TD V : 2017 Research Themes
-
- - Tropical Savannah
- - Bamboo Process Guild : OpenDesk and Mark's Bamboo Guy
- - Legible Land  : land titles, and satellite maps
- - Crucial Tools : critical tools and machines : kevin kelly
-   & Open Ecology
