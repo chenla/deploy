@@ -26,10 +26,11 @@
 
 * Quote Page
 
+#+begin_quote
 I set out now, in a box apon the sea
 
 -- Charles Olson, Maximus Poems
-
+#+end_quote
 
 * Preface
 
@@ -82,27 +83,6 @@ links
 
 
 ----
-
-
-
-
-**  Scopic Press
-
-   provenance : all versions
-
-   literate reproducible colophon : 
-   everything is released with source, and toolchain for
-   building - including the OS, languages, fonts etc.
-
-   everything is indexed and digitally signed
- 
-   not all form factors are created equal
-  
-   source, content, surrounding & supporting context
-
-   lod, pov, roc
-
-   released under free and open licences
 
 * TL;TD I : The Yellow Brick Road
 
@@ -184,98 +164,6 @@ not predict or even imagine today.
    of our self identity and understanding that our lives
    depend on us getting this right.
 
-
-* TL;TD II : The Chenla Bluebook
-
-** Table of Contents
-
-** The Chenla Institute
-
-A distributed (as MIT MediaLab puts it) anti-disciplinary
-research institute incorporated in Singapore, Germany and
-France ??? with it's first campus located at Prek Leap
-National College of Agriculture in Cambodia.
-
-The Institute's mandate is to develop, document and deploy
-the descriptive and proscriptive information, code, designs,
-and ideas needed to establish a highly distributed
-civilization for Mankind.
-
-The Institute will work with governments, NGOs and industry
-to understand and adapt to the radical changes that will
-reshape our civilization in the coming decades, and to spin
-off commerical and non-profit organizations and companies
-that will implement the technologies developed at the
-Institute.
-
-The Institute is commited to openess and transparency.  All
-works will be released under open source/content/design
-licences and made availble as widely as possible.
-
-** Organization
-
- - organization & legal
-    - Administrative office
-    - Centre for Distributed Civilization
-    - b>i Research Group
-    - Chenla Scopic Press
-    - Dabbawallah Cluster : computational and storage services
-
-** Facilities
-
-- Viz Centre : collaboration and conference space
-- Fab Lab    : tool & machine fabrication
-- Map Lab    : content & code
-- Wet Lab    : Gene Splicing & Agricultural Biotech
-- DataCenter : Containerized Process Cluster
-
-Renovation of existing structures @prekleap 
- - exisiting buildings
- - riverfront erosion control & development
- - modular containerized data center
- - solar & gasification electrical generation
-
-Equipment List
- 
- - servers and routers
- - converted 20 foot ISO shipping containers
-
- - CNC milling, router & plasma cutters
- - 3D Printing
- - Metal/Machine Shop
- - Wood Shop
- - Electrical/Electronics Shop     
-
- - CRSPR gene splicers
- - tissue culture lab
- - 
-
-** People
-
-  - people:
-    - faculty 
-    - sabbatical program
-    - fellowship program
-    - internship program
-    - tutorial program
-
-** Events & Publications
-
-  - Conferences, Symposia, & Summits
-  - Journal, Books -- original works and reprinting
-    important works that are crucial to building and
-    maintaining a distributed civilization.
-
-** Financial
-
-While we will actively seek our and apply for grants,
-relying on grants for funding, or any one source of revenue
-is not sustainable.
-
-  - Corporate Sponsorship
-  - Endowments
-  - Consulting Services
-  - In-Kind Donations
 
 * TL;TD III : Implementation
 
