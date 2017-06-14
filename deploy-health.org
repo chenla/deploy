@@ -104,7 +104,22 @@ home, and telemedicine is used to bring in specialists
 remotely, and automated systems bring in specialized
 equipment that will be operated locally or remotely.
 
+Care could be organized as it-torrents that organize,
+schedule and coordinate diagnosis, and treatment.
 
+This would make expensive equipment cost effective because
+it could be used as widely as possible.  A lot of
+infrastructure wouldn't be needed.  And you'd need a lot
+less nursing and support staff.  
+
+Pharma is enormously fucked up -- and needs to be rethought.
+Pharma production needs to become decentralized -- ideally
+as much as possible should be produced locally as it is
+needed.  But a lot of this can't happen while states allow
+private companies to have monopolies on chemical compounds.
+And that won't happen until there is a different R&D model
+for drugs to be developed.  Market demand is a poor way of
+developing drugs.
 
 
 * MRI
