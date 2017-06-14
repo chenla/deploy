@@ -125,7 +125,20 @@ And none of this will happen until we rethink how drug
 trials and approvals take place.  Drug trials need to become
 distributed as well -- and this is only possible if the
 observation, testing and information gathering that is part
-of it becomes distributed.
+of it becomes distributed.  So, drug trials could also
+become it-torrents, with local caregivers getting paid for
+participating. 
+
+So infrastructure, large capital equipment costs and the
+level of care and training needs to move to the edge of
+networks.  A lot of diagnosis will happen by ai before it
+get's passed to specialists.  And nursing and caregivers
+will be responsible for making sure that all of this is
+happening the way it should be, on behalf of the patient.
+
+And of course insurance needs to be rethought so that it is
+not thought of as a burden, but part of maintainence that
+minimizes down time and systems failures.
 
 
 * MRI
