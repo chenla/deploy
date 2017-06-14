@@ -203,3 +203,17 @@ What if what Tim Cook does effectively becomes a utility?
    [[https://en.wikipedia.org/wiki/Experience_curve_effects][Experience curve effects]] | Wikipedia]
    [[https://www.bcgperspectives.com/content/classics/corporate_finance_corporate_strategy_portfolio_management_the_experience_curve_reviewed_history/][The Experience Curve—Reviewed (Part II)]] | bcg.perspectives
    [[bib:marsh:2012new][The New Industrial Revolution]] | Peter Marsh (2012)
+
+What I am concerned about is how we change the relationship
+between the customer and production.
+
+Retail is a terrible system -- and buying through Amazon is
+even worse.  Amazon doesn't and can't understand the content
+of what it is selling to.  At the moment all of that is the
+responsibiility of the buyer -- to know what they need, and
+what will solve their requirements and needs.  There are no
+relationships any more between seller and buyer.  This is in
+large part because mass production and mass retailing has
+had economies of scale dropping prices and providing access
+to a larger variety of goods than the old local shop
+ecosystem was able to do.
