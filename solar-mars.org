@@ -31,9 +31,6 @@ scale — and you will do very well on Earth.”
 -- Juan Benet
 #+end_quote
 
-
-
-
 * Introduction
 
  - [[http://caseyexaustralia.blogspot.com/2017/05/a-roadmap-to-industrially-self.html?m=1][A roadmap to an industrially self-sufficient Mars base in the minimum time]]
