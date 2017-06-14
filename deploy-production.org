@@ -227,3 +227,9 @@ is terrible for us as a species and as a planet.
 I keep wondering -- if we returned to production of durable
 goods that last -- how much we would save in terms of
 resources and impact on the carrying capacity of our planet?
+
+We have to bake this into our distributed system -- and do
+it in a way that there is an incentive to do it this way,
+and abandon consumer production models.
+
+When we go to mars we can not use the model we are using today.
