@@ -121,6 +121,12 @@ And that won't happen until there is a different R&D model
 for drugs to be developed.  Market demand is a poor way of
 developing drugs.
 
+And none of this will happen until we rethink how drug
+trials and approvals take place.  Drug trials need to become
+distributed as well -- and this is only possible if the
+observation, testing and information gathering that is part
+of it becomes distributed.
+
 
 * MRI
 
