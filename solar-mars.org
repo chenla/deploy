@@ -20,6 +20,20 @@
 
 #+TOC: headlines 4
 
+#+begin_quote
+“ Designing protocols that work across vast distances like planets
+makes it possible for people around the Earth that are in distant
+areas far away from the data center to connect as easily and nicely as
+people in the nice vast cities like this one. This is what we call the
+interplanetary principle. Design things for planets — planetary
+scale — and you will do very well on Earth.”
+
+-- Juan Benet
+#+end_quote
+
+
+
+
 * Introduction
 
  - [[http://caseyexaustralia.blogspot.com/2017/05/a-roadmap-to-industrially-self.html?m=1][A roadmap to an industrially self-sufficient Mars base in the minimum time]]
