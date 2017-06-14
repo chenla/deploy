@@ -74,6 +74,39 @@ Eventually, surgery will be completely replaced by robots -- robots
 will be far better and cheaper than people ever could be.  Robotic
 surgeries could even be mobile 
 
+
+----
+
+The healthcare industry is made up of:
+
+  - people - lot's and lot's of people
+  - physical places -- clinics, shops, hospitals etc
+  - physical equipment
+  - chemicals
+  - pharmaceuticals
+  - training 
+  - insurance
+  - payments
+  - research
+  - publication
+
+People likely make up most of the costs -- and because
+medicine is so specialized, there is an enormous amount of
+duplicated effort -- doctors, nurses, and techs are required
+at every level -- you deal with one at a clinuc, then
+another group at a hospital, and another at a specialists
+office.
+
+It would be better to have have care givers and nurses that
+provide all care, and then just swap in expertise when it is
+needed -- so the patient stays and is cared for near or at
+home, and telemedicine is used to bring in specialists
+remotely, and automated systems bring in specialized
+equipment that will be operated locally or remotely.
+
+
+
+
 * MRI
 
  - [[http://www.opensourceimaging.org/][Open Source Imaging]] 
