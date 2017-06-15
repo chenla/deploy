@@ -92,7 +92,30 @@ no matter how comforting it may be.  Some of the aspects of
 polytheism have hung on in all monothesistic belief systems
 in the form of Saints, Angels and Demons.
 
-
+Decentralized is when there are multiple centralized
+networks, with each sub network pointing to a single node.
+Decentralization is only slightly better than centralized
+systems, because failure of any one sub net results in a
+large number of dependent local nodes being cut off.  So
+instead of a monopoly you get a duopoly or more.
+Decentralized systems are more difficult to maintain than
+centralized systems becuase each subnet has to be kept
+consistent with the other subnets.  This is how civilization
+has worked from the very beginning.  Until late last
+century, there were always multiple civilizations on the
+planet.  Each was a centralized system in its own right. But
+becuase each civilization was largely isolated from the
+others they could not provide the stability of a slower
+layer that worked across all civilizations -- so when
+cataclysms happened, the local effect was existential, but
+typically didn't have much impact on other civilizations.
+And after the collapse of a civilization, there was a vacuum
+that other civilization would eventually fill.  This is
+exactly when happened in North America when small pox killed
+some 90% of the population on the continent.  After the
+collapse, European civilizations moved in an established
+themselves, and never allowed the survivors to rebuild their
+civilizations.
 
 
 *** 
