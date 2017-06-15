@@ -229,10 +229,30 @@ I thought I was writing about, which was to write
 serializations which are easy for people to read.
 #+end_comment
 
+This is a starting point -- but there are many layers of
+gray -- some programing languages and serializations are
+more legible than others.  It's important that when we
+create legible systems that they are are as widely legible
+to as many people as possible.  This will always be a
+tradeoff.
+
+But it's an important point.  No one disputes how powerful
+Perl is, but Perl scripts have a tendency towards
+illegibility.  So that even the person who has written a
+script may not understand their own code a few months after
+they had written it.
+
+HTML was originally designed to be a human readable markup
+language.  But HTML, and later, XML was extended so much,
+and element names became so verbose that the markup
+overwhelmed what was being marked up so that the documents
+had become largely illegible.
+
+
+*** homoiconographic
 
 
 *** 
-  - homoiconographic
   - gracefully degrade
   - standardized parts
   - modular (as in unix pipes)
