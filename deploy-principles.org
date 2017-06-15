@@ -221,7 +221,13 @@ responsible for the innovation, then human legibility should
 be a seen not just as a universal good, but enshrined as a
 fundamental human right.
 
-
+#+begin_comment
+I didn't think this is where I would end up when I started
+writing about human readability -- I hadn't realized that
+you can't separate legibility as a universal right from what
+I thought I was writing about, which was to write
+serializations which are easy for people to read.
+#+end_comment
 
 
 
