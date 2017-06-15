@@ -117,6 +117,29 @@ collapse, European civilizations moved in an established
 themselves, and never allowed the survivors to rebuild their
 civilizations.
 
+This is good and bad -- it's good that those other
+civilizations existed to rebuild, but the loss of those
+civilizations and most of the knowledge and advances
+that they had made were lost forever.  And for a significant
+part of the species, the collapse was indeed existential.
+
+Distributed is where every node can connect to any other
+node and the knowledge is duplicated and distributed
+throughout all nodes.  There is no single point of failure.
+So even if a large part of the network is destroyed, the
+rest of the network will continue on with little effect.
+The network then only has to start rebuilding nodes to
+restore the network that was there before.  It won't be
+exactly the same network, but the loss is not existential.
+
+The problem with distributed is that it is very different to
+keep all nodes in sync with each other -- and at any given
+time N number of nodes will not be in sync with each other.
+This introduces errors which need to be identified and
+corrected.  This is difficult to say the least.  But the
+benifits are substantial.
+
+
 
 *** 
   - human readable
