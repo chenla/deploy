@@ -28,7 +28,53 @@ This file may not belong in deploy....
 Principles are sort of cardinal patterns
 
 ** Design
-  - distributed
+
+*** Distributed
+
+Centralized is when all nodes point back to a single parent
+node.  All roads lead to Rome.
+
+It should be pointed out that there are no centralized
+systems in nature, and even when systems in nature depend on
+a single point of failure -- that will become one of the
+most important causes of failure.  The heart is a good example.
+
+Centralized systems are the easiest way to do things because
+you only have to maintain a single set of things.  It's easy
+to keep consistent and there is no problem with propagation.
+Change something once, it's changed everywhere.  It's no
+surprise that centralized systems are favored by those who
+prize absolute control.  Ideologies are centralized, they
+maintain a single set of facts and beliefs that everyone
+must follow.  The same applies to monotheism -- if there is
+only a single all powerful god, and that god is believed to
+be absolutely good, then how to reconcile pain, suffering,
+injustice and other evils in the world.  All sorts of
+explanations abound in every monotheistic belief system, and
+all of them strain credibility.  So by and large the
+contradictions and paradoxes that emerge from monotheistic
+belief systems are usually not thought about too much,
+because when they are, bad things tend to happen and they
+are used to justify some really terrible behavior.  The
+chiristian concept of original sin has been used to demean
+and repress women in more ways than could every be
+documented.  But for original sin to work, the concept that
+bad deeds are passed on, like genes from one generation to
+another.  This is a wide spread belief throughout human
+history.  The sins of the father are passed on to become the
+sins of the son.  This is in direct contradiction with the
+whole Christian belief that man was given free will.  Free
+will means that everyone starts with a clean slate and it is
+up to them to do good or bad.  It's never explained how the
+sins of Adam and Eve are a curse on all descendents of Adam
+and Even, which is everyone.  No one has a clean slate, and
+so there are limits to free will - it is not absolute.  The
+ancient Greeks would have had no problem with this --
+because of their belief in fate -- what happens to us is
+determined by outside forces we have no direct means of
+knowing about.
+
+*** 
   - human readable
   - homoiconographic
   - gracefully degrade
