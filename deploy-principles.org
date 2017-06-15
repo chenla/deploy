@@ -171,8 +171,61 @@ our definition of dna based electro-chemical life is an
 extension of everything that has happened since the big bang
 -- the evolution of the universe made life possible.
 
-***  
-  - human readable
+***  human readable
+
+Computation reduces everything to binary yes and no, one and
+off, one or zero.  This is all a computer understands.  It
+is possible to write programs this way, using only strings
+of ones and zeros, but this quickly becomes so complex that
+it is not possible for our brains to be able to keep track
+of what is going on.  So we created higher-level laguages
+that we can understand, which are then compiled (converted)
+into ones and zeros that the processor understands.  The
+converted programs of ones and zeros are called, not
+surprisingly, binaries.  They are not human readable, or
+understandable.  Put another way -- binary is not human
+legible in any practical way, even though is it is machine
+legible.  Conversely, the world we live in, and the level of
+abstraction that humans operate at, is not machine legible
+or understandable.
+
+Sadly, almost from the beginning, many people try to
+restrict human legibility in order to maintain power and an
+advantage over other people.  Microsoft doesn't let their
+customers see the legible version of their products, they
+only provide illegible versions in the form of executable
+binaries that people can run, but not see or understand how
+they work.  It also means that no one can fix or improve
+Microsoft products unless they are working for Microsoft.
+
+This is a really, astonishingly short sighted and stupid
+thing to do, as all power grabs do.  Keeping any innovation
+secret benifits a small group of people for a short time,
+but eventually causes more harm than good, and the end
+result is that it slows innovation and hurts everone,
+including those keeping things secret because they can not
+benifit from everyone being able to fix problems and making
+improvements.
+
+Richard Stallman has spent his life trying to get people to
+understand that this is a very clear and serious moral
+issue.  Not allowing everyone access to legible versions of
+innovations and the freedom to fix and improve them is
+immoral and that anyone who does so is hurting everyone
+else.
+
+If you understand that antifragile distributed systems are
+the most powerful and benificial thing you can make, and
+that everyone benifits from such systems including those
+responsible for the innovation, then human legibility should
+be a seen not just as a universal good, but enshrined as a
+fundamental human right.
+
+
+
+
+
+*** 
   - homoiconographic
   - gracefully degrade
   - standardized parts
