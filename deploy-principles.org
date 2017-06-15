@@ -144,9 +144,22 @@ consistency needs to be maintained through consensus.  And
 everyone knows consensus is hard.  The danger is that nodes
 or groups of nodes will fall so far out of sync with the
 rest of the network that they end up breaking away from the
-network to become a separate network, which defeat the whole
-point of a distributed system.
+network to become a separate network, which defeats the whole
+point of a distributed system.  Nature is made of a hodge
+podge of centralized, decentralized and distributed systems,
+some evolve to be stronger, others collapse and are replaced
+by others.
 
+The most desirable distributed system is an antifragile
+system, which I suppose can be thought of as a healthy
+distributed network, that responds to failures of individual
+nodes and parts of the the network by learning from those
+failures and becoming stronger -- and fixing those
+weaknesses.  Weak and failed nodes, therefore actually make
+the network stronger.  This requires a strong feedback
+system and the ability for nodes to fix themselves and the
+more more sucessful improvements then propagating throughout
+the entire network, making it stronger than it was before.
 
 
 
