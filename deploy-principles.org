@@ -139,6 +139,15 @@ This introduces errors which need to be identified and
 corrected.  This is difficult to say the least.  But the
 benifits are substantial.
 
+In distributed systems there is no one in charge, so
+consistency needs to be maintained through consensus.  And
+everyone knows consensus is hard.  The danger is that nodes
+or groups of nodes will fall so far out of sync with the
+rest of the network that they end up breaking away from the
+network to become a separate network, which defeat the whole
+point of a distributed system.
+
+
 
 
 *** 
