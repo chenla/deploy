@@ -158,12 +158,20 @@ failures and becoming stronger -- and fixing those
 weaknesses.  Weak and failed nodes, therefore actually make
 the network stronger.  This requires a strong feedback
 system and the ability for nodes to fix themselves and the
-more more sucessful improvements then propagating throughout
+more more sucessful improvements propagating throughout
 the entire network, making it stronger than it was before.
 
+In a sense, this is what Life does through evolution.
+Though the mechanism is messy and far from linear it is
+clear that DNA is an antifragile system that uses randomness
+to improve itself and become more robust.  This requires
+time scales that are non-trivial timescales that are
+significant parts of the age of the universe.  But, in fact,
+our definition of dna based electro-chemical life is an
+extension of everything that has happened since the big bang
+-- the evolution of the universe made life possible.
 
-
-*** 
+***  
   - human readable
   - homoiconographic
   - gracefully degrade
