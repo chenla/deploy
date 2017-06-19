@@ -1,7 +1,7 @@
 * Chenla Deploy
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-blue.svg?style=flat-square]] 
-[[https://img.shields.io/badge/category-deploy-882789.svg?style=flat-square]]
+[[https://img.shields.io/badge/category-deploy-0000FF.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-orange.svg?style=flat-square]]
 
 At the moment, Deploy is a catchall for work on anything that could
@@ -29,7 +29,7 @@ right, or the foundation for various types of rabbitholes.
   -- Stub; placeholder
 - [[https://img.shields.io/badge/status-wip-orange.svg?style=flat-square]]
   -- Work-in-Progress
-- [[https://img.shields.io/badge/status-draft-yellow.svg?style=flat-square]] -- Draft
+- [[https://img.shields.io/badge/status-draft-FFFF00.svg?style=flat-square]] -- Draft
 - [[https://img.shields.io/badge/status-rfc-brightgreen.svg?style=flat-square]]
   -- Request for Feedback and Comments
 - [[https://img.shields.io/badge/status-release-blue.svg?style=flat-square]] -- Published Release
