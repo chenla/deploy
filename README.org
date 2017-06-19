@@ -21,7 +21,18 @@ right, or the foundation for various types of rabbitholes.
 - [[https://img.shields.io/badge/category-deploy-0000FF.svg?style=flat-square]]
   -- Things that in principle can be built and deployed
 - [[https://img.shields.io/badge/category-project-990000.svg?style=flat-square]]
-  -- Projects that build and deploy
+  -- Projects build and deploy things
+
+** Entity Types
+
+- [[https://img.shields.io/badge/entity-tl;dr-blue.svg?style=flat-square]] -- tl;dr
+- [[https://img.shields.io/badge/entity-pattern-blue.svg?style=flat-square]]  -- pattern
+- [[https://img.shields.io/badge/entity-place-blue.svg?style=flat-square]]  -- place
+- [[https://img.shields.io/badge/entity-event-blue.svg?style=flat-square]]  -- event
+- [[https://img.shields.io/badge/entity-person-blue.svg?style=flat-square]]  -- person
+- [[https://img.shields.io/badge/entity-concept-blue.svg?style=flat-square]]  -- concept
+- [[https://img.shields.io/badge/entity-material-blue.svg?style=flat-square]]  -- material
+- [[https://img.shields.io/badge/entity-blob-blue.svg?style=flat-square]]  -- blob
 
 ** Status
 
