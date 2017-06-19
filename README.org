@@ -2,7 +2,7 @@
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-blue.svg?style=flat-square]] 
 [[https://img.shields.io/badge/category-deploy-0000FF.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 At the moment, Deploy is a catchall for work on anything that could
 potentially be built and deployed in the real world, as opposed to
