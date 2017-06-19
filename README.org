@@ -16,8 +16,7 @@ right, or the foundation for various types of rabbitholes.
 * We use the following tag system:
 
 ** Category
--
-  [[https://img.shields.io/badge/category-primer-882789.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-primer-882789.svg?style=flat-square]]
   -- theory, history, background
 - [[https://img.shields.io/badge/category-deploy-882789.svg?style=flat-square]]
   -- things that potentially can be built and deployed
