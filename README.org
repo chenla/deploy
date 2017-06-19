@@ -11,7 +11,7 @@ theory, or projects.  Projects are what gets built.
 Some of these will become projects in their own
 right, or the foundation for various types of rabbitholes.  
 
-* 
+
 
 * We use the following tag system:
 
