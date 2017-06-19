@@ -2,7 +2,7 @@
 
 ** We use the following tag system:
 
-- [[https://img.shields.io/badge/status-wip-ff69b4.svg?style=flat-square]] Stub; placeholder
+- [[https://img.shields.io/badge/status-stub-ff69b4.svg?style=flat-square]] Stub; placeholder
 - [[https://img.shields.io/badge/status-wip-orange.svg?style=flat-square]] Work-in-Progress
 - [[https://img.shields.io/badge/status-draft-yellow.svg?style=flat-square]] Draft
 - [[https://img.shields.io/badge/status-rfc-green.svg?style=flat-square]] Request for Comments
