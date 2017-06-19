@@ -149,4 +149,11 @@ shit.
 
 Musk's goal is to build up a permanent population on Mars of one
 million people over 40-100 years.  This will require 10,000 trips
-carrying 100 people each. 
+carrying 100 people each.
+
+*** Notes for page 13
+:PROPERTIES:
+:interleave_page_note: 13
+:END:
+
+More notes
