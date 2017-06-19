@@ -17,11 +17,11 @@ right, or the foundation for various types of rabbitholes.
 
 ** Category
 - [[https://img.shields.io/badge/category-primer-882789.svg?style=flat-square]]
-  -- theory, history, background
+  -- Descriptive, prescripive, theory, history, background
 - [[https://img.shields.io/badge/category-deploy-882789.svg?style=flat-square]]
-  -- things that potentially can be built and deployed
+  -- Things that in principle can be built and deployed
 - [[https://img.shields.io/badge/category-project-882789.svg?style=flat-square]]
-  -- projects that build and deploy
+  -- Projects that build and deploy
 
 ** Status
 
@@ -30,6 +30,6 @@ right, or the foundation for various types of rabbitholes.
 - [[https://img.shields.io/badge/status-wip-orange.svg?style=flat-square]]
   -- Work-in-Progress
 - [[https://img.shields.io/badge/status-draft-yellow.svg?style=flat-square]] -- Draft
-- [[https://img.shields.io/badge/status-rfc-green.svg?style=flat-square]]
-  -- Request for Comments
+- [[https://img.shields.io/badge/status-rfc-brightgreen.svg?style=flat-square]]
+  -- Request for Feedback and Comments
 - [[https://img.shields.io/badge/status-release-blue.svg?style=flat-square]] -- Published Release
