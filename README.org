@@ -1,5 +1,9 @@
 * Chenla Deploy
 
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-blue.svg?style=flat-square]] 
+[[https://img.shields.io/badge/project-deploy-blue.svg?style=flat-square]]
+
+
 ** We use the following tag system:
 
 - [[https://img.shields.io/badge/status-stub-ff69b4.svg?style=flat-square]] Stub; placeholder
