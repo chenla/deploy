@@ -16,11 +16,11 @@ right, or the foundation for various types of rabbitholes.
 * We use the following tag system:
 
 ** Category
-- [[https://img.shields.io/badge/category-primer-882789.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-primer-CC79A7.svg?style=flat-square]]
   -- Descriptive, prescripive, theory, history, background
-- [[https://img.shields.io/badge/category-deploy-0000FF.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-deploy-56B4E9.svg?style=flat-square]]
   -- Things that in principle can be built and deployed
-- [[https://img.shields.io/badge/category-project-990000.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-project-CC79A7.svg?style=flat-square]]
   -- Projects build and deploy things
 
 ** Entity Types
@@ -36,11 +36,11 @@ right, or the foundation for various types of rabbitholes.
 
 ** Status
 
-- [[https://img.shields.io/badge/status-stub-ff69b4.svg?style=flat-square]]
+- [[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
   -- Stub; placeholder
-- [[https://img.shields.io/badge/status-wip-orange.svg?style=flat-square]]
+- [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
   -- Work-in-Progress
-- [[https://img.shields.io/badge/status-draft-yellow.svg?style=flat-square]] -- Draft
-- [[https://img.shields.io/badge/status-rfc-brightgreen.svg?style=flat-square]]
+- [[https://img.shields.io/badge/status-draft-F0E442.svg?style=flat-square]] -- Draft
+- [[https://img.shields.io/badge/status-rfc-009E73.svg?style=flat-square]]
   -- Request for Feedback and Comments
-- [[https://img.shields.io/badge/status-release-blue.svg?style=flat-square]] -- Published Release
+- [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]] -- Published Release
