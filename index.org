@@ -13,18 +13,18 @@
 #+INCLUDE: ./inc/macros.org
 #+INCLUDE: ./inc/links.org
 
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]] 
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * About these pages
 
-#+begin_quote
 Deploy is basically taking all the work in the prolog,
 primer, bmf and the hoard; then config, build and deploy to
 create a functioning distributed technological society.
@@ -44,12 +44,6 @@ Files have different prefixes:
 
 We may have to split these up into different repos, but I
 still don't know how all of this will shape up.  Time will tell.
-#+end_quote
-
-* Recent Activity
-
-Recent change activity can be found at http://github.com/chenla/deploy
-
 
 * Table of Contents
 
