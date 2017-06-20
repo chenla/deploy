@@ -43,4 +43,4 @@ right, or the foundation for various types of rabbitholes.
 - [[https://img.shields.io/badge/status-draft-E69F00.svg?style=flat-square]] -- Draft
 - [[https://img.shields.io/badge/status-rfc-009E73.svg?style=flat-square]]
   -- Request for Feedback and Comments
-- [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]] -- Published Release
+- [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]] -- Published/Released
