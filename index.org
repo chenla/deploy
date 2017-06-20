@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Deploy
+#+TITLE: Deploy | Table of Contents
 #+STARTUP: showall
 #+PROPERTY: filename 
 #+INCLUDE: ./inc/head.org
@@ -15,10 +15,9 @@
 
 #+TOC: headlines 4
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]] 
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
+[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -36,11 +35,11 @@ and are useful.
 
 Files have different prefixes:
 
-  - deploy :: general concepts & design
-  - shop   :: specific shop
-  - guild  :: specific guild
-  - lab    :: b>i laboratories
-  - solar  :: planets for man
+  - *deploy* : general concepts & design
+  - *shop*   : specific shop
+  - *guild*  : specific guild
+  - *lab*    : b>i laboratories
+  - *solar*  : planets for man
 
 We may have to split these up into different repos, but I
 still don't know how all of this will shape up.  Time will tell.
