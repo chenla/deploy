@@ -1,7 +1,7 @@
 * Chenla Deploy
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-0072B2.svg?style=flat-square]] 
-[[https://img.shields.io/badge/category-deploy-0000FF.svg?style=flat-square]]
+[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 At the moment, Deploy is a catchall for work on anything that could
@@ -16,11 +16,11 @@ right, or the foundation for various types of rabbitholes.
 * We use the following tag system:
 
 ** Category
-- [[https://img.shields.io/badge/category-primer-CC79A7.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-primer-0072B2.svg?style=flat-square]]
   -- Descriptive, prescripive, theory, history, background
-- [[https://img.shields.io/badge/category-deploy-56B4E9.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
   -- Things that in principle can be built and deployed
-- [[https://img.shields.io/badge/category-project-CC79A7.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-project-0072B2.svg?style=flat-square]]
   -- Projects build and deploy things
 
 ** Entity Types
