@@ -13,34 +13,3 @@ right, or the foundation for various types of rabbitholes.
 
 
 
-* We use the following tag system:
-
-** Category
-- [[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]]
-  -- Descriptive, prescripive, theory, history, background
-- [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
-  -- Things that in principle can be built and deployed
-- [[https://img.shields.io/badge/category-project-D55E00.svg?style=flat-square]]
-  -- Projects build and deploy things
-
-** Entity Types
-
-- [[https://img.shields.io/badge/entity-tl;dr-0072B2.svg?style=flat-square]] -- tl;dr
-- [[https://img.shields.io/badge/entity-pattern-0072B2.svg?style=flat-square]]  -- pattern
-- [[https://img.shields.io/badge/entity-place-0072B2.svg?style=flat-square]]  -- place
-- [[https://img.shields.io/badge/entity-event-0072B2.svg?style=flat-square]]  -- event
-- [[https://img.shields.io/badge/entity-person-0072B2.svg?style=flat-square]]  -- person
-- [[https://img.shields.io/badge/entity-concept-0072B2.svg?style=flat-square]]  -- concept
-- [[https://img.shields.io/badge/entity-material-0072B2.svg?style=flat-square]]  -- material
-- [[https://img.shields.io/badge/entity-blob-0072B2.svg?style=flat-square]]  -- blob
-
-** Status
-
-- [[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
-  -- Stub; placeholder
-- [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-  -- Work-in-Progress
-- [[https://img.shields.io/badge/status-draft-E69F00.svg?style=flat-square]] -- Draft
-- [[https://img.shields.io/badge/status-rfc-009E73.svg?style=flat-square]]
-  -- Request for Feedback and Comments
-- [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]] -- Published/Released
