@@ -20,7 +20,7 @@ right, or the foundation for various types of rabbitholes.
   -- Descriptive, prescripive, theory, history, background
 - [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
   -- Things that in principle can be built and deployed
-- [[https://img.shields.io/badge/category-project-CC79A7.svg?style=flat-square]]
+- [[https://img.shields.io/badge/category-project-D55E00.svg?style=flat-square]]
   -- Projects build and deploy things
 
 ** Entity Types
@@ -40,7 +40,7 @@ right, or the foundation for various types of rabbitholes.
   -- Stub; placeholder
 - [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
   -- Work-in-Progress
-- [[https://img.shields.io/badge/status-draft-F0E442.svg?style=flat-square]] -- Draft
+- [[https://img.shields.io/badge/status-draft-E69F00.svg?style=flat-square]] -- Draft
 - [[https://img.shields.io/badge/status-rfc-009E73.svg?style=flat-square]]
   -- Request for Feedback and Comments
 - [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]] -- Published Release
