@@ -1,6 +1,6 @@
 * Chenla Deploy
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-blue.svg?style=flat-square]] 
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-0072B2.svg?style=flat-square]] 
 [[https://img.shields.io/badge/category-deploy-0000FF.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -25,14 +25,14 @@ right, or the foundation for various types of rabbitholes.
 
 ** Entity Types
 
-- [[https://img.shields.io/badge/entity-tl;dr-blue.svg?style=flat-square]] -- tl;dr
-- [[https://img.shields.io/badge/entity-pattern-blue.svg?style=flat-square]]  -- pattern
-- [[https://img.shields.io/badge/entity-place-blue.svg?style=flat-square]]  -- place
-- [[https://img.shields.io/badge/entity-event-blue.svg?style=flat-square]]  -- event
-- [[https://img.shields.io/badge/entity-person-blue.svg?style=flat-square]]  -- person
-- [[https://img.shields.io/badge/entity-concept-blue.svg?style=flat-square]]  -- concept
-- [[https://img.shields.io/badge/entity-material-blue.svg?style=flat-square]]  -- material
-- [[https://img.shields.io/badge/entity-blob-blue.svg?style=flat-square]]  -- blob
+- [[https://img.shields.io/badge/entity-tl;dr-0072B2.svg?style=flat-square]] -- tl;dr
+- [[https://img.shields.io/badge/entity-pattern-0072B2.svg?style=flat-square]]  -- pattern
+- [[https://img.shields.io/badge/entity-place-0072B2.svg?style=flat-square]]  -- place
+- [[https://img.shields.io/badge/entity-event-0072B2.svg?style=flat-square]]  -- event
+- [[https://img.shields.io/badge/entity-person-0072B2.svg?style=flat-square]]  -- person
+- [[https://img.shields.io/badge/entity-concept-0072B2.svg?style=flat-square]]  -- concept
+- [[https://img.shields.io/badge/entity-material-0072B2.svg?style=flat-square]]  -- material
+- [[https://img.shields.io/badge/entity-blob-0072B2.svg?style=flat-square]]  -- blob
 
 ** Status
 
