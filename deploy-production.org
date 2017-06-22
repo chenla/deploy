@@ -233,3 +233,72 @@ it in a way that there is an incentive to do it this way,
 and abandon consumer production models.
 
 When we go to mars we can not use the model we are using today.
+
+* Multiplying Workers
+
+
+#+begin_quote
+The plant, a two-hour drive southwest of Vienna, will need
+just 14 employees to make 500,000 tons of robust steel wire
+a year—vs. as many as 1,000 in a mill with similar capacity
+built in the 1960s. Inside the facility, red-hot metal
+snakes its way along a 700-meter (2,297-foot) production
+line. Yet the floors are spotless, the only noise is a
+gentle hum that wouldn’t overwhelm a quiet conversation, and
+most of the time the place is deserted except for three
+technicians who sit high above the line, monitoring output
+on a bank of flatscreens.
+
+....
+
+Alongside a small creek on the valley floor, the €100
+million ($111 million) plant turns 3-ton beams of steel
+forged in Voestalpine’s blast furnaces next door into thick
+wire used to make components such as shock absorbers and
+piston cases in BMW, Mercedes-Benz, and Audi factories
+across the border in Germany. While about 300 other workers
+in Donawitz carry out support roles such as shipping
+logistics and running the internal rail system, the rolling
+mill itself will be operated by just over a dozen people.
+
+-- [[https://www.bloomberg.com/news/articles/2017-06-21/how-just-14-people-make-500-000-tons-of-steel-a-year-in-austria][How Just 14 People Make 500,000 Tons of Steel a Year in
+   Austria]] | Bloomberg
+#+end_quote
+
+Many of those support roles can eventually be automated as
+well, as a lot of the front office work will become part of
+the network. The article talks about plans to fully automate
+another plant that has 2,500 workers.
+
+Heavy industry is where traditional industrial techniques
+that have been automated will become the norm.
+
+The same will happen with any kind of industrial system --
+but they will be making mass production products sold
+through channels like Walmart and Amazon.  Cookie cutter
+disposable goods.
+
+What is needed is to take this kind of automation and apply
+it to small scale production, so that production, supply and
+logistitcs become distributed.
+
+Steel will likely never be cost effective at small scales --
+so the system will be a mix of large and small production.
+
+There is production of materials like steel and then there
+are machines that produce machines which then make consumer
+goods.
+
+
+We can't take away the means of production of material life
+out of people's hands.  We are tool makers -- when we are
+not making tools, and using them, we start to fall apart.  A
+life of leisure is not for us, we get fat, lazy and fighting
+amongst ourselves.  We need to shape our own world -- it is
+not a matter of work, or even survival, it is how we make
+sense of the world around us and find where we fit into it.
+Work is purpose -- work without purpose is a waste of a life
+just as a life with no work or purpose is just as worthless,
+no matter how much money you have.
+
+
