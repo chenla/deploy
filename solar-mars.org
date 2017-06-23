@@ -1,10 +1,10 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: 
+#+TITLE: Mars Notes (expression)
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :CUSTOM_ID: 
+  :CUSTOM_ID: Mars_Notes_(expr)
   :Name:      /home/deerpig/proj/chenla/deploy/solar-mars.org
   :Created:   2017-04-01T09:28@Prek Leap (11.642600N-104.919210W)
   :ID:        44c96d1e-d1be-432d-8068-efa5040e5094
@@ -12,14 +12,23 @@
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:DEQ2-0170
   :Class:     deploy
-  :Type:      work
-  :Status:    stub wip 
+  :Type:      expression
+  :Status:    wip 
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+  :TREE:
+  :UF:
+  :BTI+:
+  :BTP:   [[hord:LBR3-3530][Mars_Notes_(work)]]
+  :RT:
+  :END:
+
+
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-expresssion-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
