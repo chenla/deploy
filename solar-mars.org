@@ -31,7 +31,6 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
 * Introduction
 
 #+begin_quote
@@ -58,41 +57,48 @@ where Musk's first stage finishes and he is now ferrying hundreds of
 thousands of people to the planet.
 
 #+BEGIN_QUOTE
-  In many ways, the transportation problem of getting us to Mars, over
-  the long term is the smallest problem that we will be facting.
-  Transplanting civilization to Mars will not be a matter of setting
-  up quonset huts with hydroponic farms with people in bubble helmeted
-  suits riding in dune buggies off the cover of Amazing Stories or an
-  inspiring Robert McCall mural on the wall of the Air and Space
+  In many ways, the transportation problem of getting us to
+  Mars, over the long term is the smallest problem that we
+  will be facing.  Transplanting civilization to Mars will
+  not be a matter of setting up quonset huts with hydroponic
+  farms with people in bubble helmeted suits riding in dune
+  buggies off the cover of Amazing Stories or an inspiring
+  Robert McCall mural on the wall of the Air and Space
   Museum on the Washington Mall.
 
-  These are visions of exploration and technology, they embody the
-  bold confident optimisim of Apollo program.  But ultimately they are
-  visions of research stations.  It's what you have at McMurdy
-  Station in Antarctica.  And ultimately it's a thoroughly depressing
-  vision if you starting thinking about living in these paintings over
-  years and decades.  It doesn't age well, it's existence, not life.
+  These are visions of exploration and technology, they
+  embody the bold confident optimisim of the Apollo program.
+  But ultimately they are visions of research stations.
+  It's what you have at McMurdy Station in Antarctica.  And
+  ultimately it's a thoroughly depressing vision if you
+  start thinking about living in these paintings over years
+  and decades.  It doesn't age well, it's existence, not
+  life.
 
   We need to start thinking in terms of building a permanent
-  civilization on Mars, a home, albeit very different from Earth, but
-  still a place that you would want to live.  For that we need to be
-  thinking as architects, and communities planners.
+  civilization on Mars, a home, albeit very different from
+  Earth, but still a place that you would want to live.  For
+  that we need to be thinking as architects, and community
+  planners.
 
-  It will need to be able to cut the cord with Earth, as soon as
-  possible if not sooner.  That will mean not only building computer
-  chips, but sourcing and refining the silica.  It won't only be
-  building systems that produce breathable air, potable water and
-  sewage, but public utilities that are paid for by something like a
-  tax system.
+  It will need to be able to cut the cord with Earth, as
+  soon as possible if not sooner.  That will mean not only
+  building computer chips, but sourcing and refining the
+  silica.  It won't only be building systems that produce
+  breathable air, potable water and sewage, but public
+  utilities that are paid for by something like a tax
+  system.
 
-  We don't need to transplant the "American way of life" or any other
-  such nonsense.  Rather we need to provide the initial conditions for
-  an open economy, with commerce, manufacturing and a government to
-  emerge as the colony becomes a community.  We have to encourage
-  local businesses and startups not just work for the inevitable
-  multinationals from the home world who will sponsor many parts of
-  the early stages and inevitably pump large amounts of money to stake
-  out large corporate claims on the planet.
+  We don't need to transplant the "American way of life" or
+  any other such nonsense.  Rather we need to provide the
+  initial conditions for an open economy, with commerce,
+  manufacturing and a government to emerge as the colony
+  becomes a community.  We have to encourage local
+  businesses and startups not just work for the inevitable
+  multinationals from the home world who will sponsor many
+  parts of the early stages and inevitably pump large
+  amounts of money to stake out large corporate claims on
+  the planet.
 
   - I lost the reference to this quote...
 #+END_QUOTE
