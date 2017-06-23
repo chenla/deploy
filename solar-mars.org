@@ -195,6 +195,9 @@ More notes
  - everything else is a fabric of cottage industry that
    leverages ai and robotics to massively multiply
    production
+ - we'll be living inside terrariums -- which are
+   vulnerable to disease -- can not put everything in one
+   basket...
 ** It will only work on mars if it works on earth
  - 80% of what you do on mars is no different on earth, just
    in extreme cold and indoors and largely underground.
@@ -230,16 +233,18 @@ More notes
 ** getting good at living inside
  - we're going to be stuck inside for hundreds of years so
    we better get really really good at it.
+ - we have to get really really good at tunneling
 ** stage everything in antarctica
- - if it can't work there is won't work on mars
+ - if it can't work there it won't work on mars -- not only
+   materially sustainable, but economically.
  - fail fast and often 
- - everyone going to mars must first do it in antarctica for
-   anywhere from 6 months to 2 years -- assimilation starts
-   there.
+ - everyone going to mars must first be done in antarctica
+   for anywhere from 6 months to 2 years -- assimilation
+   starts there.
  - includes all fuel production, growing food, making
    atmosphere, medicine, electronics, heavy industry etc.
-
-** start building solar civilization production & supply chains
+** Education comes first and last
+** don't wait to start building solar civilization
  - mars is not an end, it is a gateway to the solar system
  - build heavy industry in asteroid belt
  - get good at moving big rocks and ice
