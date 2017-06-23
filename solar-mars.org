@@ -1,24 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE:  Mars
+#+TITLE: 
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/deploy/solar-mars.org
-  :Created: 2017-04-01T09:28@Prek Leap (11.642600N-104.919210W)
-  :ID: 44c96d1e-d1be-432d-8068-efa5040e5094
-  :URL:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/deploy/solar-mars.org
+  :Created:   2017-04-01T09:28@Prek Leap (11.642600N-104.919210W)
+  :ID:        44c96d1e-d1be-432d-8068-efa5040e5094
+  :VER:       551458557.325193986
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:DEQ2-0170
+  :Class:     deploy
+  :Type:      work
+  :Status:    stub wip 
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
 
-#+TOC: headlines 4
+* Introduction
 
 #+begin_quote
 “ Designing protocols that work across vast distances like planets
