@@ -177,3 +177,73 @@ carrying 100 people each.
 :END:
 
 More notes
+
+* Mars Whitepaper Outline
+
+
+** Four Stages
+
+ - get there, establish base
+ - sustainable settlement
+ - distributed civilization
+ - terraform
+** Civilization is about specialties
+** automation -- ai & robots
+
+** It must be distributed
+ - heavy industry -- 99% automated and even remote
+ - everything else is a fabric of cottage industry that
+   leverages ai and robotics to massively multiply
+   production
+** It will only work on mars if it works on earth
+ - 80% of what you do on mars is no different on earth, just
+   in extreme cold and indoors and largely underground.
+ - build a mars civilization in every backyard on earth
+ - people can start shops and join guilds on earth and then
+   take what they learn and then to do it on mars.
+ - the system will be it's own blockchain based economy,
+   establish crypto-credit unions to save money for the trip
+   and to get established on mars
+** everything is agriculture
+ - growing an atmosphere, not air production
+ - gmo starts from day one
+ - everyone grows stuff, everywhere - no exceptions
+** leave all baggage behind
+ - plant no flags
+ - no earth-based territories or borders
+ - earth corporations must assimilate
+ - you're all martians now -- that's your new identity
+ - assimilate or don't come
+ - no room for national identities
+ - no room for ideologies (social, religious, economic)
+ - no food or clothing ideologies allowed
+ - no splinter settlements (at least in the first million)
+** open designs & knowledge
+ - nothing is proprietary
+ - generative designs and plans
+ - build structures and things that live
+** nothing is disposable
+ - build to last
+ - interchangable modular everything
+ - build to be repairable
+ - gracefully degrade
+** getting good at living inside
+ - we're going to be stuck inside for hundreds of years so
+   we better get really really good at it.
+** stage everything in antarctica
+ - if it can't work there is won't work on mars
+ - fail fast and often 
+ - everyone going to mars must first do it in antarctica for
+   anywhere from 6 months to 2 years -- assimilation starts
+   there.
+ - includes all fuel production, growing food, making
+   atmosphere, medicine, electronics, heavy industry etc.
+
+** start building solar civilization production & supply chains
+ - mars is not an end, it is a gateway to the solar system
+ - build heavy industry in asteroid belt
+ - get good at moving big rocks and ice
+ - process insitu while it's being moved
+ - learn to live in big rocks as well as you do on mars or earth
+
+
