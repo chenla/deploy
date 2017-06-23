@@ -121,22 +121,6 @@ We need to work out how to bring earth with us everywhere we go and we
 simply don't know how to do it.
 
 
-* Facts on the Ground
-
-  #+CAPTION: Source [[http://www.space.com/27202-living-on-mars-conditions-infographic.html][Living on Mars]]
-  [[./img/mars/mars-infographic.jpg]]
-* Fuck the facts!
-
-Actually no, but it felt good to type that...
-
-
-
-The whole thing  about mars is that 95% of what we need to
-do there is little different from what we do there.  It will
-required a lot of specialties and a lot of non-space type
-shit.
-
-
 * Notes
 
 ** Making Humans a Multi-Planetary Species
@@ -209,6 +193,15 @@ More notes
    and to get established on mars
 ** everything is agriculture
  - growing an atmosphere, not air production
+ - monocultures the exception not the rule
+ - building ecosystems, not farms
+ - bugs on mars
+ - grow everything - not just food and air - learn to love
+   grass
+ - animals are not a luxury -- even megafuana -- remember we
+   are backing up earth folks, biodiversity is critical
+ - replicate multiple climates and bioregions in different
+   settlements -- mars is noah's ark with space suits.
  - gmo starts from day one
  - everyone grows stuff, everywhere - no exceptions
 ** leave all baggage behind
