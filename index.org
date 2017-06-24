@@ -1,19 +1,25 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Deploy | Table of Contents
 #+STARTUP: showall
-#+PROPERTY: filename 
-#+INCLUDE: ./inc/head.org
-#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
   :PROPERTIES:
+  :CUSTOM_ID: 
   :Name: /home/deerpig/proj/deerpig/deerpig-install/index.org
   :Created: 2016-08-20T16:40@Wat Phnom (11.5733N17-104.925295W)
-  :ID: 5995dc73-91da-4940-bae1-efb75ce040d4
+  :ID: 5995dc73-91da-4940-bae1-efb75ce040d4 
+  :VER:       551564519.675865969
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:YGQ0-4582
+  :Category:  primer deploy project
+  :Entity:    toc
+  :Status:    stub wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+  :PROPERTIES:
   :URL:
   :END:
-#+INCLUDE: ./inc/macros.org
-#+INCLUDE: ./inc/links.org
 
-#+TOC: headlines 4
+
+* Deploy | Table of Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
@@ -21,8 +27,6 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* About these pages
 
 Deploy is basically taking all the work in the prolog,
 primer, bmf and the hoard; then config, build and deploy to
