@@ -98,7 +98,7 @@ still don't know how all of this will shape up.  Time will tell.
 
  - Energy
  - [[./deploy-ecosystem.org][Ecosystem]]
- - [[./deploy-degrade.org][Gracefully Degradation]]
+ - [[./deploy-degrade.org][Graceful Degradation]]
  - [[./deploy-reproducibility.org][Reproducibility]]
 
  - [[./deploy-preserve.org][Preservation]]
