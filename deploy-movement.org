@@ -6,8 +6,8 @@
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-movement.org
-  :Created: 2017-03-19T10:57@Prek Leap (11.642600N-104.919210W)
-  :ID: 39249880-f014-448f-a57b-54593915d2b2
+  :Created:   2017-03-19T10:57@Prek Leap (11.642600N-104.919210W)
+  :ID:        39249880-f014-448f-a57b-54593915d2b2
   :VER:       551631761.747620136
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:KQP5-8743
