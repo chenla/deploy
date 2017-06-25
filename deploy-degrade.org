@@ -11,9 +11,9 @@
   :VER:       551629661.173259842
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:BTW0-2156
-  :Class:     primer deploy project
-  :Type:      
-  :Status:    stub wip 
+  :Class:     deploy
+  :Type:      work
+  :Status:    wip 
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
