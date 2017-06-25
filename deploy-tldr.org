@@ -1,27 +1,26 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: TL:DR
+#+TITLE: TL;DR
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-tldr.org
   :Created:   2017-06-03T18:26@Prek Leap (11.642600N-104.919210W)
   :ID:        198d96e2-74f3-4c37-a3cd-c113f0c04a90
-  :VER:       549761253.297109630
+  :VER:       551633256.437809834
   :GEO:       48P-491193-1287029-15
-  :BXID:      proj:NAT1-3171
+  :BXID:      proj:DOI6-2280
+  :Class:     deploy
+  :Type:      work
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
 * Quote Page
