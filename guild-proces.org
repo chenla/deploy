@@ -1,3 +1,6 @@
+
+
+
 #   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Process Guilds
 #+STARTUP: showall
@@ -22,7 +25,7 @@
 
 * Introduction
 
-A process guild is automated network that combines, distributes,
+A process guild is an automated network that combines, distributes,
 federates, and automates many aspects of modern palletized,
 containerized supply chains and logistics with the idea of distributed
 cascading production that displaces centralized factory production.
@@ -38,8 +41,8 @@ favoured scale.  Production needed to produce goods that could fill
 pallets and containers to be economical.  This meant farms needed to
 produce a large amount of a few or even a single crop.  Factories
 needed to produce many identical copies of the same item.  This has
-resulted in the mass-market factory goods that define modern
-civilization.
+resulted in the mass-market factory goods that define the
+modern world.
 
 Anything that is custom made must use a far more expensive postal or
 delivery network that is designed for end-users and last-mile
@@ -225,5 +228,170 @@ there could be a different outcome -- a lot of it depends on the
 carrying capacity on the street for coffee shops -- take away
 Starbuck's advantage and perhaps only one of the shops goes out of
 business....
+
+
+* prospectus
+
+A process guild is an automated network that combines,
+distributes, federates, and automates many aspects of modern
+palletized, containerized supply chains and logistics with
+the idea of distributed cascading production that displaces
+centralized factory production.
+
+The system will leverage AI systems to automatically create
+supply and production chains and transportation between each
+step in the chain.  This will eliminate even more middle-men
+from production chains than containerized shipping has done
+over the last 40 years.  Globalization transformed
+production and international trade, but it favoured scale.
+Production needed to produce goods that could fill pallets
+and containers to be economical.
+
+Because today's system only works at scale, a lot of small
+producers have been shut out of the system.  AI and
+automation will change that, making it possible for small
+producers to create local and regional supply and production
+chains that are as efficient locally and at small scales as
+the large companies enjoy today on the global stage.  The
+barrier to joining the network will be little more than
+opening a browser and registering your goods and services on
+the network.  The network will not be owned by anyone, so it
+will work a bit like Alibaba or Amazon, with the network
+taking over most of the functions that Alibaba and Amazon
+now provide.  The customer places and order, and the company
+that get's the order will then use the network to
+automatically set up and coordinate the material and parts
+suppliers, transporation and transaction fees.  So, in a
+sense the system will work at little like bit-torrent, but
+for things.  When you create a torrent it generates a list
+of all the things needed to create a finished product, and
+then connects to the network to source all of those pieces,
+purchase them and get them to the producer who does their
+part of the chain and then the network will pick up and
+deliver to the end user.
+
+The system will be built on top of blockchain technology,
+smart contracts (ethereum), TPFS, a distributed file system
+that breaks up centralized ICT cloud services which are now
+offered by a handful of players and move those services to
+the edge of networks.  Finally, the system will use
+Saltmine, our own semantic storage and AI processing
+platform that provides the missing pieces that aren't
+available in ethereum or IPFS.
+
+
+#+begin_comment
+A process guild is an automated network that combines,
+distributes, federates, and automates many aspects of modern
+palletized, containerized supply chains and logistics with
+the idea of distributed cascading production that displaces
+centralized factory production.
+
+The system will leverage AI systems to automatically create
+supply and production chains and transportation between each
+step in the chain.  This will eliminate even more middle-men
+from production chains than containerized shipping has done
+over the last 40 years.  Globalization transformed
+production and international trade, but it favoured scale.
+Production needed to produce goods that could fill pallets
+and containers to be economical.
+
+Because today's system only works at scale, a lot of small
+producers have been shut out of the system.  AI and
+automation will change that, making it possible for small
+producers to create local and regional supply and production
+chains that are as efficient locally and at small scales as
+the large companies enjoy today on the global stage.  The
+barrier to joining the network will be little more than
+opening a browser and registering your goods and services on
+the network.  The network will not be owned by anyone, so it
+will work a bit like Alibaba or Amazon, with the network
+taking over most of the functions that Alibaba and Amazon
+now provide.  The customer places and order, and the company
+that get's the order will then use the network to
+automatically set up and coordinate the material and parts
+suppliers, transporation and transaction fees.  So, in a
+sense the system will work at little like bit-torrent, but
+for things.  When you create a torrent it generates a list
+of all the things needed to create a finished product, and
+then connects to the network to source all of those pieces,
+purchase them and get them to the producer who does their
+part of the chain and then the network will pick up and
+deliver to the end user.
+
+The system will be built on top of blockchain technology,
+smart contracts (ethereum), TPFS, a distributed file system
+that breaks up centralized ICT cloud services which are now
+offered by a handful of players and move those services to
+the edge of networks.  Finally, the system will use
+Saltmine, our own semantic storage and AI processing
+platform that provides the missing pieces that aren't
+available in ethereum or IPFS.
+
+We intend to establish a seed round crowd-sourced ethereum
+contract that will raise $5-20,000 immediately to get things
+started.  An additional $250,000 will then be raised as part
+of this round to complete work on the proof of concept for
+the network with a small team of programers and engineers.
+In a working demo of the system will be complete in 6-12
+months that will work with real farmers, companies and
+customers in Cambodia to build bamboo furniture for the
+OpenDesk network.  The company will hold a public ICO by the
+end of 2018 to raise $10-50M to build out and launch the
+network regionally and then globally. Funds used will expand
+the network to add as more and more types of production
+chains until the system reaches a tipping point where other
+developers will begin adapting the network for as many
+different types of production chains imaginable.  The coins
+sold in the ICO will become the currency used in all of
+these supply-production chains.
+#+end_comment
+
+** background
+
+The steam revolution that began in the 19th century made
+moving goods across long distances economical and could
+scale.  Before steam (and later diesel and electric) long
+distance transportation was not only slow and expensive, it
+was not reliable.
+
+Palletization and Containerization removed many steps of
+loading and unloading of goods from source to destination.
+It was neccessary to load and uload trucks, train cars,
+planes and ships, by hand.  This not only took a gret deal
+of time, but was messy and resulted in many goods being
+damaged or stolen along the way.
+
+Transportation is now so cheap that it is no longer
+considered to be a factor in the cost of production.
+
+ICT and now the Internet did for moving information, what
+steam had done for goods.  Money (which now is another type
+of information) and communications can move around the world
+freely so that placing an order between London and Guangzhou
+is as easy and fast as placing an order with a company in
+the same city.
+
+But the "global value chain" is not evenly distributed.
+Only seven countries benefited from these changes since
+1990, with production moving from the industrialized G7
+nations to the new "i7".
+
+The system transformed production and international trade,
+but it favoured scale.  Production needed to produce goods
+that could fill pallets and containers to be economical.
+
+A new stage of the ICT revolution is expected to change the
+world as much, if not more than it has since 1990 when the
+"Great Convergence" began.  This will revolve around
+advances in Artificial Intelligence that will accelerate
+automation in practically every aspect of the value-chain as
+well as impact jobs.  AI is already powering robotics that,
+for example replaced a steel mill in Austria that employed
+3,000 workers with only 14 to produce 500,000 tons of steel
+wire a month.
+
+Self driving vehicles will transform ground transportation,
+and almost completely automating it
 
 
