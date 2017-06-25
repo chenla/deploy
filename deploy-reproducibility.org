@@ -1,24 +1,27 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Reproducibility
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/deploy/deploy-reproducibility.org
-  :Created: 2017-04-23T13:31@Prek Leap (11.642600N-104.919210W)
-  :ID: b1aacfaf-0a3c-4f38-8ce7-fcd0a14202d9
-  :URL:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/deploy/deploy-reproducibility.org
+  :Created:   2017-04-23T13:31@Prek Leap (11.642600N-104.919210W)
+  :ID:        b1aacfaf-0a3c-4f38-8ce7-fcd0a14202d9
+  :VER:       551632367.266180973
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:JLR4-8318
+  :Class:     deploy
+  :Type:      work
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
 
 * Introduction
 
