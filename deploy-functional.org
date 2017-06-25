@@ -7,7 +7,7 @@
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-functional.org
   :Created:   2017-06-25T09:33@Prek Leap (11.642600N-104.919210W)
-  :ID: 53a6de96-36da-470e-a054-671125f11746
+  :ID:        53a6de96-36da-470e-a054-671125f11746
   :VER:       551630063.656361316
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:YFX3-0870
