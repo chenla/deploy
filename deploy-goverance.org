@@ -1,24 +1,27 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Governance
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/deploy/deploy-goverance.org
-  :Created: 2017-04-02T17:49@Prek Leap (11.642600N-104.919210W)
-  :ID: b5c1cdd5-01a5-40f8-be37-e006d380371b
-  :URL:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/deploy/deploy-goverance.org
+  :Created:   2017-06-25T09:46@Prek Leap (11.642600N-104.919210W)
+  :ID:        b5c1cdd5-01a5-40f8-be37-e006d380371b
+  :VER:       551630876.940127481
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:HNY7-6414
+  :Class:     deploy
+  :Type:      work
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
 
 * Introduction
 
