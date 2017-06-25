@@ -1,27 +1,26 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Distributed
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-distributed.org
-  :Created:   2017-05-14T19:13@Prek Leap (11.642600N-104.919210W)
+  :Created:   2017-06-25T09:28@Prek Leap (11.642600N-104.919210W)
   :ID:        2ed1c23f-4cc3-456b-980e-68e0ea2b2cec
-  :STAMP:     548036082.339342102
+  :VER:       551629787.162513159
   :GEO:       48P-491193-1287029-15
-  :BXID:      proj:IMB1-3550
+  :BXID:      proj:JIX5-5501
+  :Class:     deploy
+  :Type:      work
+  :Status:    stub
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 * Introduction
 
