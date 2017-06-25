@@ -1,0 +1,396 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Process Guilds
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/deploy/guild-process.org
+  :Created:   2017-04-18T11:06@Prek Leap (11.642600N-104.919210W)
+  :ID:        e1831a5b-f365-439e-8089-d6df7ca05406
+  :VER:       551661192.775909892
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:OCK0-0626
+  :Class:     deploy
+  :Type:      work
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Introduction
+
+A process guild is an automated network that combines, distributes,
+federates, and automates many aspects of modern palletized,
+containerized supply chains and logistics with the idea of distributed
+cascading production that displaces centralized factory production.
+
+Palletization and Containerization removed many steps of loading and
+unloading of goods from source to destination.  It was neccessary to
+load and uload trucks, train cars, planes and ships, by hand.  This
+not only took a gret deal of time, but was messy and resulted in many
+goods being damaged or stolen along the way.
+
+The system transformed production and international trade, but it
+favoured scale.  Production needed to produce goods that could fill
+pallets and containers to be economical.  This meant farms needed to
+produce a large amount of a few or even a single crop.  Factories
+needed to produce many identical copies of the same item.  This has
+resulted in the mass-market factory goods that define the
+modern world.
+
+Anything that is custom made must use a far more expensive postal or
+delivery network that is designed for end-users and last-mile
+delivery.  These have become astonishingly expensive in recent years
+as governments no longer treat such services as a public service and
+as a for-profit business.  The commerical delivery networks charge
+even higher rates on the promise of speed.  For individual delivery,
+fast and good has replaced good and cheap.
+
+However, computers, AI and robotics make it possible to add new layers
+to the existing logistics and transportation networks that promise to
+make small production as if not more efficient than the present
+system, and for the goods resulting from the new production processes
+to be individually custom made and of far higher quality than is true
+today.
+
+Today, we live in a want-based dispsable consumer economy which uses
+the enormous savings that assembly lines, palletization and
+containerization have made possible to build things that only last a
+few years at most and then need to be replaced.  This has degraded
+people's lives as much if not more than has given them access to goods
+that were out of reach for those with lower income.  And has not
+significantly changed their situation because the goods they purchase
+must be replaced on a regular bases, which spread over time results in
+them spending far more than if they were had a reasonable means of
+purchasing high quality goods that would last decades or longer.
+
+#+begin_comment
+need to work out how much waste is being caused in the present system
+-- for example, if an old Maytag Washing Machine used to last 20-30
+years, but is now replaced every 3-4 years you need to buy nearly 10
+washing machines over the same period, and for most of that time they
+are not working properly because they are designed to fail...
+
+Supermarkets have enormous amounts of waste, especially in perishible
+goods.  Compare that to a wet market where there are many sellers with
+only a small amount to sell each, when they sell out they go home.
+I'd love to do a study on how efficient such markets are in places
+like Thailand, Vietnam and Cambodia.
+#+end_comment
+
+The present system does not factor in real total costs, which include
+availability of natural resources, infrastructure for much of the
+system including transportation, electricity and fuel, or the
+environmental impact. The present system is not-sustainable and is
+designed to largely benefit a small percentage of wealthy land and
+corporate owners at the expense of everyone else.
+
+* Process Guild
+
+We use the word /guild/ to mean a group of interdendent parts that
+must work together, in the sense of the permaculture concept of /crop
+guilds/.  We use the word process as in a business process that is
+modeled in an ERP software system.  A guild is a holon, in that it can
+be seen as a complete semi-autonomous whole, which is made up of parts
+which are themselves semi-autonomous wholes.  The structure is in
+theory nearly infinitely nestable, so that any process guild may
+itself be a part of a larger process guild, and contain parts which
+are themselves process guilds as well.  Finally any part of a guild,
+be it a mutually exclusive atom (not made up of other parts) or some
+global spanning [[https://en.wikipedia.org/wiki/Matryoshka_doll][matryoshka]] guild can overlap and be part of any other
+guild at the same time, forming an overlapping interwoven [[https://en.wikipedia.org/wiki/Rhizome_(philosophy)][rhizomatic]]
+structure in which any one point may or may not be connected to any
+other point.  Got your head around that yet?  No? Think about it a
+while and come back when your ready.  Good now?  Let's continue.
+
+We are used to thinking of business in terms of distinct parts which
+happen separately from each other.
+
+  - procurement
+  - production
+  - logistics
+
+You procure materials that are used in production. Something that is a
+material in one context is a product to another.  To a corn farmer,
+corn is a product, while water, soil, sunlight fertilizers etc are
+material inputs.  To a company that makes cornbread, corn, turned to
+cornmeal is a material.
+
+Logistics includes the coordination of transporation physical things
+and information from place to place, the farther that something needs
+to be moved the more complex -- moving something from Battanbang to
+Phnom Penh will typically take place in a single hop, from city to
+city, though even then it may go from the sender, to a transporation
+company which aggregates multiple items that are destined for Phnom
+Penh take them as a single shipment to Phnom Pehn and then arrange to
+have them individually picked up and delievered to different
+addresses.  In this scenario, it would require three or more hops at
+least to reach its destination though it is only moving hundreds of
+kilometers.  Most of the cost involved in logistics is taken up in
+transfer of goods from different modes of transport between hops, and
+the overhead added by each independent operator in the logistic
+chain.  This is why intermodal transport has had such an enormous
+impact on global commerce -- it effectively slashed 75% or more of
+costs of interhop transfer.
+
+
+
+
+So a process guild can be thought of as a temporary or long term chain
+of interdependent relationships that form a complete end-to-end
+business process.
+
+
+
+
+* It-Torrents
+
+
+* Discuss
+
+This needs to be moved -- to Process Guilds (need to create)
+
+I think it fits with Alexander's idea of communities requiring that
+every addition strengthen what is there.  So no cookie-cutter template
+chain stores -- don't ban the chains, but they will have to adapt to
+local norms, rather than impose their copies that destroy the
+surrounding life of the community.  They have to become part of the
+community -- and that goes far deeper than architecture, the chains
+will have to learn to become 'local' shops, that don't push out
+existing shops and strengthen those shops.
+
+Hardware stores are a better example than coffee shops -- if a
+hardware chain moves in, and sells to their competition as well as
+sell through their own shops, they have strengthened the community and
+gained instant market-share.  It's like HugeNet in HK -- Metrolink
+sold routers and terminal servers to competing ISPs, it didn't hurt
+our business, and we made money from our competition.
+
+Remember, AI & Robots will replace a lot of jobs -- so what you have
+left is the supply chain, logistics, economy of scale, and local
+service.  The last one is the most important -- everything else
+becomes a middleman that AI and the robots will replace.
+
+This doesn't need to be a zero-sum game between the big and small
+players.  Perhaps McDonalds could become a supply chain and network
+for other restaurants, instead of just being in the fast-food retailer
+business.
+
+But actually this is where the "process guild" network comes in to
+provide exactly this.  You don't need McDonalds -- you need
+infrastructure with AI and robots that provides this as a public
+utility....
+
+   utility as a service, monopoly, or a commons?
+
+And then we turn the tables on the big companies and force them to buy
+from the guild-nets, to buy locally, and conform to local packaging --
+so they loose their economy of scale and all is left is branding and
+marketing....  and they melt away, "what a world, what a world"....
+
+
+The girl at i-Cafe with the pig farm -- how cold guild-nets solve her
+problem and stave off bastards like CP?
+
+
+* Not In My Backyard
+
+When people say "not in my backyard" they are playing with fire.
+Everything is in someone's backyard, by pushing things away that have
+potential negative side effects we are passing the buck.  Rather, we
+need, as a civilization to use the clout that comes from having
+something in your backyard to change it for the better so it does not
+become a problem.  We need to give people the ability to change what
+is in their backyard for the better, but not 100% block anything they
+don't like from moving into the neighborhood.  This is a balance that
+has been lost.  The fear is understandable, because corporation and
+governments often will do things without transparency or
+accountability.  If you have those two things -- so that you say,
+okay, you can move in, but we will want voting seats on your board and
+in return we will work with you and not against you.  This should work
+at a lot of different scales -- it's not just about pipelines, nuclear
+power plants, and windfarms -- it's about Starbucks opening a shop on
+a street with four existing small coffee shops -- and the knowledge
+that Starbucks will likely drive three of them out of business.  This
+is not real competition, Starbucks will win because they are large and
+the smaller shops are not -- but if the price of Starbucks coming into
+that neighborhood required it to work with the smaller shops --
+perhaps by handicapping Starbucks in some way, and forcing them to
+compete on the local shop's terms, or forcing Starbucks to provide
+supplies to those shops at the same cost of scale that they enjoy --
+there could be a different outcome -- a lot of it depends on the
+carrying capacity on the street for coffee shops -- take away
+Starbuck's advantage and perhaps only one of the shops goes out of
+business....
+
+
+* prospectus
+
+A process guild is an automated network that combines,
+distributes, federates, and automates many aspects of modern
+palletized, containerized supply chains and logistics with
+the idea of distributed cascading production that displaces
+centralized factory production.
+
+The system will leverage AI systems to automatically create
+supply and production chains and transportation between each
+step in the chain.  This will eliminate even more middle-men
+from production chains than containerized shipping has done
+over the last 40 years.  Globalization transformed
+production and international trade, but it favoured scale.
+Production needed to produce goods that could fill pallets
+and containers to be economical.
+
+Because today's system only works at scale, a lot of small
+producers have been shut out of the system.  AI and
+automation will change that, making it possible for small
+producers to create local and regional supply and production
+chains that are as efficient locally and at small scales as
+the large companies enjoy today on the global stage.  The
+barrier to joining the network will be little more than
+opening a browser and registering your goods and services on
+the network.  The network will not be owned by anyone, so it
+will work a bit like Alibaba or Amazon, with the network
+taking over most of the functions that Alibaba and Amazon
+now provide.  The customer places and order, and the company
+that get's the order will then use the network to
+automatically set up and coordinate the material and parts
+suppliers, transporation and transaction fees.  So, in a
+sense the system will work at little like bit-torrent, but
+for things.  When you create a torrent it generates a list
+of all the things needed to create a finished product, and
+then connects to the network to source all of those pieces,
+purchase them and get them to the producer who does their
+part of the chain and then the network will pick up and
+deliver to the end user.
+
+The system will be built on top of blockchain technology,
+smart contracts (ethereum), TPFS, a distributed file system
+that breaks up centralized ICT cloud services which are now
+offered by a handful of players and move those services to
+the edge of networks.  Finally, the system will use
+Saltmine, our own semantic storage and AI processing
+platform that provides the missing pieces that aren't
+available in ethereum or IPFS.
+
+
+#+begin_comment
+A process guild is an automated network that combines,
+distributes, federates, and automates many aspects of modern
+palletized, containerized supply chains and logistics with
+the idea of distributed cascading production that displaces
+centralized factory production.
+
+The system will leverage AI systems to automatically create
+supply and production chains and transportation between each
+step in the chain.  This will eliminate even more middle-men
+from production chains than containerized shipping has done
+over the last 40 years.  Globalization transformed
+production and international trade, but it favoured scale.
+Production needed to produce goods that could fill pallets
+and containers to be economical.
+
+Because today's system only works at scale, a lot of small
+producers have been shut out of the system.  AI and
+automation will change that, making it possible for small
+producers to create local and regional supply and production
+chains that are as efficient locally and at small scales as
+the large companies enjoy today on the global stage.  The
+barrier to joining the network will be little more than
+opening a browser and registering your goods and services on
+the network.  The network will not be owned by anyone, so it
+will work a bit like Alibaba or Amazon, with the network
+taking over most of the functions that Alibaba and Amazon
+now provide.  The customer places and order, and the company
+that get's the order will then use the network to
+automatically set up and coordinate the material and parts
+suppliers, transporation and transaction fees.  So, in a
+sense the system will work at little like bit-torrent, but
+for things.  When you create a torrent it generates a list
+of all the things needed to create a finished product, and
+then connects to the network to source all of those pieces,
+purchase them and get them to the producer who does their
+part of the chain and then the network will pick up and
+deliver to the end user.
+
+The system will be built on top of blockchain technology,
+smart contracts (ethereum), TPFS, a distributed file system
+that breaks up centralized ICT cloud services which are now
+offered by a handful of players and move those services to
+the edge of networks.  Finally, the system will use
+Saltmine, our own semantic storage and AI processing
+platform that provides the missing pieces that aren't
+available in ethereum or IPFS.
+
+We intend to establish a seed round crowd-sourced ethereum
+contract that will raise $5-20,000 immediately to get things
+started.  An additional $250,000 will then be raised as part
+of this round to complete work on the proof of concept for
+the network with a small team of programers and engineers.
+In a working demo of the system will be complete in 6-12
+months that will work with real farmers, companies and
+customers in Cambodia to build bamboo furniture for the
+OpenDesk network.  The company will hold a public ICO by the
+end of 2018 to raise $10-50M to build out and launch the
+network regionally and then globally. Funds used will expand
+the network to add as more and more types of production
+chains until the system reaches a tipping point where other
+developers will begin adapting the network for as many
+different types of production chains imaginable.  The coins
+sold in the ICO will become the currency used in all of
+these supply-production chains.
+#+end_comment
+
+** background
+
+The steam revolution that began in the 19th century made
+moving goods across long distances economical and could
+scale.  Before steam (and later diesel and electric) long
+distance transportation was not only slow and expensive, it
+was not reliable.
+
+Palletization and Containerization removed many steps of
+loading and unloading of goods from source to destination.
+It was neccessary to load and uload trucks, train cars,
+planes and ships, by hand.  This not only took a gret deal
+of time, but was messy and resulted in many goods being
+damaged or stolen along the way.
+
+Transportation is now so cheap that it is no longer
+considered to be a factor in the cost of production.
+
+ICT and now the Internet did for moving information, what
+steam had done for goods.  Money (which now is another type
+of information) and communications can move around the world
+freely so that placing an order between London and Guangzhou
+is as easy and fast as placing an order with a company in
+the same city.
+
+But the "global value chain" is not evenly distributed.
+Only seven countries benefited from these changes since
+1990, with production moving from the industrialized G7
+nations to the new "i7".
+
+The system transformed production and international trade,
+but it favoured scale.  Production needed to produce goods
+that could fill pallets and containers to be economical.
+
+A new stage of the ICT revolution is expected to change the
+world as much, if not more than it has since 1990 when the
+"Great Convergence" began.  This will revolve around
+advances in Artificial Intelligence that will accelerate
+automation in practically every aspect of the value-chain as
+well as impact jobs.  AI is already powering robotics that,
+for example replaced a steel mill in Austria that employed
+3,000 workers with only 14 to produce 500,000 tons of steel
+wire a month.
+
+Self driving vehicles will transform ground transportation,
+and almost completely automating it
+
+
