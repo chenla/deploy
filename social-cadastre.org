@@ -1,26 +1,31 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Cadastre
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/deploy/social-cadastre.org
-  :Created: 2017-05-02T09:12@Prek Leap (11.642600N-104.919210W)
-  :ID: cb4e4241-2ccf-4aaa-996d-d51800b5f589
-  :URL:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/deploy/social-cadastre.org
+  :Created:   2017-05-02T09:12@Prek Leap (11.642600N-104.919210W)
+  :ID:        cb4e4241-2ccf-4aaa-996d-d51800b5f589
+  :VER:       551748246.774354316
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:DDT3-0372
+  :Class:     deploy
+  :Type:      work
+  :Status:    stub
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
 
 * Introduction
+
 
   - [[bib:cole:2016land][Land Tenure, Boundary Surveys, and Cadastral Systems]] | George Cole (2016)
   - Seeing Like a State | Scott
