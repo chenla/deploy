@@ -1,7 +1,7 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Mars Notes (expression)
 #+STARTUP: showall
-#+TOC: headlines 4
+
 #+PROPERTY: filename
   :PROPERTIES:
   :CUSTOM_ID: Mars_Notes_(expr)
