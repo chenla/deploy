@@ -1,27 +1,28 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Belt
+
+#+TITLE: Asteroid Belt
 #+STARTUP: showall
+#+TOC: headlines 4
 #+PROPERTY: filename
   :PROPERTIES:
-  :CUSTOM_ID: Asteroid_belt_(deploy) 
+  :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/solar-belt.org
   :Created:   2017-05-14T09:40@Prek Leap (11.642600N-104.919210W)
-  :ID:        f7d36b37-97b2-4bdf-934e-f0fb8defd96c
-  :VER:       548001709.478770206
+  :ID:        f7d36b37-97b2-4bdf-934e-f0fb8defd96c  
+  :VER:       551749139.997545375
   :GEO:       48P-491193-1287029-15
-  :BXID:      proj:RLE8-2054
+  :BXID:      proj:OJC7-6604
+  :Class:     deploy
+  :Type:      work
+  :Status:    stub
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
 
 * Introduction
 
