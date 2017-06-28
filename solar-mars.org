@@ -362,18 +362,36 @@ chains?
    the shop contributes back innovations, and some profits
    to keep the guild going.
 
-  - shops and guilds contribute to credit unions, that will
-    save money for younger members to be able to start their
-    own shops -- and fund people who want to emigrate and
-    start shops on mars.
+ - shops and guilds contribute to credit unions, that will
+   save money for younger members to be able to start their
+   own shops -- and fund people who want to emigrate and
+   start shops on mars.
 
-  - initially there needs to be a staging area where those
-    who are working in shops can transition to moving to and
-    starting shops on mars. that will likely be antarctica.
-    build a self-sustaining city and civilization there --
-    which will be somewhat similar to mars except there is
-    an atmosphere.  Start a shop in antarctica for two years
-    and see if you can handle living underground in a closed
-    ecosystem and then, when ready, sell your shop to
-    newcomers and move your shop to mars.
+ - an important part of this is that a certain portion of
+   all profits go to invest in things that the distributed
+   model isn't good at -- large scale infrastructure,
+   Heinlein's Long Term Foundation doing blue sky pure
+   research, and long term projects like SpaceX -- this will
+   be done using a scopic framework.
+
+ - treat the network as a state, with rights, obligations
+   and rules -- it is a state with no nation and no
+   territory which can exist as an overlay on top of the
+   existing nation-state system, but could eventually
+   replace it, if or when nation states fail. it is not
+   there to compete with the state, and will provide many
+   benifits to states, but will not be there to prop up
+   those in power. tricky to pull that off without being
+   seen as a threat to existing power structures. pragmatism
+   is key here
+
+ - initially there needs to be a staging area where those
+   who are working in shops can transition to moving to and
+   starting shops on mars. that will likely be antarctica.
+   build a self-sustaining city and civilization there --
+   which will be somewhat similar to mars except there is
+   an atmosphere.  Start a shop in antarctica for two years
+   and see if you can handle living underground in a closed
+   ecosystem and then, when ready, sell your shop to
+   newcomers and move your shop to mars.
 
