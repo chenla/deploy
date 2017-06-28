@@ -350,3 +350,30 @@ chains?
    in numbers for us to become a multi-planet species.
 
 
+ - it works like this: people join the network, they choose
+   a specialty, and the bioregion they want to practice it
+   in.  they learn the trade and get funded to start a shop,
+   the IP for that shop is provided for and protected by a
+   guild which is an organization that managed open source
+   code, designs, processes and information for a knowledge
+   domain, if you start a shop in that domain, the guild
+   helps you get off the ground, provides education, access
+   to financing and maintains quality control.  In return
+   the shop contributes back innovations, and some profits
+   to keep the guild going.
+
+  - shops and guilds contribute to credit unions, that will
+    save money for younger members to be able to start their
+    own shops -- and fund people who want to emigrate and
+    start shops on mars.
+
+  - initially there needs to be a staging area where those
+    who are working in shops can transition to moving to and
+    starting shops on mars. that will likely be antarctica.
+    build a self-sustaining city and civilization there --
+    which will be somewhat similar to mars except there is
+    an atmosphere.  Start a shop in antarctica for two years
+    and see if you can handle living underground in a closed
+    ecosystem and then, when ready, sell your shop to
+    newcomers and move your shop to mars.
+
