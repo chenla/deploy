@@ -26,6 +26,294 @@
 
 * Introduction
 
+* Globalization
+
+  |       | Structure     | Toffler     | Baldwin  |
+  |-------+---------------+-------------+----------|
+  | ?     | centralized   | physical    | goods    |
+  | 1990  | decentralized | symbolic    | know-how |
+  | 2020? | distributed   | information | people   |
+  
+---
+
+
+
+
+---
+
+
+before the agricultural revolution, people were global,
+moving from place to place following the food, where it grew
+or grazed.  The agrigricultural revolution localized man, to
+establish cities and grow food along a handful of river
+valleys where the rains brought silt each year so that the
+soil didn't become exhausted.
+
+There was trade between cities and civilizations but it was
+very expensive and low volume.   This was because it was
+expensive to move goods, information and people.
+
+The invention of steam engines transformed the planet,
+making it cheap to move good globally using steam powered
+ships and inland via steam locomotives.  This made moving
+goods cheap, but moving information and people was
+expensive.  A handful of countries, in the North, which are
+still known as the G7 were the biggest winners and the older
+centers of civlization including the middle east and China,
+fall into a protracted decline.  The two World Wars
+reorganized the world along these new lines that remained in
+place until the second stage of globalization begin in 1990.
+
+ICT advances in information processing, and digital networks
+reached a tippig point in 1990 after which information
+became cheap, and to all practical purposes free, to move
+anywhere on the planet.  Money at that point had moved from
+being physical wealth in the form of precious metals, to
+paper money that was backed up by precious metals.  By 1990,
+the gold standard had been abandoned and money was literally
+paper script that was backed up by the reputation of the
+state issuing it.  Money had changed from being physical
+wealth to symbolic -- this is known as fiat currency.
+Moving around large amounts of paper script and converting
+it at borders was replaced by the '90s by networks and money
+was little more than numbers in databases.  Money had
+changed from being symbolic to being pure information tokens
+which could move around the planet as easily as an email.
+
+The ICT revolution was also used to make transporation of
+goods more efficient as well, which, when combined with
+modal transportation (better known as shipping containers)
+and palletization of goods, transformed the moving of goods
+at scale to become so efficient and cheap, that
+international shipping costs were considered to be a an
+incidental cost that didn't need to be factored into the
+cost of production.
+
+This resulted in breaking up manufacturing processes into
+multiple stages, which each stage being located where it was
+most efficient to locate it.  The G7's industrial success
+had dramatically raised their population's standard of
+living and their wages.  Cheap transportation and
+information transfer made it more cost effective to move
+stages of manufacturing that required large amounts of
+labour to countries where labour was cheaper than in the G7.
+
+There were only 7 countries who benifited from this transfer
+of manufacturing (list countries).  The rest of of the world
+benifited from having access to a far wider variety of goods
+at far cheaper prices than before, but otherwise they didnt
+benifit nearly as much as the I7.
+
+This brings us up to today, where we are at the brink of a
+third revolution that will reorder the world as much if not
+more fundementally as the first two stages of globalization.
+
+In the second stage, transport of goods and information was
+cheap, but moving people was still expensive.  It was
+thought, even a few years ago that this was not something
+that could change.  Air Travel is now cheap, but it is still
+slow and expensive and it is true that this is not likely to
+significantly change enough to usher in another revolution.
+There was some talk of telepresence -- technologies such as
+video conferencing, would become good enough to not need to
+physically move people.  But while telepresence is improving
+ad will be important in the future, it is doubtful that it
+would have a large enough impact to trigger a third
+revolution.
+
+The solution is not to move people at all, but to make it
+possible to automate the functions that people were
+performing that were valuable enough that people had to be
+moved around to perform these tasks.  Artificial
+Intelligence and robots, combined with global cloud
+processing and storage appears to be poised to do just that.
+The third stage of globalization is already happening, and
+could reach a tipping point as soon as 2020.
+
+Most people are fixated with the impact of AI and robotics
+on service jobs, and the fantasy of AI achieving greater
+than human intelligence and becoming a threat to humanity.
+The first is a side effect, that will not have the impact
+that people believe it will.  The second is something that
+must be watched for, and even planned for, in the unlikely
+event of it happening in the SciFi scenarios we hear from
+some very smart people like Steven Hawking.  As brilliant as
+Hawking is a physicist, his views on AI are likely to be as
+important as Einstein's view on Quantum Mechanics.  The
+impact of AI will be far greater and weirder than can be
+imagined today.
+
+---
+
+Change is determined by two things, speed that people can
+adapt and speed of communication
+
+Originally communication speed was the same as speed of
+travel, but now communications at planetary scales is
+effectively the speed of light
+
+How to quantify how fast people can assimilate change?  And
+what are limits that a generation can change in their
+lifetime?  These are hard biological cognitive ceilings,
+based on how much information we can take in and weave into
+our mental maps.
+
+We are still limited to speed of travel as long as we need
+to move people, so once the next stage of globalization
+kicks in, we will have a revolution that localizes, like the
+agricultural revolution, rather than globalizes.
+
+Urbanization could see dramatic changes because we will have
+effectively urbanized the whole planet so limits become 
+time zones, biological clocks and the speed of light.
+
+This all is still little more than a hunch -- need to fill
+in a lot of blanks to see if this is a real possibility or
+not.
+
+** So what will happen after 2020?
+
+I7 countries will see massive job losses as cheap labor is
+replaced by nearly fully automated factories.  Recently a
+steel mill in Austria opened that had replaced 350 workers
+with an automated system that only required 14 people to
+operate.
+
+Some people in G7 countries fantasize that when this happens
+the factories will move back to G7 countries.  In come cases
+this will be the case, but not as much as they would like.
+Factories were only located in G7 or I7 because that is
+where they could be most competitive.  But if moving goods,
+information and the replacement of people is all now cheap,
+a lot more locations on earth could now be equally as
+competitive.
+
+In many respects, the biggest impact will be on all kinds of
+middlemen.  Aggregators, shipping companies, many if not
+most banking and financing services (as trade moves over to
+blockchain-based digital currencies).  Before intermodal
+shipping, longshoreman who loaded and unloaded trucks and
+ships were a vital part of the movement of goods.  These
+workers were unionized and had the power to bring commerce
+to a complete halt.  But nearly all of those jobs vanished
+within a decade to be replaced with a handful of crane
+operators, forklift and truck drivers who will soon be
+replace as well by self-driving autonomous vehicles.  That
+same thing will happen to a huge number of small and large
+firms today in value-chains.  Many of these jobs are very
+well paying and their loss will be a hardship to a large
+percentage of what are considered to be middle class,
+professional jobs.
+
+Cheap energy will become an important competitive advantage,
+together with access to costal shipping ports, and cross
+border rail and road links.  So this leaves out the Tibetean
+Plateau, or Bhutan but it does open up a huge number of
+potential locations for manufacturing to become competitive.
+
+The global value chain, will fragment, by making it
+competitive for small producers to leverage local conditions
+to establish adhoc emphemeral micro-value-chains which will
+transform both manufacturing and transportation.  It will
+become competitive to produce and transport goods at small
+scales which will be aggregated by smart network to achieve
+cheaper and more flexibly what is now being done in large
+factories that are only competitive if they are producing
+very large volumes all-of-the-time.  Until now, large
+factories were only competitive if there was enough busy to
+keep them in operation.  Even brief downtime could shutter
+factories in a matter of days or even hours.  A mesh fabric
+of smaller production means that production is more
+responsive to demands, and not require large inventories of
+identical goods.  If downtime was actually built into the
+design of such enterprises, it would make seasonal
+production, or rush orders not only possible, but downtime
+to be an opportunity to do other things, including
+education, family and recreational pursuits.
+
+Small production means that each producer has a handful of
+very good jobs that will be able to support a group of
+extended families at a very comfortable standard of living.
+Even a small village, might only need a 4-10 of such local
+enterprises to sustain all of the support services that the
+village would require to prosper.
+
+It's not clear what impact this will have on the trend
+towards urbanization, but it could well be the end of the
+suburbs which are largely populated by middleclass
+professionals who work for companies that act as middlemen
+or more specifically, perform jobs that will be automated.
+
+It is also not clear what impact this will have on family
+structures.  The second stage of globalization that started
+in the nineteenth century broke up extended rural families
+with young people moving to cities.  Over several
+generations families evolved from extended, with all family
+members living together or in close proximity to each other,
+to the /nuclear family/.  The second wave of globalization
+then did the same in I7 countries, and G7 countries family
+structures almost completely dissolved to the point where
+many people now live their entire lives as individuals who
+form temporary bonds in the form of marriage, romance and
+friendship that may last years and even decades but are
+increasingly less measured in lifetimes.  What will now
+happen is uncertain, but it presents the possibility of
+reconstituting the functional equivilent of extended
+families that orbit small enterprises and support directly
+or indirectly both the young and the elderly.  From a G7
+perspective this may seem like a stretch of the imagination,
+but many of the people who will become part of this new
+econonmy will be from countries outside of the G7 and I7
+which are still very much living in extended family
+traditions.  It will be natural for these people to adapt
+what they know to the new economic order without having to
+leave their families and move to a distant city to work in
+an office or factory.  It might well turn out that today's
+generation of G7 individuals who are cut adrift from lasting
+social structures and interactions could become a series of
+lost generations until the social structures establish
+themselves.
+
+This is not to say that this will be the end of
+transnational mega-corporations.  But there will more
+diversity and flexibility and the big companies will have to
+undergo fundamental changes in order to survive.
+
+Finally, we have not brought up the issue of intellectual
+property and its role in any of the stages of globalization.
+IP is either used as organizational knowledge which is kept
+within the organization, that gives the organization
+competitive advantage.  Or, through rent-seeking for
+packaged and published information in the form of code,
+text, images, video and audio.  Organizational knowledge is
+here to stay -- rent-seeking of published information has an
+uncertain future and largely will make no sense in the
+emerging new economy.
+
+It should also be pointed out that organizational knowledge
+in terms of manufacturing processes and designs will be
+needed by all of these potental small establishments to set
+up shop.  It could be that the large companies today that
+survive into the next stage will provide such knowledge as a
+service which acts as infrastructure.  The big companies
+will be able to compete with each other on the basis of how
+fast they can innovate and make small enterprises
+successful.
+
+The other possibility, is that a lot of this organizational
+knowledge will have to be reinvented by small enterprises
+during the early stages of the revolution.  This lends
+itself naturally to many small organizations contributing to
+open source development of this knowledge which is
+maintained as part of the commons.  In practice it won't be
+one or the other, but a combination of all of these things
+as well as a lot of things that we can not anticipate yet.
+
+
+
+
+
+
 
 * Towards an antifragile distributed technological civilization
 
