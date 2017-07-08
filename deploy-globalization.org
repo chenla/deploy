@@ -59,7 +59,7 @@ on board?
     just in their heads.
  
 we'll need the snot network, transaction network,
-communication network and social structure
+communication network and a social structure
 
 eventually I want people to go through the on-boarding,
 start learning the trivium and the core and then start or
