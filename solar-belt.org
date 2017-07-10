@@ -31,8 +31,11 @@
   - [[http://www.wired.co.uk/article/asteroid-space-mining-phoenix-mars-chris-lewicki-planetary-resources][Inside the startup that wants to mine asteroids and transform space travel forever]] | WIRED UK
   - [[http://www.planetaryresources.com/#home-intro][Planetary Resources]] | The Asteroid Mining Company
   - [[https://en.wikipedia.org/wiki/Planetary_Resources][Planetary Resources]] | Wikipedia
+  - [[https://www.youtube.com/watch?v=VLouRKHknOU][Planetary Resources - The Market Problem and Radical Solution]] | YouTube
+  - [[https://www.youtube.com/watch?v=Q5nBURsyPBs#t=443.292154][The Trillion Dollar Market: Fuel in Space from Asteroids]] | YouTube
 
-
+  - [[https://en.wikipedia.org/wiki/Deep_Space_Industries][Deep Space Industries]] | Wikipedia
+  - 
 
 * Asteroid classes
 
