@@ -29,7 +29,8 @@
 
   - [[https://solarsystem.nasa.gov/planets/asteroids/indepth][Asteroids - In Depth | Planets - NASA Solar System Exploration]] 
   - [[http://www.wired.co.uk/article/asteroid-space-mining-phoenix-mars-chris-lewicki-planetary-resources][Inside the startup that wants to mine asteroids and transform space travel forever]] | WIRED UK
-
+  - [[http://www.planetaryresources.com/#home-intro][Planetary Resources]] | The Asteroid Mining Company
+  - [[https://en.wikipedia.org/wiki/Planetary_Resources][Planetary Resources]] | Wikipedia
 
 
 
