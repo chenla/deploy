@@ -28,6 +28,10 @@
 * Introduction
 
   - [[https://solarsystem.nasa.gov/planets/asteroids/indepth][Asteroids - In Depth | Planets - NASA Solar System Exploration]] 
+  - [[http://www.wired.co.uk/article/asteroid-space-mining-phoenix-mars-chris-lewicki-planetary-resources][Inside the startup that wants to mine asteroids and transform space travel forever]] | WIRED UK
+
+
+
 
 * Asteroid classes
 
@@ -45,3 +49,7 @@
   the planet and sun's gravitational field.
 
   Near Earth asteroids -- asteroids that pass close to the earth
+
+
+[[./img/belt/asteroid-infrographic-1620x1080.jpg]]
+ [[https://wi-images.condecdn.net/image/6NbpAykyyeZ/crop/1620][1620 (JPEG Image, 1620 × 1080 pixels) - Scaled (78%)]]
