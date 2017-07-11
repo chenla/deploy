@@ -347,6 +347,8 @@ system that could take them home while under the influence.
 
 ** Population
 
+  - [[http://www.worldometers.info/world-population/#table-forecast][World Population Clock: 7.5 Billion People (2017) - Worldometers]]
+
 At the time this is being written, the world population is
 estimated to be 7.51 billion with births outpacing deaths at
 roughly 2:1.  If this trend continues as is, forecasts
