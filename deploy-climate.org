@@ -24,7 +24,6 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
 * Introduction
 
 Niels Bohr famously said, "Those who are not shocked when they first
@@ -37,16 +36,18 @@ Mankind is playing a very dangerous game that could have as big an
 impact on the planet and our species than an all out thermonuclear war
 between superpowers.
 
-We have all been taught from childhood to mistrust the veracity of
-apocolyptic predictions.  The story of Chicken Little is never far
-from our awareness, because we seem to be programed to almost /want/
-to believe in the end of the world.  Our religions, mythologies, and
-popular culture is packed with epidemics, earthquakes, floods,
-asteroids, alien invasions and more recently, zombies.  And in most of
-these stories there is a Chicken Little character who heroically tries
-to warn people, to no avail and everyone dies.
+We have all been taught from childhood to mistrust the
+veracity of apocolyptic predictions.  The story of Henny
+Penny (Chicken Little in the States) is never far from our
+awareness, because we seem to be programed to almost /want/
+to believe in the end of the world.  Our religions,
+mythologies, and popular culture is packed with epidemics,
+earthquakes, floods, asteroids, alien invasions and more
+recently, zombies.  And in most of these stories there is a
+Henny Penny character who heroically tries to warn people,
+to no avail and everyone dies.
 
-The Chicken Little story is told to children (and adults) because in
+The Henny Penny story is told to children (and adults) because in
 most cases there are no monsters.  It's a coping mechanism, so we
 don't get so scared that we turn away and shut down and do nothing.
 
