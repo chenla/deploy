@@ -410,8 +410,20 @@ will need to maximize the power of a productive working
 population that has to take care of an increasing proportion
 of elderly people.
 
-** 
+**  Carbon Capture
 
+This is pure brainstorming.
+
+Rather than taking carbon out of the atmosphere, we should
+be looking at how to take it out of the oceans.  Oceans are
+the planet's carbon sink.  But we are pumping so much carbon
+into the atmosphere that we are exceeding the abilitiy of
+the oceans to absorb it all.
+
+So dual strategy -- stop pumping carbon into the air, and
+pull out as much carbon as possible out of the oceans.  I
+would imagine that it is easier to pull carbon out of a
+liquid than a gas....
 
 
 * The Scary Article 
