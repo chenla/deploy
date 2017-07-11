@@ -34,19 +34,23 @@ don't understand it.  No, it's not that bad, it's worse,
 much worse.
 
 Mankind is playing a very dangerous game that could have as
-big an impact on the planet and our species than an all out
-thermonuclear war between superpowers.
+big an impact on the planet and our species as an all out
+thermonuclear war.  And yet, there are still people, and
+people in power who say they don't believe climate change is
+real and most people who do, don't believe or comprehend the
+magnitude of what could happen.
 
 We have all been taught from childhood to mistrust the
 veracity of apocolyptic predictions.  The story of Henny
-Penny (Chicken Little in the States) is never far from our
-awareness, because we seem to be programed to almost /want/
-to believe in the end of the world.  Our religions,
-mythologies, and popular culture is packed with epidemics,
-earthquakes, floods, asteroids, alien invasions and more
-recently, zombies.  And in most of these stories there is a
-Henny Penny character who heroically tries to warn people,
-to no avail and everyone dies.
+Penny (Chicken Little in the United States) is never far
+from our thoughts, because we intuitively understad that
+we're programed to almost /want/ to believe in the end of
+the world.  Our religions, mythologies, and popular culture
+is packed with epidemics, earthquakes, floods, asteroids,
+alien invasions and more recently, zombies.  And in most of
+these stories there is a Henny Penny character who
+heroically tries to warn people, to no avail and everyone
+dies.
 
 The Henny Penny story is told to children (and adults)
 because in most cases there are no monsters.  It's a coping
@@ -68,7 +72,7 @@ real ones - but there are.
 
 And it's all too true that most predictions of the end of
 the world are patently absurd, and only believed by the
-gullible and in times of great stress, it is comforting to
+gullible.  In times of great stress, it is comforting to
 escape into fantasy.  Because the end of times, as fortold
 in religious stories is only an apocolypse for bad people.
 The believers are always told that they will either survive
@@ -108,7 +112,7 @@ won't be easy.  The damage we have done is on the very edge
 of being all but irreversible.  But that doesn't mean that
 it can't be fixed.
 
-** What Won't work
+* What Won't work
 
 It's time to not only think clearly about the problem and
 how it can be fixed.  The first step is for all of us to
@@ -153,10 +157,82 @@ real impact on the climate are non-effectual.
 
 
 
+* The Confluence
+
+I find it interesting that all talk of tackling climate
+change is based on extrapolating the present with the
+assumption that the world will work the same ten years or
+fifty years from now as they do today.
+
+** Globalization
+
+It's now 27 years since the second wave of globalization
+began in 1990.  In that time the world has been transformed
+as dramatically as the first wave of globalization over the
+previous XX years.  The first way, which is known as the
+Great Unbundling saw the rise of the G7 group of
+industrialized nations which controlled most of the
+industrial production on the planet.  The north was rich and
+the south was poor, and poor countries had little
+opportunity to change their lot.  Before 1990 the world was
+very much centralized -- with all stages of innovation and
+production being localized around manufacturig hubs in the
+North.  This was largely possible because of a revolution in
+transportation that began with the invention of the steam
+engine which powered ships internationally, and trains for
+inland transportation.  
+
+The second unbundling, knows as the Global Value Chain (GVC)
+leveraged ICT revolution in computing, networking and
+telecommunications to unbundle manufacturing hubs, which
+were located in industrialized countries with relatively
+high labour costs.  A second revolution in transportation of
+goods was made possible by modal transport (better known as
+the standard shipping container) and palletization of goods
+in those containers into smaller units which could be loaded
+and offloaded from containers and trucks and moved around
+warehouses using a fraction of the labor required
+previously.  This made it possible to break up manufacturing
+processes into multiple steps located in different
+locations.  If labour was cheaper in another country, a
+Northern manufacturer could have it made there, using cheap
+labour in that country and even cheaper transportation to
+move it around the globe. The ICT revolution made
+communications between each stage of production almost as
+easy as talking to someone in the same building.  This saw
+the rise of the so-called Industrialized Six (i6), which
+transformed those countries from being poor outsiders, to
+being at the heart of various north-south production chains
+that shape the world we know today.  This is what most
+people think of today when they use the term globalization.
+But globalization did not raise all boats equally.  The i6
+nations have benifited enormously and are now within sight
+of becoming industrialized nations on par with the original
+G7.  And we are already seeing wages in those countries rise
+to the point where they are no longer as cheap as they once
+were.  If this process was to continue, then the i6 would
+eventually kickstart other poor countries in turn, by moving
+production to where labour was cheap.  And we have seen a
+little of that.  A significant amount of textile production
+is moving to countries like Nepal, Bangladesh and to a
+lesser extent small countries like Cambodia.  But it is
+doubtful that we will see a second wave of unbundling take
+place before the next stage of globalization takes over.
+
+We are poised to begin a third stage of globalization which
+will likely transform the world as much as the first and
+second stages combined over the next 10-15 years.  By the
+20th aniversery of the iPhone, the world will be almost
+unrecognizable from how it is today.
+
+** Population
+** 
+
+
+
 * The Scary Article 
 
  - [[http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html][When Will Climate Change Make the Earth Too Hot For Humans?]] | New
    York Magazine
  - [[https://newrepublic.com/article/143788/power-peril-climate-disaster-porn][The Power and Peril of “Climate Disaster Porn”]] | New Republic
- - [[http://www.slate.com/articles/health_and_science/science/2017/07/we_are_not_alarmed_enough_about_climate_change.html][New York Magazine’s Climate Change Horror Story Isn’t Too
-   Scary. It’s Not Scary Enough.]]  | Slate
+ - [[http://www.slate.com/articles/health_and_science/science/2017/07/we_are_not_alarmed_enough_about_climate_change.html][New York Magazine’s Climate Change Horror Story Isn’t Too Scary. It’s Not Scary Enough]]  | Slate
