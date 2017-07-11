@@ -314,6 +314,20 @@ wave and will have to retool in order to take advantage of
 automation, that there is an enormous opportunity to build
 this infrastructure to reduce or eliminate carbon emissions.
 
+The Remote Work trend, where a growing number of people
+working in tech are working from home, will be reinforced
+and expanded.  Telepresense, high quality teleconferencing,
+will make it possible for far more people to join the Remote
+workforce.  Even many jobs that might be thought of as being
+immune to remote work, just as people managing factory
+production processes can just as easily do their jobs from
+home as on the factory floor.  It will be interesting to see
+how far this can be taken.  Will we see people that manage
+office cleaning services to manage fleets of robots from
+home, as the robots are transported to office and shopping
+centers at night in self driving vehicles, deployed under
+direction of a remote operator?
+
 Self driving vehicles and the shift to electric powered
 vehicles will radically impact carbon emissions.  It is
 hoped that it will massively reduce the need for many
@@ -323,7 +337,6 @@ Western countries where drink driving laws have had a major
 impact on bars and clubs because people can no longer risk
 drinking when they go out if there is no public transport
 system that could take them home while under the influence.
-
 
 ** Population
 ** 
