@@ -225,6 +225,33 @@ second stages combined over the next 10-15 years.  By the
 20th aniversery of the iPhone, the world will be almost
 unrecognizable from how it is today.
 
+This third stage has the potential of radically changing how
+we contribute to climate change.
+
+The first stage of globalization was possible because
+transportation became cheap.  The second stage was possible
+because of communications, networking and computing.  But
+the third factor is the cost of moving people.  In the
+second unbundling, moving people was still expensive, which
+was likely a major reason that the revolution was limited to
+i6 nations.  In the third unbundling, the cost of moving
+people will likely remain much the same as it is today.  But
+the tasks that required the moving of people, which centered
+around coordination costs -- which are all of the middlemen
+providing services that make the GVC possible.  It is the
+networks that these middlemen control and the relationships
+that they have built up that keeps work flowing to the same
+handful of i6 nations.  This is poised to radically change
+as three technologies mature; artifical intelligence,
+trustless transactions using blockchain techology and
+robotics combined with AI which will take over from skilled
+labour to control machines.
+
+Where the first wave of globalization was centralized, and
+the second wave was decentralized, the third wave will be
+distributed.
+
+
 ** Population
 ** 
 
