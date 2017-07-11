@@ -14,11 +14,6 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-  :PROPERTIES:
-  :URL:
-  :END:
-
-
 * Deploy | Table of Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
@@ -84,7 +79,7 @@ still don't know how all of this will shape up.  Time will tell.
  - [[./social-tribes.org][Tribes]]      : In many respects they will be the same as a Guild.
 
  - [[./deploy-globalization.org][Globalization]]
-
+ - [[./deploy-climate.org][Climate]]
 
  - [[./social-cadastre.org][Cadastre]]
 
