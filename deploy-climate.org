@@ -293,6 +293,31 @@ chain for every project, and when one job is finished a shop
 can take on another job in a completely different value
 chain.
 
+How will this effect climate change and carbon emissions?
+This is still early days, but these next generation
+companies will largely be new enterprises, who will be
+tooling using technologies which won't, as a general rule be
+using fossil fuels for energy.  Because they are smaller,
+their energy needs will be easier to be met using renewable
+energy sources which at smaller scales will very soon be
+cheaper than fossil fuel energy production.  It will change
+how we think about locating businesses.  A lot of
+urbanzation has taken place because jobs were located near
+or in urban areas where they could draw on larger labour
+pools and proximity to schools and other services.  A
+distributed infrastructure may remove many of the incentives
+to locating in urban areas that are highly regulated, have
+expensive property and rents.  While all of this is still
+very much conjecture, what it certain, is that as a large
+part of manufacturing and production adapts to the third
+wave and will have to retool in order to take advantage of
+automation, that there is an enormous opportunity to build
+this infrastructure to reduce or eliminate carbon emissions.
+
+Self driving vehicles and the shift to electric powered
+vehicles will radically impact carbon emmissions
+
+
 ** Population
 ** 
 
