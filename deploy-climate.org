@@ -314,6 +314,13 @@ wave and will have to retool in order to take advantage of
 automation, that there is an enormous opportunity to build
 this infrastructure to reduce or eliminate carbon emissions.
 
+This will address many concerns of climate models which
+factor in a prolonged period before fossil fuel based
+infrastructure is replaced by low or carbon neutral
+infrastructure.  This won't happen becuase of climate
+change, we will replace the old infrastructure faster
+because it will be economically benificial to do so.
+
 The Remote Work trend, where a growing number of people
 working in tech are working from home, will be reinforced
 and expanded.  Telepresense, high quality teleconferencing,
@@ -339,6 +346,52 @@ drinking when they go out if there is no public transport
 system that could take them home while under the influence.
 
 ** Population
+
+At the time this is being written, the world population is
+estimated to be 7.51 billion with births outpacing deaths at
+roughly 2:1.  If this trend continues as is, forecasts
+estimate this number rising to 9.7 billion by 2050.  After
+that, most population models predict that the population
+will drop dramatically untill it as fallen at least back to
+today's population levels, with some models predicting drops
+down to as low as 3.5 billion.
+
+What's going on here?  The number of children that families
+have is directly related to a number of factors.  Children
+in poor countries are seen as the only safety net for aging
+parents.  Second, children are seen as a means of boosting
+the total income a family can produce -- more children means
+a higher standard of living, and the loss of any one or two
+children will not devastate the income production of the
+family.  Next, lower mortality rates, mean that families
+don't feel the need to have more children as a hedge when
+some of them die.  And finally, educating women has a direct
+impact on family size.  When women are literate, they tend
+to have smaller families.
+
+It is also a worrying trend that the more advanced an
+economy gets, the lower the birthrate.  In fact, in a number
+of countries, the birth rate has fallen below the number
+needed to maintain it's population.  Rich nations are
+literally wiping themselves out.
+
+Furthermore, the birth rate in developing countries is
+dropping faster as they develop as they did in the past.  So
+the birth rate in Sweeden dropped slower as it developed as
+developing countries today. 
+
+As long as we can continue to reduce poverty, child
+mortality and educate women this trend will continue.
+
+So 50 years from now there will be less of us on the planet,
+who are all living at a relatively high standard of living.
+From a carbon emission standpoint it means that if we can
+survive the next 30 years with a growing but low carbon
+producing population, after that, emissions per person will
+drop radically as the population shrinks.
+
+In other words there is light at the end of the tunnel.
+
 ** 
 
 
