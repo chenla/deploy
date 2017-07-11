@@ -249,8 +249,49 @@ labour to control machines.
 
 Where the first wave of globalization was centralized, and
 the second wave was decentralized, the third wave will be
-distributed.
+distributed.  Every time that systems become more efficient,
+things get cheaper.  The first and second wave of
+globalization only worked at scale -- with the base unit
+being the 40' shipping container.  Producers who could
+manufacture goods in multiples of 40' containers thrived,
+while smaller shops, who might be producing better quality
+goods in smaller production runs were cut out of the
+benifits.  This is because the coordination costs for a
+large production run, was the same as for a small run.  The
+larger the production runs, the cheaper the coordination
+costs.
 
+But when most of the coordination services become automated,
+small production runs will enjoy the same benifits as large
+production runs.  An aggregation of many small production
+runs in many locations will simply be as efficient and cheap
+as large scale production.  At this point, the flexibility
+of small production will become apparant.
+
+At the moment, producing an iPhone requires coordinating and
+spinning up an enormous number of people.  Keeping those
+people busy means that the big factories can not afford any
+downtime without costing them enormous amounts of money.  If
+coordination, quality control and aggregation was automated,
+then large scale production using many small shops, which
+each can afford downtime, over the big factories which, like
+sharks (the story goes) if they stop swimming they will die.
+
+The second impact will be on labour costs.  A robot is
+cheaper and more efficient than cheap labour.  Robots result
+in lower waste, consistent quality and a higher standard of
+living for those who are employed.  A small shop will in the
+third wave will not be the same as small shops today.  They
+will leverage the same automation technology and methods as
+the big companies, but they will be faster to adapt to
+change, and more flexible.  A shop run by 6-10 people will
+be able to produce at the same capacity as middle-sized
+enterprises do today.
+
+Such a system will make it possible to create a new value
+chain for every project, and when one job is finished a shop
+can take on another job in a completely different value
+chain.
 
 ** Population
 ** 
