@@ -24,7 +24,7 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 #+begin_quote
-...Pynchonians believe that aspirations doomed to failure
+...true Pynchonians believe that aspirations doomed to failure
 are the only ones worth aspiring to.
 
 -- Pictures Showing What Happens on Each Page of Thomas
