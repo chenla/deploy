@@ -36,19 +36,20 @@ be moved off to other files.
 
 * microgreens
 
-* SPIN
+* SPIN (small plot intensive) Farming
 
 * Zones
 
 * Hardware
-** Quick Green Harvestor
+** quick green harvestor
 
  - [[https://www.youtube.com/watch?v=NnRp15wT8A8][HARVESTING GREENS IN THE FIELD!!]] | YouTube
 
 ** paperpot transplant system
- -  [[https://www.alibaba.com/product-detail/Paper-Pot-Vegetable-Transplanter-HP-10_50017018900.html][Paper Pot Vegetable Transplanter Hp-10 Made In Japan]] 
+ - [[https://www.alibaba.com/product-detail/Paper-Pot-Vegetable-Transplanter-HP-10_50017018900.html][Paper Pot Vegetable Transplanter Hp-10 Made In Japan]] 
+ - [[http://paperpot.co/][Paperpot Co.– Supplying Growers with Japanese Paper Pot Transplanters and Accessories]]
 
-
-** Rice rotovator 
+** rice rotovator 
 ** power harrow
 
+ - [[https://bcsamerica.com/product/power-harrow#!][Power Harrow]] | BCS America
