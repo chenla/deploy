@@ -450,4 +450,9 @@ liquid than a gas....
  - [[http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html][When Will Climate Change Make the Earth Too Hot For Humans?]] | New
    York Magazine
  - [[https://newrepublic.com/article/143788/power-peril-climate-disaster-porn][The Power and Peril of “Climate Disaster Porn”]] | New Republic
- - [[http://www.slate.com/articles/health_and_science/science/2017/07/we_are_not_alarmed_enough_about_climate_change.html][New York Magazine’s Climate Change Horror Story Isn’t Too Scary. It’s Not Scary Enough]]  | Slate
+ - [[http://www.slate.com/articles/health_and_science/science/2017/07/we_are_not_alarmed_enough_about_climate_change.html][New York Magazine’s Climate Change Horror Story Isn’t Too
+   Scary. It’s Not Scary Enough]]  | Slate
+
+ - [[https://arstechnica.com/science/2017/07/climate-scientists-push-back-against-catastrophic-scenarios/#p3][Climate scientists push back against catastrophic scenarios]] | Ars Technica
+ - [[http://www.nature.com/nature/journal/v547/n7662/full/nature22803.html][Overestimate of committed warming]] : Nature 
+
