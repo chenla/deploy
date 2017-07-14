@@ -85,7 +85,9 @@ flush with the ground.
 - [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]] 
 
 
-** high-tunnels on rails
+** Quonset Tunnels (bamboo framed, paneled high-tunnels)
+
+- [[https://en.wikipedia.org/wiki/Quonset_hut][Quonset hut - Wikipedia]]
 
 Today I was working on the concept of high tunnels.  Tunnels
 are useful for controling, temperature, air-flow, water, and
@@ -138,7 +140,10 @@ protection could help with.  For small farms this would be
 an important way of protecting plantings where loosing a
 whole paddy would be economically significant.
 
+quanset huts
+
 * No-Till Paddy/Row-Crop Rotation
+
 
 
   - rice
