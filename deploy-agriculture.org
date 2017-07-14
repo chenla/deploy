@@ -31,7 +31,7 @@ This file will be placeholder for all agricultural material which will
 be moved off to other files.
 
 
- - high-tunnels on rails
+
 
 
 * Seeds
@@ -84,6 +84,59 @@ flush with the ground.
 - [[https://www.amazon.com/CoolBot-Cooler-Controller-window-conditioner/dp/B003VSLTAI/ref=sr_1_1?ie=UTF8&qid=1500015696&sr=8-1&keywords=coolbot][CoolBot Walk-In Cooler Controller]] | Amazon
 - [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]] 
 
+
+** high-tunnels on rails
+
+Today I was working on the concept of high tunnels.  Tunnels
+are useful for controling, temperature, air-flow, water, and
+sunlight.
+
+Tunnels are used to extend growing seasons and to mitigate
+environmental extremes.   Tunnels can be covered in plastics
+that let in light, but protect from excess rains.  They can
+also be fine-meshed screens to let in air, some rain, but
+keep out bugs.
+
+All of the designs I've seen so far, use metal frames that
+have large single sheets of fabric that cover the entire
+frame.
+
+In the semi-tropics we have problems with pests, excess
+light and heat, humidity, water (with no drainage) but not
+cold.
+
+I'm thinking of breaking up tunnels into panels that can be
+made of of a variety of different materials that can then be
+mixed and matched to create different solutions.
+
+I love the idea of rails to slide tunnels from plot to
+plot.  But a modular panel solution isn't too difficult
+either.  Here in Phnom Penh it's common to see tents
+errected in an hour or so for weddings and funerals.  Their
+system is modular and a team of 5-10 people can assemble and
+tear down a large tent very quickly.
+
+I also like the idea of using bamboo for the panel frames.
+Bamboo has the advantage of not needing to bring in an
+outside shop to be able to repair or replace a panel.  Bend
+the pole when green, treat with borax salt and red chili
+pepper and you're done.
+
+What could be a challenge is keeping spaces between panels
+waterproof.  There are a number of solutions to this but it
+will take experiments in the field to see what works.
+
+I would also like to incorporate heat chimneys to help move
+air to supplement or replace fans.  There is also the
+possibility of incorporating swamp coolers that use
+falling water instead of mist -- these work well in Thailand
+on battery hen shacks.
+
+I'm also thinking of using tunnels on top of paddies -- rice
+has pest and rotting problems that screens and water
+protection could help with.  For small farms this would be
+an important way of protecting plantings where loosing a
+whole paddy would be economically significant.
 
 * No-Till Paddy/Row-Crop Rotation
 
