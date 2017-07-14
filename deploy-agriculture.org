@@ -87,7 +87,8 @@ flush with the ground.
 
 ** Quonset Tunnels (bamboo framed, paneled high-tunnels)
 
-- [[https://en.wikipedia.org/wiki/Quonset_hut][Quonset hut - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Polytunnel][Polytunnel]] | Wikipedia (akak high-tunnel, hoop-house)
+- [[https://en.wikipedia.org/wiki/Quonset_hut][Quonset hut]] | Wikipedia
 
 Today I was working on the concept of high tunnels.  Tunnels
 are useful for controling, temperature, air-flow, water, and
@@ -140,9 +141,10 @@ protection could help with.  For small farms this would be
 an important way of protecting plantings where loosing a
 whole paddy would be economically significant.
 
-The shape of a high tunnel is not the same as a quonset hut,
-which is semi-circular.  A high-tunnel has vertical sides --
-but can have a semi circular roof.
+The shape of a high-tunnel or poly-tunnel is often not the
+same as a quonset hut, which is semi-circular.  A
+high-tunnel has vertical sides -- but can have a semi
+circular roof.
 
 * No-Till Paddy/Row-Crop Rotation
 
