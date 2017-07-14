@@ -34,7 +34,26 @@ be moved off to other files.
  - high-tunnels on rails
 
 
+* Seeds
+
+ - [[Https://www.youtube.com/watch?v=ZPSDyYcsacQ][Ordering Seeds!!]] | YouTube
+ - [[http://www.lionseeds.com/][LION SEEDS CO., LTD.]] | LION SEEDS (Thailand)
+ - [[https://www.advanceseeds.com/][Advance Seeds Co.,Ltd.]] | (Thailand)
+ - [[http://knownyou.com.vn/][KNOWN-YOU SEED]] | (VIETNAM)
+ - [[http://www.ssc.com.vn/en/home.html][SOUNTHERN SEED CORPORATION]] | (Vietnam)
+ 
+
+
 * microgreens
+
+ - [[Https://www.youtube.com/watch?v=0uVL-PvzQxU][Small & Profitable Microgreen Farm In A Shipping Container!]] | urban farming (YouTube)
+ - [[https://www.youtube.com/watch?v=Et88naYCx20][Growing System Air Flow]] | YouTube
+ - [[https://www.youtube.com/watch?v=0IV2-xwxNsM][9 Day Indoor Sunflower Sprouts Time Lapse - YouTube]]
+ - [[http://foodpedalers.ca/wordpresssite/?page_id=85][Microgreens]] | Food Pedalers
+ - [[https://www.youtube.com/watch?v=xSKd030QoV0][Microgreen Trials and Tribulations]] | YouTube
+ - [[Https://www.youtube.com/watch?v=bRgYbFJpwFU][Microgreens In 2 Minutes!!]] | YouTube
+ - [[https://www.youtube.com/watch?v=IWCF4aks3y4][Soil For Microgreens!!]] | YouTube
+
 
 * SPIN (small plot intensive) Farming
 
@@ -51,6 +70,39 @@ be moved off to other files.
  - [[https://www.alibaba.com/product-detail/Easy-Seedling-Paper-Pot-for-vegetables_50017257040.html?spm=a2700.7724838.2017115.57.u6JGMP][Easy Seedling Paper Pot For Vegetables Made In Japan]] 
 
 ** rice rotovator 
+
+If I understand correctly, an implement that cuts short-cut rice stems
+flush with the ground.
+
 ** power harrow
 
  - [[https://bcsamerica.com/product/power-harrow#!][Power Harrow]] | BCS America
+
+** walk-in cooler
+
+- [[https://www.youtube.com/watch?v=1DYrLOXUFqs][IN FOCUS - Walk in Cooler on a Budget]] | YouTube
+- [[https://www.amazon.com/CoolBot-Cooler-Controller-window-conditioner/dp/B003VSLTAI/ref=sr_1_1?ie=UTF8&qid=1500015696&sr=8-1&keywords=coolbot][CoolBot Walk-In Cooler Controller]] | Amazon
+- [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]] 
+
+
+* No-Till Paddy/Row-Crop Rotation
+
+
+  - rice
+  - harvest / rotovator
+  - chickens
+  - grass
+  - cows
+  - chickens
+  - flood
+  - wheat
+  - harvest / rotovator
+  - chickens
+  - grass
+  - cows
+  - chickens
+  - flood
+  - wheat
+  
+
+dickson despommier
