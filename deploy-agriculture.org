@@ -140,7 +140,9 @@ protection could help with.  For small farms this would be
 an important way of protecting plantings where loosing a
 whole paddy would be economically significant.
 
-quanset huts
+The shape of a high tunnel is not the same as a quonset hut,
+which is semi-circular.  A high-tunnel has vertical sides --
+but can have a semi circular roof.
 
 * No-Till Paddy/Row-Crop Rotation
 
