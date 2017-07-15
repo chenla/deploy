@@ -32,12 +32,22 @@ be moved off to other files.
 
 * Seeds
 
+** Regional
  - [[Https://www.youtube.com/watch?v=ZPSDyYcsacQ][Ordering Seeds!!]] | YouTube
- - [[http://www.lionseeds.com/][LION SEEDS CO., LTD.]] | LION SEEDS (Thailand)
+ - [[Http://www.lionseeds.com/][Lion Seeds Co., LTD.]] | Lion Seeds (Thailand)
  - [[https://www.advanceseeds.com/][Advance Seeds Co.,Ltd.]] | (Thailand)
- - [[http://knownyou.com.vn/][KNOWN-YOU SEED]] | (VIETNAM)
- - [[http://www.ssc.com.vn/en/home.html][SOUNTHERN SEED CORPORATION]] | (Vietnam)
- 
+ - [[Http://knownyou.com.vn/][Known-You Seed]] | (Vietnam)
+ - [[Http://www.ssc.com.vn/en/home.html][Sounthern Seed Corporation]] | (Vietnam)
+** N America
+*** American 
+- [[http://www.johnnyseeds.com][Johnny’s Selected Seeds]]  
+- [[http://www.highmowingseeds.com][High Mowing Seeds]]
+
+*** Canadia
+- [[http://damseeds.ca/][William Dam Seeds]]
+- [[https://www.westcoastseeds.com][West Coast Seeds]]
+- [[http://sprouting.com][Mumms Sprouting Seeds]]
+
 * Microgreen Varieties
  - [[https://www.growingmicrogreens.com/microgreens-seeds/white-sprouting-radish][Daikon Radish]] | Microgreens Seeds
  - [[https://www.growingmicrogreens.com/microgreens-seeds/dun-pea][Dun Pea]] | Microgreens Seeds
