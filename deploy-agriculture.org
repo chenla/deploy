@@ -30,10 +30,6 @@
 This file will be placeholder for all agricultural material which will
 be moved off to other files.
 
-
-
-
-
 * Seeds
 
  - [[Https://www.youtube.com/watch?v=ZPSDyYcsacQ][Ordering Seeds!!]] | YouTube
@@ -42,8 +38,6 @@ be moved off to other files.
  - [[http://knownyou.com.vn/][KNOWN-YOU SEED]] | (VIETNAM)
  - [[http://www.ssc.com.vn/en/home.html][SOUNTHERN SEED CORPORATION]] | (Vietnam)
  
-
-
 * microgreens
 
  - [[Https://www.youtube.com/watch?v=0uVL-PvzQxU][Small & Profitable Microgreen Farm In A Shipping Container!]] | urban farming (YouTube)
@@ -53,7 +47,6 @@ be moved off to other files.
  - [[https://www.youtube.com/watch?v=xSKd030QoV0][Microgreen Trials and Tribulations]] | YouTube
  - [[Https://www.youtube.com/watch?v=bRgYbFJpwFU][Microgreens In 2 Minutes!!]] | YouTube
  - [[https://www.youtube.com/watch?v=IWCF4aks3y4][Soil For Microgreens!!]] | YouTube
-
 
 * SPIN (small plot intensive) Farming
 
@@ -78,12 +71,17 @@ flush with the ground.
 
  - [[https://bcsamerica.com/product/power-harrow#!][Power Harrow]] | BCS America
 
+** Jang Seeder 
+
+ - [[https://www.youtube.com/watch?v=K59h04IS3Fo][Jang JP1 Clean Seeder :: Anatomy & Use]] | YouTube
+ - [[https://www.youtube.com/watch?v=rN5aMZtOtSM#t=393.415691][Jang Seeder In Beast Mode]] | YouTube
+
+
 ** walk-in cooler
 
 - [[https://www.youtube.com/watch?v=1DYrLOXUFqs][IN FOCUS - Walk in Cooler on a Budget]] | YouTube
 - [[https://www.amazon.com/CoolBot-Cooler-Controller-window-conditioner/dp/B003VSLTAI/ref=sr_1_1?ie=UTF8&qid=1500015696&sr=8-1&keywords=coolbot][CoolBot Walk-In Cooler Controller]] | Amazon
 - [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]] 
-
 
 ** Quonset Tunnels (bamboo framed, paneled high-tunnels)
 
@@ -147,8 +145,6 @@ high-tunnel has vertical sides -- but can have a semi
 circular roof.
 
 * No-Till Paddy/Row-Crop Rotation
-
-
 
   - rice
   - harvest / rotovator
