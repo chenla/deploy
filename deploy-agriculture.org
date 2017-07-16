@@ -102,7 +102,7 @@ flush with the ground.
 
 - [[https://www.youtube.com/watch?v=1DYrLOXUFqs][IN FOCUS - Walk in Cooler on a Budget]] | YouTube
 - [[https://www.amazon.com/CoolBot-Cooler-Controller-window-conditioner/dp/B003VSLTAI/ref=sr_1_1?ie=UTF8&qid=1500015696&sr=8-1&keywords=coolbot][CoolBot Walk-In Cooler Controller]] | Amazon
-- [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]] 
+- [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]]
 
 ** Quonset Tunnels (bamboo framed, paneled high-tunnels)
 
@@ -164,6 +164,17 @@ The shape of a high-tunnel or poly-tunnel is often not the
 same as a quonset hut, which is semi-circular.  A
 high-tunnel has vertical sides -- but can have a semi
 circular roof.
+
+** Spacing Containers and Shelves
+
+ - [[http://www.gpnmag.com/article/grower-101-calculations-part-iv-spacing-containers/][Grower 101: Calculations Part IV: Spacing Containers –
+   Greenhouse Product News]]
+ - [[https://arcadiaglasshouse.com/greenhouse-tips/tip-11-sizing-your-greenhouse-for-optimum-utilization-of-space/][Tip #12: Sizing Your Greenhouse for Optimum Utilization of Space]] | Arcadia GlassHouse]]
+ - 
+
+* Vertical Farming
+
+ - [[http://www.gpnmag.com/article/vertical-farming/][Vertical Farming – Greenhouse Product News]]
 
 * No-Till
 
