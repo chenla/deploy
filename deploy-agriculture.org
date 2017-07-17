@@ -107,7 +107,7 @@ flush with the ground.
 ** Drip Irrigation
 
  - [[https://www.irrigationtutorials.com/drip-irrigation-design-guidelines-basics-of-measurements-parts-and-more/][Drip Irrigation Design Guidelines]] | Basics of Measurements, Parts etc
-
+ - [[https://news.ycombinator.com/item?id=14782250][Drip Irrigation Design Guidelines]] | Hacker News
 ** Quonset Tunnels (bamboo framed, paneled high-tunnels)
 
 - [[https://en.wikipedia.org/wiki/Polytunnel][Polytunnel]] | Wikipedia (akak high-tunnel, hoop-house)
