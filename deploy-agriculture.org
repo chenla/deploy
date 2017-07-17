@@ -104,6 +104,10 @@ flush with the ground.
 - [[https://www.amazon.com/CoolBot-Cooler-Controller-window-conditioner/dp/B003VSLTAI/ref=sr_1_1?ie=UTF8&qid=1500015696&sr=8-1&keywords=coolbot][CoolBot Walk-In Cooler Controller]] | Amazon
 - [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]]
 
+** Drip Irrigation
+
+ - [[https://www.irrigationtutorials.com/drip-irrigation-design-guidelines-basics-of-measurements-parts-and-more/][Drip Irrigation Design Guidelines]] | Basics of Measurements, Parts etc
+
 ** Quonset Tunnels (bamboo framed, paneled high-tunnels)
 
 - [[https://en.wikipedia.org/wiki/Polytunnel][Polytunnel]] | Wikipedia (akak high-tunnel, hoop-house)
