@@ -60,4 +60,58 @@
  - [[https://www.gizmodo.com.au/2013/11/astonishing-picture-of-earth-compared-to-all-its-water-and-air/][Astonishing Picture Of Earth Compared To All Its Water And Air]] | Gizmodo Australia
  - [[http://boingboing.net/2008/03/11/all-the-water-and-ai.html][All the water and air on earth gathered into spheres and compared
    to the Earth]] | Boing Boing
- - 
+ - [[https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyMC8wNzgvb3JpZ2luYWwvZWFydGgtbWFycy1yZWxhdGl2ZS1zaXplLnBuZw==][Image of earth and mars]]
+ - [[http://inbusiness.ae/2016/11/18/earth-has-shockingly-little-water-and-ice-compared-to-these-ocean-worlds/][Earth has shockingly little water and ice compared to these ocean worlds]] | InBusiness
+
+
+We start with the basic unit being a planetary body.  Not just planets
+but planetiods including moons and large asteroids suitible for
+building habitats.
+
+* Structure of the Earth
+
+Earth has a core which is broken down into an inner core of solid
+iron that gives the planet it's magnetic field (important for
+sheilding life from solar and cosmic radiation) which is surrounded by
+a molten core, which is surrounded by a semi stable mantle which makes
+up the bulk of the planet's mass.  The mantle has a more stable upper
+mantle which is then surrounded by a thin crust.  The more stable part
+of the upper mantle and the crust are what we live on and are made up
+of tectonic plates that move over time and rearrange the continents
+and oceans.  This is known as the lithosphere.
+
+Above the Lithosphere is the hydrosphere, which inludes all water in
+the oceans and any water vapour in the atmosphere.  Above the
+lithosphere is the atmosphere which is the razor thin mixture of
+mostly nitrogen and 20% oxygen (and trace elements) what we live in.
+
+Finally, the biosphere is the region between the bottom of the
+hydrosphere and the bottom part of the atmosphere that can sustain
+life.
+
+It's easy to forget how small the atmosphere and hydrosphere is
+relative to the size of the planet.
+
+  [ [ IMAGE ] ] 
+
+* Biosphere
+
+
+
+
+* Living outside of Earth's Biosphere
+
+For us to survive outside of earth we must bring an
+atmosphere/hydrosphere/biosphere with us.  The atmosphere that we
+breath today was created over billions of years by life on the
+planet.
+
+We can survive for years, perhaps decades outside the planet by
+bringing with us an atmosphere and liquid water.  But in all
+likelyhood we will eventually die without a functional biosphere to
+support enough biodiversity to produce a health atmosphere, and the
+food, we need from plants, animals and micro organisms.  We are
+complex creatures that live in an extremely varied and complex
+interdependent ecosystem.  We won't survive as a species unless we can
+replicate an earth-like biosphere outside of the planet.
+
