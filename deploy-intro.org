@@ -27,3 +27,37 @@
 
 * Introduction
 
+ - [[https://en.wikipedia.org/wiki/Biosphere][Biosphere]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Biome][Biome]] | Wikipedia
+ - [[https://www.britannica.com/science/hydrosphere][hydrosphere]] | Britannica.com (good graphic)
+ - [[https://en.wikipedia.org/wiki/Biotope][Biotope]] - Wikipedia
+ - [[https://en.wikipedia.org/wiki/Global_200][Global 200]] - Wikipedia (WWF biome classification system)
+ - [[http://planet.uwc.ac.za/nisl/Biodiversity/pdf/OlsonDinerstein1998.pdf][OlsonDinerstein1998.pdf]] -- WWF paper describing classification system
+ 
+
+ - [[http://www.johnenglander.net/sea-level-rise-blog/oceans-are-71-of-earths-surface-but-more-than-99-of-biosphere/][Oceans are 71% of Earth's Surface, but more than 99% of Biosphere]] |
+   John Englander
+
+ - [[https://nssdc.gsfc.nasa.gov/planetary/planetfact.html][Planetary Fact Sheets]] | NASA (index)
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html][Earth Fact Sheet]] | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html][Moon Fact Sheet]] | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html][Mars Fact Sheet]] | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/chironfact.html][Chiron Fact Sheet]] | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html][Asteroid Fact Sheet]] | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/][Planetary Fact Sheet]] | NASA
+ 
+ - [[https://hypertextbook.com/facts/2001/AmandaMeyer.shtml][Mass of the Biosphere]] | The Physics Factbook
+ - [[https://aeon.co/essays/we-are-not-edging-up-to-a-mass-extinction][We are not edging up to a mass extinction]] | Steward Brand (Aeon
+    Essays)
+ - [[https://en.wikipedia.org/wiki/Keystone_species][Keystone species]] | Wikipedia
+ - [[https://www.thoughtco.com/what-is-a-keystone-species-129483][What Is a Keystone Species?]] | ThoughtCo.
+ - [[https://en.wikipedia.org/wiki/Lithosphere][Lithosphere]] | Wikipedia
+ - [[https://scitechdaily.com/earths-water-supply-summed-up-in-one-tiny-bubble/][Earth's Water Supply Summed Up in One "Tiny" Bubble]] | SciTechDaily
+ - [[https://www.thoughtco.com/the-four-spheres-of-the-earth-1435323][Atmosphere, Biosphere, Hydrosphere and Lithosphere]] | ThoughtCo.
+ - [[http://www.sciencephoto.com/media/159214/view][Global water and air volume - Stock Image E055/0330 - Science
+   Photo Library]] 
+ - [[https://img.gawkerassets.com/img/197kr3nohaffsjpg/original.jpg][original.jpg (JPEG Image, 800 × 800 pixels)]]
+ - [[https://www.gizmodo.com.au/2013/11/astonishing-picture-of-earth-compared-to-all-its-water-and-air/][Astonishing Picture Of Earth Compared To All Its Water And Air]] | Gizmodo Australia
+ - [[http://boingboing.net/2008/03/11/all-the-water-and-ai.html][All the water and air on earth gathered into spheres and compared
+   to the Earth]] | Boing Boing
+ - 
