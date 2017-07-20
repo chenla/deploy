@@ -96,6 +96,44 @@ relative to the size of the planet.
 
 * Biosphere
 
+Life on the planet is divided into three primary environments,
+terrestrial, fresh water and marine.
+
+These are then in turn broken into different regions called /biomes/
+which are characterized by their elevation (or depth in water
+environments) atmospheric pressure, rainfall, sunlight, temperature
+and soil.
+
+Each biome is broken into smaller biotope which has a specific
+collection of plants, animals and micro organisms.  Species of plants
+and animals belong to specific biotopes and may differ between
+biotopes even within the same biome as sub-species.
+
+The biosphere is governed by the rotation of the earth which allows
+the planet to evenly heat and cool, as well as seasonal heating and
+cooling from the planet's orbit as it orbits closer or farther from
+the sun.
+
+The moon provide gravitational tidal effects which help increase
+movement of water in oceans and lakes, as well as in the atmosphere.
+Heating and cooling keeps air and water moving around the planet.
+
+The poles recieve less sun than lower latitudes, and variations in the
+length of day and night that increases as you move from the equator to
+the poles.
+
+The biosphere has water cycles which evaporates water into the
+atmosphere, which precipitates back to the surface as rain or snow.
+Which then runs off the surface of the planet into rivers and
+eventually in the ocean.  Some of that water seeps into the
+lithosphere and replentishes underground water stores.
+
+There is a carbon cycle that is powered by plant and animal life.
+Plants take in CO2 and spit out Oxygen.  Animals then take oxygen and
+spit out CO2.
+
+There is also a Nitrogen Cycle which is used by plants that cycles
+nitrogen from the atmosphere to the soil and back again.
 
 
 
