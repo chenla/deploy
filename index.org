@@ -94,6 +94,9 @@ still don't know how all of this will shape up.  Time will tell.
  - Tools
 
  - [[./deploy-agriculture.org][Agriculture]]
+   - [[./agro-zones.org][Zones]]
+
+
  - Energy
  - [[./deploy-ecosystem.org][Ecosystem]]
  - [[./deploy-degrade.org][Graceful Degradation]]
