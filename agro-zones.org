@@ -27,3 +27,21 @@
 
 * Introduction
 
+ - [[https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/4-zones-and-sectors-efficient-energy-planning/][4. Zones and Sectors – Efficient Energy Planning]] | Deep Green
+   Permaculture
+
+  
+* Von Thunen Model
+
+ - [[https://en.wikipedia.org/wiki/Johann_Heinrich_von_Th%C3%BCnen][Johann Heinrich von Thünen]] | Wikipedia
+ - [[https://www.thoughtco.com/von-thunen-model-1435806][Learn About the Von Thunen Model]] | ThoughtCo.
+
+* Connected Farm Buildings
+
+ - [[https://en.wikipedia.org/wiki/Connected_farm][Connected farm]] | Wikipedia
+ - Big House, Little House, Back House, Barn: The Connected 
+   Farm Buildings of New England TC Hubka (2004)
+ - Zelinsky, Wilbur Fraser (October 1958), "The New England Connecting
+   Barn", Geographical Review, 48 (4): 274–293, ISSN 0016-7428,
+   doi:10.2307/211674, JSTOR.  (http://sci-hub.bz/10.2307/211674)
+ - 
