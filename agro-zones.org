@@ -31,7 +31,7 @@
    Permaculture
 
   
-* Von Thunen Model
+* Von Thünen Model
 
  - [[https://en.wikipedia.org/wiki/Johann_Heinrich_von_Th%C3%BCnen][Johann Heinrich von Thünen]] | Wikipedia
  - [[https://www.thoughtco.com/von-thunen-model-1435806][Learn About the Von Thunen Model]] | ThoughtCo.
