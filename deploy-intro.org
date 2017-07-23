@@ -110,6 +110,7 @@
 
 
 
+- transactive mankind
 - externalized man
   - the neocortex
   - tools
@@ -119,7 +120,6 @@
   - machines
   - computation
   - robotics
-- transactive mankind
 
 * the place where you work
 
