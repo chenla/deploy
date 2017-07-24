@@ -71,8 +71,7 @@
 
   - *a social contract*
 
-    combine a philosophy of life for individuals and a
-    political model
+    a philosophy of life
 
     what is a good life?
 
@@ -90,6 +89,10 @@
       - the network has your back, always
 
     identity model
+
+  - *human scale societies*
+
+    a human scale political model & philosophy
 
   - *habitats for man*
 
