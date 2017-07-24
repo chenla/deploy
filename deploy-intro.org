@@ -89,10 +89,17 @@
       - education
       - the network has your back, always
 
+    identity model
+
   - *habitats for man*
 
+    ecosystems in a can -- we gotta get good at this
+    christopher alexander on crystal meth
 
-  - *the graph is the network*
+
+  - *the graph economy*
+
+    it-torrents and sneakernets of things
 
   - *distributed*
 
