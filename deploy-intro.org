@@ -96,11 +96,14 @@
     ecosystems in a can -- we gotta get good at this
     christopher alexander on crystal meth
 
-
   - *the graph economy*
 
     it-torrents and sneakernets of things
 
+  - *education something something*
+
+    life-long learning based on trivium
+ 
   - *distributed*
 
     a roadmap for building a distributed civilization
