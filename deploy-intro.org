@@ -116,7 +116,54 @@ can do things?
 
    since we can't grow our brains any larger, our neocortex
    did something remarkable -- it figured out how to
-   leverage our tranactional nature 
+   leverage our tranactional nature to externalize brain
+   capacity - to move memory, cognition and muscle outside
+   of our bodies and into the group
+
+ - tools
+
+   man is not the only tool building species, but there we
+   are the first to be able to innovate in timescales of
+   individuals. 
+
+ - speech
+
+   the development of spoken languages was an astonishing
+   innovation that made it possible to offload memory to
+   other people in a group -- language made it possible to
+   standardize labels for things, so that we could share our
+   thoughts in detail.  It made it possible to store
+   information in human memory across a group and pass those
+   memories from generation to generation.  this made
+   possible the birth of agriculture, abstract thinking, and
+   civilization -- but it hit a wall sometime around the
+   time of the age of Homer.  Havelock....
+
+ - writing systems
+
+   the invention of writing systems allowed man to extend
+   speech in a number of important ways.  
+ 
+   time travel, space travel, independent of human memory
+   storage.
+
+ - machines 
+
+   machines are complex tools that combine multiple tools
+   into a larger tool -- when machines are connected to an
+   external power supply (not human) which could be an
+   animal, water or wind powered -- the machine can perform
+   complex tasks with little or no human guidance.
+
+ - computers
+
+   for our purposes here, a computer is a combination of
+   both memory, computation and executable code
+
+ - networks
+
+   linked computers together in the same way that speech and
+   writing linked people together
 
 ** a social contract
 
