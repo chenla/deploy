@@ -71,6 +71,14 @@
 What is it that determines what we are and what and how we
 can do things?
 
+Drake's Equation and the Fermi Paradox keep a lot of
+scientists in a wide range of disciplines awake at night.
+These are not academic questions, they are at the heart of
+understanding both our existence and our survival.
+
+This is a good place to start -- because the answers
+determine everything from what 
+
  - Physics
    - matter, energy, time
    - gravity -- keeps stuff in place, makes many biological
@@ -214,6 +222,20 @@ can do things?
    becomes complex enough it becomes increasingly autonomous
    and can do things independently of human control or even
    direction
+
+Now let's back up and talk about civilization
+
+  - hunter gatherer -- distributed  
+  - agricultural    -- centralized    | physical
+  - industrial                        | symbolic
+  - global          -- decentralized  | information
+  - ????            -- distributed
+
+The next 50 years
+
+  - climate
+  - population
+
 
 ** a social contract
 
