@@ -75,15 +75,19 @@ can do things?
    - matter, energy, time
    - gravity -- keeps stuff in place, makes many biological
      processes easier -- no need for many pumps
-   - entropy --
+   - entropy -- and the arrow of time
+   - speed of light
+     - changes propagate 
+     - pace layers different things change at different speeds 
+
  - Stars
    - create heat and light, which makes many things possible
    - a gravity well that allows things to stay close to the
      heat in a stable manner
-- Planets
+ - Planets
    - structure - core, mantle, crust  
    - 4 spheres, litho, hydro, atmo, bio
-- Biospheres 
+ - Biospheres 
    - Extinction events: clean house and prepare for
      explosive growth
 
