@@ -112,6 +112,7 @@ determine everything from what
      itself and thus better able to survive.
    - Environment -- temperature, pressure, fuel sources
      (chemical and solar) gravity, elements
+   - biosphere --> biome --> biotope --> species
    - Carrying Capacity
    - Minimal Viability
    - Extinction events: clean house and prepare for
@@ -225,11 +226,11 @@ determine everything from what
 
 Now let's back up and talk about civilization
 
-  - hunter gatherer -- distributed  
-  - agricultural    -- centralized    | physical
-  - industrial                        | symbolic
-  - global          -- decentralized  | information
-  - ????            -- distributed
+  - hunter gatherer -- distributed    |             | bands/chiefdoms
+  - agricultural    -- centralized    | physical    | city states
+  - industrial                        | symbolic    | nation-states
+  - global          -- decentralized  | information | 
+  - ????            -- distributed    |             | bioregions
 
 The next 50 years
 
@@ -264,8 +265,14 @@ The next 50 years
 
 ** habitats for man
 
-    ecosystems in a can -- we gotta get good at this
-    christopher alexander on crystal meth
+  the more biospheres that can sustainably maintain MVP,
+  the more distributed we become
+
+  what is a minimal viable biosphere?
+
+  ecosystems in a can -- we gotta get good at this
+
+  christopher alexander on crystal meth
 
 ** the graph economy
 
