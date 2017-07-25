@@ -66,10 +66,27 @@
 
 * fook
 
-  - *you are what you is*
-    you is what you are
+** you are what you is
 
-  - *a social contract*
+What is it that determines what we are and what and how we
+can do things?
+
+ - Physics
+   - matter, energy, time
+   - gravity -- keeps stuff in place, makes many biological
+     processes easier -- no need for many pumps
+   - entropy --
+ - Stars
+   - create heat and light, which makes many things possible
+   - a gravity well that allows things to stay close to the
+     heat in a stable manner
+- Planets
+   - structure - core, mantle, crust  
+   - 4 spheres, litho, hydro, atmo, bio
+- Biospheres 
+   - Extinction events
+
+** a social contract
 
     a philosophy of life
 
@@ -90,20 +107,20 @@
 
     identity model
 
-  - *human scale societies*
+** human scale societies
 
     a human scale political model & philosophy
 
-  - *habitats for man*
+** habitats for man
 
     ecosystems in a can -- we gotta get good at this
     christopher alexander on crystal meth
 
-  - *the graph economy*
+** the graph economy
 
     it-torrents and sneakernets of things
 
-  - *education something something*
+** education something something
 
     life-long learning based on trivium
  
