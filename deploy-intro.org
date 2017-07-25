@@ -76,22 +76,38 @@ can do things?
    - gravity -- keeps stuff in place, makes many biological
      processes easier -- no need for many pumps
    - entropy -- and the arrow of time
-   - speed of light
-     - changes propagate 
+   - speed limits
+     - changes propagate -- information propagates
+     - allows us to see into the past
      - pace layers different things change at different speeds 
-
+   - stability of elements -- carbon is very important
+ - Galaxies create stellar nurseries, and keep enough stars
+   together so that intelligent species will know they are
+   not alone.  Too close together is dangerous, too far
+   apart will make intersteller travel impractical (it's not
+   clear if our neighbors are too far away or not).
  - Stars
    - create heat and light, which makes many things possible
    - a gravity well that allows things to stay close to the
      heat in a stable manner
  - Planets
-   - structure - core, mantle, crust  
+   - structure - core, mantle, crust
+   - size -- small and rocky -- too heavy and it will be too
+     difficult to escape the gravity well  
    - 4 spheres, litho, hydro, atmo, bio
- - Biospheres 
+ - Biospheres
+   - DNA -- self-replicating information systems
+     life and evolution is the result of DNA making copies
+     of itself and changing over time as errors (mutations)
+     are introduced from copying errors -- some changes
+     improve the chances of DNA of being able to replicate
+     itself and thus better able to survive.
+   - Environment -- temperature, pressure, fuel sources
+     (chemical and solar) gravity, elements
+   - Carrying Capacity
+   - Minimal Viability
    - Extinction events: clean house and prepare for
      explosive growth
-
-
 
  - Transactive species 
 
@@ -143,6 +159,11 @@ can do things?
    civilization -- but it hit a wall sometime around the
    time of the age of Homer.  Havelock....
 
+   speech made cities possible
+
+   money was physical wealth that could be used for trading
+   
+
  - writing systems
 
    the invention of writing systems allowed man to extend
@@ -151,6 +172,20 @@ can do things?
    time travel, space travel, independent of human memory
    storage.
 
+   writing was limited to a very small part of the
+   population -- which was enough to make states
+
+ - duplication
+
+   the printing press made exact copies possible
+
+   the printing press expanded literacy to populations at
+   large which was needed for the industrial revolution.
+
+   money started to become symbolic, backed by threat of
+   phsyical power and eventually stopped being backed by
+   physical wealth, only threat of force
+
  - machines 
 
    machines are complex tools that combine multiple tools
@@ -158,6 +193,8 @@ can do things?
    external power supply (not human) which could be an
    animal, water or wind powered -- the machine can perform
    complex tasks with little or no human guidance.
+
+   steam (and later diesel and then electricity)
 
  - computers
 
@@ -168,6 +205,15 @@ can do things?
 
    linked computers together in the same way that speech and
    writing linked people together
+
+   money became information
+
+ - robotics 
+
+   a combination of machines and computers -- when software
+   becomes complex enough it becomes increasingly autonomous
+   and can do things independently of human control or even
+   direction
 
 ** a social contract
 
