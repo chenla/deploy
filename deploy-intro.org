@@ -76,6 +76,27 @@ scientists in a wide range of disciplines awake at night.
 These are not academic questions, they are at the heart of
 understanding both our existence and our survival.
 
+#+begin_src latex
+The number of such civilizations {{mvar|N}}, is assumed to be equal to the mathematical product of
+{{ordered list|list_style_type=lower-roman
+|{{math|''R''<sub>∗</sub>}}, the average rate of star formations, in our galaxy,
+|{{math|''f''<sub>p</sub>}}, the fraction of formed stars, that have planets,
+|{{math|''n''<sub>e</sub>}} for stars that have planets, the average number of planets that can potentially support life,
+|{{math|''f''<sub>l</sub>}}, the fraction of those planets, that actually develop life,
+|{{math|''f''<sub>i</sub>}}, the fraction of planets bearing life on which intelligent, civilized life, has developed,
+|{{math|''f''<sub>c</sub>}}, the fraction of these civilizations that have developed communications, i.e., technologies that release detectable signs into space, and
+|{{mvar|L}}, the length of time, over which such civilizations release detectable signals,}}
+for a combined expression of:
+<math>N = R_* \cdot f_\mathrm{p} \cdot n_\mathrm{e} \cdot f_\mathrm{l} \cdot f_\mathrm{i} \cdot f_\mathrm{c} \cdot L</math>
+#+end_src
+
+  - [[https://www.authorea.com/users/2/articles/28104-interactive-drake-equation/_show_article][Interactive Drake Equation]] | Authorea
+  - [[https://en.wikipedia.org/wiki/Drake_equation][Drake equation]] | Wikipedia
+  - [[https://waitbutwhy.com/2014/05/fermi-paradox.html][The Fermi Paradox]] | Wait But Why
+  - [[https://en.wikipedia.org/wiki/Mediocrity_principle][Mediocrity principle]] | Wikipedia
+
+
+
 This is a good place to start -- because the answers
 determine everything from what 
 
@@ -145,7 +166,7 @@ determine everything from what
 
    since we can't grow our brains any larger, our neocortex
    did something remarkable -- it figured out how to
-   leverage our tranactional nature to externalize brain
+   leverage our transactional nature to externalize brain
    capacity - to move memory, cognition and muscle outside
    of our bodies and into the group
 
