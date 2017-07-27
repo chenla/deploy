@@ -86,7 +86,8 @@ could evolve on their own (in a directed fashion) to
 improve.
 
 In other words, the future isn't 3D printing and fabrication
--- it will be organically grown stuff.
+-- it will be organically grown stuff that will then be
+lightly fabricated into final shape.
 
 Engineering and biology will converge.  And computational
 hardware will be the same.  AI will increasingly become more
