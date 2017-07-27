@@ -30,6 +30,27 @@ This file will be placeholder for all agricultural material which will
 be moved off to other files.
 #+end_comment
 
+#+begin_quote
+Every human society that has relied on annual crops as
+staple foods in their diet has collapsed. Every single
+one. Every human society from the temperate zone to the
+tropics that has relied on annuals to feed itself, is now
+gone. And the rich, abundant ecosystems where their
+temporary societies once flourished have been rendered into
+dust.
+
+The complexities of how each one of these societies has
+disappeared are too detailed and numerous to list here.
+Religion, politics, war, disease, economic inequity, and
+invasion have all played a role in the various collapsed
+societies, but the one thing they have all had in common is
+the reliance on annual crops as their food. How could this
+be a cause of collapse?
+
+-- Mark Shepard
+#+end_quote
+
+
 * Introduction
 
 The deeper I dive into agriculture and permaculture that
