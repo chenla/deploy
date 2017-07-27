@@ -66,6 +66,7 @@
 
 * fook
 
+
 ** you are what you is
 
 What is it that determines what we are and what and how we
@@ -95,10 +96,8 @@ for a combined expression of:
   - [[https://waitbutwhy.com/2014/05/fermi-paradox.html][The Fermi Paradox]] | Wait But Why
   - [[https://en.wikipedia.org/wiki/Mediocrity_principle][Mediocrity principle]] | Wikipedia
 
-
-
 This is a good place to start -- because the answers
-determine everything from what 
+determine everything 
 
  - Physics
    - matter, energy, time
