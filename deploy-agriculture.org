@@ -51,6 +51,33 @@ be a cause of collapse?
 #+end_quote
 
 
+#+begin_quote
+The Flemish chemist Jan Baptist van Helmont, starting in
+1643, performed an experiment that many of us learned about
+in grade school science class. In the spring of that year,
+van Helmont filled a large planter barrel with a carefully
+measured quantity of soil and planted a willow cutting in
+it. For five years he tended the tree giving it plenty of
+water. At the end of that time he removed the tree, roots
+and all, and weighed it. It weighed nearly 165 lbs. To
+almost everybody’s surprise, the soil weighed the same as it
+originally had. In reaching for an explanation, van Helmont
+theorized that the material that made up the five-year-old
+willow tree must have come from the water that he had
+added. Later experiments however, showed that the majority
+of the tree’s body came from the atmosphere.
+
+-- Mark Shepard
+#+end_quote
+
+
+
+
+
+
+
+
+
 * Introduction
 
 The deeper I dive into agriculture and permaculture that
