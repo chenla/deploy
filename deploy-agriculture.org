@@ -25,10 +25,37 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Introduction
-
+#+begin_comment
 This file will be placeholder for all agricultural material which will
 be moved off to other files.
+#+end_comment
+
+* Introduction
+
+The deeper I dive into agriculture and permaculture that
+strikes me most is the shear amount of knowledge required to
+do this stuff.  A master always makes things look easy, but
+as you watch a video of Sepp Holtzer casually stroll around
+his terraces, planting trees or broadcast sowing seed it's
+not obvious how much experience and knowledge there  is
+behind those careless looking actions.  When he looks at
+plants or soil, or rain, wind, or when chicken is scratching
+in the dirt, he sees things that most people will never
+see.
+
+This is the difference between monoculture farming and
+polyculture.  Monoculture is not trivial to learn, but it
+isn't that difficult either.  But polyculture requires you
+to absorb and internalize encyclopedic knowledge of complex
+interconnected systems that span many disciplines.
+
+So how can such farming become widespread if the learning
+curve is basically a lifetime?
+
+And where can you learn it when there are so few masters,
+and books and youtube will only get you so far...
+
+
 
 * Book and Link List
 
