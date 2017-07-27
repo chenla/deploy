@@ -55,7 +55,18 @@ curve is basically a lifetime?
 And where can you learn it when there are so few masters,
 and books and youtube will only get you so far...
 
+Can we start to build intelligent systems that leverage not
+only satellite imagry, and a handful of sensors to do much
+more?  There is no replacement for a farmer walking the
+land.  But can we provide augmented reality to those walks
+so that when a farmer is learning, the system can teach.
+And after one becomes a master the system can learn from the
+master?
 
+This will require very good image processing, and machine
+learning so that systems can look at a wall of vegetation
+and estimate how many of each kind of plant is there.
+Identify fungus and molds, birds and insects.
 
 * Book and Link List
 
