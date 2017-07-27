@@ -30,6 +30,35 @@ This file will be placeholder for all agricultural material which will
 be moved off to other files.
 #+end_comment
 
+#+begin_comment
+The thing is, there are lots of brilliant people who have
+put together pieces of what is happening.  But each is
+limited to a subset of disciplines.  You see the computer
+people talk about robots and AI, the folks in the life
+sciences about biotech, the engineers, physicists
+about nanotech, the ecologists and farmers about
+permaculture and some GMO, and the economists
+about.... well, economies.  But each of these groups could
+apply what they are doing and predicting to the other groups
+and no one seems to understand how all of this works
+together.
+
+The rapture of the nerds crowd aren't talking about gene
+splicing, and the nanotech folks aren't talking about
+growing automobile bodies from biological materials.
+
+But if you put the ai and nano and bio and eco together you
+get something that is very different from what you read
+about -- I don't know what that is, but it is bigger and
+weirder and wilder than we now know.
+
+This is where I hope I can come in.  I'm a computer guy, so
+that's where I started, now I am adding eco/agro to that,
+and still need to understand more about nano and bio.
+#+end_comment
+
+
+
 #+begin_quote
 Every human society that has relied on annual crops as
 staple foods in their diet has collapsed. Every single
@@ -69,11 +98,6 @@ of the tree’s body came from the atmosphere.
 
 -- Mark Shepard
 #+end_quote
-
-
-
-
-
 
 
 
