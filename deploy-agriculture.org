@@ -137,7 +137,15 @@ of the tree’s body came from the atmosphere.
 -- Mark Shepard
 #+end_quote
 
+* restoration mars
 
+The habits need to be designed with a thousand year plan, so
+that they gradually become the surface of the terraformed
+planet.
+
+When we finally create a habitable atmosphere, the roof on
+all of the habitats can be removed and habitats become part
+of the planet's surface.
 
 
 * Introduction
