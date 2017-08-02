@@ -137,6 +137,8 @@ of the tree’s body came from the atmosphere.
 -- Mark Shepard
 #+end_quote
 
+ - [[https://en.wikipedia.org/wiki/Jan_Baptist_van_Helmont][Jan Baptist van Helmont]] | Wikipedia
+
 * restoration mars
 
 The habits need to be designed with a thousand year plan, so
@@ -146,6 +148,16 @@ planet.
 When we finally create a habitable atmosphere, the roof on
 all of the habitats can be removed and habitats become part
 of the planet's surface.
+
+Craters seem to be the way to go here.  The question then
+becomes how to build domes that will last a centuries that
+will provide enough space to grow old-growth forests?
+
+
+ - [[http://www.spaceref.com/news/viewnews.html?id=455][Earth on Mars: Greenhouses on the Red Planet]] | SpaceRef
+ - [[https://space.stackexchange.com/questions/10329/could-permanent-self-sustaining-biodomes-be-built-on-mars][Could permanent self-sustaining biodomes be built on Mars?]] | Stack Exchange
+ - [[https://space.stackexchange.com/questions/770/what-is-the-largest-naturally-occurring-body-that-could-be-hollowed-and-safely-l?noredirect=1&lq=1][What is the largest naturally occurring body that could be hollowed and safely lived in?]] | Stack Exchange
+
 
 
 * Introduction
