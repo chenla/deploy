@@ -300,6 +300,13 @@ and city grew to become the first states.
  - [[https://en.wikipedia.org/wiki/Mueang][Mueang]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Mandala_(political_model)][Mandala (political model)]] | Wikipedia
  
+The modern concept of the state as territories with clearly
+defined sub-meter immutable borders is quite recent in much
+of the world.  In southeast asia these concepts were
+introduced by Europpeans in the middle of the 19th-century
+who assumed that every area was "subject to one sovereign."
+
+
 #+begin_quote
 The role of cartography in the formation of modern states is
 made evident when depictions in maps are compared against
