@@ -130,6 +130,17 @@ determine everything
      difficult to escape the gravity well  
    - 4 spheres, litho, hydro, atmo, bio
  - Biospheres
+
+   - The Earth's biosphere is a lot smaller than you might
+     think.  99% of the earth's biosphere is in the oceans
+     -- and only a relatively thin depth of the oceans holds
+     99% (that's a guess) of the life in the oceans.  I
+     would then say that only a thin part of the earth's
+     atmosphere holds 99% of terrestrial life as well.  So
+     effectively all of life on the planet is resides in
+     in less than 2-5% of the planet's biosphere. I need to
+     back this up with real sources and figures.
+
    - DNA -- self-replicating information systems
      life and evolution is the result of DNA making copies
      of itself and changing over time as errors (mutations)
@@ -445,7 +456,7 @@ Charlie Stross' blog made an interesting point.
 
    "some authors make an art of the intriguing info dump:
    Charlie, of course, plus Douglas Adams, Garrison Keillor,
-   Umberto Ecco, and the Father of Lies History himself,
+   Umberto Ecco, and the Father of =Lies= History himself,
    Herodotos. They make the info dump a story in its own
    right - flash fiction, if you like, anchored to the main
    story. Herodotus gave his name to a particular technique
@@ -460,9 +471,9 @@ Charlie Stross' blog made an interesting point.
 
 
 
-** 
+** The 
 
-The next 50 years
+** The next 50 years
 
   - climate
   - population
