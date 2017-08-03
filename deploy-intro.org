@@ -254,7 +254,11 @@ determine everything
 
 * foo part 2
 
-Now let's back up and talk about civilization
+Now let's back up and talk about civilization.
+
+
+
+
 
   | stage           | organization  | wealth-power | human organization      |
   |-----------------+---------------+--------------+-------------------------|
@@ -262,12 +266,40 @@ Now let's back up and talk about civilization
   | agricultural    | centralized   | physical     | city states             |
   | industrial      |               | symbolic     | nation-states           |
   | global          | decentralized | information  | interconnected-states   |
-  | ????            | distributed   |              | biome-biotope           |
+  | glocal          | distributed   |              | biome-biotope           |
   | multi-planet    |               |              | biosphere-biome-biotope |
 
+** wanderers
+
+
+** farm-city continuum
+
+Which can first -- the farm or the city?  Neither, they
+emerged together and have always depended on each other.  A
+small band of people with weapons and portable shelters can
+go it alone.  But there is no farm without the
+infrastructure and protection of a state, and states are
+organized around settlements.  A settlement is a farm-city
+in miniature -- but as populations in settlements rose, an
+increasingly number of specializations moved agricultural
+production to the edges of settlements and increasingly
+further afield, so to speak.  The non-agricultural part of
+the settlement became increasingly estranged from nature and
+became cities.  The original settlement that encompased farm
+and city grew to become the first states.
+
+  - settlement (agriculture and non agriculture)
+  - city-state -- muang with overlapping sovereignty
+    need to get away from modern concept of a city-state
+  - state mandalas
 
 
 
+
+
+
+
+** 
 
 The next 50 years
 
