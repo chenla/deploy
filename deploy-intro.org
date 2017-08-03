@@ -299,12 +299,11 @@ the settlement became increasingly estranged from nature and
 became cities.  The original settlement that encompased farm
 and city grew to become the first states.
 
-  - settlement (agriculture and non agriculture)
+  - settlement (agriculture and non-agriculture)
   - city-state -- muang with overlapping sovereignty
     need to get away from modern concept of a city-state
   - state mandalas
-
- - [[https://en.wikipedia.org/wiki/City-state][City-state]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/City-state][City-state]] | Wikipedia
 
 ** muang-mandala model
 
@@ -467,18 +466,21 @@ Charlie Stross' blog made an interesting point.
  - [[http://www.antipope.org/charlie/blog-static/2017/07/plot-is-character.html][Character and Exposition are Plot]] | Charlie's Diary
  - http://faculty.washington.edu/garmar/RingCompositionHerodotus.pdf
  - [[https://en.wikipedia.org/wiki/Chiastic_structure][Chiastic structure]] | Wikipedia (not very helpful)
-#+end_comment
+#+end_commen
 
 
+** industrialization
 
-** The 
+** globalism
 
-** The next 50 years
+** post-global
 
-  - climate
-  - population
+** the next 50 years
 
-* foo part 3
+ - climate
+ - population
+
+* foo part 3: a roadmap for building a distributed civilization
 
 ** a social contract
 
@@ -499,9 +501,22 @@ Charlie Stross' blog made an interesting point.
       - education
       - the network has your back, always
 
+    sadly the japanese social contract comes at a terrible
+    price, complete loyalty and devotion to the company, you
+    basically sacrifice your life for your family.  in some
+    respects it's Japan's greatest strength and weakness
+
+  - [[http://cavemancircus.com/2017/06/01/whats-like-salaryman-japan/][What's It Like To Be A 'Salaryman' In Japan]] | Caveman Circus
+
     identity model & societal legibility
 
 ** human scale societies
+
+human scale numbers, 
+  - magic number 7 plus or minus 2
+  - number of people who can relate to
+  - ideal group sizes
+  - small world problem and 2 degrees of separation
 
     a human scale political model & philosophy
 
@@ -616,15 +631,21 @@ and herding trees and managing natural ecological succession.
 
 ** the graph economy
 
-    it-torrents and sneakernets of things
+it-torrents and sneakernets of things
 
 ** education something something
 
-    life-long learning based on trivium
- 
-  - *distributed*
+life-long learning based on trivium
 
-    a roadmap for building a distributed civilization
+stop thinking of education as a place
+
+learn from Lord of the Flies : integrate children into
+society and workplace -- you learn by doing.
+
+integrate learning into the workplace 
+
+
+
 
 
 
