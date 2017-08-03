@@ -252,19 +252,29 @@ determine everything
    and can do things independently of human control or even
    direction
 
+* foo part 2
+
 Now let's back up and talk about civilization
 
-  - hunter gatherer -- distributed    |             | bands/chiefdoms
-  - agricultural    -- centralized    | physical    | city states
-  - industrial                        | symbolic    | nation-states
-  - global          -- decentralized  | information | 
-  - ????            -- distributed    |             | bioregions
+  | stage           | organization  | wealth-power | human organization      |
+  |-----------------+---------------+--------------+-------------------------|
+  | hunter gatherer | distributed   |              | bands/chiefdoms         |
+  | agricultural    | centralized   | physical     | city states             |
+  | industrial      |               | symbolic     | nation-states           |
+  | global          | decentralized | information  | interconnected-states   |
+  | ????            | distributed   |              | biome-biotope           |
+  | multi-planet    |               |              | biosphere-biome-biotope |
+
+
+
+
 
 The next 50 years
 
   - climate
   - population
 
+* foo part 3
 
 ** a social contract
 
@@ -285,7 +295,7 @@ The next 50 years
       - education
       - the network has your back, always
 
-    identity model
+    identity model & societal legibility
 
 ** human scale societies
 
@@ -381,6 +391,12 @@ would be sheparding ecosystems to adapt to the reality of a
 habitable mars as much as we are terraforming the planet to
 become habitable -- the result will not be earth, but it
 will be a sister home for martian mankind.
+
+So we will need to establish settlements almost from day one
+at elevations that will not eventually become large bodies
+of water.  I don't know how successful this will be.  Can we
+really predict stable sea levels for a clement terraformed
+mars a thousand or two thousand years from now?
 
 The same approach will be used back on earth to correct the
 damage done to the biosphere and bring the planet back into
