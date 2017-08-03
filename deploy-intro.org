@@ -360,18 +360,18 @@ multiple muangs and mandalas
     levels of service within their own muangs.  In this way,
     neighbors are responsible for each other.
 
-For this to work we also need to establish a means of
-dealing with human migration and base rules for people
+This model makes it possible establish a more flexible means
+of dealing with human migration and base rules for people
 moving into new locations to replace the concept of citizens
 of nation-states:
 
   - each location will always have a buffer for accepting
-    newcomers, the deal is, that if there is space in the
+    migrants, the deal is, that if there is space in the
     buffer (the carrying capacity of a muang and surrounding
     biotope) you can move in and have full access to rights
     and services of that place.
 
-  - newcomers are required to adhere to local customs, adopt
+  - migrants are required to adhere to local customs, adopt
     local dress, culture and language so long as they adhere
     to a universal bill of rights and obligations.  this is
     a multi-generational process, but within two
@@ -440,9 +440,22 @@ on May 31, 1254.
 
 
 #+begin_comment
-Herodotus asides -- Stross made an interesting point.
+Herodotus asides -- Harold Page in a guest blog post on
+Charlie Stross' blog made an interesting point.
 
+   "some authors make an art of the intriguing info dump:
+   Charlie, of course, plus Douglas Adams, Garrison Keillor,
+   Umberto Ecco, and the Father of Lies History himself,
+   Herodotos. They make the info dump a story in its own
+   right - flash fiction, if you like, anchored to the main
+   story. Herodotus gave his name to a particular technique
+   for doing this: Herodotian Ring Composition."
+ 
+   -- M Harold Page
 
+ - [[http://www.antipope.org/charlie/blog-static/2017/07/plot-is-character.html][Character and Exposition are Plot]] | Charlie's Diary
+ - http://faculty.washington.edu/garmar/RingCompositionHerodotus.pdf
+ - [[https://en.wikipedia.org/wiki/Chiastic_structure][Chiastic structure]] | Wikipedia (not very helpful)
 #+end_comment
 
 
