@@ -303,7 +303,7 @@ by other nation-states.
 This provides us with a post nation-state model founded on
 biomes and biotopes.  A muang could be a city at the center
 of a biotope.  Every muang is responsible for the welfare,
-saftey and infratructure of the biotope.  When there is more
+saftey and infrastructure of the biotope.  When there is more
 than one muang in a biotope, that responsibility is shared
 between them.  Large industrial muang that encompass
 multiple biotopes and smaller muang are responsible for the
@@ -371,7 +371,18 @@ of nation-states:
   - true names are seldom, if ever, shared, because it gives
     others power over us.  
 
-
+The hard part of this model for many people will be
+religion, which is too much of a divide between us and
+them.  We need to move away from religion and nationality as
+being cornerstones of personal identity.  Religion as a
+social construct that is part of a culture, mythology and
+language that forms a common world-view of a muang is
+important.  But unless we can learn to let go of the
+cultural specifics from where you came from, this will be
+diffucult.  Separation of church and state does not work
+unless citizens separate the two as well.  The mongols had
+the right idea -- all religions are under the great blue
+sky, so it didn't matter which one you belonged to.
 
 
 
