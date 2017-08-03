@@ -293,7 +293,34 @@ and city grew to become the first states.
     need to get away from modern concept of a city-state
   - state mandalas
 
+ - [[https://en.wikipedia.org/wiki/City-state][City-state]] | Wikipedia
+
 ** muang-mandala model
+
+ - [[https://en.wikipedia.org/wiki/Mueang][Mueang]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Mandala_(political_model)][Mandala (political model)]] | Wikipedia
+ 
+#+begin_quote
+The role of cartography in the formation of modern states is
+made evident when depictions in maps are compared against
+actual boundary practices and the language of peace
+treaties. Clear linear divisions between territorial
+political units, while pervading maps since the sixteenth
+century, did not become common in practice until late in
+the eighteenth century. For their part, mapmakers never
+intended to reshape political ideas and structures. Rather,
+their choice to depict the world as composed of homogenous
+political territories was independent of politics.  It was
+driven by the dual incentives of a commercial market for
+aesthetically pleasing printed maps and the underlying
+geometric structure of early-modern cartography that is
+provided by the globe-spanning grid of latitude and
+longitude.
+
+-- [[http://digitalassets.lib.berkeley.edu/etd/ucb/text/Branch_berkeley_0028E_11271.pdf][Mapping the Sovereign State]] | Jordan N. Branch (dissertation)
+   doi:10.1017/S0020818310000299
+#+end_quote
+
 
 
 The sovereignty of nation-states only exists through threat
@@ -302,14 +329,16 @@ by other nation-states.
 
 This provides us with a post nation-state model founded on
 biomes and biotopes.  A muang could be a city at the center
-of a biotope.  Every muang is responsible for the welfare,
-saftey and infrastructure of the biotope.  When there is more
-than one muang in a biotope, that responsibility is shared
-between them.  Large industrial muang that encompass
-multiple biotopes and smaller muang are responsible for the
-entire biome they belong to, and the welfare and safety of
-the smaller muang and biotopes within them.  Rural areas may
-be within the sphere of influence of multiple muangs and mandalas
+of a biotope.  Muangs and Mandalas are defined by their
+centers, not by their borders.  Every muang is responsible
+for the welfare, saftey and infrastructure of the biotope.
+When there is more than one muang in a biotope, that
+responsibility is shared between them.  Large industrial
+muang that encompass multiple biotopes and smaller muang are
+responsible for the entire biome they belong to, and the
+welfare and safety of the smaller muang and biotopes within
+them.  Rural areas may be within the sphere of influence of
+multiple muangs and mandalas
 
   - a muang must extend all services and support to the
     rural areas that they depend on for food etc.  If you
