@@ -385,6 +385,23 @@ the right idea -- all religions are under the great blue
 sky, so it didn't matter which one you belonged to.
 
 
+#+begin_quote
+The original Mongol khans, followers of Tengri, were known
+for their tolerance of other religions. Möngke Khan, the
+fourth Great Khan of the Mongol Empire, said: "We believe
+that there is only one God, by whom we live and by whom we
+die, and for whom we have an upright heart. But as God gives
+us the different fingers of the hand, so he gives to men
+diverse ways to approach him." 
+
+"Account of the Mongols. Diary of William Rubruck",
+religious debate in court documented by William of Rubruck
+on May 31, 1254.
+
+-- [[https://en.wikipedia.org/wiki/Tengrism][Tengrism]] | Wikipedia
+#+end_quote
+
+
 
 #+begin_comment
 Herodotus asides -- Stross made an interesting point.
