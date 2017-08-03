@@ -64,9 +64,7 @@
  - [[http://inbusiness.ae/2016/11/18/earth-has-shockingly-little-water-and-ice-compared-to-these-ocean-worlds/][Earth has shockingly little water and ice compared to
    these ocean worlds]] | InBusiness
 
-* fook
-
-
+* foo 1
 ** you are what you is
 
 What is it that determines what we are and what and how we
@@ -304,6 +302,98 @@ The next 50 years
 
   christopher alexander on crystal meth
 
+***  1,000 year business plans
+
+I've struggled with the idea of very long term business
+plans for some years.  The whole thing about them is that
+they are not only beyond the lifespan of individuals but
+even of languages, cultures and nations.
+
+Shepard's idea of farms following natural seccession could
+provide us with a way to do this:
+
+#+begin_quote
+Crop rotation for a perennial polyculture would follow the
+natural successional pathway for the region where it is
+being practiced and could take several thousand years. A
+simple crop rotation for a restoration agriculture farmer
+might begin with corn and would travel through the
+successional pattern by morphing into chestnuts, apples (or
+plums or cherries), and hazelnuts. By the 30th year
+chestnuts would dominate the site, and apples and hazelnuts
+would become the understory. Livestock would be present
+through all the years. By year 100 or so, the system would
+be dominated by chestnuts and the understory fruits and
+hazelnuts would be beginning to decline in vigor, then quite
+possibly (after a 1,000 years or so) the whole system could
+be clear-cut to harvest the high-value timber and then
+bulldozed to make way for corn, and the beginning of the
+next crop rotation.
+
+-- Shepard | Restoration Agriculture
+#+end_quote
+
+In many respects, such an approach takes people out of the
+equation as being the primary focus, and instead man is an
+agent that shapes and maintains a biotope to "follow the
+natural successional pathway" over very long time periods.
+In this scenario, man quite literally become ents -- /tree
+herders/ who act on an ecological system over time.  We are
+shaping the biotope to produce things that keep us alive,
+but to do that we need to shepard whole ecosystems, both
+wild and cultivated.  Because we need entire ecosystems in
+order to survive.
+
+If we are to succeed in terraforming mars, this is only
+approach that we can take if we are to exceed.  We must
+design and execute on scales that are beyond us.  But there
+must be incremental payoffs that provide incentives along
+the way.
+
+Let's say that Musk can pull it off and put a couple of
+thousand people on Mars who will then proceed to build a
+settlement which will be little more than a research station
+with a very poor quality of life.  After that is established
+the next goal is to lay the groundwork for an okay quality
+of life for the next million people coming to the planet.
+But they will have to feel in their bones that what they are
+building will give a real payoff in their children's
+lifetimes and to make Mars into a permanent home for
+mankind.
+
+For a long time I thought the answer would be underground --
+but I'm coming round to the idea of matryoshka domes over
+craters.  These domes would be nested within each other.
+At the center would be a dome that supported earth level
+atmospheric pressure and a nitrogen-oxygen atmosphere.  The
+other layers above would be pressurized martian atmosphere
+at a increasingly lower pressurization's at each layer.
+
+As the planet is terraformed, heated and the atmosphere
+thickened each layer can then be removed until finally the
+last layer is removed when the outside and inside had
+reached an equilibrium.
+
+In the early centuries the flora and fauna in the domes
+would be imports from earth, but over time they would adapt
+to target conditions for the final terraformed planet.  We
+would be sheparding ecosystems to adapt to the reality of a
+habitable mars as much as we are terraforming the planet to
+become habitable -- the result will not be earth, but it
+will be a sister home for martian mankind.
+
+The same approach will be used back on earth to correct the
+damage done to the biosphere and bring the planet back into
+a clement interglacial period that can last millions of
+years.  This is not just a matter of cleaning up the present
+mess we've made, but to become planetary shepards who
+correct for long term climatic changes and catastrophies
+such as asteriod hits and super volcanos.
+
+And again, we will do this in large part by becoming Ents
+and herding trees and managing natural ecological succession.
+
+
 ** the graph economy
 
     it-torrents and sneakernets of things
@@ -315,6 +405,10 @@ The next 50 years
   - *distributed*
 
     a roadmap for building a distributed civilization
+
+
+
+
 
 
 * functional requirements for a good life
