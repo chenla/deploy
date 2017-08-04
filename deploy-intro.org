@@ -64,7 +64,24 @@
  - [[http://inbusiness.ae/2016/11/18/earth-has-shockingly-little-water-and-ice-compared-to-these-ocean-worlds/][Earth has shockingly little water and ice compared to
    these ocean worlds]] | InBusiness
 
-* foo 1
+After the first two missions, the boundary and 32 poles were
+indentified and 10 permanent poles were installed. The
+conflict or misunderstanding between both parties has yet to
+be solved.
+
+The third mission checked and measured land types and sizes
+both for PNCA land and land encroached or occupied by
+villagers with or without ownership papers.  The third
+mission was only able to complete checking and measuring
+land for 46 families.
+
+The remaining families will be checked in the next two or
+three missions in order to understand the whole picture.
+This will guide us what to do next. It is suggested that the
+all villagers who encroached PNCA land, both with and
+without ownership papers, should be listed.
+
+* foo 1: in the beginning
 ** you are what you is
 
 What is it that determines what we are and what and how we
@@ -263,7 +280,7 @@ determine everything
    and can do things independently of human control or even
    direction
 
-* foo part 2
+* foo part 2: civilization
 
 Now let's back up and talk about civilization.
 
@@ -480,7 +497,7 @@ Charlie Stross' blog made an interesting point.
  - climate
  - population
 
-* foo part 3: a roadmap for building a distributed civilization
+* foo part 3: roadmap
 
 ** a social contract
 
@@ -489,7 +506,7 @@ Charlie Stross' blog made an interesting point.
     what is a good life?
 
     what is a human scale society that is anti-fragile,
-    egalitarian, economically sound etc
+    egalitarian, economically sound etc.
 
     adapt the concept of the social contract in Japan for
     the salaryman -- you're in for life and agree to a set
