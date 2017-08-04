@@ -313,6 +313,8 @@ would have killed them otherwise.  They were able to extend
 the the range of habitible biomes, and in a relatively short
 period of time had spread out to most corners of the planet.
 
+** farms and cities
+
 Untill recently it was thought that the invention of
 cultivating plants quickly led to the development of the
 first cities.  But a growing body of archeological evidence
@@ -461,8 +463,50 @@ and city grew to become the first states.
   - state mandalas
   - [[https://en.wikipedia.org/wiki/City-state][City-state]] | Wikipedia
 
+- goods could be moved over long distances by water routes,
+  but without the technology for long distance navigation
+  (the longitude problem) and a reliable power source that
+  could augement human power (rowing) and wind (sails) there
+  was very real limits on how many goods could be moved.
+  The goods that were moved (at great expence and in small
+  quantities) were invaluable to the ruling class to be able
+  to maintain their populations.  Books, compasses,
+  navigation devices such as the sextant and later, portable
+  clocks and telescopes.  these technologies didn't impact
+  the average person, but they made large scale governance
+  of large settlements and states possible.
+
+- writing systems -- messaging over long distances (news),
+  recording knowledge across generations and long distances
+
+- mechanical duplication -- printing press, made accurate exact
+  copies of information to a group of people outside of the
+  state, church and academia.
+
+This made moving information, people and goods relatively
+cheap for the ruling class -- which was enough to transform
+civilizations and lay the foundations for expantion to the
+population at large in the industrial revolution.
 
 ** industrialization
+
+In many respects, it's astonishing how far man was able to
+go before tools evolved into machines, making
+industrialization possible.
+
+But the limitations of the system were very much apparent --
+a number of civilizations rose and thrived for centuries,
+only to hit the limits that their technology could expand
+their carrying capacity and then collapsed -- often within
+very short periods of time.
+
+The limits they came up against, again were the cost of
+moving people, information and goods.  
+
+Industrialization gave large parts of the population access
+to a whole range of technoligies that had been limited to
+the ruling classes, and a small portion of the ruling class.
+
 
 ** globalism
 
