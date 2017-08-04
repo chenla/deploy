@@ -339,13 +339,34 @@ for domestication.
 Much later, cities emerged in non-river-valley locations in
 the tropics and subtropics that did not rely on annuals for
 all of their food supplies.  They grew annuals, but relied
-on food from perennials as much or more than annuals.  It's
-interesting to note that a number of these civilizations did
-not have access to species that could be domesticated, which
-limited how far they could expand.  Human powered transport
-was a very real limiting factor both on how far and how fast
-information could travel.  On land, animals were the only
-means of extending the physical limits of the human body.
+on food from perennials as much or more than annuals.
+Fruits, nuts and legumes were typically far more nutritious
+and could be harvested sustainably for decades without
+replanting.  When compared to annuals which had to be
+planted every year, seeds collected at harvest for the next
+year and would quickly exhaust the soil after a couple of
+years.
+
+It took a long time to learn techniques such as crop
+rotation, leaving fields fallow and how compost, green
+manure and animal manure could be used to recharge soils.
+Many of the techniques for doing this were very sustainable
+but at a cost.  These techniques were highly labour
+intensive, even with the help of domesticated animals.  The
+emergance of monoculture farming techniques, mechanization,
+and the development of nitrogen-based chemical fertilizers
+and later chemical herbicides and pesticides were all means
+of attempts to reduce labour and increase crop yields to
+feed the ever growing population of non-agricultural
+populations in cities.
+
+It's interesting to note that a number of these
+civilizations did not have access to species that could be
+domesticated, which limited how far they could expand.
+Human powered transport was a very real limiting factor both
+on how far and how fast information could travel.  On land,
+animals were the only means of extending the physical limits
+of the human body.
 
 Rivers and access to seas and oceans were another important
 means of increasing the speed of transportation by
@@ -359,8 +380,8 @@ physical goods, the cost of moving information, and the cost
 of moving people.
 
 These three things comprise the economic foundation for
-civilization and how far and in way way it can expand beyond
-stand along cities surrounded by smaller settlements.
+civilization and how far it can expand beyond stand along
+cities surrounded by smaller settlements.
 
 ** farm-city continuum
 
