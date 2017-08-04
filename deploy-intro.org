@@ -342,8 +342,25 @@ all of their food supplies.  They grew annuals, but relied
 on food from perennials as much or more than annuals.  It's
 interesting to note that a number of these civilizations did
 not have access to species that could be domesticated, which
-limited how far they could expand.
+limited how far they could expand.  Human powered transport
+was a very real limiting factor both on how far and how fast
+information could travel.  On land, animals were the only
+means of extending the physical limits of the human body.
 
+Rivers and access to seas and oceans were another important
+means of increasing the speed of transportation by
+harnessing the wind as well as human powered ores.  Not
+surprisingly, most civilizations emerged along water ways,
+with the notable exception of central and south americas.
+
+It is here that we can begin to understand civilization
+using three metrics, the difficulty or cost of moving
+physical goods, the cost of moving information, and the cost
+of moving people.
+
+These three things comprise the economic foundation for
+civilization and how far and in way way it can expand beyond
+stand along cities surrounded by smaller settlements.
 
 ** farm-city continuum
 
@@ -366,6 +383,18 @@ and city grew to become the first states.
     need to get away from modern concept of a city-state
   - state mandalas
   - [[https://en.wikipedia.org/wiki/City-state][City-state]] | Wikipedia
+
+
+** industrialization
+
+** globalism
+
+** post-global
+
+** the next 50 years
+
+ - climate
+ - population
 
 ** muang-mandala model
 
@@ -529,18 +558,6 @@ Charlie Stross' blog made an interesting point.
  - http://faculty.washington.edu/garmar/RingCompositionHerodotus.pdf
  - [[https://en.wikipedia.org/wiki/Chiastic_structure][Chiastic structure]] | Wikipedia (not very helpful)
 #+end_commen
-
-
-** industrialization
-
-** globalism
-
-** post-global
-
-** the next 50 years
-
- - climate
- - population
 
 * foo part 3: roadmap
 
