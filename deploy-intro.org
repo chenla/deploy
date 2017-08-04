@@ -402,12 +402,31 @@ These three things comprise the economic foundation for
 civilization and how far it can expand beyond stand alone
 cities surrounded by smaller settlements.
 
-** farm-city continuum
+However, it should be noted that farms and cities are
+interdependent.  Cities provide people who specialize in
+things that farms depend on.  Farming is extremely labor
+intensive.  There is not time to farm, mine iron ore, smelt
+it and turn it into ploughshares.  The same goes for
+production of pottery, glass, textiles (which is as labour
+intensive as food production) etc.  
 
-Which can first -- the farm or the city?  Neither, they
-emerged together and have always depended on each other.  A
-small band of people with weapons and portable shelters can
-go it alone.  But there is no farm without the
+Is it possible for a farm to be completely self-sustainable?
+For food, yes.  For everything else?  No. A group of farms
+could barely do so, if each farm used a portion of their
+spare time to specialize in producing one or two items.  But
+as soon as you do that you have set the wheels in motion to
+establish a village that has a dedicated blacksmith, cooper,
+candleshop, potter, glass blower, baker.... and before you
+know it you have the makings of a town and governance and
+the village shaman now has to take on helpers which turn
+into religions and not long after you have a city.
+
+Which came first -- the farm or the city?  Neither, they
+emerged together and have always depended on each other.  
+
+
+A small band of people with weapons and portable shelters
+can go it alone.  But there is no farm without the
 infrastructure and protection of a state, and states are
 organized around settlements.  A settlement is a farm-city
 in miniature -- but as populations in settlements rose, an
