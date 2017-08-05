@@ -38,12 +38,12 @@
  - [[http://www.johnenglander.net/sea-level-rise-blog/oceans-are-71-of-earths-surface-but-more-than-99-of-biosphere/][Oceans are 71% of Earth's Surface, but more than 99% of Biosphere]] |
    John Englander
 
- - [[https://nssdc.gsfc.nasa.gov/planetary/planetfact.html][Planetary Fact Sheets]] | NASA (index)
-   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html][Earth Fact Sheet]] | NASA
-   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html][Moon Fact Sheet]] | NASA
-   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html][Mars Fact Sheet]] | NASA
-   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/chironfact.html][Chiron Fact Sheet]] | NASA
-   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html][Asteroid Fact Sheet]] | NASA
+ - [[https://nssdc.gsfc.nasa.gov/planetary/planetfact.html][Planetary Fact Sheets]]  | NASA (index)
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html][Earth Fact Sheet]]     | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html][Moon Fact Sheet]]      | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html][Mars Fact Sheet]]      | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/chironfact.html][Chiron Fact Sheet]]    | NASA
+   - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html][Asteroid Fact Sheet]]  | NASA
    - [[https://nssdc.gsfc.nasa.gov/planetary/factsheet/][Planetary Fact Sheet]] | NASA
  
  - [[https://hypertextbook.com/facts/2001/AmandaMeyer.shtml][Mass of the Biosphere]] | The Physics Factbook
@@ -149,7 +149,7 @@ determine everything
  - Biospheres
 
    - The Earth's biosphere is a lot smaller than you might
-     think.  99% of the earth's biosphere is in the oceans
+     think.  71% of the earth's biosphere is in the oceans
      -- and only a relatively thin depth of the oceans holds
      99% (that's a guess) of the life in the oceans.  I
      would then say that only a thin part of the earth's
