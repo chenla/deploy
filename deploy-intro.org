@@ -503,10 +503,25 @@ very short periods of time.
 The limits they came up against, again were the cost of
 moving people, information and goods.  
 
-Industrialization gave large parts of the population access
-to a whole range of technologies that had been limited to
-the ruling classes, and a small portion of the ruling class
-at that.
+As Gibson said, the future is here, it's just not evenly
+distributed.  Industrialization was possible because things
+like literacy, which had been limited to the ruling classes
+spread to a large part of the population after Gutenberg's
+printing press.
+
+This not only put books into the hands of many more people,
+which increased literacy, but made accurate duplication of
+texts possible.  Industrialization requires moving a lot of
+information.  Hand copying of texts is not only slow, but
+introduce errors which are compounded with each successive
+copy.  Printing presses using moveable type allowed accurate
+copies to created once and sent to many places.  This made
+standardization possible.
+
+
+access to a whole range of technologies that had
+been limited to the ruling classes, and a small portion of
+the ruling class at that.
 
 
 
