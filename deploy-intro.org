@@ -63,6 +63,9 @@
  - [[https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyMC8wNzgvb3JpZ2luYWwvZWFydGgtbWFycy1yZWxhdGl2ZS1zaXplLnBuZw==][Image of earth and mars]]
  - [[http://inbusiness.ae/2016/11/18/earth-has-shockingly-little-water-and-ice-compared-to-these-ocean-worlds/][Earth has shockingly little water and ice compared to
    these ocean worlds]] | InBusiness
+ - [[https://en.wikipedia.org/wiki/Eden_Project][Eden Project]] | Wikipedia
+
+
 
 After the first two missions, the boundary and 32 poles were
 indentified and 10 permanent poles were installed. The
@@ -519,11 +522,9 @@ copies to created once and sent to many places.  This made
 standardization possible.
 
 
-access to a whole range of technologies that had
-been limited to the ruling classes, and a small portion of
-the ruling class at that.
-
-
+#+begin_comment
+propagation through distributed systems....
+#+end_comment
 
 
 
@@ -532,9 +533,19 @@ the ruling class at that.
 ** post-global
 
 ** the next 50 years
+  - climate
+  - population
+  - all balloons pop
+  - the end of x Law
+  - westfallia's sunset
 
- - climate
- - population
+  - not if but when -- the planet killer is inevitable
+
+  - the fork in the road
+    - the inevitable
+    - nightfall
+    - singularity
+    - the lucky few
 
 ** muang-mandala model
 
@@ -700,6 +711,32 @@ Charlie Stross' blog made an interesting point.
 #+end_commen
 
 * foo part 3: roadmap
+
+  - any plan today
+  
+  - build it so they can come
+    - it's gotta be:
+      - distributed
+      - egalitarian
+      - economically sound
+      - portable & scalable
+      - rational
+      - empirical
+      - based on the golden rule
+
+  - set aside childish things
+    - no tribe but one
+    - ideology
+    - salvation
+    - collective guilt
+    - ignorance
+    - intolerance
+
+  - taking the time
+    - the promised land is not for us
+
+  - pace layers 3
+
 
 ** a social contract
 
@@ -871,6 +908,25 @@ integrate learning into the workplace
 
 
 
+** scenarios
+
+the story; a vision for our children
+
+  now let's write a couple of short stories
+
+outline the civilization in these short stories.
+
+  - biomes
+  - local shops & global guilds
+  - scale: xkeeping it human
+  - distributed everything
+  - block chain everything
+  - ai & robotics
+  - multi-planet - with heavy industry in the belt
+  - life-long learning
+  - pace layers 4 -- the new civilization will live beside
+    the old...
+
 * functional requirements for a good life
 
 Great Lecture on Epicurus [[https://www.youtube.com/watch?v=UCBfWeJkrs8][Epicurus Life and Philosophy]] | YouTube
@@ -951,121 +1007,6 @@ a philosophy of the garden
   - education
   - safety, privacy & freedom
   - culture
-
-* your feet are going to be on the ground
-
-- the physical reality
-- structure of worlds
-  - core, mantle, crust
-- the four spheres
-  - litho, hydro, atmo, bio 
-- extinction & collapse
-  - the big five
-  - plagues, volcanos
-  - civilizations - climate
-  - nature abhors a vacuum: rebirth
-- pace layers 1
-
-* your head is there to move you around
-
- - are the challenges over the next fifty years
- - is 
-
-
-
-- transactive mankind
-- externalized man
-  - the neocortex
-  - tools
-  - speech
-  - writing
-  - duplication
-  - machines
-  - computation
-  - robotics
-
-* the place where you work
-
-- pace layers 2
-
-- wanderers
-- home is where the pigs are
-- steam powered cookie cutters
-- the lucky six
-- the edge of networks
-
-* think about direction
-
-the next 50 years
-
-  - climate
-  - all balloons pop
-  - the end of x Law
-  - westfallia's sunset
-
-  - not if but when -- the planet killer is inevitable
-
-  - the fork in the road
-    - the inevitable
-    - nightfall
-    - singularity
-    - the lucky few
-
-* listen to reason
-
-  - any plan today
-  
-  - build it so they can come
-    - it's gotta be:
-      - distributed
-      - egalitarian
-      - economically sound
-      - portable & scalable
-      - rational
-      - empirical
-      - based on the golden rule
-
-  - set aside childish things
-    - no tribe but one
-    - ideology
-    - salvation
-    - collective guilt
-    - ignorance
-    - intolerance
-
-  - taking the time
-    - the promised land is not for us
-
-  - pace layers 3
-
-
-* so stand
-
-the story; a vision for our children
-
-  now let's write a couple of short stories
-
-outline the civilization in these short stories.
-
-  - biomes
-  - local shops & global guilds
-  - scale: xkeeping it human
-  - distributed everything
-  - block chain everything
-  - ai & robotics
-  - multi-planet - with heavy industry in the belt
-  - life-long learning
-  - pace layers 4 -- the new civilization will live beside
-    the old...
-
-
-* wonder why you haven't before
-
- - doctor, why does it hurt?
- - make your mark here
-
-
-
 
 
 * ----
