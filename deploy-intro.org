@@ -66,25 +66,7 @@
  - [[https://en.wikipedia.org/wiki/Eden_Project][Eden Project]] | Wikipedia
 
 
-
-After the first two missions, the boundary and 32 poles were
-indentified and 10 permanent poles were installed. The
-conflict or misunderstanding between both parties has yet to
-be solved.
-
-The third mission checked and measured land types and sizes
-both for PNCA land and land encroached or occupied by
-villagers with or without ownership papers.  The third
-mission was only able to complete checking and measuring
-land for 46 families.
-
-The remaining families will be checked in the next two or
-three missions in order to understand the whole picture.
-This will guide us what to do next. It is suggested that the
-all villagers who encroached PNCA land, both with and
-without ownership papers, should be listed.
-
-* foo 1: in the beginning
+* 1: in the beginning
 ** you are what you is
 
 What is it that determines what we are and what and how we
@@ -283,7 +265,7 @@ determine everything
    and can do things independently of human control or even
    direction
 
-* foo part 2: civilization
+* 2: civilization
 
 Now let's back up and talk about civilization.
 
@@ -710,7 +692,7 @@ Charlie Stross' blog made an interesting point.
  - [[https://en.wikipedia.org/wiki/Chiastic_structure][Chiastic structure]] | Wikipedia (not very helpful)
 #+end_commen
 
-* foo part 3: roadmap
+* 3: roadmap
 
   - any plan today
   
