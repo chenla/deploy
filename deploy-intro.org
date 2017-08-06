@@ -67,15 +67,19 @@
 
 
 * 1: in the beginning
-** you are what you is
+** drake and fermi
 
 What is it that determines what we are and what and how we
 can do things?
 
 Drake's Equation and the Fermi Paradox keep a lot of
-scientists in a wide range of disciplines awake at night.
+scientists, in a wide range of disciplines, awake at night.
 These are not academic questions, they are at the heart of
 understanding both our existence and our survival.
+
+This is a good place to start -- because the answers
+determine everything.
+
 
 #+begin_src latex
 The number of such civilizations {{mvar|N}}, is assumed to be equal to the mathematical product of
@@ -96,8 +100,8 @@ for a combined expression of:
   - [[https://waitbutwhy.com/2014/05/fermi-paradox.html][The Fermi Paradox]] | Wait But Why
   - [[https://en.wikipedia.org/wiki/Mediocrity_principle][Mediocrity principle]] | Wikipedia
 
-This is a good place to start -- because the answers
-determine everything 
+
+** the rest
 
  - Physics
    - matter, energy, time
@@ -1006,8 +1010,6 @@ what works and what doesn't.
 
 Models are maps in more than 2 dimensions
 
-
-
 * The Rest
 
 
@@ -1175,8 +1177,6 @@ revolution that will likely begin by the end of this decade
 and globalization combined.  We are not prepared for this, and it will
 need to be addressed as quickly and aggressively as possible if we are
 to avoid a repeat of the two world wars.
-
-
 
 * Living outside of Earth's Biosphere
 
