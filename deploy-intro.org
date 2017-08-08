@@ -46,6 +46,50 @@ never knows what remains in the cup of that juror's mind.
    Connection]] | Moyers & Company, 2017
 #+end_quote
 
+And this, I would say, is the greatest challenge, not only
+for myself, but for the audience.  I have spent nearly my
+whole adult life working on this.  There have been some
+detours, but not as many as you might think.  I can trace
+where I am now back to a couple of weeks in 1978, sitting at
+a typewriter and catching the glimpse of something that has
+never let me go.  And the challenge was first to figure out
+what it was and second how to get it all down so others
+could understand as well.
+
+It has gotten to the point that I almost can't even bring
+myself to talk about it with other people.  Not only is the
+cup is full, but the saucer and a large catch basin it sits
+in.  I can't seem to articulate anything any more, because
+when I sit down and begin to write, even if it's meant to be
+something small and self contained and simple -- that as
+soon as I get into it, I can see how it's related to
+something else which links to something else and pretty soon
+the cup is full and overflowing and what should have been
+able to be written concisely had grown into ten thousand
+words of notes that would result in a book to complete.
+
+I know that the way to do this is to just start anywhere and
+start putting things out piece by piece until it's all
+there.  But it takes time to fill a cup, and people won't
+understand how it all fits together and there is no way of
+knowing what will still be people's cup when I finish.
+
+So six months ago I set out to write a simple outline, the
+big picture, the ten thousand foot perspective.  Ok, it
+would never be an elevator pitch, but at least it was
+something that could be read in a single sitting.  That
+effort has resulted in the range of half a million words.
+
+It's even worse when trying to talk explain any of this to
+someone in person.  I desperately want to talk to people
+about this, get their feedback, even if it's just to know if
+I have lost my mind or not.  And on countless occasions I
+open my mouth to start, and nothing comes out, frozen like a
+deer caught in a car's headlights.  How to unpack nearly 40
+years of work in a single miserable conversation?
+
+For me, the map had indeed become the territory, and as it
+stood was quite useless.
 
 
 * Refs and Stuff
@@ -53,9 +97,9 @@ never knows what remains in the cup of that juror's mind.
  - [[https://en.wikipedia.org/wiki/Biosphere][Biosphere]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Biome][Biome]] | Wikipedia
  - [[https://www.britannica.com/science/hydrosphere][hydrosphere]] | Britannica.com (good graphic)
- - [[https://en.wikipedia.org/wiki/Biotope][Biotope]] - Wikipedia
- - [[https://en.wikipedia.org/wiki/Global_200][Global 200]] - Wikipedia (WWF biome classification system)
- - [[http://planet.uwc.ac.za/nisl/Biodiversity/pdf/OlsonDinerstein1998.pdf][OlsonDinerstein1998.pdf]] -- WWF paper describing classification system
+ - [[https://en.wikipedia.org/wiki/Biotope][Biotope]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Global_200][Global 200]] | Wikipedia (WWF biome classification system)
+ - [[http://planet.uwc.ac.za/nisl/Biodiversity/pdf/OlsonDinerstein1998.pdf][OlsonDinerstein1998.pdf]] | WWF paper describing classification system
  
 
  - [[http://www.johnenglander.net/sea-level-rise-blog/oceans-are-71-of-earths-surface-but-more-than-99-of-biosphere/][Oceans are 71% of Earth's Surface, but more than 99% of Biosphere]] |
