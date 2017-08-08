@@ -27,6 +27,29 @@
 
 * Introduction
 
+#+begin_quote
+The tough part of the exercise, I will tell you -- and
+again, this is derivative of my training as a trial lawyer
+-- is the limited capacity -- it's pretty big but it's
+limited -- capacity of the human mind to retain information.
+There's an analogy tht one of my mentors used to presenting
+evidence to a jury.  He would say it's sort of like pouring
+coffee into a cup and saucer.  You can keep pourng factss in
+and they may all be facts and they may be all proven and
+everything else, but if you pour too much, eventually the
+coffee's going to spill ontothe saucer and the trial lawyer
+never knows what remains in the cup of that juror's mind.
+
+-- Stephen Harper
+   Interview with Bill Moyers
+   [[http://billmoyers.com/story/what-you-need-to-know-about-the-trump-russia-connection/][Everything You Need to Know About the Trump-Russia
+   Connection]] | Moyers & Company, 2017
+#+end_quote
+
+
+
+* Refs and Stuff
+
  - [[https://en.wikipedia.org/wiki/Biosphere][Biosphere]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Biome][Biome]] | Wikipedia
  - [[https://www.britannica.com/science/hydrosphere][hydrosphere]] | Britannica.com (good graphic)
