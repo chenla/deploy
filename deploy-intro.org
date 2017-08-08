@@ -27,21 +27,23 @@
 
 * Introduction
 
+** Preamble
+
 #+begin_quote
 The tough part of the exercise, I will tell you -- and
 again, this is derivative of my training as a trial lawyer
 -- is the limited capacity -- it's pretty big but it's
 limited -- capacity of the human mind to retain information.
-There's an analogy tht one of my mentors used to presenting
+There's an analogy that one of my mentors used to presenting
 evidence to a jury.  He would say it's sort of like pouring
-coffee into a cup and saucer.  You can keep pourng factss in
+coffee into a cup and saucer.  You can keep pouring facts in
 and they may all be facts and they may be all proven and
 everything else, but if you pour too much, eventually the
-coffee's going to spill ontothe saucer and the trial lawyer
+coffee's going to spill onto the saucer and the trial lawyer
 never knows what remains in the cup of that juror's mind.
 
 -- Stephen Harper
-   Interview with Bill Moyers
+   Interview by Bill Moyers
    [[http://billmoyers.com/story/what-you-need-to-know-about-the-trump-russia-connection/][Everything You Need to Know About the Trump-Russia
    Connection]] | Moyers & Company, 2017
 #+end_quote
@@ -56,72 +58,79 @@ never let me go.  And the challenge was first to figure out
 what it was and second how to get it all down so others
 could understand as well.
 
-It has gotten to the point that I almost can't even bring
-myself to talk about it with other people.  Not only is the
-cup is full, but the saucer and a large catch basin it sits
-in.  I can't seem to articulate anything any more, because
-when I sit down and begin to write, even if it's meant to be
-something small and self contained and simple -- that as
-soon as I get into it, I can see how it's related to
-something else which links to something else and pretty soon
-the cup is full and overflowing and what should have been
-able to be written concisely had grown into ten thousand
-words of notes that would result in a book to complete.
-
 I know that the way to do this is to just start anywhere and
 start putting things out piece by piece until it's all
 there.  But it takes time to fill a cup, and people won't
 understand how it all fits together and there is no way of
-knowing what will still be people's cup when I finish.
+knowing what will still be people's cup when it's finished.
 
 So six months ago I set out to write a simple outline, the
 big picture, the ten thousand foot perspective.  Ok, it
-would never be an elevator pitch, but at least it was
+would never be an elevator pitch, but at least it would be
 something that could be read in a single sitting.  That
-effort has resulted in the range of half a million words.
-
-It's even worse when trying to talk explain any of this to
-someone in person.  I desperately want to talk to people
-about this, get their feedback, even if it's just to know if
-I have lost my mind or not.  And on countless occasions I
-open my mouth to start, and nothing comes out, frozen like a
-deer caught in a car's headlights.  How to unpack nearly 40
-years of work in a single miserable conversation?  For me,
-the map had indeed become the territory, and as it stood was
-quite useless.
+effort resulted in drafts and notes that number something
+like half a million words that was trying to summerize all
+the work done over the past 39 years.
 
 So here I stand today, ready to take that first step towards
-a short overview of what I have learned and how all of the
-work to date will be organized and how we will proceed to
-use it to try to build a better future for our children than
-we were born into.
+a short overview.  This is /not/ that overview.  So think
+of what you read next, as sort of the map of the map of what
+we are trying to build.
+
+Ya gotta start /somewhere/, so here we go...
 
 ** Greased Pig Text
 
-greased pig text -- something small fast heavy and
-impossible to get hold of.  That in a sense we are in
-plato's cave, except the shadows are not cast by a world of
-forms, but just the real world, which is so complex that it
-is beyond our ability to take it all in.  The shadows we
-take for the real world are a map built up over our lives by
-our brains, an amalgam of memory, inferrence, and what we
-are experiencing from moment to moment.  At best we can
-hope, as individuals to glimpse bits of the real world at
-the periphery of our vision.  Perhaps that comes across as
+As a high school student in the 1970's I had been reading a
+lot of big heavy novels like Thomas Pynchon's /Gravity's
+Rainbow/ which defies summarization.  GR is one of a handful
+of texts that include works like /Moby Dick/, Joyce's
+/Ulysses/ that are known as encyclopedic narratives.  These
+works are vast, complex and and can almost be considered to
+be self-contained worlds in them selves.  I was facinated
+with these works because you couldn't take them straight on,
+because all you'd see is the trees, not the forest.  This
+was both facinating and frustrating until, in 1978 I hit on
+the idea of a /greased pig text/ -- something small, fast,
+heavy, and impossible to get hold of.  It's the idea of a
+text as a kind of horizon, something you can see, but never
+reach.
+
+A greased-pig text is a bit like Plato's cave, except the
+shadows on the wall are not cast by a world of forms, but
+just the real world, which is so complex that it's beyond
+our ability to take it all in.  The shadows we take for the
+real world are a map built up over our lives by our brains,
+an amalgam of memory, inferrence, and what we are
+experiencing from moment to moment.  At best we can hope, as
+individuals to glimpse bits of the real world at the
+periphery of our vision.  Perhaps that comes across as
 pessimistic and yes, that's what we are stuck with as
 individuals.  But we aren't just individuals.  We are a
 transactive species, who divide our memory and cognition
-with others enabling us to each glimpse different bits of
-the larger puzzle.  The story of our speices is the story of
-externalization of mind and memory.  This began with the
-hippocampus which extended our core repilian brain, which
-gave us emotion, fear and a whole lot of motivation, and
-then later neocortex which could program itself.  We then
-began to externalize outside of our minds, through the
-development of speech and then writing systems.  This
-allowed us to communicate and record all of those little
-glimpses not just with each other in real time, but across
-time and space to others who had not yet been born.
+with others, enabling us to each difference glimpses of
+the larger puzzle and then share, compare and build a model
+of what we collectively have experienced.
+
+The story of our species is the story of externalization of
+mind, memory and muscle.  This began with the hippocampus
+which extended our core reptilian brain, which gave us
+emotion, fear and a whole lot of motivation.  Later mammals
+developed a neocortex which can be thought of as a sort of
+general purpose pattern matching engine that could program
+itself.  
+
+Like a handful of other animals, Man is a tool builder.
+Combined with the ability to learn and change our behavior
+tools evolved to extend and transcend the limits of how our
+senses and limbs could be used to adapt the world around us.
+
+It was likely sometime at that point that we began to
+externalize and extend our minds.  This first happened with
+the development of speech and eventually writing systems.
+This allowed us to communicate and record all of those
+little glimpses not just with each other in real time, but
+across time and space to others who had not yet been born.
 
 Our genius as a species is collectively to be greater than
 the sum of a bunch of clever apes.  Up until the middle of
@@ -136,10 +145,37 @@ world exceeds our ability to grasp as individuals what we
 know collectively.
 
 And this is the motivation that has driven us to keep
-extending and externalizing ourselves to develop
+extending and externalizing ourselves to turn tools into
+machineswhich are connected to external power sources.
+We started by harnessing domesticated animals and wind and
+eventually steam and petrochemicals to generate
+electricity.  Our machines and externalized collective
+memory has become more complex and abstract and at each
+stage becoming closer and closer to becoming complete
+externalizations of ourselves both in mind and body.
+
+Electricity not only powered machines, and replaced fire for
+lighting the darkness, it was soon harnessed to help us
+think, remember and communicate.  And so came electronics,
 telecommunications, analog and then digital storage as well
 as cognitive machines that, like our neocortex, are general
-purpose enough to be programmable.
+purpose programmable machines.  Combine a machine and a
+computer and you get a robot.  Teach computers how to learn
+and you get AI.  There is no end game, and the AI we build
+is ultimately us, it is build to externalize and extend
+oursleves to do things our bodies and minds are not capable
+of.  Some machines will eventually become intelligent on
+their own, but we will have externalized and extended
+ourselves at the same rate.  So it's likely that the
+machines will not take over as they exponentially get
+smarter because we'll be there with them at each stage.
+This doesn't diminish the dangers.  In many respects it's a
+lot more scary to think of a primate that is still basically
+designed for life on the African savannah to have that kind
+of amplified intelligence and muscle.  In the end, it's
+likely the nothing will change.  Man will always be the
+greatest threat to itself.
+
 
 ** The Great Filter
 
@@ -342,8 +378,16 @@ And finally, fifth, we will provide a framework for beginning
 to develop, build and deploy this in the real world.  As
 we learn more from both success and failures we can then go
 back and adjust our models and expectations set out in the
-first four steps.  Wash, Rince, Repeat until we have made a
+first four steps.  Wash, Rinse, Repeat until we have made a
 better world.
+
+We will start laying out the story, argument and plan in
+detail here over the coming months and years.  And we will
+begin spinning off projects, experiments and even companies
+which will work on and provide services and solutions.
+
+Any plan today is better than a perfect plan tomorrow.  So
+let's start building something....
 
 
 * Refs and Stuff
