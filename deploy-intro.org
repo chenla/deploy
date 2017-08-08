@@ -190,11 +190,11 @@ twine, that could still be easily severed.
 
 ** Jellybeans
 
-As JRR Martin wrote, we are all jelly beans.  All pretty
+As JRR Martin wrote, we are all jelly beans, all pretty
 colors on the outside and the same sugary crap on the
 inside.  There are no races, if you can fuck it and make a
 baby, you are both members of the same race. It needs to be
-said that crudely because deep down we all have been raise
+said that crudely because deep down we all have been raised
 to believe that there are fundemental differences between
 us.  There aren't.  The differences are genetically no more
 different than the difference between dressing business
@@ -203,18 +203,19 @@ shallow.  We tend to hate those who are closer to us than
 those who are further apart.  The clash between Chrisitanity
 and Islam is the difference between two books which both
 proclaim a montheistic model of the universe based on the
-words of a single mouthpiece of an single omniscient god.
-Again, culture is all jellybeans.  The real differences
-between us are determined by the level of economic
-development our culture happends to be in relative to
-another.  
+words of a single mouthpiece of an single omniscient god,
+everything else is just differences in style, the basic plot
+is the same.  Again, culture is all jellybeans.  The real
+differences between us are determined by the level of
+economic development a culture happends to be in relative
+to another.
 
 #+begin_aside
 When I lived in Beijing in 2001, Chinese middle class
 culture was closer to American culture in the 1950's than
 anyone in the West understood.  The attitude towards family,
 work, education, even the men smoking and drinking congac
-while the wives minded the children and look pretty in
+while the wives minded the children and look pretty wearing 
 heels, with a string of perls and their best posh frock was
 straight out of an episode of Man Men. I remember seeing
 over fifty couples ballroom dancing in a vacant dirt lot.
@@ -224,22 +225,21 @@ silently in the darkness.
 
 The Chinese middle class had emerged from a long period that
 was similar in impact as the Great Depression and the Second
-World War.  And the State was still somewhat crudely
-weilding a big stick and fear of outside enemies and the
-danger of it all falling apart.  I have seen the same
-pattern again and again in every country I have lived in.
-It's all profoundly human and the same.  We're all
-jellybeans.
+World War in the United States.  And the State was still
+somewhat crudely weilding a big stick and fear of outside
+enemies and the danger of it all falling apart.  I have seen
+the same pattern again and again in every country I have
+lived in.  It's all profoundly human and the same.  We're
+all jellybeans.
 #+end_aside
-
 
 When cultures clash it is more often than not because one
 culture sees the world from a perspective that had been the
 norm for the contrasting culture in a past time.  But this
-fact is lost in pretty colors of language, custume, cultural
-mythology, the shade and hue of one's skin, the shape of
-your nose and eyes, or the color of your hair.  Underneath
-we're all made of the same sugary crap.
+fact is lost in distraction of pretty colors of language,
+costume, cultural mythology, the shade and hue of one's
+skin, the shape of your nose and eyes, or the color of your
+hair.  Underneath we're all made of the same sugary crap.
 
 It should be obvious why I am saying all of this, but let's
 say it anyway.  We are now all next door neighbors.  What
@@ -249,7 +249,7 @@ every pocket of every preson even slighly above the poverty
 line from Patterson to Phnom Penh.  The food we eat, the
 clothes we wear, the brands we crave are all a part of an
 interdependent global value chain.  It's too late to protest
-globalisation, it is the fabric of a single global
+globalisation, it is now the fabric of the single global
 civilization which we are all part of.  Whether we like it
 or not we're all in this together so we might as well cut
 the bullshit and learn to get along.  It's time to put away
@@ -257,29 +257,17 @@ childish things.  We have no choice.  The alternative
 is... there is no alternative.  We do or die.  This won't
 happen overnight.  But it will have to happen over the next
 few generations, and to do that each of us has to swallow
-some very bitter pills and not saddle our children with our
-absurd prejudices, ignorance, ideologies, and belief systems
-so they don't define themselves and paint themselves into
-the same corners that we have.
+some very bitter pills.  We are too old to change, but we
+can at least aspire to what Abraham Lincoln called "the
+better angels of our nature" and allow our children to grow
+beyond our absurd prejudices, ignorance, ideologies, and
+belief systems so each generation can learn from the past
+and expect that their children will live in a better world
+than themselves.
 
-We need to let go of all of the crap we have been told is
-good.  The first big thing is to let go of aspirational
-consumerism as a means of expressing our indivuality.  We
-are not special, get over it.  We are not defined by the
-logos on our cars, handbags and sewn on our asses.  It's not
-about money, it's not about money, it's not about money.  It
-never was.
+** steering a course 
 
-That said, what we do give our children is a moral compass
-that allows them to respect themselves and treat others as
-they would want to be treated.  We can instill them with the
-curiosity to learn and explore, together with the self
-confidence and freedom to fail and learn from those failures
-through discipline, and a toolbox of rational and cognitive
-tools to adapt to change and live a life with purpose and
-dignity.
-
-All of this sounds absurdly utopian, or idealisitc or an
+All of this may sound absurdly utopian, or idealisitc or an
 unreasonable thing to ask people to do.  But it's not.  It
 is pragmatic, and will make your life materially, physically
 and spiritually better.  This is not some inspirational
@@ -287,12 +275,12 @@ TEDTalk, it's not something that you'll see in the self-help
 section of the bookstore.  It's not some group to join,
 ideology to adopt, church to sell your soul to, or flag to
 bind your allegiance to. It /will/ be a tradeoff.  You give
-up somethings and gain much more than you give up.  It will
+up some things and gain much more than you give up.  It will
 simply be a good way to live as mankind moves beyond
 globalism into a world awash with artificial intelligence,
 robotics, and genetic editing.
 
-We will soon live in a post-fossil fuel economy where solar,
+We will soon live in a post-fossil-fuel economy where solar,
 wind, and geothermal will be the furniture in the room and
 /everything/ will not only be electric but smart and
 networked together. The big players will either be gone or
@@ -304,21 +292,58 @@ agriculture and nation states.  John Gage famously in the
 will be the logistic chain, the monetary system, and most
 things that we now consider to be functions of the State.
 We will move from a small tier of decentralised
-multinational globalized company value-chains to a
+multinational globalized company-base value-chains to a
 distributed world where many of the things that are
 centralized or globalized at large scales today will become
-localized in a very very fine-grained globalizated network
-of information, goods and services.
+localized in a very very fine-grained global network of
+information, currency, goods and services.
 
+In his 2016 book /The Inevitable/, Kevin Kelly breatlessly
+outlined 12 major technological forces that will reshape the
+world in the next decades.  His argument is that each of
+these forces are inevitable, they will happen no matter what
+we do.  But the form that they take is not known.  For
+example, the Internet was inevitable, but it was not
+inevitable that the internet we have today was inevitable.
+The internet today could have been an outgrowth of a
+centralised network like France's Minitel.  Smart Phones
+were inevitable, but it was not inevitable that they would
+all be modeled after the iPhone and the App ecosystem that
+runs on it.
 
+I am not trying to predict the future, though part of what I
+am doing is what Kevin Kelly has done and tried to determine
+what the inevitable trends we will have to live with over
+the next 50 years.  But it's not enough to ride the winds,
+because winds change and not always in the direction you
+want to go in.  Rather we need to listen to Alan Kay when he
+said "the best way to predict the future is to invent it."
 
+So here's the plan.  First figure out how we got where we
+are today and understand the forces that shaped who we are
+and determined both our strengths and weaknesses.  Next work
+out the inevitable forces that will shape the next fifty
+years that includes everything from climate change to solar
+energy, CRISPR babies, self-driving cars and the looming
+shadow of artificial intelligence as either good or bad.
+Third, we define what we individually and collectively can
+agree on being the absolute essential requirements to live a
+good life that ensures transparency, accountabiliy, privacy
+and safety while guaranteeing everyone a base standard of
+healthcare, education, and the basics defined in the base
+levels of Maslow's /hierarchy of needs/.
 
+Fourth, we take all of this and map out the broad outline of
+a future that is distributed, socially and economically
+egalitarian, and sustainable (though I prefer the stronger term
+/antifragile/).
 
-into a new period in which we will either pass
-through the great filter or begin our descent into
-nightfall.
-
-
+And finally, fifth, we will provide a framework for beginning
+to develop, build and deploy this in the real world.  As
+we learn more from both success and failures we can then go
+back and adjust our models and expectations set out in the
+first four steps.  Wash, Rince, Repeat until we have made a
+better world.
 
 
 * Refs and Stuff
