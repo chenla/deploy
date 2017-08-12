@@ -1059,9 +1059,29 @@ Charlie Stross' blog made an interesting point.
  - [[http://www.antipope.org/charlie/blog-static/2017/07/plot-is-character.html][Character and Exposition are Plot]] | Charlie's Diary
  - http://faculty.washington.edu/garmar/RingCompositionHerodotus.pdf
  - [[https://en.wikipedia.org/wiki/Chiastic_structure][Chiastic structure]] | Wikipedia (not very helpful)
-#+end_commen
+#+end_comment
 
 * 3: roadmap
+
+It's easy to get overwhelmed -- but I think the key to
+glocalism comes down to our transactive nature.  When things
+get too complex, break it down into multiple specialties --
+a specialty represent a human, or software process.
+
+Polyculture's two biggest challenges are complexity and
+labor.  The amount of information and experience to manage
+monocultures is not trivial -- a polyculture is
+exponentially more complex.  There used to be a great deal
+of local cultural knowledge for each biome that was passed
+down from generation to generation.  That body of knowledge
+is at the brink of being lost.  The second problem is
+labor.  Permaculture systems actually mitigate this by
+leveraging ecosystems to do the work that the farmers used
+to do.  Let the animals and plants do the work for you.  But
+this still leaves the problem of harvesting and aggregating
+small amounts of many different crops in a commercially
+viable way.
+
 
   - any plan today
   
