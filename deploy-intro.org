@@ -54,7 +54,7 @@ whole adult life working on this.  There have been some
 detours, but not as many as you might think.  I can trace
 where I am now back to a couple of weeks in 1978, sitting at
 a typewriter and catching the glimpse of something that has
-never let me go.  And the challenge was first to figure out
+never let me go.  And the challange was first to figure out
 what it was and second how to get it all down so others
 could understand as well.
 
@@ -348,12 +348,12 @@ all be modeled after the iPhone and the App ecosystem that
 runs on it.
 
 I am not trying to predict the future, though part of what I
-am doing is what Kevin Kelly has done and tried to determine
-what the inevitable trends we will have to live with over
-the next 50 years.  But it's not enough to ride the winds,
-because winds change and not always in the direction you
-want to go in.  Rather we need to listen to Alan Kay when he
-said "the best way to predict the future is to invent it."
+am doing is like Kevin Kelly, to determine what the
+inevitable trends we will have to live with over the next 50
+years.  But it's not enough to ride the winds, because winds
+change and not always in the direction you want to go in.
+Rather we need to listen to Alan Kay when he said "the best
+way to predict the future is to invent it."
 
 So here's the plan.  First figure out how we got where we
 are today and understand the forces that shaped who we are
