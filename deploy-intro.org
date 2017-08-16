@@ -265,10 +265,11 @@ you can peak inside and still come away with nothing.
 It may well be, that cognition is something akin to the
 poisson distribution -- you can know statistically how many
 black or white stones may be on the Go board, but not which
-stones will be where.  We see this over an over -- in the
+stones will be where.  We see this over and over -- in the
 uncertainty principle, illustrated by the tale of a cat in a
-precarious box which is the modern incarnation of pandora's
-box except we will never know what will be last to escape.
+precarious box,  the modern incarnation of pandora's box
+telling us that we will never know what will be last to
+escape.  We can only pray that it will be hope.
 
 chaos is our constant companion, and we need to let go of
 our illusions of certainty and embrace and accept complexity
