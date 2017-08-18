@@ -91,7 +91,7 @@ still don't know how all of this will shape up.  Time will tell.
  - Infrastructure
  - [[./deploy-structures.org][Structures]]
  - [[./deploy-markets.org][Markets]]
- - Tools
+ - [[./deploy-tools.org][Tools]]
 
  - [[./deploy-agriculture.org][Agriculture]]
    - [[./agro-zones.org][Zones]]
