@@ -27,3 +27,8 @@
 
 * Introduction
 
+ - [[https://www.mcmaster.com/#][McMaster-Carr]] | Online Catalog
+ - [[http://kk.org/cooltools/universal-princ/][Universal Principles of Design]] | Cool Tools
+ - [[https://www.amazon.com/40-Principles-TRIZ-Innovation-Extended/dp/0964074052][40 Principles: TRIZ Keys to Innovation Extended Edition]] | Amazon.com: Books
+ - [[http://opensourceecology.org/gvcs/][Machines: Global Village Construction Set]] | Open Source Ecology
+ - [[https://muse.jhu.edu/article/499248/pdf][Toward an Open Source Civilization]] | Open Source Ecology
