@@ -32,3 +32,14 @@
  - [[https://www.amazon.com/40-Principles-TRIZ-Innovation-Extended/dp/0964074052][40 Principles: TRIZ Keys to Innovation Extended Edition]] | Amazon.com: Books
  - [[http://opensourceecology.org/gvcs/][Machines: Global Village Construction Set]] | Open Source Ecology
  - [[https://muse.jhu.edu/article/499248/pdf][Toward an Open Source Civilization]] | Open Source Ecology
+ - [[http://www.lowtechmagazine.com/2012/12/how-to-make-everything-ourselves-open-modular-hardware.html][How to Make Everything Ourselves: Open Modular Hardware]] | LOW-TECH MAGAZINE
+
+The line between tool and machine is often quite blurry.
+
+
+ - modular designs
+ - standardized parts
+ - think of machines in terms of shearing layers
+ - gracefully degrade
+ - repairable
+ - upgradeable
