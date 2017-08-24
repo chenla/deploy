@@ -56,10 +56,15 @@
  - population and the great pin
  - an end to our clement climate
 
+ - disease
+ - black swans, collapse, and world killers 
+
 * V   Maps & Stories
 
- - Ariadne's Thread -- maps, narratives and territories
- - mitigating complexity
+ - ariadne's Thread -- maps, narratives and territories
+ - indistinguishable from magic -- mitigating complexity -- we need
+   mythos to map technology so we can relate to it, understand it and
+   use it.
  - language & mythos as interface
  - transcending and returning to human scales
 
