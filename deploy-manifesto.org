@@ -25,16 +25,19 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* I.  the yellow brick road
+* I.  The yellow brick road
 
  - fermi's paradox and the great filter (& drake's equation)
-   if we are not exceptional -- then where is everyone?
+   if we are not exceptional then where is everyone?
 
  - biosphere
  - savannah
- - extend & externalize -- brain, speech, writing (havelock)
+ - extend & externalize
+   - mind  : brain, speech, writing (havelock), computer
+   - muscle: hand, tool, machine, robot
  - transactive man
  - cooperation & war
+ - polis -- the rise of annuals and decline of perennials
  - pace layers
 
 * II  Fragility
@@ -55,6 +58,9 @@
  - goods, people and know how
  - population and the great pin
  - an end to our clement climate
+
+ - the sound of inevitibility -- "you hear that mister anderson, it's
+   the sound of inevitability - Smith"
 
  - disease
  - black swans, collapse, and world killers 
