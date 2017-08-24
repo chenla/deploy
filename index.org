@@ -48,6 +48,7 @@ still don't know how all of this will shape up.  Time will tell.
 ** Deploy
 
  - [[./deploy-intro.org][Introduction]]
+ - [[./deploy-manifesto.org][Manifesto]]
 
  - [[./deploy-tldr.org][TL;DR]]
 
