@@ -68,7 +68,11 @@ still don't know how all of this will shape up.  Time will tell.
  - [[./deploy-goverance.org][Governance]]
  - [[./deploy-legibility.org][Legibility]]
  - [[./deploy-interface.org][Interfaces]]
- - [[./social-bands.org][Bands]]       : 
+
+ - [[./deploy-gods.org][Gods]]
+
+
+ - [[./social-bands.org][Bands]]       :
  - [[./social-territory.org][Territory]]   : man is a territorial animal who conflates
                  control with ownership
  - [[./social-sovereignty.org][Sovereignty]] : control of territory and peoples that is
