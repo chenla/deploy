@@ -35,7 +35,7 @@ processes.
 
 These systems will eventually be largely autonomous
 
-** Demiurge
+* Demiurge
 
 Since all gods are made by men, and men bestow not only life but power
 to them, and to some extent deed them limited clearly defined power
@@ -55,3 +55,76 @@ demiurge ultimately can over override and even shut down or destroy a
 god either because the god has been tampered with and is not doing
 what it is supposed to, or people are trying to compromise the god in
 ways beyond its control.
+
+So there is separation of powers -- it might well be that the demiurge
+is not a singular entity but a collective entity based on a
+blockchain, all decisions must be made by consensus by a minimum
+number of instances of the demiurge.  So it is important that
+instances for a demiurge are kept in multiple locations that are
+beyond the control of any one group.  Sort of like, if you had a
+demiurge for the state of Montana, that the other fifty states would
+maintain instances for montana, as well as all of the member states of
+the EU.  So unless you could get control of all states in the US and
+the EU no one could take control over the system.
+
+*  Example: A Door God
+
+Let's say that we create a door god.  A door god is a number of
+things, it vets those coming and going through a door, it remembers
+has come and gone, it manages access control, who can pass or not, and
+how.  Perhaps door gods could also watch over windows and anything
+coming in and out, including electromagetic, audio and light signals
+-- so it would act as a firewall as well.  Other security could entail
+scanning for weapons, accepting deliveries etc.
+
+Door gods are not stand alone entities, each instance is only one of
+many, a god may watch over many buildings, and each building maintains
+an instance of the god -- the god is distributed in the cloud over
+IPFS and is a legal corporate entity with it's own coins, and accounts
+in other currencies so it can maintain it's services.
+
+So for example, if a crime is commited, the police will have to
+petition the door god for information related to the crime.  Because
+of it's compact with the demiurge, and with the owners of the
+building, it will only devulge information related to the crime.  The
+police can not over ride this.  If the police attempt to break any of
+the compacts, they will be refused access to the information.  This is
+a safeguard against corruption -- and will be a tricky thing to get
+institutions who believe they have soverignty over everything to get
+their heads around.  There is no question that there will be groups
+that will demand back doors.  But there is only one back door, the
+demiurge, and you can't break a demiurge without destroying it.  A
+demiurge might be forked under a new compact, but prior information
+will still be kept by the original demiurge network.  The older the
+demiurge and the more gods that a demiurge watches over, the harder it
+will be to fork.
+
+There have always been rituals that center around gateways and doors.
+A groom carrying a new bride over a transom, the japanese tradition of
+hanging curtains that force people to slightly bow in order to enter a
+home or a shop.  Doorways and gateways are transitions between
+different spaces that might have different expectations and
+obligations.  A bar might be considered a neutral place where people
+are not allowed to bring weapons or fight.  A church or temple might
+legally provide sanctuary from the authorities.  Entering a theatre or
+library might require that all devices that have audio outputs be
+muted.  Some spaces are reserved for negotiation, or the privicy of a
+newroom's meeting room (I've been in such conference rooms that have
+thick insulated walss to protect conversations being overheard by
+reporters in the building.
+
+When you move into a building, you invite a door god to protect the
+building and pledge a binding oath to the god.  You give god the
+authority to protect you, and in return you must make offerings in the
+form of purchasing coins for computation, electricty and
+maintainence.  If a lock needs to be replaced, or any hardware or
+cameras, it will be contracted by and paid for by the god, not the
+people inhabiting the building.
+
+Door gods will make compacts with individual horcruxes and create
+roles that are jointly owned by the god and the person's horcrux.  So
+a person has a complete record of anything they have done, as well as
+the god.  And the god can not show that information to anyone unless
+the joint horcrux releases the information to the third party.
+
+Locks, protective wards, and glamours are all possibilities.
