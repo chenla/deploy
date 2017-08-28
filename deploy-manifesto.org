@@ -47,6 +47,12 @@ else is grandiose romanticism or politics.
 -- Charles Bukowski (1920-1994)
 #+end_quote
 
+#+begin_quote
+Pass it on .... That's the game I want you to learn to play.
+Pass it on.
+
+-- Alan Bennett, /The History Boys/
+#+end_quote
 
 * I.  The yellow brick road
 
