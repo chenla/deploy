@@ -33,12 +33,19 @@ forever in a cradle.
 
 
 #+begin_quote
-You can't cross the sea merely by standing and staring at
+You can't cross the sea merely by standing and staring at 
 the water.
 
--- Rabindranath Tagore
+-- Rabindranath Tagore 1861-1941
 #+end_quote
 
+
+#+begin_quote
+You begin saving the world by saving one man at a time; all
+else is grandiose romanticism or politics.
+
+-- Charles Bukowski (1920-1994)
+#+end_quote
 
 
 * I.  The yellow brick road
