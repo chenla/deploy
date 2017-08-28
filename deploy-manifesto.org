@@ -28,7 +28,7 @@
 The Earth is the cradle of the mind, but we cannot live
 forever in a cradle. 
 
--- Konstantin Tsiolkovsky, 1911
+-- Konstantin Tsiolkovsky (1857-1935)
 #+end_quote
 
 
@@ -36,7 +36,7 @@ forever in a cradle.
 You can't cross the sea merely by standing and staring at 
 the water.
 
--- Rabindranath Tagore 1861-1941
+-- Rabindranath Tagore (1861-1941)
 #+end_quote
 
 
