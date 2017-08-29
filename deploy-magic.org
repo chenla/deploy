@@ -1,0 +1,29 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Magic
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/deploy/deploy-magic.org
+:Created:   2017-08-29T14:58@Prek Leap (11.642600N-104.919210W)
+:ID:        cf364536-1012-47f5-844a-4997ca394fdc
+:VER:       557265551.563549922
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:WII0-7340
+:Class:     deploy
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Introduction
+
