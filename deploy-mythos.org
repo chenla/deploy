@@ -27,3 +27,65 @@
 
 * Introduction
 
+ - [[https://en.wikipedia.org/wiki/Intersubjectivity][Intersubjectivity]] | Wikipedia
+
+Myths are not just stories
+
+  - communication within and between groups
+  - cooperation within and between groups.
+  - language
+  - what Havelock calls a cultural  encyclopedia
+  - a collective world view (map)
+
+In a sense all five of these things are simply different aspects of
+the same thing.
+
+#+begin_quote
+According to Albert A. Anderson, a professor of philosophy, the term
+mythos appears in the works of Homer and other poets of Homer's
+era.[7] In these works, the term had several meanings: conversation,
+narrative, speech, story, tale, and word. Like the related term logos,
+mythos expresses whatever can be delivered in the form of words.[7]
+Anderson contrasts the two terms with ergon, a Greek term for action,
+deed, and work.
+
+The term mythos lacks an explicit distinction between true or false
+narratives.
+
+-- [[https://en.wikipedia.org/wiki/Myth][Myth]] | Wikipedia
+#+end_quote
+
+
+
+#+begin_quote
+In the debate between cognitive individualism and cognitive
+universalism, some aspects of thinking are neither solely personal nor
+fully universal. Cognitive sociology proponents argue for
+intersubjectivity—an intermediate perspective of social cognition that
+provides a balanced view between personal and universal views of our
+social cognition. This approach suggests that, instead of being
+individual or universal thinkers, human beings subscribe to "thought
+communities"—communities of differing beliefs. Thought community
+examples include churches, professions, scientific beliefs,
+generations, nations, and political movements. This perspective
+explains why each individual thinks differently from each another
+(individualism): person A may choose to adhere to expiry dates on
+foods, but person B may believe that expiry dates are only guidelines
+and it is still safe to eat the food days past the expiry date. But
+not all human beings think the same way (universalism).
+
+Intersubjectivity argues that each thought community shares social
+experiences that are different from the social experiences of other
+thought communities, creating differing beliefs among people who
+subscribe to different thought communities. These experiences
+transcend our subjectivity, which explains why they can be shared by
+the entire thought community. Proponents of intersubjectivity
+support the view that individual beliefs are often the result of
+thought community beliefs, not just personal experiences or universal
+and objective human beliefs. Beliefs are recast in terms of standards,
+which are set by thought communities.
+
+ -- [[https://en.wikipedia.org/wiki/Intersubjectivity][Intersubjectivity]] | Wikipedia
+#+end_quote
+
+ /inter-subjective/
