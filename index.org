@@ -55,7 +55,8 @@ still don't know how all of this will shape up.  Time will tell.
  - [[./deploy-goals.org][Goals]]
  - [[./deploy-functional.org][Functional Requirements]]
  - [[./deploy-movement.org][Movement]]
- - Mythos
+ - [[./deploy-mythos.org][Mythos]]
+ - [[./deploy-magic.org][Magic]]
  - Community
  - [[./deploy-principles.org][Principles]] 
  - [[./deploy-calendar.org][Calendar]]
