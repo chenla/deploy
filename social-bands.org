@@ -147,3 +147,30 @@ will also belong to one or more guilds and maintain living
 quarters for a handful of apprentices and or jacks who will
 work in the band while working to become masters in their
 own right.
+
+---
+
+To jump start the idea of a band we will first need a
+network that can link them together and help generate
+revenue.  Since it is hoped that the model will work best
+when it replaces local value and logistic chains, it will
+need to work at least okay in a sparse network where each
+node may be arbitrarily far away.  This is how the internet
+started.  If it wasn't for the UUCP store and forward
+network that piggybacked on the POTS network, TCP/IP
+probably wouldn't have taken off the way it had.  But
+because of UUCP, major nodes connected to each other using
+leased circuits, which then acted as a backbone for UUCP
+connections.  Fidonet was a store and forward network that
+never had a fast backbone, so it was a very powerful local
+network but couldn't scale because long distance telephone
+calls were expensive and the bandwidth was limited to what a
+phone modem could handle.
+
+For bands/shops to become a working network we will have to
+solve the same problem.  Thankfully we have the Internet
+which will act as a backbone.  But that is only part of the
+problem.  If the whole idea is to create a network of shops
+that become value/supply chains then the first nodes will
+not have anyone to source or sell to.  So the system will
+have to piggyback on top of the existing value/supply chain.
