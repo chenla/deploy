@@ -34,11 +34,21 @@ Myths are not just stories
   - communication within and between groups
   - cooperation within and between groups.
   - language
-  - what Havelock calls a cultural  encyclopedia
+  - what Havelock calls a cultural encyclopedia
   - a collective world view (map)
 
 In a sense all five of these things are simply different aspects of
 the same thing.
+
+We need a way of thinking about all of these aspects:
+
+  - narrative -- a thread winding through a map
+  - overlay   -- a collective map that provides us as a
+    group with a shared worldview.
+  - interface -- magic is a interface between the 
+    intersubjective and the physical world -- not all of the
+    physical world, but technology that can be invoked to
+    manipulate the physical world on our behalf.
 
 #+begin_quote
 According to Albert A. Anderson, a professor of philosophy, the term
@@ -89,3 +99,5 @@ which are set by thought communities.
 #+end_quote
 
  /inter-subjective/
+
+
