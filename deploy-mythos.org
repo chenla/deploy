@@ -61,7 +61,8 @@ The /subjective/ is the map in our head. Mythos and Magic
 are a means of pulling together the intersubjective with the
 objective.
 
-
+Speech and writing systems are symbol systems that are
+essentially programming languages.
 
 #+begin_quote
 According to Albert A. Anderson, a professor of philosophy, the term
