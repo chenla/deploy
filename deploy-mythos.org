@@ -29,12 +29,12 @@
 
  - [[https://en.wikipedia.org/wiki/Intersubjectivity][Intersubjectivity]] | Wikipedia
 
-Myths are not just stories
+Myths are not just stories, they provide:
 
   - communication within and between groups
   - cooperation within and between groups.
-  - language
-  - what Havelock calls a cultural encyclopedia
+  - language, a shared symbol system
+  - a cultural encyclopedia (havelock)
   - a collective world view (map)
 
 In a sense all five of these things are different aspects of
@@ -56,11 +56,12 @@ We need a way of thinking about all of these aspects:
     they named.  This is the base concept of programming.
     You control computational machines using words, magic as
     command line.
-     
-Mythos and Magic are a means of pulling together the
-intersubjective with the objective.
 
-The /subjective/ is the map in our head.
+The /subjective/ is the map in our head. Mythos and Magic
+are a means of pulling together the intersubjective with the
+objective.
+
+
 
 #+begin_quote
 According to Albert A. Anderson, a professor of philosophy, the term
