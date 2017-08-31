@@ -37,18 +37,30 @@ Myths are not just stories
   - what Havelock calls a cultural encyclopedia
   - a collective world view (map)
 
-In a sense all five of these things are simply different aspects of
+In a sense all five of these things are different aspects of
 the same thing.
 
 We need a way of thinking about all of these aspects:
 
-  - narrative -- a thread winding through a map
-  - overlay   -- a collective map that provides us as a
-    group with a shared worldview.
-  - interface -- magic is a interface between the 
-    intersubjective and the physical world -- not all of the
-    physical world, but technology that can be invoked to
-    manipulate the physical world on our behalf.
+  - *narrative* -- a thread winding through a map
+  - *overlay*   -- a collective map that provides us as a
+    group with a shared worldview which we use for
+    communication and cooperation.  Mythos is a map.
+  - *interface* -- /magic/ is an interface between the
+    intersubjective and the objective physical world -- not
+    all of the physical world, only the things that we (man)
+    can have power over.  Traditionally magic was
+    /sympathetic/, /alchemal/ (which is the foundation for
+    chemistry) or /oral/ spells, incantations etc that were
+    based on the idea that words had power over the things
+    they named.  This is the base concept of programming.
+    You control computational machines using words, magic as
+    command line.
+     
+Mythos and Magic are a means of pulling together the
+intersubjective with the objective.
+
+The /subjective/ is the map in our head.
 
 #+begin_quote
 According to Albert A. Anderson, a professor of philosophy, the term
