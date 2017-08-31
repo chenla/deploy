@@ -50,7 +50,7 @@ We need a way of thinking about all of these aspects:
     intersubjective and the objective physical world -- not
     all of the physical world, only the things that we (man)
     can have power over.  Traditionally magic was
-    /sympathetic/, /alchemal/ (which is the foundation for
+    /sympathetic/, /alchemy/ (which is the foundation for
     chemistry) or /oral/ spells, incantations etc that were
     based on the idea that words had power over the things
     they named.  This is the base concept of programming.
