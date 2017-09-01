@@ -63,13 +63,14 @@ Where is everybody?  The question hangs in the air, like a
 pregnant pause, everyone holding their breath, but there is
 no answer, not yet.
 
-We live in a cosmos made up of galaxies, flying apart from
+We live in a cosmos made up of galaxies flying apart from
 the explosion that gave birth to our universe.  We live in
-an rather uninteresting part of an average spiral galaxy,
-which gave birth to an average yellow star which has now
-orbited the galaxy xx times.  Orbiting this star are nine
-planets including a small rocky world orbiting close enough
-to the star for there to be liquid water.  
+an rather uninteresting part of an average spiral galaxy of
+xxx billion stars, which gave birth to an average yellow
+star xxx years ago which has now orbited the galaxy xx
+times.  Orbiting this star are nine planets including a
+small rocky world orbiting close enough to the star for
+there to be liquid water.
 
 The more we learn about the universe and our place in it,
 the more it's clear that there is nothing special or unique
@@ -82,7 +83,7 @@ to their stars to be water worlds like ours.
 
 If there is nothing special about us, then it's reasonable
 to expect that life will have evolved on other planets and
-might be even be fairly common place.  And that on some
+might be even be relatively common.  And that on some
 planets where there is life that a species has evolved to
 build a technological civilization like ours.  So where is
 everybody?
@@ -96,10 +97,26 @@ themselves shortly after their own scientific revolution.
 
 Is this our fate as well?  Are technological species little
 more than mayflies that have a brief frantic existence before
-falling dead before the next dawn?
+falling dead before the next dawn?  It's called the Great
+Filter, the existential moment of truth that technological
+species must face after they have unlocked and can harness
+fundamental physics, or the structure of life itself, and
+have leveraged technology to engulf their planet and exceed
+it's carrying capacity, collapse and never recover.
 
+The answer to the question, is in our own hands.  If we can
+push past /our/ great filter, then it means that, if we are
+average, there will be others like us out there.  If we
+fail, we may well be gone before we can find out if we were
+special only in our own demise.
 
-
+There is no fate that determines the future, there is only
+complexity that allows us to understand where things are
+headed in general, but not specifically.  There is nothing
+to petition or pray to that can change that. We must live as
+individuals with uncertainty, but over time scales that are
+beyond living memory we can collectively pass the test and
+survive the filter.
 
 
  - fermi's paradox and the great filter (& drake's equation)
