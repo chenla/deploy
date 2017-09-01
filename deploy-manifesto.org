@@ -24,6 +24,9 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+*  A Manifesto for a Distributed Civilization
+
+
 #+begin_quote
 The Earth is the cradle of the mind, but we cannot live
 forever in a cradle. 
@@ -56,6 +59,49 @@ Pass it on.
 
 * I.  The yellow brick road
 
+Where is everybody?  The question hangs in the air, like a
+pregnant pause, everyone holding their breath, but there is
+no answer, not yet.
+
+We live in a cosmos made up of galaxies, flying apart from
+the explosion that gave birth to our universe.  We live in
+an rather uninteresting part of an average spiral galaxy,
+which gave birth to an average yellow star which has now
+orbited the galaxy xx times.  Orbiting this star are nine
+planets including a small rocky world orbiting close enough
+to the star for there to be liquid water.  
+
+The more we learn about the universe and our place in it,
+the more it's clear that there is nothing special or unique
+about us.  In the coming decades we will have the ability to
+learn the composition of the atmospheres of many of the
+rocky worlds orbiting the distant stars that we are now 
+discovering almost every day.  There is no reason to think
+that we won't find other worlds like ours close enough to
+to their stars to be water worlds like ours.
+
+If there is nothing special about us, then it's reasonable
+to expect that life will have evolved on other planets and
+might be even be fairly common place.  And that on some
+planets where there is life that a species has evolved to
+build a technological civilization like ours.  So where is
+everybody?
+
+There is a long list of reasons we haven't found evidence of
+other technological species, but there is one reason that
+haunts the dreams of many scientists.  What if the reason
+that we haven't found anyone out there is that technological
+species are are by nature, so unstable that they destroy
+themselves shortly after their own scientific revolution.
+
+Is this our fate as well?  Are technological species little
+more than mayflies that have a brief frantic existence before
+falling dead before the next dawn?
+
+
+
+
+
  - fermi's paradox and the great filter (& drake's equation)
    if we are not exceptional then where is everyone?
 
@@ -79,12 +125,18 @@ Pass it on.
      but means that children's development can be molded
    - we have more nerve endings in our hands
 
+  - we are the planet's apex predator and keystone species,
+    capable of destroying everything, we are close to being
+    able to consciously control of our dna not only of our
+    selves but all life on the planet, we are also close to
+    conquering death, so the only thing left that is certain
+    is taxes.
+
   - stories make cooperation between large groups possible
     -- havelock and homer as oral cultural encyclopedia
 
-
-   - between 70-30kya sapiens developed speech
-   - stories -- gossip makes larger groups possible
+  - between 70-30kya sapiens developed speech
+  - stories -- gossip makes larger groups possible
 
 
 * II  Fragility
@@ -99,7 +151,21 @@ Pass it on.
 
  - fragility of our civilization
 
-
+ - the idea of progress is a recent infection carried by the
+   scientific revolution -- it drives us, but it does not
+   direct us in the right direction.  the grasping always
+   for more has inspired us as a species, but it has also
+   blinded us, made us reckless and squander resources as if
+   they were infinite, as if our planet didn't have a
+   carrying capacity.  But time and time again, human
+   civilizations have run up against the carrying capacity
+   of their environment and it always ends the same,
+   collapse.  But there was always another civilization
+   which could pick up the pieces and rebuild.  We've now
+   taken this to it's logical conclusion, there is no where
+   left on the planet to go, no greener pastures,
+   unexploited resources.  We've finally gone so far that we
+   are back where we started.
 
  - centralized
 
