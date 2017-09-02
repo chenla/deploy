@@ -168,17 +168,14 @@ This is the great task we must choose or perish trying.
 This is where we must begin, with a single step, at the
 center of a widening path spiraling out into a vast kingdom
 that we still know little about.  Each tenuous step forward
-often will require to retrace our steps back, but there is
+often will require us to retrace our steps back, but there is
 nothing for it but to push on down the yellow brick road to
 meet someone or learn something, that can help us.
 
+* Savannah
 
 
- - fermi's paradox and the great filter (& drake's equation)
-   if we are not exceptional then where is everyone?
 
- - biosphere
- - savannah
  - extend & externalize
    - mind  : brain, speech, writing (havelock), computer
    - muscle: hand, tool, machine, robot
@@ -212,6 +209,17 @@ meet someone or learn something, that can help us.
 
 
 * II  Fragility
+
+ - pale blue dot
+ - the skin of an apple
+ - all the air, all the water
+ - that's all there is, a friable oasis that in cosmic
+   scales is as ephemeral as a soap bubble.  like the tiny
+   world that Horton the elephant discovers inhabiting a
+   mote of dust sitting on a cloverleaf.
+
+
+
 
  - fragility of our biosphere
    - asteroid and comet strikes
