@@ -24,7 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-*  A Manifesto for a Distributed Civilization
+* A Manifesto for a Distributed Civilization
 
 
 #+begin_quote
@@ -357,15 +357,111 @@ savannah with us.
 
  - centralized
 
+
 * V    Estranged
 
  - the mind's illusion
  - myth of progress
- - energy
+
  - estranged from ourselves
    - savannah lost
+
+* VI   Natures
+
+The agricultural and industrial revolutions have trashed the
+way that all members of Mankind live.  In an blink of an
+eye, by evolutionary timescales, all of us, Sapiens and all
+the creatures (both flora and fauna) we domesticated and
+took along for the ride now live a very uneasy existance
+that is out of sync with our natures.
+
+It is not too much to ask that each of our natures be
+respected and each us be allowed to live our lives, no
+matter how short or long, in a manner that reflects our
+natural instincts, strengths and weakneses.
+
+Let's start with plants.  It might sound strange to advocate
+that plants be allowed to live according to their natures.
+It has nothing to do with attributing human traits to
+plants.  It is much more about sound farming and ecological
+management practicess.
+
+We now grow a handful of spieces of plants in absolute
+artificial monocultures.  We have separated individual
+species, almost all of which are annuals, and separated them
+from broad ecosystem populated by plants, insects, micro
+organisms and animals and forced them to grow on their own.
+There is nothing natural about monocultures.  Each plant
+places different demands on the soil, both giving and
+taking.  In their natural environment they would be
+integrated with many other species of plants as well as sub
+species of their own species.  Different species compliment
+each other.  Some repell destructive insects, others attract
+pollinating insects, some return nitrogen to the soil,
+others providing forage for mega fauna.  Perennials provide
+shade, windbreaks, and deep root systems that keep
+groundwater coming to the surface in the form of springs and
+streams.  Worms provide and in the tropics, ants aerate the
+soil.  Insects pollinate and help break down decaying
+biomass.  Micro organisms do for plants what micro organisms
+do for humans, some keep us alive, others make us sick but
+neither of us can survive without the other.  Birds scatter
+the dung of mega fauna and are crucial in seed dispersal.
+
+This system was disrupted in the agricultural revolution,
+but small farms still had diversity, peasants still relied
+on forests for medicines, and variety in their diets.  And
+back breaking labour of humans replaced a wide variety of
+chores that are achieved in nature without any effort at all.
+
+It was the second agricultural revolution that was part of
+the industrial revolution where things really fell apart.
+
+....
+
+Animals -- go through all the primary domesticated animals,
+their natures and how they live now.
+
+....
+
+In many respects man hasn't done much better -- 
+
+  - communities
+  - families    -- replaced by state and market
+  - small numbers
+  - nutritious variety of diet
+
+  - circadian cycles, light and dark
+  - day and night, seasons
+
+  - children are separated from adults most of the time and
+    detained in schools so that parents are freed to work in
+    factories and offices
+
+  - teens living in separate sub-cultures cut off from
+    chilren and adults
+
+  - adults are cut off from their children and their parents
+    live by the same regimented schedule every day, and are
+    reduced to doing a very narrow range of activities and
+    have little free time to be with family, friends, study
+    or simple rest and recharge
+
+  - the elderly are left alone without purpose and often
+    even without human contact.
+
+  - cut off from the natural environment
+  - cut off from the sky and stars
+  - our buildings are not fit to live in
+
+  - our towns and cities have been designed to make
+    communities impossible
+
+  - many of us no longer know how to process natural plants
+    and animals for consumption -- increasingly, we don't
+    even know how to cook
    
-* VI   Storms
+* VII  Storms
 
  - goods, people and know how
  - population and the great pin -- as child mortality drops,
@@ -387,7 +483,7 @@ savannah with us.
 
  - chances of survival (Gott)
 
-* VII  Maps 
+* VIII Maps 
 
  - Map and Territory
  - Legibility 
@@ -416,23 +512,23 @@ savannah with us.
      brought misfortune for man.  Beowulf's Gods were
      distant and seemingly disinterested in man.  No help or
      intervention was coming, nor was expected, leaving
-     Heroes like Beowulf to take matters into their own hands
-     and do battle with both monsters and nature directly.
+     Heroes like Beowulf to take matters into their own
+     hands to do battle with both monsters and nature
+     directly.
 
-* VIII Stories
+* IX   Stories
 
-  - stories make cooperation between large groups possible
-    -- havelock and homer as oral cultural encyclopedia
-
+ - stories make cooperation between large groups possible
+   -- havelock and homer as oral cultural encyclopedia.
 
  - ariadne's Thread -- maps, narratives and territories
- - indistinguishable from magic -- mitigating complexity -- we need
-   mythos to map technology so we can relate to it, understand it and
-   use it.
+ - indistinguishable from magic -- mitigating complexity --
+   we need mythos to map technology so we can relate to it,
+   understand it and use it.
  - language & mythos as interface
  - transcending and returning to human scales
 
-* IX   The Window
+* X    The Window
 
  - The Window -- 50 years plus or minus 20
 
