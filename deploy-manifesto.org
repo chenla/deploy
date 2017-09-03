@@ -128,8 +128,8 @@ found evidence of other technological civilizations, but
 there is one reason that haunts the dreams of many
 scientists.  What if the reason that we haven't found anyone
 out there is that technological civilizations are are by
-their very nature, so unstable that they destroy themselves
-shortly after their own scientific revolution.
+their very nature so unstable that they destroy themselves
+shortly after the start of their own scientific revolution.
 
 Is this our fate as well?  Are technological species little
 more than mayflies that have a brief frantic existence
@@ -147,15 +147,9 @@ their planet's carrying capacity and then collapse and not
 have the resources to re-build an industrial civilization.
 
 If this sounds familiar it should be.  If we fall now, there
-is no rebuilding. The surviors will eek out an existence
-as best they can until an asteroid or super volcano finally
-puts an end to the great human experiment.
-
-The answer to the question, is in our own hands.  If we can
-push past /our/ great filter, then perhaps it means that if
-we are average, there will could be others like us out
-there.  If we fail, we may well be gone before we can find
-out if we were special only in our own demise.
+is no rebuilding. The surviors will eek out an existence as
+best they can until an asteroid or super volcano, or ice age
+finally puts an end to the great human experiment.
 
 Our ancestors understood that there were forces in the
 universe which even the gods could not escape, to which they
@@ -174,13 +168,13 @@ with each other.
 You can predict the outcome of simple systems.  But once a
 system crosses a threshold of complexity, all there is, is
 statistics.  It's a bit like the game of Go.  In Go, binary,
-black and white stones placed are on a grid cut into a block
+black and white stones are placed on a grid cut into a block
 of wood.  We thought that Fate and the Gods added, removed
 and moved stones on the board in a dance that we could not
 understand, control or predict.  Instead, stones are dropped
 onto the board at random, white and black, and you get a
 Poisson Distribution where you can predict how many squares
-on the grid will have how many stones, but not which square
+on the grid will have how many stones, but not which squares
 will have which number of stones.
 
 There is no prayer that can change the certainty of our
@@ -201,9 +195,9 @@ to learn something that, or meet someone who can help.
 
 * II   Savannah
 
-A savannah is a biome that has stalled in the process of
-evolving from a grassland to a forest.  Savannah biomes are
-enormously productive and varied, with the advantages of
+A savannah is a biome between worlds, stalled in the process
+of evolving from a grassland to a forest.  Savannah biomes
+are enormously productive and varied, with the advantages of
 both grasslands and forests while making both stable and in
 harmony with each other.  Where grasslands are the domain of
 annuals which die out every year, and forests are dominated
@@ -211,8 +205,7 @@ by perrenials which often live decades or even centuries
 under the right conditions, a savannah is a balance between
 the two, and so support a wider variety of both flora and
 fauna in an ecosystem which is resiliant to a wider variety
-of climatic and other types of change than grasslands or
-forest.
+of climatic and other types of change than.
 
 Savannah fauna make a savannah what it is, with a
 combination of mega fauna which both graze grasses and keep
