@@ -168,33 +168,33 @@ more or less than the physical laws of the universe which
 are governed by the complexity of everything interacting
 with each other.
 
-You can predict the outcome of simple systems, but once a
-system crosses a threshold of complexity, all we have is
-statistics.  It's a bit like a game of Go.  With binary,
-black and white stones placed on a grid cut into a block of
-wood.  We thought that Fate and the Gods moved the stones
-around on the board in a dance that we could not understand,
-control or predict.  Instead stones are dropped onto the
-board at random and you get a Poisson Distribution where you
-can predict how many squares on the grid will have how many
-stones, but not which square will have which number of
-stones.
+You can predict the outcome of simple systems.  But once a
+system crosses a threshold of complexity, all there is, is
+statistics.  It's a bit like the game of Go.  In Go, binary,
+black and white stones placed are on a grid cut into a block
+of wood.  We thought that Fate and the Gods added, removed
+and moved stones on the board in a dance that we could not
+understand, control or predict.  Instead, stones are dropped
+onto the board at random, white and black, and you get a
+Poisson Distribution where you can predict how many squares
+on the grid will have how many stones, but not which square
+will have which number of stones.
 
 There is no prayer that can change the certainty of our
 uncertainty.  As individuals we must each learn to make
 peace with the unknown.  Our consolation is that over time
 scales that are beyond the living memory of any individual,
-we can collectively beat fate, pass the test to make it
-through the Great Filter, but only if enough of us as
-individuals decide to do so.
+we contribute to collectively beat fate, pass the test and
+make it through the Great Filter, but only if enough of us
+as individuals today, and tomorrow, decide to do so.
 
 This is the great task we must choose or perish trying.
 This is where we must begin, with a single step, at the
 center of a widening path spiraling out into a vast kingdom
 that we still know little about.  Each tenuous step forward
-often will require us to retrace our steps back, but there is
+often will require us to retrace our steps back.  But there is
 nothing for it but to push on down the yellow brick road to
-meet someone or learn something, that can help us.
+meet someone who, or learn something that can help us.
 
 * II   Savannah
 
