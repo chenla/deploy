@@ -172,7 +172,8 @@ black and white stones are placed on a grid cut into a block
 of wood.  We thought that Fate and the Gods added, removed
 and moved stones on the board in a dance that we could not
 understand, control or predict.  Instead, stones are dropped
-onto the board at random, white and black, and you get a
+onto the board at random, white and black with an equal
+chance of any stone landing on any square. What you get is a
 Poisson Distribution where you can predict how many squares
 on the grid will have how many stones, but not which squares
 will have which number of stones.
@@ -191,7 +192,7 @@ center of a widening path spiraling out into a vast kingdom
 that we still know little about.  Each tenuous step forward
 will often require us to retrace our steps back.  But there
 is nothing for it but to push on down the yellow brick road
-to learn something that, or meet someone who can help.
+to learn something that, or meet someone, who can help.
 
 * II   Filters
 
@@ -200,8 +201,8 @@ have arisen here, or elsewhere and piggybacked on a comet or
 meteriod -- it's possible it might even be from another
 star, riding on a piece of rock ejected from another planet
 on another star at some distant time in the past when our
-star brushed up against our neightbor's Ort cloud and
-exchanged debris -- caught in our Ort Cloud for millennia
+star brushed up against our neightbor's Oort cloud and
+exchanged debris -- caught in our Oort Cloud for millennia
 before some random event pulled it in towards the sun but
 impacted earth first.  we will only know if we ever visit
 the stars and find life there that is us... In any event,
@@ -268,11 +269,11 @@ the two, and so support a wider variety of both flora and
 fauna in an ecosystem which is resiliant to a wider variety
 of climatic and other types of change than.
 
-Savannah fauna make a savannah what it is, with a
-combination of mega fauna which both graze grasses and keep
-the ground clear beneath trees and by knocking down or
-tearing up most small trees that would otherwise eventually
-grow to replace the grasses.
+Fauna make a savannah what it is, with a combination of mega
+fauna which both graze grasses and keep the ground clear
+beneath trees and by knocking down or tearing up most small
+trees that would otherwise eventually grow to replace the
+grasses.
 
 Some 6 million years ago, we shared an ancestor who had two
 chilren, one which would evolve to become the Chimpanzee and
@@ -297,8 +298,8 @@ of ours there are to be found.
 Meanwhile, in the African savannah, the cradle of humanity,
 new species evolve including /Homo Rudolfensis/ (man from
 Lake Rudolf), /Homo Ergaster/ (working Man), and our
-species, who was named by Linnaeus in 1758, /Homo Sapiens/
-(wise Man)
+species, who was modestly named by Linnaeus in 1758, /Homo
+Sapiens/ (wise Man)
 
 A hundred thousand years ago there were at least six
 different human species living at the the same time, spread
@@ -307,7 +308,7 @@ across the planet.
 It's still uncertain why any one species vanished, though
 there are many theories that all posit that we were
 responsible for the demise of some species when sapiens
-moved into territories of other species.
+moved into the territories of other species.
 
 The Toba super erupution that took place around 75,000 years
 in what is now Indonesia coincided with the extinction of
@@ -316,7 +317,7 @@ genetic evidence, the human population was reduced to only a
 few thousand individuals who had all come out of africa.
 For a long time it was thought that the eruption was
 responsible for our near extinction, but there is a growing
-amount of evidence that man was able to cope with the
+body of evidence that man was able to cope with the
 erruption quite well and that little volcanic ash reached
 east Africa which quickly recovered.
 
@@ -437,6 +438,47 @@ will bring the savannah with us.
 
 * VI   Estranged
 
+*NOTE* Estrangement is about specilization and
+compartmentalization.
+
+  - communities
+  - families    -- replaced by state and market
+  - small numbers
+  - nutritious variety of diet
+
+  - circadian cycles, light and dark
+  - day and night, seasons
+
+  - children are separated from adults most of the time and
+    detained in schools so that parents are freed to work in
+    factories and offices
+
+  - teens living in separate sub-cultures cut off from
+    chilren and adults
+
+  - adults are cut off from their children and their parents
+    live by the same regimented schedule every day, and are
+    reduced to doing a very narrow range of activities and
+    have little free time to be with family, friends, study
+    or simple rest and recharge
+
+  - the elderly are left alone without purpose and often
+    even without human contact.
+
+  - cut off from the natural environment
+  - cut off from the sky and stars
+  - our buildings are not fit to live in
+
+  - our towns and cities have been designed to make
+    communities impossible
+
+  - many of us no longer know how to process natural plants
+    and animals for consumption -- increasingly, we don't
+    even know how to cook
+
+
+* A Social fabric
+
 Cognitive estrangement -- we are brains that learn about the
 world second hand through very limited senses that evolved
 for specific functions -- we try to piece together what the
@@ -454,22 +496,23 @@ customs, and ritual.  Religions help us fill in the gaps of
 our knowledge of things that we don't know or can not know
 with shared stories of divinities who by and large are
 little more than cardboard projections of our selves and our
-fears and anxieties on the universe.  This is something that
-hard core atheists can't understand.  They see religious
-belief systems as objectively false.  But they believe in
-all sorts of collective belief systems which are fictions as
-well. But it's not about objective or empirical truth, which
-doesn't matter much.  A fundementalist Christian who
-proclaims that the scriptures are objectively and
-historically accurate accounts don't live their lives as if
-it were true.  If they really believed such things to be
-real, they could not function in a modern technological
-society.  They use technology daily that could not have been
-developed if it were.  This does not excuse willful
-ignorance of things like climate change.  But at the same
-time it doesn't make them hipocrites.  Belief is not about
-being true or false, it's about share narratives that make
-cooperation and communication possible.
+fears and anxieties on the cave wall we believe is the
+universe.  This is something that hard core atheists can't
+understand.  They see religious belief systems as
+objectively false.  But they believe in all sorts of
+collective belief systems which are fictions as well. But
+it's not about objective or empirical truth, which doesn't
+matter much.  A fundementalist Christian who proclaims that
+the scriptures are objectively and historically accurate
+accounts don't live their lives as if it were true.  If they
+really believed such things to be real, they could not
+function in a modern technological society.  They use
+technology daily that could not have been developed if it
+were.  This does not excuse willful ignorance of things like
+climate change.  But at the same time it doesn't make them
+hipocrites.  Belief is not about being true or false, it's
+about shared narratives that make cooperation and
+communication possible.
 
 Secular belief systems include things like nationality,
 cultural identity, money, the market, and above all the
@@ -603,40 +646,7 @@ In many respects man hasn't done much better --
 
 ....
 
-  - communities
-  - families    -- replaced by state and market
-  - small numbers
-  - nutritious variety of diet
 
-  - circadian cycles, light and dark
-  - day and night, seasons
-
-  - children are separated from adults most of the time and
-    detained in schools so that parents are freed to work in
-    factories and offices
-
-  - teens living in separate sub-cultures cut off from
-    chilren and adults
-
-  - adults are cut off from their children and their parents
-    live by the same regimented schedule every day, and are
-    reduced to doing a very narrow range of activities and
-    have little free time to be with family, friends, study
-    or simple rest and recharge
-
-  - the elderly are left alone without purpose and often
-    even without human contact.
-
-  - cut off from the natural environment
-  - cut off from the sky and stars
-  - our buildings are not fit to live in
-
-  - our towns and cities have been designed to make
-    communities impossible
-
-  - many of us no longer know how to process natural plants
-    and animals for consumption -- increasingly, we don't
-    even know how to cook
    
 * VIII Storms
 
