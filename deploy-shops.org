@@ -25,6 +25,59 @@
 
 * Introduction
 
+When I was young, my family visited /Plymouth Plantation/ on Cape Cod
+which was a recreation of the original 17th century Puritian
+settlement, as well as /Mystic Seaport/ in Mystic Connecticut which
+preserved an entire 19th century seafaring village and ships, and
+later /Colonial Williamsburg/ which preserved 18th century buildings
+as a museum that recreated life in the 18th century.
+
+The thing that struck me about all three was how self-contained these
+settlements were.  Almost everything that was needed was produced
+locally, including food, building materials, tools, and clothing.
+This was done using a handful of semi-specialized shops which provided
+a range of goods and services within in a broad specialty.  There were
+for example, blacksmiths, coopers, and cobblers.  Each of these shops
+required specialized knowledge, tools and workflow that was difficult
+for an individual household to do themselves.
+
+These shops depended on each other as well.  A cooper needed wood, but
+also metal hoops and tools produced by the blacksmith to produce
+barrels.  A coobler needed a source or leather from a Tanner.  Tanning
+is a specialty in itself which requires large quantities of chemicals
+to tan hides.  The process can be done on a farm, but it's a long
+process and the materials to tan hides are not cost effective if you
+only have a few hides to tan a year.  A tailor needs woven cloth and
+thread, and woven cloth needs dyed threads made from cotton or whool
+in various colors.  A printer needed ink, lead type and paper, non of
+which was created locally.  But in most small towns, the printer was
+also a publisher of the local newspaper, and would sometimes also
+publish books which they would have to bind as well as print.
+
+Farms have traditionally been highly generalized enterprises that do
+a great deal of fabrication from materials produced on the farm.  In
+principle the farm could produce nearly everything themselves from
+cloth to tools to tanned leather.  But that would require a great deal
+of time and a very large toolchain.  It's much easier to go to the
+blacksmith for a new hammer, or to fix something.  The farmer will
+still do many tasks that could be done by a blacksmith, but when it
+comes to something that is intricate, or requiring specialized tools,
+it is better to take it to a specialist.
+
+The system works well for small settlements made up of a few dozen
+farms.  Trade between settlements was only done for a relatively small
+range of goods because transportation of goods was both difficult and
+expensive. 
+
+What is missing from this system is aggregation, which requires
+communications between producers, a logistics system to physically
+collect things and move them to a centralized warehouse and then
+combine and repackage those goods for sale to others.  This is where
+middlemen come into the picture who add value by aggregating and
+moving goods.
+
+* Notes
+
   - [[https://en.wikipedia.org/wiki/Workshop][Workshop]]    | Wikipedia
   - [[https://en.wikipedia.org/wiki/Studio][Studio]]      | Wikipedia
   - [[https://en.wikipedia.org/wiki/Laboratory][Laboratory]]  | Wikipedia
