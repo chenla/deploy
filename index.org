@@ -115,6 +115,8 @@ still don't know how all of this will shape up.  Time will tell.
 
  - [[./deploy-production.org][Production]] 
 
+ - [[./deploy-archival-storage.org][Archival Storage]]
+
 ** Shops
 ** Guilds
  files prefix: 'guild'
