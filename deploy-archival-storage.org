@@ -27,3 +27,78 @@
 
 * Introduction
 
+ - error
+ - human accident
+ - tempory insanity
+ - benign neglect
+   For other uses of term SEE [[https://en.wikipedia.org/wiki/Municipal_disinvestment][Municipal disinvestment]] | Wikipedia
+
+ - [[https://en.wikipedia.org/wiki/Computer_data_storage][Computer data storage]] | Wikipedia
+
+   - primary storage (memory)
+     - Secondary storage (also known as external memory or auxiliary storage)
+       - Tertiary storage or tertiary memory
+
+I prefer online, nearline, offline
+
+  - [[https://en.wikipedia.org/wiki/Non-RAID_drive_architectures#MAID][Non-RAID drive architectures]] | Wikipedia
+
+
+* Rosetta Project
+
+Rosetta was/is a brilliant project that in some ways was doomed to be
+a one-off.  It was a bit expensive, used proprietary technology to
+encode it and the contents of what was recorded as far as I can tell
+is not in the public domain, or even digitized except as images.  So
+this was a time-capsule project -- not a living archive that would
+have continuity over long time periods.  The second problem is that it
+really is like the rosetta stone -- its /just/ a massive bunch of
+parallel texts.
+
+ - [[http://rosettaproject.org/blog/02008/aug/20/very-long-term-backup/][Very Long-Term Backup]] | The Rosetta Project
+
+The technology used to make the disk is from Norsam technologies.
+
+ - [[http://www.norsam.com/rosetta.html][Norsam: HD-Rosetta and Related Processes]]
+
+The time-scales for microetched nickle for very long term storage is
+very good, but the system doesn't look like it will be feasible as a
+solution for large scale distributed archival storage.
+
+* MDISC: Stone DVD 
+
+M-DISC is another billiant technology which leverages DVD and Blu-ray
+discs made of stone which have an expected lifespan of up to 1,000
+years.
+
+The two problems with this is that they top out at 100GB using BD-XL
+Blu-ray.  The chances of blueray players being around for a 1,000
+years is problematic -- and because DVD and Blueray were concocted by
+the entertainment industry there is all sorts of encoding cruft that
+will not age well.
+
+   - [[http://www.mdisc.com/][MDISC Archive Service]]
+
+* DOTS
+
+DOTS uses archvial tape image archival storage system.
+
+ - [[http://blog.longnow.org/02015/12/27/dots-long-term-human-readable-archival-data-storage/][DOTS—Long-Term, Human-Readable Archival Data Storage]] | Long Now
+ - [[https://www.youtube.com/watch?v=7eViN-ixW9I][Group 47 DOTS Tech-Connect Fast Pitch]] | YouTube
+ - [[http://www.group47.com/Group_47-DOTS_Technology_Overview-WEBSITE.pdf][Group_47-DOTS_Technology_Overview-WEBSITE-4-26-17.pptx]]
+
+The system holds 1TB in a cartridge, lasts at least 100 years, it
+seems to be tolerant of a wide range of environmental conditions
+(except acid -- three hours in Sprite degraded the media).
+
+There is a "leader" at the beginning of each tape that provides
+instructions on how to contruct a microscope that can read the images.
+
+The system also incorporates the LTFS file system that makes it easier
+for automated systems to retrieve specific frames.
+
+ - [[https://en.wikipedia.org/wiki/Linear_Tape_File_System][Linear Tape File System]] | Wikipedia
+
+* Backblaze
+
+Backblaze is online storage that massively scales.
