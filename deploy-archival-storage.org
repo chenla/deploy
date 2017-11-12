@@ -27,8 +27,13 @@
 
 * Introduction
 
+ - [[http://www.tvtechglobal.com/post-production/deep-storage-how-to-save-your-data-for-a-billion-years/01278][Deep storage: How to save your data for a billion years]] | TVTechGlobal
+
+ Group 47 has a good [[http://group47.com/challenges-of-archival-storage-of-digital-data/][list]] of links about the challenges of digital storage.
+
  - error
  - human accident
+ - disaster
  - tempory insanity
  - benign neglect
    For other uses of term SEE [[https://en.wikipedia.org/wiki/Municipal_disinvestment][Municipal disinvestment]] | Wikipedia
@@ -36,8 +41,8 @@
  - [[https://en.wikipedia.org/wiki/Computer_data_storage][Computer data storage]] | Wikipedia
 
    - primary storage (memory)
-     - Secondary storage (also known as external memory or auxiliary storage)
-       - Tertiary storage or tertiary memory
+   - Secondary storage (also known as external memory or auxiliary storage)
+   - Tertiary storage or tertiary memory
 
 I prefer online, nearline, offline
 
@@ -84,7 +89,8 @@ will not age well.
 DOTS uses archvial tape image archival storage system.
 
  - [[http://blog.longnow.org/02015/12/27/dots-long-term-human-readable-archival-data-storage/][DOTS—Long-Term, Human-Readable Archival Data Storage]] | Long Now
- - [[https://www.youtube.com/watch?v=7eViN-ixW9I][Group 47 DOTS Tech-Connect Fast Pitch]] | YouTube
+ - [[http://group47.com/what-is-dots/][What is DOTS?]] | Group 47
+ - [[https://www.youtube.com/watch?v=7eViN-ixW9I][DOTS Tech-Connect Fast Pitch]] | YouTube
  - [[http://www.group47.com/Group_47-DOTS_Technology_Overview-WEBSITE.pdf][Group_47-DOTS_Technology_Overview-WEBSITE-4-26-17.pptx]]
 
 The system holds 1TB in a cartridge, lasts at least 100 years, it
@@ -102,3 +108,10 @@ for automated systems to retrieve specific frames.
 * Backblaze
 
 Backblaze is online storage that massively scales.
+
+  - [[https://www.backblaze.com/b2/storage-pod.html][Backblaze Storage Pod]]
+  - [[https://www.backblaze.com/blog/vault-cloud-storage-architecture/][Backblaze Vaults: Zettabyte-Scale Cloud Storage Architecture]]
+  - [[https://www.backblaze.com/open-source-reed-solomon.html][Reed Solomon Erasure Coding Web Page for downloading files]][[https://www.backblaze.com/open-source-reed-solomon.html][Reed
+    Solomon Erasure Coding Web Page for downloading files]] 
+  - [[https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction][Reed–Solomon error correction]] | Wikipedia
+
