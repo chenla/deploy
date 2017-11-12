@@ -27,3 +27,151 @@
 
 * Introduction
 
+The recent spate of revelations about the role of Facebook and Google
+in the 2016 US elections is finally getting at least some people aware
+of how manipulative these services are.
+
+How did we get where we are today?  Basically it boils down to
+traffic.  The longer that a site can keep you on their site, the more
+moeny they can make.  Google does this by basically becoming the
+interface used to do pretty much everything online.  Facebook is a
+walled garden or roach motel, you go in but you don't come out.
+
+The tactics used comprise a collection of antipatterns that are
+important to be aware of and design against.
+
+  - [[https://www.axios.com/sean-parker-unloads-on-facebook-2508036343.html][Sean Parker unloads on Facebook "exploiting" human weakness]]
+  - [[https://news.ycombinator.com/item?id=15662004][Sean Parker unloads on Facebook “exploiting” human psychology]] |
+    Hacker News
+
+There were two comments in the HN thread worth quoting:
+
+#+begin_quote
+dalbasal
+
+For a big enough digital product, "hacking psychology" happens by
+default, more than intentionally.
+
+First, it happens through competition. Good psychology hacks are
+things like tinder's fast paced swiping. Out of the squillions of
+dating apps, the one with a good hack won. I think Facebook used an
+identical hack for its first version, the hot-or-not
+version. Twitter's basic concept. Snapchat's. Lots of examples. All
+good "psych-hacks" that formed a core of successful products, arrived
+at through a sort of natural selection process. I suspect that almost
+any app which does not "solve a problem" leverages some hack instead.
+
+Second, psych-hackers FB actually employ are not psychlogists. They're
+data scientists doing split tests. If this works like that, will you
+like more posts. A/B testing is really behavioural psychology
+expirementation, weaponized.
+
+I think both of these are quasi-inevitable. But, constant optimization
+towards viral drek is not.
+
+Where I think FB should be sheepish about is allowing the optimization
+to go on directionless. The only goals are quantitive. Quality is a
+foreign concept. No one has asked the question "what should FB be."
+The answer is simply "popular."
+
+This isn't inevitable. Applied to businesses as a whole, you could
+replace "popular" with profitable. All businesses are under this
+imperative. But, that doesn't mean directionless. Businesses can
+strive to be all sorts of things in addition to (or preferebly as a
+path to) profitable. FB is itself an example of this.
+
+What I want from FB (and Google) is a recognition that they are media
+companies, the biggest media companies. After that, they need to start
+dealing in quality. If you only optimize for quantity of reactions,
+shares and such while disregarding quality you become a shitty
+tabloid. No taste. No integrity. Just clickbait.
+
+FB need to ask themselves "is the content (eg news) on FB of good
+quality?"
+
+#+end_quote
+
+
+
+#+begin_quote
+splittingTimes
+
+> For a big enough digital product, "hacking psychology" happens by
+default, more than intentionally...
+
+Totally agree.
+
+> ..arrived at through a sort of natural selection process.
+
+I am not so sure. This all well-known stuff and employed
+methodically. There is an interesting article where a Google design
+ethicist explains how technology hijacks your mind [1].
+
+TL;DR:
+
+Hijack 1: If You Control the Menu, You Control the Choices. Ask
+yourself: What’s not on the menu?, Why am I being given these options
+and not others? Do I know the menu provider’s goals? Is this menu
+empowering for my original need, or are the choices actually a
+distraction?
+
+Hijack 2: Make apps behave like Slot Machines - give a variable
+reward. If you want to maximize addictiveness, link a user’s action
+(like pulling a lever) with a variable reward. You pull a lever and
+immediately receive either an enticing reward (a match, a prize!) or
+nothing. Addictiveness is maximized when the rate of reward is most
+variable.
+
+Hijack 3: Fear of Missing Something Important (FOMSI). If I convince
+you that I’m a channel for important information, messages,
+friendships, or potential sexual opportunities — it will be hard for
+you to turn me off, unsubscribe, or remove your account — because
+there is a 1% chance you could be missing something important.
+
+Hijack 4: Social Approval. When you get tagged by my friend, you think
+s/he made a conscious choice to tag you, when actually s/he just
+responds to Facebook’s suggestion, not making an independent
+choice. Thus Facebook controls the multiplier for how often millions
+of people experience their social approval on the line.
+
+Hijack 5: Social Reciprocity (Tit-for-tat). You follow me — it’s rude
+not to follow you back. When you receive an invitation from someone to
+connect, you imagine that person making a conscious choice to invite
+you, when in reality, they likely unconsciously responded to
+LinkedIn’s list of suggested c ontacts.
+
+Hijack 6: Bottomless bowls, Infinite Feeds, and Autoplay
+
+Hijack 7: Instant Interruption vs. “Respectful” Delivery. Messages
+that interrupt people immediately are more persuasive at getting
+people to respond than messages delivered asynchronously.
+
+Hijack 8: Bundling Your Reasons with Their Reasons. When you you want
+to look up a Facebook event happening tonight (your reason) the
+Facebook app doesn’t allow you to access it without first landing on
+the news feed (their reasons), so Facebook converts every reason you
+have for using it, into their reason which is to maximize the time you
+spend consuming things. In an ideal world, apps would always give you
+a direct way to get what you want separately from what they want.
+
+Hijack 9: Inconvenient Choices. Businesses naturally want to make the
+choices they want you to make easier, and the choices they don’t want
+you to make harder. NYTimes.com claims to give you “a free choice” to
+cancel your digital subscription. But instead of just doing it when
+you hit “Cancel Subscription,” they force you to call a phone number
+that’s only open at certain times.
+
+Hijack 10: Forecasting Errors, “Foot in the Door” strategies. People
+don’t intuitively forecast the true time cost of a click when it’s
+presented to them. Sales people use “foot in the door” techniques by
+asking for a small innocuous request to begin with (“just one click”),
+and escalating from there (“why don’t you stay awhile?”). Virtually
+all engagement websites use this trick.
+
+===
+
+[1] http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/
+
+#+end_quote
+
+ - [[http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/][How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist]] | Tristan Harris
