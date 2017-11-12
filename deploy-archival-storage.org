@@ -63,6 +63,31 @@ image would be important or for Immense screens.
 -- [[https://www.quora.com/Will-the-resolution-of-television-like-the-8k-16k-32k-etc-continue-to-grow][Will the resolution of television like the 8k, 16k, 32k, etc., continue to grow?]] | Quora
 #+end_quote
 
+* Significant Whitespace
+
+Image based archives provide a wonderful opportunity to do much more
+than capture images of text and images.  We can incorporate design as
+a means of providing meaning and context -- if this is done right,
+then we can use whitespace as a significant part of markup -- they key
+here is to be consistent, and to have a standard that is used across
+each edition that is then described in rulesets that are machine
+understandable.  This will include everything from fonts, links,
+metadata, references, comments, glosses etc which correspond to a
+digital marked up version of the file that will be both semantic and a
+form of graphic and typographic design that is both human and machine
+readable and hopefully, beautiful as well.
+
+I think that this is where our invocation language will really be
+important....  I have hoped that the language would be able to use
+existing chinese characters but we really do need only a few hundred
+characters which would get confused with existing ideographs -- but I
+still think that we can base the invocation ideographs on chinese
+characters.  It might not be a bad idea to go back to seal script and
+use that as a starting point -- so that characters won't be ideographs
+but true hieroglyphs that are independent of other spoken or written
+languages.
+
+
 
 * Long Term Storage
 
