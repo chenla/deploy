@@ -27,16 +27,49 @@
 
 * Introduction
 
- - [[http://www.tvtechglobal.com/post-production/deep-storage-how-to-save-your-data-for-a-billion-years/01278][Deep storage: How to save your data for a billion years]] | TVTechGlobal
-
-Group 47 has a good [[http://group47.com/challenges-of-archival-storage-of-digital-data/][list]] of links about the challenges of digital storage.
+The folks at Group 47 and the Rosetta project were right, the only
+success long-term storageis visual.  Digital encoding is too brittle
+for long-term storage that can survive the five causes of loosing
+information:
 
   - error
   - human accident
   - disaster
-  - tempory insanity
+  - temporary insanity
   - benign neglect
-    For other uses of term SEE [[https://en.wikipedia.org/wiki/Municipal_disinvestment][Municipal disinvestment]] | Wikipedia
+
+One challenge is to be able to round-trip images to digital and back
+again without loss.   Images are always a tradeoff becuase they are
+dependent on resolution.  Digitization of analog images and audio are
+also limited by sampling size -- which some argue can never completely
+reproduce sounds recorded on analogue media.
+
+Digital recordings now far surpass physical  human perceptional
+limits, but it's unsure how far we need to go beyond that.  How high
+will image and audio resolution need to go before we reach a point of
+diminishing returns?
+
+#+begin_quote
+Martin Horowitz
+Answered Aug 5, 2016
+
+The resolution has a few more iterations to go.  The Likelyhood is
+that movies will get to at least 8k, because of the large screens, and
+the equivalance to 75mm film. A push to 12k or 16k will likely be to
+provide 4-8k for 3D support per eye. Higher resolutions would exist to
+support reconnaissance and other situations where zooming in on an
+image would be important or for Immense screens.
+
+-- [[https://www.quora.com/Will-the-resolution-of-television-like-the-8k-16k-32k-etc-continue-to-grow][Will the resolution of television like the 8k, 16k, 32k, etc., continue to grow?]] | Quora
+#+end_quote
+
+
+* Long Term Storage
+
+ - [[http://www.tvtechglobal.com/post-production/deep-storage-how-to-save-your-data-for-a-billion-years/01278][Deep storage: How to save your data for a billion years]] | TVTechGlobal
+
+Group 47 has a good [[http://group47.com/challenges-of-archival-storage-of-digital-data/][list]] of links about the challenges of digital storage.
+
 
  - [[https://en.wikipedia.org/wiki/Computer_data_storage][Computer data storage]] | Wikipedia
 
