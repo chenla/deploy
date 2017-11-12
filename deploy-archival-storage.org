@@ -29,14 +29,14 @@
 
  - [[http://www.tvtechglobal.com/post-production/deep-storage-how-to-save-your-data-for-a-billion-years/01278][Deep storage: How to save your data for a billion years]] | TVTechGlobal
 
- Group 47 has a good [[http://group47.com/challenges-of-archival-storage-of-digital-data/][list]] of links about the challenges of digital storage.
+Group 47 has a good [[http://group47.com/challenges-of-archival-storage-of-digital-data/][list]] of links about the challenges of digital storage.
 
- - error
- - human accident
- - disaster
- - tempory insanity
- - benign neglect
-   For other uses of term SEE [[https://en.wikipedia.org/wiki/Municipal_disinvestment][Municipal disinvestment]] | Wikipedia
+  - error
+  - human accident
+  - disaster
+  - tempory insanity
+  - benign neglect
+    For other uses of term SEE [[https://en.wikipedia.org/wiki/Municipal_disinvestment][Municipal disinvestment]] | Wikipedia
 
  - [[https://en.wikipedia.org/wiki/Computer_data_storage][Computer data storage]] | Wikipedia
 
@@ -57,8 +57,8 @@ encode it and the contents of what was recorded as far as I can tell
 is not in the public domain, or even digitized except as images.  So
 this was a time-capsule project -- not a living archive that would
 have continuity over long time periods.  The second problem is that it
-really is like the rosetta stone -- its /just/ a massive bunch of
-parallel texts.
+really is like the rosetta stone -- its a massive bunch of parallel
+texts and word lists.
 
  - [[http://rosettaproject.org/blog/02008/aug/20/very-long-term-backup/][Very Long-Term Backup]] | The Rosetta Project
 
