@@ -3,7 +3,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Globalization
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-globalization.org
   :Created:   2017-06-25T09:40@Prek Leap (11.642600N-104.919210W)
@@ -17,11 +26,6 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 #+begin_quote
 ...true Pynchonians believe that aspirations doomed to failure
@@ -31,10 +35,8 @@ are the only ones worth aspiring to.
    Pynchon's Gravity's Rainbow | Zak Smith  (2006)
 #+end_quote
 
-
-* Introduction
-
-* Globalization
+** Introduction
+** Globalization
 
   |       | Structure     | Toffler     | Baldwin  |
   |-------+---------------+-------------+----------|
@@ -172,7 +174,7 @@ This all is still little more than a hunch -- need to fill
 in a lot of blanks to see if this is a real possibility or
 not.
 
-** So what will happen after 2020?
+*** So what will happen after 2020?
 
 I7 countries will see massive job losses as cheap labor is
 replaced by nearly fully automated factories.  Recently a
@@ -316,7 +318,7 @@ as well as a lot of things that we can not anticipate yet.
 
 
 
-* Towards an antifragile distributed technological civilization
+** Towards an antifragile distributed technological civilization
 
 The civilization envisioned aims to be pragmatic, egalitarian and
 above all else sustainable economically, culturally, and ecologically.
@@ -339,7 +341,7 @@ today.  But the primer will evolve over time to always address the
 needs of the present in context with a history and with an eye fixed
 on the future.
 
-* Globalization
+** Globalization
 
   - [[http://www.claremont.org/crb/article/sending-jobs-overseas/][Sending Jobs Overseas]] | CRB
   - [[bib:baldwin:2016great][The Great Convergence: Information Technology and the New
@@ -361,7 +363,7 @@ physically unbundled from laborers.
 
 
 
-* Localizing Globalization
+** Localizing Globalization
 
 don't know where this belongs:
 
@@ -807,7 +809,7 @@ definitely does not give a shit about your day.
 #+end_quote
 
 
-* Cosmopolitan Provinces
+** Cosmopolitan Provinces
 
 One of the most important things that the process of urbanizing the
 world's populations is they first become urbanized, and then
