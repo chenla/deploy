@@ -3,7 +3,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Legibility
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-legibility.org
   :Created: 2017-05-02T09:52@Prek Leap (11.642600N-104.919210W)
@@ -17,13 +25,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Introduction 🌿
+** Introduction 🌿
 
  - [[https://en.wikipedia.org/wiki/Seeing_Like_a_State][Seeing Like a State]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Panopticism][Panopticism]] | Wikipedia
@@ -75,7 +77,7 @@ wildest paranoid fantasies of States....
 
 
 
-* A broader concept of legibility
+** A broader concept of legibility
 
 #+begin_quote
 Before, the local Shaman told you your sheep died because
@@ -195,7 +197,7 @@ system has lost its humanity.  We need to recognize and
 organize ourselves at human scales.  This is not just true
 of states, but of corporations, and institutions.
 
-* State Legibility
+** State Legibility
 
 As Scott lays out, in meticulous detail, legibility is all about
 States and how they levy taxes, conscript soldiers
@@ -310,7 +312,7 @@ of the world:
     themselves and how others identify others.  
 
 
-** mapping to stages of life
+*** mapping to stages of life
 
 In [[https://en.wikipedia.org/wiki/The_New_Science][Scienza Nuova]] (The New Science) Giambattista Vico argued that
 history could be seen as a cyclical in nature:
@@ -387,7 +389,7 @@ still very strongly held even today and show up in concepts like
 vendettas from the Appalachias to Cebu.
 
 
-** pooh-bah legibility
+*** pooh-bah legibility
 
 #+begin_quote
 Marauders can instead be what Mancur Olson called “stationary bandits”
@@ -430,7 +432,7 @@ has proved terribly effective at constraining its own functionaries.
 -- [[https://www.cato-unbound.org/2010/09/16/j-bradford-delong/perhaps-sometimes][Perhaps. And Sometimes.]] | Cato Unbound
 #+end_quote
 
-** Insane State Legibility
+*** Insane State Legibility
 
 It shouldn't be forgotten that state legibility has been the hallmark
 of many of the most horrific state atrocities in modern history.
@@ -471,7 +473,7 @@ to deny that these things had happened before, or that they are
 advocating such actions.
 
 
-** causal legibility
+*** causal legibility
 
 In many respects, legibility is not far more important to non-state
 institutions and then to the state.  States still don't need much more
@@ -493,7 +495,7 @@ and outside the state.  In a word, surveillance.
 Mapping the causal chains of what people do, has now become standard
 practice for both states and private organizations.
 
-* Transactional Legibility
+** Transactional Legibility
 
 That transactions need to be legible, unstrusted,
 transparent, and, public.  but since there are any number of
@@ -505,21 +507,17 @@ of privicy -- this is the panopticon problem.
 
 
 
-* Machine Legibility
+** Machine Legibility
 
 To machines, the world is pretty much completely illegible
 beyond the /very/ simple vocabulary and base knowledge that
 it has to work with.
 
-* Human Legibility
-
-* Agro/Eco Legibility
-
-* Community Legibility
-
-* Private Legibility
-
-* Footnotes
+** Human Legibility
+** Agro/Eco Legibility
+** Community Legibility
+** Private Legibility
+** Footnotes
 
 [fn:1]  Grimes, David (1 Feb 2001). "Dubya's nickname could be
 worse". The Oklahoma City Journal Record. Retrieved 25 Mar 2010.
