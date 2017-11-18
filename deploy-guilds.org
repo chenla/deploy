@@ -3,7 +3,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Guilds
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-guilds.org
   :Created:   2017-03-26T20:20@Prek Leap (11.642600N-104.919210W)
@@ -17,14 +26,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* Introduction
+** Introduction
 
 The big picture goes something like this:
 
@@ -62,7 +64,7 @@ airports or stadiums.  This will require another class of enterprise
 that isn't obvious to me right now.  Working on that....
 
 
-* Guilds
+** Guilds
 
 There are two kinds of guilds,  are often defined as an association of
 people working toward a common goal.
@@ -106,7 +108,7 @@ a RDF statement is defined as a 3-tuple (triple) consisting of:
    - object := the node that the statement/edge terminates at
 
 
-* Professional Guilds
+** Professional Guilds
 
 At their best Guilds played an important role in maintaining quality
 and professional standards, safe guarded knowledge, organized supply
@@ -190,7 +192,7 @@ larger whole.
 Guilds overlap, and there will be any number of instances of
 individuals belonging to more than one guild...
 
-* Crop Guilds
+** Crop Guilds
 
 A crop Guild is a grouping of plants, trees, animals, insects, and
 other components that work together to mimic aspects of ecosystems.
