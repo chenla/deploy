@@ -3,7 +3,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Reproducibility
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-reproducibility.org
   :Created:   2017-04-23T13:31@Prek Leap (11.642600N-104.919210W)
@@ -17,14 +25,8 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
 The problem with text in most scientific papers and books is it is
 descriptive -- it doesn't do anything.
@@ -54,11 +56,11 @@ different conditions....
 
 
 
-* Reproducibility
+** Reproducibility
 
  - open designs
  - open experiments
  - open code
  - open data
 
-* Literate Computing & Devops
+** Literate Computing & Devops
