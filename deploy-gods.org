@@ -4,6 +4,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Gods
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/deploy/deploy-gods.org
@@ -18,14 +27,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* Introduction
+** Introduction
 
 If everything is a story, and we use our stories to collectively
 create maps of the world and contexts that we use to go about our
@@ -35,7 +37,7 @@ processes.
 
 These systems will eventually be largely autonomous
 
-* Demiurge
+** Demiurge
 
 Since all gods are made by men, and men bestow not only life but power
 to them, and to some extent deed them limited clearly defined power
@@ -67,7 +69,7 @@ maintain instances for montana, as well as all of the member states of
 the EU.  So unless you could get control of all states in the US and
 the EU no one could take control over the system.
 
-*  Example: A Door God
+** Example: A Door God
 
 Let's say that we create a door god.  A door god is a number of
 things, it vets those coming and going through a door, it remembers
