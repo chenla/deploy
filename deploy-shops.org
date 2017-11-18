@@ -3,7 +3,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Shops
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-shops.org
   :Created:   2017-03-27T09:38@Prek Leap (11.642600N-104.919210W)
@@ -17,13 +25,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Introduction
+** Introduction
 
 When I was young, my family visited /Plymouth Plantation/ on Cape Cod
 which was a recreation of the original 17th century Puritian
@@ -76,7 +78,7 @@ combine and repackage those goods for sale to others.  This is where
 middlemen come into the picture who add value by aggregating and
 moving goods.
 
-* Notes
+** Notes
 
   - [[https://en.wikipedia.org/wiki/Workshop][Workshop]]    | Wikipedia
   - [[https://en.wikipedia.org/wiki/Studio][Studio]]      | Wikipedia
@@ -114,7 +116,7 @@ more recently the term hackspace has emerged -- which is sort of part
 workshop, office, and classroom.
 
 
-* Shops and Labs
+** Shops and Labs
 
 Text based on:  NOTES <2015-11-22 Sun 13:33> Modules -- Shops and Institutes
 
