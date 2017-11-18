@@ -162,7 +162,7 @@ will provide enough space to grow old-growth forests?
 
 
 
-* Introduction
+** Introduction
 
 The deeper I dive into agriculture and permaculture that
 strikes me most is the shear amount of knowledge required to
@@ -200,7 +200,7 @@ learning so that systems can look at a wall of vegetation
 and estimate how many of each kind of plant is there.
 Identify fungus and molds, birds and insects.
 
-* Book and Link List
+** Book and Link List
 
 Pretty good list, there are a number of missing classics
 like Tree Crops, but overall very good.
@@ -210,9 +210,9 @@ like Tree Crops, but overall very good.
  - Water for Every Farm Using the Keyline Plan | P.A. Yeomans
  - Restoration Agriculture | Shepard
 
-* Seeds
+** Seeds
 
-** Regional
+*** Regional
  - [[Https://www.youtube.com/watch?v=ZPSDyYcsacQ][Ordering Seeds]] | YouTube
  - [[Http://www.lionseeds.com/][Lion Seeds Co., LTD.]] | Lion Seeds (Thailand)
  - [[https://www.advanceseeds.com/][Advance Seeds Co.,Ltd.]] | (Thailand)
@@ -229,9 +229,9 @@ like Tree Crops, but overall very good.
 - [[https://www.westcoastseeds.com][West Coast Seeds]]
 - [[http://sprouting.com][Mumms Sprouting Seeds]]
 
-* Cereal Varieties
+** Cereal Varieties
 
-** Siberian Wheatgrass (Agropyron fragile)
+*** Siberian Wheatgrass (Agropyron fragile)
 
 A very old hardy wheat variety -- grows well in both hot,
 cold and at high altitudes according to Sepp Holzer
@@ -246,30 +246,30 @@ fertised garden soil.
  - [[http://www.buffalobrandseed.com/products/view/158][Siberian Wheatgrass]] | Buffalo Brand Sharp Bros Seed Co.
  - [[https://www.nrcs.usda.gov/Internet/FSE_PLANTMATERIALS/publications/idpmcpg11631.pdf][Plant Guide for Siberian wheatgrass (Agropyron fragile)]] | USDA NRCS
 
-* Companion crops
+** Companion crops
 
 This is an excellent, detailed and exhaustive list.
 
  - [[https://en.wikipedia.org/wiki/List_of_companion_plants][List of companion plants]] | Wikipedia
 
-* Hugelkultur
+** Hugelkultur
 
  - [[https://www.niftyhomestead.com/blog/hugelkultur/][Hugelkultur]] | Nifty Homestead
  - [[https://en.wikipedia.org/wiki/H%C3%BCgelkultur][Hügelkultur]] | Wikipedia
  - [[https://permaculturenews.org/2012/01/04/hugelkultur-composting-whole-trees-with-ease/][Hugelkultur: Composting Whole Trees With Ease]] | The Permaculture Research Instituteq
 
-* Catch Crops 
+** Catch Crops 
 
  - [[https://en.wikipedia.org/wiki/Catch_crop][Catch crop]] | Wikipedia
 
-* Green Manure Crops
+** Green Manure Crops
 
-* Microgreen Varieties
+** Microgreen Varieties
  - [[https://www.growingmicrogreens.com/microgreens-seeds/white-sprouting-radish][Daikon Radish]] | Microgreens Seeds
  - [[https://www.growingmicrogreens.com/microgreens-seeds/dun-pea][Dun Pea]] | Microgreens Seeds
  - [[https://www.growingmicrogreens.com/microgreens-seeds/sunflower][Black Oil Sunflower]] | Microgreens Seeds
 
-* microgreens
+** microgreens
 
  - [[Https://www.youtube.com/watch?v=0uVL-PvzQxU][Small & Profitable Microgreen Farm In A Shipping Container!]] | urban farming (YouTube)
  - [[https://www.youtube.com/watch?v=Et88naYCx20][Growing System Air Flow]] | YouTube
@@ -286,57 +286,57 @@ This is an excellent, detailed and exhaustive list.
  | 16 x 2 = 160 flats x .8 x $15 = $ $1,920/week |
  | 16 x 2 = 320 flats x .8 x $15 = $ $3,840/week |
 
-* Pigs
+** Pigs
 
  - [[http://www.survivopedia.com/what-breed-of-hog-to-raise/][10 Breeds Of Hogs To Choose From For Survival | Survivopedia]]
  - [[http://thefarmerslamp.com/heritage-breeds-of-pigs/][Best Heritage Breeds of Pigs For The Homestead ~]]
 
-* SPIN (small plot intensive) Farming
+** SPIN (small plot intensive) Farming
 
-* Zones
+** Zones
 
-* Hardware
-** quick green harvestor
+** Hardware
+*** quick green harvestor
 
  - [[https://www.youtube.com/watch?v=NnRp15wT8A8][HARVESTING GREENS IN THE FIELD!!]] | YouTube
 
-** paperpot transplant system
+*** paperpot transplant system
  - [[https://www.alibaba.com/product-detail/Paper-Pot-Vegetable-Transplanter-HP-10_50017018900.html][Paper Pot Vegetable Transplanter Hp-10 Made In Japan]] 
  - [[http://paperpot.co/][Paperpot Co.– Supplying Growers with Japanese Paper Pot Transplanters and Accessories]]
  - [[https://www.alibaba.com/product-detail/Easy-Seedling-Paper-Pot-for-vegetables_50017257040.html?spm=a2700.7724838.2017115.57.u6JGMP][Easy Seedling Paper Pot For Vegetables Made In Japan]] 
 
-** rice rotovator 
+*** rice rotovator 
 
 If I understand correctly, an implement that cuts short-cut rice stems
 flush with the ground.
 
-** power harrow
+*** power harrow
 
  - [[https://bcsamerica.com/product/power-harrow#!][Power Harrow]] | BCS America
 
-** Jang Seeder 
+*** Jang Seeder 
 
  - [[https://www.youtube.com/watch?v=K59h04IS3Fo][Jang JP1 Clean Seeder :: Anatomy & Use]] | YouTube
  - [[https://www.youtube.com/watch?v=rN5aMZtOtSM#t=393.415691][Jang Seeder In Beast Mode]] | YouTube
  - [[https://www.alibaba.com/product-detail/Hand-held-single-row-jang-seeder_60582906187.html?spm=a2700.7724838.2017115.10.0b542s][Hand Held Single Row Jang Seeder]] Alibaba
 
-** Stirrup Hoe
+*** Stirrup Hoe
 
  - [[https://www.youtube.com/watch?v=jsqa6cahRxI][Introduction to Weed Management in a Small Scale Organic Production System]] | YouTube
  - [[https://www.amazon.com/Kenyon-63051-Landscape-Contractor-Replacement/dp/B00VWL5Y6Q/ref=sr_1_13?ie=UTF8&qid=1500114127&sr=8-13&keywords=stirrup+hoe][Kenyon 63051 Classic 2-Way Hoe Replacement Head with Blade]] | Amazon.com
  - [[http://www.johnnyseeds.com/tools-supplies/long-handled-tools/5%22-stirrup-hoe-9500.html?cgid=long-handled-tools#start=1][5" Stirrup Hoe]] | Johnny's Selected Seeds
 
-** walk-in cooler
+*** walk-in cooler
 
 - [[https://www.youtube.com/watch?v=1DYrLOXUFqs][IN FOCUS - Walk in Cooler on a Budget]] | YouTube
 - [[https://www.amazon.com/CoolBot-Cooler-Controller-window-conditioner/dp/B003VSLTAI/ref=sr_1_1?ie=UTF8&qid=1500015696&sr=8-1&keywords=coolbot][CoolBot Walk-In Cooler Controller]] | Amazon
 - [[https://www.storeitcold.com/][Walk-in Cooler for Agriculture, Brewery, Floral, Hunting, etc]]
 
-** Drip Irrigation
+*** Drip Irrigation
 
  - [[https://www.irrigationtutorials.com/drip-irrigation-design-guidelines-basics-of-measurements-parts-and-more/][Drip Irrigation Design Guidelines]] | Basics of Measurements, Parts etc
  - [[https://news.ycombinator.com/item?id=14782250][Drip Irrigation Design Guidelines]] | Hacker News
-** Quonset Tunnels (bamboo framed, paneled high-tunnels)
+*** Quonset Tunnels (bamboo framed, paneled high-tunnels)
 
 - [[https://en.wikipedia.org/wiki/Polytunnel][Polytunnel]] | Wikipedia (akak high-tunnel, hoop-house)
 - [[https://en.wikipedia.org/wiki/Quonset_hut][Quonset hut]] | Wikipedia
@@ -397,18 +397,18 @@ same as a quonset hut, which is semi-circular.  A
 high-tunnel has vertical sides -- but can have a semi
 circular roof.
 
-** Spacing Containers and Shelves
+*** Spacing Containers and Shelves
 
  - [[http://www.gpnmag.com/article/grower-101-calculations-part-iv-spacing-containers/][Grower 101: Calculations Part IV: Spacing Containers –
    Greenhouse Product News]]
  - [[https://arcadiaglasshouse.com/greenhouse-tips/tip-11-sizing-your-greenhouse-for-optimum-utilization-of-space/][Tip #12: Sizing Your Greenhouse for Optimum Utilization of Space]] | Arcadia GlassHouse]]
  - 
 
-* Vertical Farming
+** Vertical Farming
 
  - [[http://www.gpnmag.com/article/vertical-farming/][Vertical Farming – Greenhouse Product News]]
 
-* No-Till
+** No-Till
 
  - [[http://www.tobinnotill.com.au/][Tobin No-Till]] | Seeding Technology
  - [[https://www.youtube.com/watch?v=yZeCH8jwn2k][No Till Farming Presented by Tobin No-Till - YouTube]]
@@ -418,7 +418,7 @@ circular roof.
  - [[https://www.youtube.com/watch?v=2brHfHPusac][Deep Mulch, No-Till, Garden at Prairie Road Organic]] | YouTube
  - 
  
-* No-Till Paddy/Row-Crop Rotation
+** No-Till Paddy/Row-Crop Rotation
 
   - rice
   - harvest / rotovator
@@ -437,7 +437,7 @@ circular roof.
   - wheat
   
 
-* Vertical Farms
+** Vertical Farms
 
  - [[https://news.ycombinator.com/item?id=14809841][Plenty, Indoor Farming Startup, Raises $200M]] | Hacker News
 
