@@ -26,18 +26,18 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-* Introduction
+** Introduction
 
  - [[https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/4-zones-and-sectors-efficient-energy-planning/][4. Zones and Sectors – Efficient Energy Planning]] | Deep Green
    Permaculture
 
   
-* Von Thünen Model
+** Von Thünen Model
 
  - [[https://en.wikipedia.org/wiki/Johann_Heinrich_von_Th%C3%BCnen][Johann Heinrich von Thünen]] | Wikipedia
  - [[https://www.thoughtco.com/von-thunen-model-1435806][Learn About the Von Thunen Model]] | ThoughtCo.
 
-* Connected Farm Buildings
+** Connected Farm Buildings
 
  - [[https://en.wikipedia.org/wiki/Connected_farm][Connected farm]] | Wikipedia
  - Big House, Little House, Back House, Barn: The Connected 
