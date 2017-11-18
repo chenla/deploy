@@ -3,7 +3,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Functional Requirements
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-functional.org
   :Created:   2017-06-25T09:33@Prek Leap (11.642600N-104.919210W)
@@ -17,21 +26,15 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
 #+begin_comment
 from: NOTES <2016-07-29 Fri 17:13> Functional Requirements for the Next 50 Years
 
 #+end_comment
 
-*** Civilization
+**** Civilization
   - distributed
   - documented
     - observed
@@ -66,9 +69,9 @@ from: NOTES <2016-07-29 Fri 17:13> Functional Requirements for the Next 50 Years
   - generative
     - executable
   - scopic
-*** Organizations
-*** Groups
-*** Individuals
+**** Organizations
+**** Groups
+**** Individuals
   - learning how to learn
   - rationality
   - life-long learning
