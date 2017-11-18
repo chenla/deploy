@@ -3,7 +3,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Healthcare
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-health.org
   :Created:   2017-03-28T10:51@Prek Leap (11.642600N-104.919210W)
@@ -17,13 +26,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Introduction
+** Introduction
 
 Remember -- no promises -- deliver on day one.
 
@@ -33,7 +36,7 @@ but we need to get started on it asap.
 Everyone is entitled to full healthcare from cradle to grave -- no
 exceptions.
 
-* Problems
+** Problems
 
 Healthcare is a mess for any number of reasons:
 
@@ -47,7 +50,7 @@ Healthcare is a mess for any number of reasons:
   - politics, inequality, racism, sexism and religious boneheads
   - patents patents patents
 
-* Brainstorming
+** Brainstorming
 
 The following is nothing more than brainstorming, to come up with
 ideas that could be developed further.
@@ -144,7 +147,7 @@ not thought of as a burden, but part of maintainence that
 minimizes down time and systems failures.
 
 
-* MRI
+** MRI
 
  - [[http://www.opensourceimaging.org/][Open Source Imaging]] 
  - [[http://hackaday.com/2015/05/04/hackaday-prize-entry-a-low-cost-open-source-mri/][Hackaday Prize Entry: A Low Cost, Open Source MRI]] | Hackaday
