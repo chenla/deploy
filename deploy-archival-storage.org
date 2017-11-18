@@ -4,6 +4,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Archival Storage
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/deploy/deploy-archival-storage.org
@@ -18,14 +27,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* Introduction
+** Introduction
 
 The folks at Group 47 and the Rosetta project were right, the only
 success long-term storageis visual.  Digital encoding is too brittle
@@ -63,7 +65,7 @@ image would be important or for Immense screens.
 -- [[https://www.quora.com/Will-the-resolution-of-television-like-the-8k-16k-32k-etc-continue-to-grow][Will the resolution of television like the 8k, 16k, 32k, etc., continue to grow?]] | Quora
 #+end_quote
 
-* Significant Whitespace
+** Significant Whitespace
 
 Image based archives provide a wonderful opportunity to do much more
 than capture images of text and images.  We can incorporate design as
@@ -89,7 +91,7 @@ languages.
 
 
 
-* Long Term Storage
+** Long Term Storage
 
  - [[http://www.tvtechglobal.com/post-production/deep-storage-how-to-save-your-data-for-a-billion-years/01278][Deep storage: How to save your data for a billion years]] | TVTechGlobal
 
@@ -107,7 +109,7 @@ I prefer online, nearline, offline
   - [[https://en.wikipedia.org/wiki/Non-RAID_drive_architectures#MAID][Non-RAID drive architectures]] | Wikipedia
 
 
-* Rosetta Project
+** Rosetta Project
 
 Rosetta was/is a brilliant project that in some ways was doomed to be
 a one-off.  It was a bit expensive, used proprietary technology to
@@ -128,7 +130,7 @@ The time-scales for microetched nickle for very long term storage is
 very good, but the system doesn't look like it will be feasible as a
 solution for large scale distributed archival storage.
 
-* MDISC: Stone DVD 
+** MDISC: Stone DVD 
 
 M-DISC is another billiant technology which leverages DVD and Blu-ray
 discs made of stone which have an expected lifespan of up to 1,000
@@ -142,7 +144,7 @@ will not age well.
 
    - [[http://www.mdisc.com/][MDISC Archive Service]]
 
-* DOTS
+** DOTS
 
 DOTS uses archvial tape image archival storage system.
 
@@ -163,7 +165,7 @@ for automated systems to retrieve specific frames.
 
  - [[https://en.wikipedia.org/wiki/Linear_Tape_File_System][Linear Tape File System]] | Wikipedia
 
-* Backblaze
+** Backblaze
 
 Backblaze is online storage that massively scales.
 
