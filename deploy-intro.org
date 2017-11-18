@@ -4,6 +4,14 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Big Picture
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/deploy/deploy-intro.org
@@ -18,14 +26,8 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
 The Yellow Brick Road -- The Chenla Manifesto
 
@@ -308,7 +310,7 @@ terrible forces if we have first listened to the angels of
 our better nature.
 
 
-** Preamble
+*** Preamble
 
 #+begin_quote
 The tough part of the exercise, I will tell you -- and
@@ -360,7 +362,7 @@ we are trying to build.
 
 Ya gotta start /somewhere/, so here we go...
 
-** Greased Pig Text
+*** Greased Pig Text
 
 As a high school student in the 1970's I had been reading a
 lot of big heavy novels like Thomas Pynchon's /Gravity's
@@ -458,7 +460,7 @@ likely the nothing will change.  Man will always be the
 greatest threat to itself.
 
 
-** The Great Filter
+*** The Great Filter
 
 It's likely that the next 50 years will be what scientists
 call Mankind's /Great Filter/ that will determine if we
@@ -505,7 +507,7 @@ nuclear sword hanging over our heads -- perhaps no longer by
 a single hair of a horse tail, but maybe a sturdier piece of
 twine, that could still be easily severed.
 
-** Jellybeans
+*** Jellybeans
 
 As JRR Martin wrote, we are all jelly beans, all pretty
 colors on the outside and the same sugary crap on the
@@ -582,7 +584,7 @@ belief systems so each generation can learn from the past
 and expect that their children will live in a better world
 than themselves.
 
-** steering a course 
+*** steering a course 
 
 All of this may sound absurdly utopian, or idealisitc or an
 unreasonable thing to ask people to do.  But it's not.  It
@@ -671,7 +673,7 @@ Any plan today is better than a perfect plan tomorrow.  So
 let's start building something....
 
 
-* Refs and Stuff
+** Refs and Stuff
 
  - [[https://en.wikipedia.org/wiki/Biosphere][Biosphere]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Biome][Biome]] | Wikipedia
@@ -712,8 +714,8 @@ let's start building something....
  - [[https://en.wikipedia.org/wiki/Eden_Project][Eden Project]] | Wikipedia
 
 
-* 1: in the beginning
-** drake and fermi
+** 1: in the beginning
+*** drake and fermi
 
 What is it that determines what we are and what and how we
 can do things?
@@ -747,7 +749,7 @@ for a combined expression of:
   - [[https://en.wikipedia.org/wiki/Mediocrity_principle][Mediocrity principle]] | Wikipedia
 
 
-** the rest
+*** the rest
 
  - Physics
    - matter, energy, time
@@ -915,13 +917,9 @@ for a combined expression of:
    and can do things independently of human control or even
    direction
 
-* 2: civilization
+** 2: civilization
 
 Now let's back up and talk about civilization.
-
-
-
-
 
   | stage           | organization  | wealth-power | human organization      |
   |-----------------+---------------+--------------+-------------------------|
@@ -932,7 +930,7 @@ Now let's back up and talk about civilization.
   | glocal          | distributed   |              | biome-biotope           |
   | multi-planet    |               |              | biosphere-biome-biotope |
 
-** wanderers
+*** wanderers
 
 In the beginning, man wasn't much different from other
 creatures on the savannah, following the food.  Sure, humans
@@ -948,7 +946,7 @@ would have killed them otherwise.  They were able to extend
 the the range of habitible biomes, and in a relatively short
 period of time had spread out to most corners of the planet.
 
-** farms and cities
+*** farms and cities
 
 Untill recently it was thought that the invention of
 cultivating plants quickly led to the development of the
@@ -1123,7 +1121,7 @@ cheap for the ruling class -- which was enough to transform
 civilizations and lay the foundations for expansion to the
 population at large in the industrial revolution.
 
-** industrialization
+*** industrialization
 
 In many respects, it's astonishing how far man was able to
 go before tools evolved into machines, making
@@ -1160,11 +1158,11 @@ propagation through distributed systems....
 
 
 
-** globalism
+*** globalism
 
-** post-global
+*** post-global
 
-** the next 50 years
+*** the next 50 years
   - climate
   - population
   - all balloons pop
@@ -1179,7 +1177,7 @@ propagation through distributed systems....
     - singularity
     - the lucky few
 
-** muang-mandala model
+*** muang-mandala model
 
  - [[https://en.wikipedia.org/wiki/Mueang][Mueang]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Mandala_(political_model)][Mandala (political model)]] | Wikipedia
@@ -1342,7 +1340,7 @@ Charlie Stross' blog made an interesting point.
  - [[https://en.wikipedia.org/wiki/Chiastic_structure][Chiastic structure]] | Wikipedia (not very helpful)
 #+end_comment
 
-* 3: roadmap
+** 3: roadmap
 
 It's easy to get overwhelmed -- but I think the key to
 glocalism comes down to our transactive nature.  When things
@@ -1390,7 +1388,7 @@ viable way.
   - pace layers 3
 
 
-** a social contract
+*** a social contract
 
     a philosophy of life
 
@@ -1418,7 +1416,7 @@ viable way.
 
     identity model & societal legibility
 
-** human scale societies
+*** human scale societies
 
 human scale numbers, 
   - magic number 7 plus or minus 2
@@ -1428,7 +1426,7 @@ human scale numbers,
 
     a human scale political model & philosophy
 
-** habitats for man
+*** habitats for man
 
   the more biospheres that can sustainably maintain MVP,
   the more distributed we become
@@ -1439,7 +1437,7 @@ human scale numbers,
 
   christopher alexander on crystal meth
 
-***  1,000 year business plans
+****  1,000 year business plans
 
 I've struggled with the idea of very long term business
 plans for some years.  The whole thing about them is that
@@ -1537,11 +1535,11 @@ And again, we will do this in large part by becoming Ents
 and herding trees and managing natural ecological succession.
 
 
-** the graph economy
+*** the graph economy
 
 it-torrents and sneakernets of things
 
-** education something something
+*** education something something
 
 life-long learning based on trivium
 
@@ -1560,7 +1558,7 @@ integrate learning into the workplace
 
 
 
-** scenarios
+*** scenarios
 
 the story; a vision for our children
 
@@ -1579,7 +1577,7 @@ outline the civilization in these short stories.
   - pace layers 4 -- the new civilization will live beside
     the old...
 
-* functional requirements for a good life
+** functional requirements for a good life
 
 Great Lecture on Epicurus [[https://www.youtube.com/watch?v=UCBfWeJkrs8][Epicurus Life and Philosophy]] | YouTube
 
@@ -1661,9 +1659,8 @@ a philosophy of the garden
   - culture
 
 
-* ----
-
-* Facts of Life
+** ----
+** Facts of Life
 
 We really need to start at the big bang because it is what
 establish the fundamental physical laws of the unverse.
@@ -1676,14 +1673,14 @@ what works and what doesn't.
 
 Models are maps in more than 2 dimensions
 
-* The Rest
+** The Rest
 
 
 We start with the basic unit being a planetary body.  Not just planets
 but planetiods including moons and large asteroids suitible for
 building habitats.
 
-* Structure of the Earth
+** Structure of the Earth
 
 Earth has a core which is broken down into an inner core of solid
 iron that gives the planet it's magnetic field (important for
@@ -1709,7 +1706,7 @@ relative to the size of the planet.
 
   [ [ IMAGE ] ] 
 
-* Biosphere
+** Biosphere
 
 Life on the planet is divided into three primary environments,
 terrestrial, fresh water and marine.
@@ -1750,7 +1747,7 @@ spit out CO2.
 There is also a Nitrogen Cycle which is used by plants that cycles
 nitrogen from the atmosphere to the soil and back again.
 
-* Pace layers
+** Pace layers
 
 This is a good place to introduce Steward Brand's concept of pace
 layers.
@@ -1844,7 +1841,7 @@ and globalization combined.  We are not prepared for this, and it will
 need to be addressed as quickly and aggressively as possible if we are
 to avoid a repeat of the two world wars.
 
-* Living outside of Earth's Biosphere
+** Living outside of Earth's Biosphere
 
 For us to survive outside of earth we must bring an
 atmosphere/hydrosphere/biosphere with us.  The atmosphere that we
@@ -1875,12 +1872,12 @@ with us to mars will not just be for people who enjoy beaches and
 eating fish.   It's likely that it will determine our long term
 survival or not.
 
-* Why is all of this important
+** Why is all of this important
 
 Everything we are and ever will be is determined by our relationship
 to the biosphere and the climate that the biosphere maintains.
 
-* Transactive Man
+** Transactive Man
 
 Homo Sapiens is a transactive species, we lived in small groups called
 bands and we divide knowledge and skills between members of the band
@@ -1996,7 +1993,7 @@ establish nations.  Writing systems were only used by a very small
 percentage of the population for the next 2,000 years.
 
 
-* Civilization
+** Civilization
 
 Civilization emerged from a long interglacial period that has been
 extremely stable, and mild.  This clemant climatic period made it
