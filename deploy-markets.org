@@ -3,7 +3,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Wet Markets
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-markets.org
   :Created:   2017-04-03T17:18@Prek Leap (11.642600N-104.919210W)
@@ -17,14 +25,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* Introduction
+** Introduction
 
 Wet Markets, in many respects are the heart of their community.
 A Wet Market should not be confused with 'Farmers Markets"
@@ -195,7 +196,7 @@ shopping at a supermarket where you can park your car and buy
 everything for the week in one place.
 
 
-** functional requirements
+*** functional requirements
 
   - ban vehicles in the market, especially motorbikes except for an
     hour before the market opens.
@@ -267,7 +268,7 @@ everything for the week in one place.
    bottles and refill containers.
 
 
-* Types of markets
+** Types of markets
 
 
    - morning market: vegitables, meat & fish
@@ -281,11 +282,7 @@ everything for the week in one place.
      - weekly markets : some coincide with things like
        cattle auctions
 
-
-
-
-
-* 大排檔 (Dai Pai Dong)
+** 大排檔 (Dai Pai Dong)
 
   - [[https://en.wikipedia.org/wiki/Dai_pai_dong][Dai pai dong]] | Wikipedia
 
@@ -329,7 +326,7 @@ Features:
 #+end_quote
 
 
-* APL: Market of Many Shops
+** APL: Market of Many Shops
 
 #+begin_quote
 It is natural and convenient to want a market where all the different
@@ -462,7 +459,7 @@ Seattle, Washington.
 -- A Pattern Lanaguage: Market of Many Shops
 #+end_quote
 
-* FAO Retail Markets and Planning Guide
+** FAO Retail Markets and Planning Guide
 
  - [[http://www.fao.org/docrep/v8390e/V8390E00.htm#Contents][Retail Markets and Planning Guide]] | FAO
 
@@ -525,7 +522,7 @@ Seattle, Washington.
 
 
 
-* Health & Safety
+** Health & Safety
 
   - [[http://www.who.int/foodsafety/publications/capacity/healthymarket_guide.pdf][healthymarket_guide.pdf]] | WHO
 
