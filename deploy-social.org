@@ -3,7 +3,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Social Structures
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-social.org
   :Created:   2017-03-28T11:19@Prek Leap (11.642600N-104.919210W)
@@ -17,13 +25,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Introduction
+** Introduction
 
 #+begin_quote
 For if society lacks the unity that derives from the fact
@@ -275,7 +277,7 @@ their own right, no longer an activity that brings together
 a community.
 
 
-** division of labor
+*** division of labor
 
   - [[https://en.wikipedia.org/wiki/%C3%89mile_Durkheim][Émile Durkheim]] | Wikipedia
   - [[https://en.wikipedia.org/wiki/The_Division_of_Labour_in_Society][The Division of Labour in Society]] | Wikipedia
@@ -400,7 +402,7 @@ equilibrated.
 
 
 
-** the doomed
+*** the doomed
 
 #+begin_quote
 Dr. Hunter S. Thompson: Hi sir, it's Harris from the
@@ -657,7 +659,7 @@ corporate Japan becoming slow and inflexible.  In many ways
 it's the same trap as the village and extended family.
 
 
-** a robotic cottage industrial fabric
+*** a robotic cottage industrial fabric
 
 I'm thinking along the lines that shops (not all) could be
 the equivilant of both an extended family and a japanese
@@ -800,9 +802,9 @@ is also true, but that may be missing as well -- perhaps
 each needs a guiding philosophy that defines that worldview.
 
 
-* Family
+** Family
 
-** APL: Family
+*** APL: Family
 
 #+begin_quote
 The nuclear family is not by itself a viable social form.
@@ -967,9 +969,9 @@ marketplace.
 #+end_quote
 
 
-* Work
+** Work
 
-** APL: Scattered Work
+*** APL: Scattered Work
 
 #+begin_quote
 In modern times almost all cities create zones for "work"
@@ -1124,7 +1126,7 @@ decentralized society we seek.
 -- A Pattern Language
 #+end_quote
 
-** APL: Self-Governing Workshops and Office
+*** APL: Self-Governing Workshops and Office
 
 #+begin_quote
 No one enjoys his work if he is a cog in a machine.
