@@ -4,6 +4,14 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Climate Change
 :PROPERTIES:
 :CUSTOM_ID: 
 :Name:      /home/deerpig/proj/chenla/deploy/deploy-climate.org
@@ -18,13 +26,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Introduction
+** Introduction
 
 Niels Bohr famously said, "Those who are not shocked when
 they first come across quantum theory cannot possibly have
@@ -112,7 +114,7 @@ won't be easy.  The damage we have done is on the very edge
 of being all but irreversible.  But that doesn't mean that
 it can't be fixed.
 
-* What Won't work
+** What Won't work
 
 It's time to not only think clearly about the problem and
 how it can be fixed.  The first step is for all of us to
@@ -156,15 +158,27 @@ So what is left?  All of the traditional means of making a
 real impact on the climate are non-effectual.
 
 
+** The Scary Article 
 
-* The Confluence
+ - [[http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html][When Will Climate Change Make the Earth Too Hot For Humans?]] | New
+   York Magazine
+ - [[https://newrepublic.com/article/143788/power-peril-climate-disaster-porn][The Power and Peril of “Climate Disaster Porn”]] | New Republic
+ - [[http://www.slate.com/articles/health_and_science/science/2017/07/we_are_not_alarmed_enough_about_climate_change.html][New York Magazine’s Climate Change Horror Story Isn’t Too
+   Scary. It’s Not Scary Enough]]  | Slate
+
+ - [[https://arstechnica.com/science/2017/07/climate-scientists-push-back-against-catastrophic-scenarios/#p3][Climate scientists push back against catastrophic scenarios]] | Ars Technica
+ - [[http://www.nature.com/nature/journal/v547/n7662/full/nature22803.html][Overestimate of committed warming]] : Nature 
+
+
+
+** The Confluence
 
 I find it interesting that all talk of tackling climate
 change is based on extrapolating the present with the
 assumption that the world will work the same ten years or
 fifty years from now as they do today.
 
-** Globalization
+*** Globalization
 
 It's now 27 years since the second wave of globalization
 began in 1990.  In that time the world has been transformed
@@ -345,7 +359,7 @@ impact on bars and clubs because people can no longer risk
 drinking when they go out if there is no public transport
 system that could take them home while under the influence.
 
-** Population
+*** Population
 
   - [[http://www.worldometers.info/world-population/#table-forecast][World Population Clock: 7.5 Billion People (2017) - Worldometers]]
 
@@ -410,7 +424,7 @@ will need to maximize the power of a productive working
 population that has to take care of an increasing proportion
 of elderly people.
 
-** Reduce non-fuel carbon reliance
+*** Reduce non-fuel carbon reliance
 
  - fertilizer
  - plastics
@@ -429,7 +443,7 @@ of elderly people.
    staple production for urban populations
 
 
-**  Carbon Capture
+*** Carbon Capture
 
 This is pure brainstorming.
 
@@ -443,16 +457,4 @@ So dual strategy -- stop pumping carbon into the air, and
 pull out as much carbon as possible out of the oceans.  I
 would imagine that it is easier to pull carbon out of a
 liquid than a gas....
-
-
-* The Scary Article 
-
- - [[http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html][When Will Climate Change Make the Earth Too Hot For Humans?]] | New
-   York Magazine
- - [[https://newrepublic.com/article/143788/power-peril-climate-disaster-porn][The Power and Peril of “Climate Disaster Porn”]] | New Republic
- - [[http://www.slate.com/articles/health_and_science/science/2017/07/we_are_not_alarmed_enough_about_climate_change.html][New York Magazine’s Climate Change Horror Story Isn’t Too
-   Scary. It’s Not Scary Enough]]  | Slate
-
- - [[https://arstechnica.com/science/2017/07/climate-scientists-push-back-against-catastrophic-scenarios/#p3][Climate scientists push back against catastrophic scenarios]] | Ars Technica
- - [[http://www.nature.com/nature/journal/v547/n7662/full/nature22803.html][Overestimate of committed warming]] : Nature 
 
