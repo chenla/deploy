@@ -3,7 +3,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Gracefully Degrade
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-degrade.org
   :Created: 2017-04-23T10:44@Prek Leap (11.642600N-104.919210W)
@@ -17,14 +26,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* Introduction
+** Introduction
 
 - [[http://www.catb.org/esr/writings/taoup/html/ch01s06.html][Basics of the Unix Philosophy]]
 
@@ -65,7 +67,7 @@ energy -- such as a bicycle turning a belt.  In this way, the systems
 will continue to work, but at increasingly less efficiency, and with
 less and less fine-control and ease of use.
 
-* Systems
+** Systems
 
 prinicple of things gracefully degrading
 
@@ -98,7 +100,7 @@ prinicple of things gracefully degrading
   - Local
   - Device
 
-* Machines & Devices
+** Machines & Devices
 
 Needs to be thought of in terms of shearing layers, in that rather
 than replace the whole device you replace different layers of the
@@ -125,7 +127,7 @@ layer will still work, and if the electrical breaks, the mechanical
 still works.
 
 
-* Civilization
+** Civilization
 
   - Digital info-centric technological
   - Industrial Electrical
@@ -133,7 +135,7 @@ still works.
   - Pre-Industrial Mechanical
   - Mad Max tool-based hunter-gatherer
 
-* Core devices
+** Core devices
 
 
   - lamp
