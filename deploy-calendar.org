@@ -3,7 +3,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Calendar
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-calendar.org
   :Created:   2017-06-25T08:14@Prek Leap (11.642600N-104.919210W)
@@ -17,13 +26,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Introduction
+** Introduction
 
 The Scopic Calendar is a collection of rituals, festivals
 and conventions that are practiced by members of a scopic
@@ -70,16 +73,16 @@ The Chinese 1-day per page -- almanack-calendar is where we
 want to go with this...
 
 
-* Time
+** Time
 
 Time is almost as confusing as dates.
 
-* Epoch
+** Epoch
 
 
 
 
-* Charlie Stross's second-based time system
+** Charlie Stross's second-based time system
 
 #+begin_comment
 NOTES <2013-02-15 Fri 17:41> Stross's second-based time system
@@ -107,7 +110,7 @@ race)
 Archaic: approximately 31,000,000,000 Earth years (half elapsed time
 since end of the Cretaceous era).
 
-* Scopic Clock
+** Scopic Clock
 
 #+begin_center
 NOTES <2014-06-08 Sun 17:26> The Clock of Arc Nong Pao
