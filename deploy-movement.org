@@ -3,6 +3,14 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Create a Movement
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-movement.org
@@ -17,21 +25,15 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
 It's not enough to build something -- you have to put just
 as much effort in to getting people to adopt it and then to
 act as mid-wife to see it though long enough for it to hit
 its tipping point and take on a life of its own.
 
-* Rules for Radicals
+** Rules for Radicals
 
   - [[bib:alinsky:1989rules][Rules For Radicals]] | Saul Alinsky (1971)
   - [[https://en.wikipedia.org/wiki/Rules_for_Radicals][Rules for Radicals]] | Wikipedia
@@ -91,11 +93,11 @@ its tipping point and take on a life of its own.
 #+end_quote
 
 
-* Stupid TedTalk Video
+** Stupid TedTalk Video
 
  - [[http://www.ted.com/talks/derek_sivers_how_to_start_a_movement][Derek Sivers: How to start a movement]] | TED Talk
 
-* Difussion of Innovation
+** Difussion of Innovation
 
  - [[https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action#t-1065553][Simon Sinek: How great leaders inspire action]] | TED Talk
  - [[bib:rogers:2003diffusion][Diffusion of Innovations]] | Everett Rogers, (2003) 5th Ed 
@@ -104,7 +106,7 @@ its tipping point and take on a life of its own.
 
 Why How What
 
-* Tipping Point
+** Tipping Point
 
 - The Tipping Point | Malcom Gladwell
 
@@ -112,7 +114,7 @@ Connectors, Mavens, and Persuaders
 
 
 
-* What we can learn from religion
+** What we can learn from religion
 
 TEDTalk: Alain de Bottom: Atheism 2.0
 :url: 
@@ -179,7 +181,7 @@ cults or religions or political movements.  So they can
 serve important cultural, and institutional needs without
 getting out of hand.
 
-* The Methodic Movement
+** The Methodic Movement
 
 #+begin_quote
 Have you ever wondered, for example, how religious movements
@@ -228,7 +230,7 @@ nurtured.
 
 - [[https://en.wikipedia.org/wiki/George_Whitefield][George Whitefield]] | Wikipedia
 
-* Overton Window
+** Overton Window
 
   - [[https://en.wikipedia.org/wiki/Overton_window][Overton window]] | Wikipedia
 
@@ -252,7 +254,7 @@ step that leads us onwards."
 -- [[https://en.wikipedia.org/wiki/Phineas_Finn][Phineas Finn]] | [[https://en.wikipedia.org/wiki/Anthony_Trollope][Anthony Trollope]]
 #+end_quote
 
-* Creeping Normality
+** Creeping Normality
 
 Creeping normality if the Overton Window's evil twin.
 
