@@ -3,7 +3,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* TL;DR
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-tldr.org
   :Created:   2017-06-03T18:26@Prek Leap (11.642600N-104.919210W)
@@ -17,14 +26,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* Quote Page
+** Quote Page
 
 #+begin_quote
 I set out now, in a box apon the sea
@@ -32,7 +34,7 @@ I set out now, in a box apon the sea
 -- Charles Olson, Maximus Poems
 #+end_quote
 
-* Preface
+** Preface
 
 
 ⤶ ⤷ ⤴ ⤵ 
@@ -84,9 +86,9 @@ links
 
 ----
 
-* The Yellow Brick Road
+** The Yellow Brick Road
 
-** Towards a Distributed Civilization
+*** Towards a Distributed Civilization
 
  - more than resilient : develop infrastructure that is not
    only resilient to catastrophe, but is anti-fragile, that
@@ -121,10 +123,10 @@ links
    depend on us getting this right.
 
 
-* TL;TD III : Implementation
+** TL;TD III : Implementation
 
-** Table of Contents
-** Introduction
+*** Table of Contents
+*** Introduction
 
 The work of the institute is meant to be both deployable as
 well as academic and scientific.  It's been said that it
@@ -139,22 +141,22 @@ does in theory.  This section outlines the technologies that
 we and the missing pieces that we will complete development at
 the Institute.
 
-** A New Distributed Network Layer 
+*** A New Distributed Network Layer 
 
-** Interplanetary File System
+*** Interplanetary File System
 
-** Cryptocurrencies
+*** Cryptocurrencies
 
-** Neural Nets
+*** Neural Nets
 
-** Missing Pieces
+*** Missing Pieces
 
 - Identity Model
 - Fnords: acertaining certainty
 - Codex.d: distributed publication
 - Sneaker Net of Things (SNOT)
 
-** Implementation
+*** Implementation
   
  - hoards
  - horcruxes
