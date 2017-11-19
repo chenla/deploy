@@ -3,6 +3,15 @@
 #+STARTUP: showall
 
 #+PROPERTY: filename
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-expresssion-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Mars Notes (expression)
   :PROPERTIES:
   :CUSTOM_ID: Mars_Notes_(expr)
   :Name:      /home/deerpig/proj/chenla/deploy/solar-mars.org
@@ -25,18 +34,9 @@
   :END:
 
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-expresssion-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+** Introduction
 
-* Introduction
-
-
-
-
-* an experiment 
+** an experiment 
 
 okay -- on mars, what if we try an experiment.  Let's take a
 excavated cavern -- X tall and X wide and long.  What can
