@@ -4,7 +4,9 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+* Ceres
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/solar-ceres.org
   :Created:   2017-05-14T09:52@Prek Leap (11.642600N-104.919210W)
@@ -24,7 +26,6 @@
 [[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
  - [[https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)][Ceres (dwarf planet)]] | Wikipedia
