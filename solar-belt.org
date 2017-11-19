@@ -4,7 +4,16 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Asteroid Belt
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/solar-belt.org
   :Created:   2017-05-14T09:40@Prek Leap (11.642600N-104.919210W)
@@ -18,14 +27,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-
-* Introduction
+** Introduction
 
   - [[https://solarsystem.nasa.gov/planets/asteroids/indepth][Asteroids - In Depth | Planets - NASA Solar System Exploration]] 
   - [[http://www.wired.co.uk/article/asteroid-space-mining-phoenix-mars-chris-lewicki-planetary-resources][Inside the startup that wants to mine asteroids and transform space travel forever]] | WIRED UK
@@ -37,7 +39,7 @@
   - [[https://en.wikipedia.org/wiki/Deep_Space_Industries][Deep Space Industries]] | Wikipedia
   - 
 
-* Asteroid classes
+** Asteroid classes
 
   - C-type (chondrite) most common, clay and silicate rocks, 
     and are dark in appearance.
