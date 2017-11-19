@@ -3,7 +3,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Process Guilds
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/guild-process.org
   :Created:   2017-04-18T11:06@Prek Leap (11.642600N-104.919210W)
@@ -17,13 +25,7 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-* Introduction
+** Introduction
 
 A process guild is an automated network that combines, distributes,
 federates, and automates many aspects of modern palletized,
@@ -91,7 +93,7 @@ environmental impact. The present system is not-sustainable and is
 designed to largely benefit a small percentage of wealthy land and
 corporate owners at the expense of everyone else.
 
-* Process Guild
+** Process Guild
 
 We use the word /guild/ to mean a group of interdendent parts that
 must work together, in the sense of the permaculture concept of /crop
@@ -149,10 +151,10 @@ business process.
 
 
 
-* It-Torrents
+** It-Torrents
 
 
-* Discuss
+** Discuss
 
 This needs to be moved -- to Process Guilds (need to create)
 
@@ -199,7 +201,7 @@ The girl at i-Cafe with the pig farm -- how cold guild-nets solve her
 problem and stave off bastards like CP?
 
 
-* Not In My Backyard
+** Not In My Backyard
 
 When people say "not in my backyard" they are playing with fire.
 Everything is in someone's backyard, by pushing things away that have
@@ -230,7 +232,7 @@ Starbuck's advantage and perhaps only one of the shops goes out of
 business....
 
 
-* prospectus
+** prospectus
 
 A process guild is an automated network that combines,
 distributes, federates, and automates many aspects of modern
@@ -347,7 +349,7 @@ sold in the ICO will become the currency used in all of
 these supply-production chains.
 #+end_comment
 
-** background
+*** background
 
 The steam revolution that began in the 19th century made
 moving goods across long distances economical and could
