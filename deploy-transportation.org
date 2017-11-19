@@ -26,8 +26,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-
-* Introduction
+** Introduction
 
 Mass transit sucks.  It's important in large urban centers but it's
 inevitably alienating, impersonal and lonely.
