@@ -3,7 +3,15 @@
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
-  :PROPERTIES:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Structures
+:PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/deploy/deploy-structures.org
   :Created:   2017-04-03T16:49@Prek Leap (11.642600N-104.919210W)
@@ -17,19 +25,13 @@
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
-* Introduction
+** Introduction
 
 #+begin_quote
 A NEW ARCHITECTURE, A NEW CIVILIZATION
 
-Our book describes a revolutionary vision  of the human
+Our book describes a revolutionary vision of the human
 environment: one which will, in coming eras, be conceived,
 designed, built, made, and widely understood as a necessity
 of emotional and social life.  This will inevitably change
@@ -113,7 +115,7 @@ architecture on its head!!
 -- Battle pg45 |  Christopher Alexander
 #+end_quote
 
-* Introduction
+** Introduction
 
 Building structures that provide shelter is certainly
 nothing unique to our species.  Ants and termites tunnel and
@@ -154,7 +156,7 @@ be able to go outside once in a while, you'll just need a
 tad more clothing to survive in antarctic temperatures
 and.... a portable pressurized atmosphere.
 
-* What the hell happened in the 20th Century?
+** What the hell happened in the 20th Century?
 
 For a species that depends so completely on the structures
 we live in, it is almost beyond comprehension how fucking
@@ -264,7 +266,7 @@ mess we've made of Earth's climate, we better get damn good at
 makeing the indoors we will be stuck in, really really good,
 because we sure suck at it today...
 
-* Habitability Matrix
+** Habitability Matrix
 
 It's critical that we don't loose sight of the fact that no
 matter where we are, we still have the same matrix of basic
@@ -292,7 +294,7 @@ design requires to support life.  It will seem strange at
 first, but it's a first step towards being a solar species
 and civilization.
 
-* Outline
+** Outline
 
   
 
@@ -319,7 +321,7 @@ and civilization.
   - earthworks ::  tunnels, contouring, reclamation
 
 
-* Alexander's Nine Principles
+** Alexander's Nine Principles
 
 #+begin_quote
 1. Fundementally, architecture is and must be an art of
@@ -380,7 +382,7 @@ and civilization.
 -- Battle pg7-8 | Christopher Alexander
 #+end_quote
 
-* Shearing Layers
+** Shearing Layers
 
  - [[https://en.wikipedia.org/wiki/Shearing_layers][Shearing layers]]  Wikipedia
  - [[https://en.wikipedia.org/wiki/How_Buildings_Learn][How Buildings Learn]] - Wikipedia
@@ -403,7 +405,7 @@ time at different rates of change.
 #+CAPTION: Shearing Layers
 [[./img/structures/brand--shearing-layers.jpg]]
 
-* You Say to Brick
+** You Say to Brick
 
 #+begin_quote
 ... the contrast between these two buildings in fact offers
