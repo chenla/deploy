@@ -52,3 +52,94 @@ in.
 
 There will be buildings -- but in a lot of cases we'll be
 living in the walls of the cavern, like hobbits.
+
+** Quotes Against Mars
+
+
+
+
+#+begin_quote
+*Just Visiting*
+
+“Establishing a colony on Mars is incredibly technically
+challenging and expensive,” [[http://clasp.engin.umich.edu/people/ridley/FACULTY][University of Michigan’s Aaron]]
+Ridley* told Futurism. He argued that while the red planet is
+certainly “scientifically interesting,” the enormous costs
+associated with a permanent station make it unlikely,
+especially given that establishing a colony wouldn’t be a
+solution to a problem like overpopulation.
+
+“We are not going to go to the moon or Mars because of
+population pressure,” he explained. “It is really because we
+have an innate desire to explore.”
+
+*Amanda Hendrix, a senior scientist at the Planetary Science
+Institute*, shares a similar opinion on the prospect of a
+permanent Martian settlement. “I think it makes sense to go
+to Mars with humans to test technologies and to do
+scientific experiments — a short term visit or visits,” she
+told Futurism. “I do not think it makes sense to establish a
+long-term human settlement on Mars, only because it is not
+desirable as a long-term destination due to radiation
+concerns.”
+
+*Martian Money*
+
+
+“I think it would be a natural next step in our human
+exploration to visit the Moon and/or Mars, but to stay for
+the long term probably requires an economic justification,”
+said Hendrix. She added that space tourism is unlikely to
+serve this purpose.
+
+*Chris McKay*, a planetary scientist at NASA’s Ames Research
+Center, maintains that the only plausible economic
+motivation for a Martian colony is for it to serve as a
+government base, downplaying the possibility of either
+tourism or mining operations playing that role.
+
+“The analogy here is the Antarctic bases from 1955 to about
+1990,” he told Futurism. “During this time virtually all
+Antarctic bases were [government] science research bases in
+accordance with the Antarctic Treaty. After ~1990 tourism
+started to grow. Now there are tourist bases in Antarctica
+that are not [government] science research bases.”
+
+Settling on Mars isn’t going to make anyone rich, and that’s
+going to make it more difficult to accrue the money required
+for such an expensive project. Still, despite the fact that
+a fully-fledged colony might not be the wisest direction for
+a prospective space program, there’s still plenty we could
+learn from the planet.
+
+*Mars Over the Moon*
+
+It seems that we’re more likely to establish a base on the
+moon before Mars. While this has its own benefits, most
+would agree that the red planet is more interesting — even
+if it’s harder to reach.
+
+“I would agree that Mars is a much more scientifically
+interesting place,” said *Ridley*, although he acknowledges
+that he wouldn’t make a beeline for the planet. “I am a big
+believer in baby steps, so it makes a lot of sense to try to
+do something on the moon, and then move on to Mars.”
+
+“In terms of science, Mars is way more interesting than the
+moon,” wrote *McKay*. He listed three main advantages: its
+similarity to Earth in terms of planetary processes and
+history, the possibility of life, and the potential for
+terraforming the planet.
+
+If there were no other considerations to be made, most would
+agree that a Mars colony could be a fascinating
+project. However, certain endeavors need to be prioritized
+over others, and right now it doesn’t seem like a permanent
+Martian settlement is the best use of our resources.
+
+-- [[https://futurism.com/humans-shouldnt-colonize-mars-experts/][All the Reasons Why Humans Shouldn't Colonize Mars,
+  According to Experts]]
+#+end_quote
+
+
+
