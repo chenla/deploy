@@ -37,6 +37,9 @@
 ** Introduction
 
 ** an experiment 
+:PROPERTIES:
+:ID:       e0965a78-6947-428b-bf4f-00d6b7b750dc
+:END:
 
 okay -- on mars, what if we try an experiment.  Let's take a
 excavated cavern -- X tall and X wide and long.  What can
@@ -54,8 +57,9 @@ There will be buildings -- but in a lot of cases we'll be
 living in the walls of the cavern, like hobbits.
 
 ** Quotes Against Mars
-
-
+:PROPERTIES:
+:ID:       bb3c5ec6-388c-47b3-9603-b751a49ce1c1
+:END:
 
 
 #+begin_quote
@@ -143,3 +147,51 @@ Martian settlement is the best use of our resources.
 
 
 
+** The Plan
+:PROPERTIES:
+:ID:       70de5332-6ec0-449c-ab22-aa7df65b9382
+:END:
+
+ - education -- first class of 11 year olds starts in 2020
+ - small communities - shops of >15 communities 
+   - stage I       :: anywhere onplanet
+   - antactica II  :: 
+   - mars     III  :: 
+ - automatic logisitcs, supply chain, provision and transactions
+ - automation -- so each person on mars can oversee multiple
+   specialties
+ - everything is about building ecosystems, not habitats
+   - so everything is agriculture
+   - base on perennials not annuals
+   - bamboo!
+ - everything is open source -- everything
+
+ - [[https://futurism.com/inside-scoop-elon-musks-plan-make-insurance-life-know/][The Inside Scoop on Elon Musk’s Plan to Make “Insurance for Life as We Know It”]]
+
+
+** UAE Mars Project
+:PROPERTIES:
+:ID:       66cfd455-c35d-4afb-ba48-79e78b257b56
+:END:
+
+ - [[http://mediaoffice.ae/en/media-center/news/14/2/2017/mars.aspx][Vice President, Mohamed bin Zayed unveil “Mars 2117
+   Project”]] | Dubai Government Media Office
+ - [[https://www.space.com/35817-uae-city-on-mars-2117-project.html][United Arab Emirates Wants to Build a City on Mars]] | Space.com
+ - [[https://futurism.com/4-mars-2117-project-the-uae-joins-the-race-for-the-red-planet/][UAE Announces Plans to Have a Human Colony on Mars by
+   2117]] | Futurism
+ - 
+
+** Boeing 
+:PROPERTIES:
+:ID:       21fff318-b6ab-4de4-b066-09c28e269431
+:END:
+
+ - [[http://www.boeing.com/features/2014/12/bds-path-to-mars-12-04-14.page][The Path to Mars: Deep Space Mission]] | Boeing
+ - 
+
+** NASA
+:PROPERTIES:
+:ID:       7aa53725-95d1-4eb8-a498-51c97b868a63
+:END:
+
+ - [[https://www.nasa.gov/sites/default/files/atoms/files/journey-to-mars-next-steps-20151008_508.pdf][NASA's Journey to Mars]] | NASA (2015) [pdf]
