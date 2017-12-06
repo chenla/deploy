@@ -1,0 +1,77 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Managed Wild Spaces | Pattern
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Managed Wild Spaces
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/deploy/deploy-managed-wild-spaces.org
+:Created:  2017-12-06T19:08@Prek Leap (11.642600N-104.919210W)
+:ID:       43b43928-0d56-470e-9670-71d052a82369
+:VER:      565834147.573806881
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TDO7-3074
+:Class:    deploy
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+
+The illusion of pristine nature is historically recent.
+
+Before smallpox and other disease wiped out an estimated 80-90% of
+people in North America in the 17th century, the grasslands and
+forests were highly managed by humans.  The primary tool was fire.
+
+Mankind has been managing nature with fire for tens of thousands of
+years, to the point that it impacted the evolution of species in
+managed ecosystems.  Man has had a global impact on nature and climate
+for a long time.  There is evidence that when disease decimated
+north american human populations and the yearly fires stopped, it
+resulted in a mini-ice age because of the drop in smoke in the
+atmosphere that resulted in global warming.
+
+Too heavy a hand in keeping the status quo -- which happened in many
+places around the world by trying to stop /every/ wildfire resulted in
+an understory of dry deadwood that courts disaster.
+
+Too light a hand and forests became dense, claustrophibic environments
+with a rotting understory that made it largely imposdible for
+megafauna and generally unhealthy forests.
+
+This practice was gradually abandoned as man moved away from a broad
+mixed diet of animals and foraged perennials to ceral grains and
+annual crops that make up most vegitables.  This led to a vicious
+cycle of specialization and monoculture agriculture that has
+devastated ecosystems, reduced biodiversity, and created unhealthy
+narrow diets that are a detriment to human health.
+
+The whole concept of pristine nature untouched by man does a diservice
+to natural environments as well as perpetuates the illusion that man
+is not part of nature.
+
+Natural environments need to be managed with a light touch, that
+promotes biodiversity of flora and fauna, creates an additional source
+of food for people that is far more diverse than being consumed in
+modern societies.
+
+This pertains to all ecosystems, including wetlands, and deserts.
+
+This pattern should lead into dmz zones between natural and cultivated
+land so there are never hard boundries between nature and cultivated
+land -- cultivated land must produce enough to support surrounding
+fauna so that wild animals help do some of a farmers work.

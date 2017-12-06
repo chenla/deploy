@@ -71,6 +71,8 @@ still don't know how all of this will shape up.  Time will tell.
  - [[./deploy-legibility.org][Legibility]]
  - [[./deploy-interface.org][Interfaces]]
 
+ - [[./deploy-managed-wild-spaces.org][Managed Wild Spaces]]
+
  - [[./deploy-gods.org][Gods]]
 
 
