@@ -50,7 +50,7 @@ places around the world by trying to stop /every/ wildfire resulted in
 an understory of dry deadwood that courts disaster.
 
 Too light a hand and forests became dense, claustrophibic environments
-with a rotting understory that made it largely imposdible for
+with a rotting understory that made it largely impossible for
 megafauna and generally unhealthy forests.
 
 This practice was gradually abandoned as man moved away from a broad
@@ -71,7 +71,15 @@ modern societies.
 
 This pertains to all ecosystems, including wetlands, and deserts.
 
-This pattern should lead into dmz zones between natural and cultivated
-land so there are never hard boundries between nature and cultivated
-land -- cultivated land must produce enough to support surrounding
-fauna so that wild animals help do some of a farmers work.
+This pattern should lead into *dmz zones between natural and
+cultivated land* so there are never hard boundries between nature and
+cultivated land -- cultivated land must produce enough to support
+surrounding fauna so that wild animals help do some of a farmers work.
+
+** References
+
+ - 1493 -- fire
+ - book on fire
+ - against the grain about wetlands and fire
+ - against the grain about little ice age
+ - mollison etal about zones 
