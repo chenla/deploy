@@ -76,7 +76,7 @@ My initial questions are:
 
 My goal here is that we could have a central dome which would be an
 urban/town center, surrounded by the little biospheres.  Ideally for
-each person on Mars there should be several hectres of domed space,
+each person on Mars there should be several hectares of domed space,
 and a lot of that will be made up of these agricultural habitats.
 
 I know that we'll be able to 3D print clothes, and vat grow meat and
@@ -86,4 +86,22 @@ home on the planet that acts as a backup for earth.  And it creates a
 low quality of life that will leave us always feeling like we are
 visitors on Mars rather than colonists.
 
+These /little/ biospheres would not be so little -- I would image that
+they would have to be minimum a hundred hectares in diameter, and
+preferably a couple kilometers in diameter.
+
+These are not trivial structures to build -- but the lower gravity
+should help.
+
+In the very long term these systems should be designed from day one,
+so that over a couple of centuries as we terraform the planet we can
+then strip away the outer layers of the domes until they are no longer
+needed.   These domes then, are not just habitats but will become the
+old-growth forrests and biomes for the new planet.
+
+This is a long time in the future and the climate won't terraform
+gently.  There will be heavy weather and errosion problems and a whole
+host of other things that will make it difficult to protect the domes
+for a long time.  But in the end the domes will become the centers
+where ecosystems can grow out from and take over the planet.
  
