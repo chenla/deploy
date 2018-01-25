@@ -13,7 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
-* Managed Wild Spaces
+* Managed Wild Spaces | Pattern
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/deploy/deploy-managed-wild-spaces.org
@@ -29,7 +29,6 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** Introduction
-
 
 The illusion of pristine nature is historically recent.
 
