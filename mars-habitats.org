@@ -1,0 +1,89 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Habitats
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Habitats
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/deploy/mars-habitats.org
+:Created:  2018-01-25T18:56@Prek Leap (11.642600N-104.919210W)
+:ID:       67dc3d2a-7a40-4848-ad2d-a607088c3c9c
+:VER:      570153455.970349322
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:NKE4-3812
+:Class:    deploy
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
+
+Habitats on Mars will likely be a combination of underground and
+enclosed craters on the surface.
+
+Domes will most likely be built in multiple layers with each layer
+having  different pressure.  The outer layer can be nothing more than
+concentrated martian atmosphere.  It doesn't have to be breathable, it
+just needs to have pressure.
+
+Rather than build domes like traditional buildings we could take a
+much longer term approach.
+
+  - Build the domes and pressurise using local atmosphere.
+  - Use concentrated solar to raise and maintain the temperature above
+    the freezing temperature of water.
+  - Fill the floor of the dome with water -- it should basically now
+    be a big domed lake that becomes a carbon store absorbing the C02.
+  - Introduce microbes that each the C02 and over a decade or so
+    create a breathable atmosphere in the dome.
+  - As the atmosphere becomes breathable, introduce new organisms that
+    eat the microbes that can then be eaten by terrestrial organisms
+    as food -- this is the start of building an aquatic ecosystem with
+    fish, shellfish etc.
+  - Fence in and fill parts of the lake with organic matter to create
+    paddies of land that can then be used to grow multi-level
+    agriculture.
+  - The result will be a very high production polyculture with a high
+    biodiversity.
+  - Take excess organic material to help build the same thing in other
+    domes.
+
+Keep industry and office spaces in the sides of the craters, which
+would be zone zero.  Then ring the inside of the dome with domestic
+houses, and then each zone nested inside will be visited less and
+less.  The majority of the middle of the dome should be forrest or
+open water. and as you move outwards it becomes more like Venice with
+waterways between argriculture and buildings.
+
+My initial questions are:
+
+  - how big will these domes be
+  - can we build them largely with little more than semi-autonomous
+    robots and insitu materials.
+  - what will be the population density that each dome will be able to
+    support?  
+
+My goal here is that we could have a central dome which would be an
+urban/town center, surrounded by the little biospheres.  Ideally for
+each person on Mars there should be several hectres of domed space,
+and a lot of that will be made up of these agricultural habitats.
+
+I know that we'll be able to 3D print clothes, and vat grow meat and
+have indoor greens and vegitable production.  But this is fragile,
+it's not building a civilization, it's not creating a permanent
+home on the planet that acts as a backup for earth.  And it creates a
+low quality of life that will leave us always feeling like we are
+visitors on Mars rather than colonists.
+
+ 

@@ -137,3 +137,6 @@ prefix: 'solar'
  - [[./solar-belt.org][Belt]]
    - [[./solar-ceres.org][Ceres]]
  - [[./solar-titan.org][Titan]]
+** Mars
+
+ - [[./mars-habitats.org][Habitats]]
