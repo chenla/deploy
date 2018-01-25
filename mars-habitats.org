@@ -96,8 +96,8 @@ should help.
 In the very long term these systems should be designed from day one,
 so that over a couple of centuries as we terraform the planet we can
 then strip away the outer layers of the domes until they are no longer
-needed.   These domes then, are not just habitats but will become the
-old-growth forrests and biomes for the new planet.
+needed.  These domes then, are not just habitats but will become the
+old-growth forests and biomes for the new planet.
 
 This is a long time in the future and the climate won't terraform
 gently.  There will be heavy weather and errosion problems and a whole
