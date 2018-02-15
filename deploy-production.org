@@ -10,6 +10,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
+
 * Production
 :PROPERTIES:
   :CUSTOM_ID: 
@@ -102,6 +104,8 @@ around.20 They arrive at specific produc-
 #+end_quote
 
  - /The Machine That Changed the World/ | Jim Womack
+   cite:womack:1990machine
+
  - [[https://en.wikipedia.org/wiki/Lean_production][Lean manufacturing]] - Wikipedia
  - [[https://en.wikipedia.org/wiki/Just-in-time_manufacturing][Just-in-time manufacturing]] | Wikipedia
 
