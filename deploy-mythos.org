@@ -233,7 +233,7 @@ very high status that they have achieved, or our inclination
 to worship them.
 
 — Robin Hanson "Like the Ancients, We Have Gods. They’ll Get Greater"
-  2018-04-3  
+  2018-04-3  cite:hanson:2018we-have-gods
 
 
 #+end_quote
@@ -313,3 +313,7 @@ and conveys real power.”
 
   - Suarez, D., Freedom (tm) (2011), : Signet.
     cite:suarez:2011freedom
+
+  - Hanson, R., /Like the ancients, we have gods. they’ll
+    get greater/ (2018).
+    cite:hanson:2018we-have-gods
