@@ -11,6 +11,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:~/proj/chenla/hoard/bib.bib
+
 * Mythos
 :PROPERTIES:
 :CUSTOM_ID: 
@@ -25,6 +27,15 @@
 :Status:    wip
 :Licence:   MIT/CC BY-SA 4.0
 :END:
+
+** Table of Contents
+
+ - Nature of Myth
+ - Shamanic Interface
+
+** Scope
+
+** TL:DR
 
 
 ** Introduction
@@ -117,3 +128,7 @@ which are set by thought communities.
  /inter-subjective/
 
 
+** References
+
+  - Suarez, D., Freedom (tm) (2011), : Signet.
+    cite:suarez:2011freedom
