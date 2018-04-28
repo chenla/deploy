@@ -128,6 +128,74 @@ which are set by thought communities.
  /inter-subjective/
 
 
+** Shamanic Interface
+
+#+begin_quote
+“The shamanic interface is the mechanism for interacting
+with the darknet. It’s called the shamanic interface because
+it was designed to be comprehensible to all people on earth,
+regardless of technological level or cultural background.”
+She made a series of precise flourishes with her hands,
+leaving behind glowing lines in D-Space that formed an
+intricate pattern. As she finished, an unearthly, angelic
+voice sounded in the room, like a good spirit.
+
+Sebeck looked around him for the origin of the disembodied
+voice.
+
+Riley lowered her hands. “It was a hypersonic sound,
+Sergeant. Linked to a macro that I created based on somatic
+gestures. But my point is that it looks like magic. Even the
+most remote tribes in Papua New Guinea understand the
+concept of magic—and that certain rituals must be observed
+to invoke it. They believe in a spirit world where ancestors
+and supernatural beings watch over them. The shamanic
+interface simply connects high technology to that belief
+system, granting ‘powers’ and equipment as a reward for
+useful, organized activity.”
+
+Sebeck leaned back in his chair. “Useful to whom?”
+
+“Humanity, Sergeant. This is big-picture stuff. Repositories
+of human knowledge and technology are being designed and
+built by various curator factions around the world. The spec
+is simply that these repositories be durable, inspire awe,
+and be equipped with automated systems that can teach people
+useful knowledge to empower the more rational among the
+population so that they can achieve leadership
+positions. That way, should human civilization be lost in a
+region, this system could put locals back on a path to
+regain knowledge in a generation or two. It could also be
+useful in resisting a downward spiral to begin with.”
+
+Sebeck looked at the solid walls around them. He looked back
+at Riley quizzically.
+
+“Correct. Two-Rivers Hall will be a repository when it’s
+finished. That may take many decades.”
+
+“But doesn’t this just spread mysticism? Lies, essentially?”
+
+“You mean fairy tales? Yes, initially. But then, a lot of
+parents tell young children that there’s a Santa Claus. It’s
+easier than trying to explain the cultural significance of
+midwinter celebrations to a three-year-old. If false magic
+or a white lie about the god-monster in the mountain will
+get people to stop killing one another and learn, then the
+truth can wait. When the time is right, it can be replaced
+with a reverence for the scientific method.”
+
+“And this is why Sobol created the Daemon?”
+
+She shook her head. “No, this is why they call it the
+shamanic interface. Because it resembles sorcery—and might
+as well be to low-tech people. But unlike sorcery, it exists
+and conveys real power.”
+
+— Freedom cite:suarez:2011freedom
+#+end_quote
+
+
 ** References
 
   - Suarez, D., Freedom (tm) (2011), : Signet.
