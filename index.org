@@ -50,9 +50,7 @@ still don't know how all of this will shape up.  Time will tell.
 
  - [[./deploy-intro.org][Introduction]]
  - [[./deploy-manifesto.org][Manifesto]]
-
  - [[./deploy-tldr.org][TL;DR]]
-
  - [[./deploy-goals.org][Goals]]
  - [[./deploy-functional.org][Functional Requirements]]
  - [[./deploy-movement.org][Movement]]
@@ -70,12 +68,8 @@ still don't know how all of this will shape up.  Time will tell.
  - [[./deploy-goverance.org][Governance]]
  - [[./deploy-legibility.org][Legibility]]
  - [[./deploy-interface.org][Interfaces]]
-
  - [[./deploy-managed-wild-spaces.org][Managed Wild Spaces]]
-
  - [[./deploy-gods.org][Gods]]
-
-
  - [[./social-bands.org][Bands]]       :
  - [[./social-territory.org][Territory]]   : man is a territorial animal who conflates
                  control with ownership
@@ -91,9 +85,7 @@ still don't know how all of this will shape up.  Time will tell.
 
  - [[./deploy-globalization.org][Globalization]]
  - [[./deploy-climate.org][Climate]]
-
  - [[./social-cadastre.org][Cadastre]]
-
  - Bioregions
  - Network
  - Education
@@ -101,24 +93,17 @@ still don't know how all of this will shape up.  Time will tell.
  - [[./deploy-structures.org][Structures]]
  - [[./deploy-markets.org][Markets]]
  - [[./deploy-tools.org][Tools]]
-
  - [[./deploy-agriculture.org][Agriculture]]
    - [[./agro-zones.org][Zones]]
-
  - [[./deploy-transportation.org][Transportation]]
-
-
  - Energy
  - [[./deploy-ecosystem.org][Ecosystem]]
  - [[./deploy-degrade.org][Graceful Degradation]]
  - [[./deploy-reproducibility.org][Reproducibility]]
-
  - [[./deploy-preserve.org][Preservation]]
-
  - [[./deploy-production.org][Production]] 
  - [[./deploy-antipatterns.org][AntiPatterns]]
  - [[./deploy-archival-storage.org][Archival Storage]]
-
 ** Shops
 ** Guilds
  files prefix: 'guild'
