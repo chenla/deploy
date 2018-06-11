@@ -14,7 +14,7 @@
 * Antipatterns
 :PROPERTIES:
 :CUSTOM_ID: 
-:Name:      /home/deerpig/proj/chenla/deploy/deploy-antilpatterns.org
+:Name:      /home/deerpig/proj/chenla/deploy/deploy-antipatterns.org
 :Created:   2017-11-12T21:49@Prek Leap (11.642600N-104.919210W)
 :ID:        d1790c23-9ea2-45c9-a756-a3ca0e64ef6e
 :VER:       563770227.098661249
