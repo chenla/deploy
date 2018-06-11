@@ -30,4 +30,8 @@ Some of these will become projects in their own
 right, or the foundation for various types of rabbitholes.  
 
 
+--- 
 
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/deploy]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/deploy]]
