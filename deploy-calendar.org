@@ -39,7 +39,7 @@ arc.
   - Convox
     - Decade
     - Century
-    - Millenia
+    - Millennium
     - Special (founding for one)  
   - Elections
     - Abbot  
@@ -47,12 +47,12 @@ arc.
   - Stages of Life
     - birth
     - coming of age
-    - anthem
+    - novice
     - apprentice
     - journeyman
     - master
     - marriage
-    - divorce :: divorce needs a cermiony -- that helps all parties
+    - divorce :: divorce needs a ceremony -- that helps all parties
                  com to terms with what is happening and pull
                  community behind them to start a new life...
     - death : preparation of the body, wake, funeral,
@@ -107,7 +107,7 @@ Archaic: approximately 31 Earth Years
 Archaic: approximately 31,000 Earth years (half the age of the human
 race)
 ** One petasecond
-Archaic: approximately 31,000,000,000 Earth years (half elapsed time
+Archaic: approximately 31,000,000 Earth years (half elapsed time
 since end of the Cretaceous era).
 
 ** Scopic Clock
