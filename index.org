@@ -116,7 +116,7 @@ still don't know how all of this will shape up.  Time will tell.
  - [[./deploy-preserve.org][Preservation]]
 
  - [[./deploy-production.org][Production]] 
- - [[./deploy-antilpatterns.org][AntiPatterns]]
+ - [[./deploy-antipatterns.org][AntiPatterns]]
  - [[./deploy-archival-storage.org][Archival Storage]]
 
 ** Shops
